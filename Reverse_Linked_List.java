@@ -19,4 +19,15 @@ public class Solution {
         }
         return rev;
     }
+    
+    public ListNode reverseList(ListNode head) {
+        return reverseList(head, null);
+    }
+    
+    private ListNode reverseList(ListNode head, ListNode revHead) {
+        if (head == null) return revHead;
+        ListNode rest = head.next;
+        head.next = revHead;
+        return reverseList(rest, head);
+    }
 }
