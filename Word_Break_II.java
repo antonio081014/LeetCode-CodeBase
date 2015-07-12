@@ -5,6 +5,7 @@ public class Solution {
     private List<Integer> mark[];
     private List<String> list;
     
+    // Using backtrack algorithm with Dynamic Programming to Pruning
     public List<String> wordBreak(String s, Set<String> wordDict) {
         mark = new ArrayList[s.length() + 1];
 //        for(int i=0; i<s.length(); i++) mark.add(new ArrayList<Integer>());
@@ -19,6 +20,7 @@ public class Solution {
 //            }
 //        }
         
+        // Using Dyanmic Programming here to pruning.
         for(int i=0; i<s.length(); i++) {
             if (mark[i] == null) { continue; }
             for(String word : wordDict) {
