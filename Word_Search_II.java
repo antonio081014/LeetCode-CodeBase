@@ -55,3 +55,93 @@ public class Solution {
         System.out.println(a.findWords(board, dict));
     }
 }
+
+import java.util.*;
+
+class TrieNode {
+    public boolean isWord;
+    public TrieNode[] children;
+    public TrieNode() {
+        isWord = false;
+        children = new TrieNode[26];
+    }
+}
+
+class Trie {
+    public TrieNode root;
+    
+    public Trie() {
+        root = new TrieNode();
+    }
+    
+    public void insert(String word) {
+        TrieNode node = root;
+        for(int i=0; i<word.length(); i++) {
+            int c = word.charAt(i) - 'a';
+            if (node.children[c] == null) node.children[c] = new TrieNode();
+            node = node.children[c];
+        }
+        node.isWord = true;
+    }
+    
+    public boolean search(String word){
+        TrieNode node = root;
+        for(int i=0; i<word.length(); i++) {
+            int c = word.charAt(i) - 'a';
+            if(node.children[c] == null) return false;
+            node = node.children[c];
+        }
+        return node.isWord;
+    }
+    
+    public boolean startsWith(String word){
+        TrieNode node = root;
+        for(int i=0; i<word.length(); i++) {
+            int c = word.charAt(i) - 'a';
+            if(node.children[c] == null) return false;
+            node = node.children[c];
+        }
+        return true;
+    }
+}
+
+public class Solution {
+    
+    private Set<String> list;
+    public List<String> findWords(char[][] board, String[] words) {
+        Trie trietree = new Trie();
+        for(int i=0; i<words.length; i++) trietree.insert(words[i]);
+        
+        list = new HashSet<String>();
+        
+        for(int x = 0; x < board.length; x++){
+            for(int y = 0; y<board[0].length; y++){
+                finding(x, y, new boolean[board.length][board[0].length], board, "", trietree);
+            }
+        }
+        
+        return new ArrayList<String>(list);
+    }
+    
+    private final int[] dx = {0, 1, 0, -1};
+    private final int[] dy = {1, 0, -1, 0};
+    
+    private void finding(int x, int y, boolean[][] visited, char[][] board, String word, Trie trietree) {
+        if(!inBoundary(x, y, board.length, board[0].length) || visited[x][y]) return;
+        word += board[x][y];
+        if(!trietree.startsWith(word)) return;
+        if(trietree.search(word)) list.add(word);
+        visited[x][y] = true;
+        for(int i=0; i<dx.length; i++) {
+            int xx = x + dx[i];
+            int yy = y + dy[i];
+            finding(xx, yy, visited, board, word, trietree);
+        }
+        visited[x][y] = false;
+    }
+    
+    private boolean inBoundary(int x, int y, int width, int height) {
+        return x>=0 && x<width && y>=0 && y<height;
+        
+    }
+}
