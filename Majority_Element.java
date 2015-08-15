@@ -1,3 +1,7 @@
+/**
+ * Problem: https://leetcode.com/problems/majority-element/
+ */
+
 public class Solution {
     public int majorityElement(int[] nums) {
         int result = 0;
