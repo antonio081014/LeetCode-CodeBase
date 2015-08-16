@@ -46,4 +46,38 @@ public class Solution {
         
         return list;
     }
+    
+    // Non-Recursive solution.
+    public List<Integer> postorderTraversal(TreeNode root) {
+        List<Integer> list = new ArrayList<Integer>();
+        if(root == null) return list;
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        stack.push(root);
+        TreeNode prev = null;
+        while(!stack.empty()) {
+            TreeNode curr = stack.peek();
+            if(prev == null || prev.left == curr || prev.right == curr) {
+                if(curr.left != null) {
+                    stack.push(curr.left);
+                } else if (curr.right != null) {
+                    stack.push(curr.right);
+                } else {
+                    list.add(curr.val);
+                    stack.pop();
+                }
+            } else if (curr.left == prev) {
+                if(curr.right != null) {
+                    stack.push(curr.right);
+                } else {
+                    list.add(curr.val);
+                    stack.pop();
+                }
+            } else if (curr.right == prev) {
+                list.add(curr.val);
+                stack.pop();
+            }
+            prev = curr;
+        }
+        return list;
+    }
 }
