@@ -59,6 +59,8 @@ public class Solution {
             }
             prevCount = w.steps;
             
+            // It's wise to iterate short string with 25 possibilities for each character, rather than iterate all
+            // the unvisited string in the dict.
             char[] array = w.word.toCharArray();
             for(int i=0; i<array.length; i++) {
                 char tmp = array[i];
