@@ -1,7 +1,7 @@
 /**
  * Problem: https://leetcode.com/problems/number-of-1-bits/
  * 
- * 
+ * n & (n-1) will remove the first '1' bit from right.
  */
 
 public class Solution {
