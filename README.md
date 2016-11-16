@@ -379,7 +379,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 52 | N-Queens II | Swift | [~~Java~~](./Java/N-Queens_II.java) | 
 |     | 51 | N-Queens | Swift | [~~Java~~](./Java/N-Queens.java) | 
 |     | 50 | Pow(x, n) | Swift | [~~Java~~](./Java/Pow(x%2Cn).java) | 
-|     | 49 | Group Anagrams | Swift | ~~Java [1](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Anagrams.java) [2](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Group_Anagrams.java)~~ | 
+|     | 49 | Group Anagrams | Swift | ~~Java [1](./Java/Anagrams.java) [2](./Java/Group_Anagrams.java)~~ | 
 |     | 48 | Rotate Image | Swift | Java | 
 |     | 47 | Permutations II | Swift | [~~Java~~](./Java/Permutations_II.java) | 
 |     | 46 | Permutations | Swift | [~~Java~~](./Java/Permutations.java) | 
