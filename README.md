@@ -1,7 +1,7 @@
 # LeeCode-CodeBase
 This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
 
-| X | # | Question | Swift-011 | Java-164 |
+| X | # | Question | Swift-012 | Java-164 |
 |---|---|---|---|---|
 |     | 459 | Repeated Substring Pattern | Swift | Java | 
 |     | 456 | 132 Pattern | Swift | Java | 
