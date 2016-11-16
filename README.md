@@ -399,7 +399,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 32 | Longest Valid Parentheses | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 31 | Next Permutation | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 30 | Substring with Concatenation of All Words | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 29 | Divide Two Integers | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/divide-two-integers.swift) | [Java](https://www.google.com) | 
+| [x] | 29 | Divide Two Integers | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/divide-two-integers.swift) | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/divide-two-integers.java) | 
 | [ ] | 28 | Implement strStr() | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 27 | Remove Element | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 26 | Remove Duplicates from Sorted Array | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
