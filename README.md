@@ -16,7 +16,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 440 | K-th Smallest in Lexicographical Order | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 439 | Ternary Expression Parser | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 438 | Find All Anagrams in a String | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 437 | Path Sum III | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 437 | Path Sum III | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/path-sum-iii.swift) | [Java](https://www.google.com) | 
 | [ ] | 436 | Find Right Interval | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 435 | Non-overlapping Intervals | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 432 | All O`one Data Structure | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -57,12 +57,12 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 391 | Perfect Rectangle | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 390 | Elimination Game | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 389 | Find the Difference | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 388 | Longest Absolute File Path | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 387 | First Unique Character in a String | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 388 | Longest Absolute File Path | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/longest-absolute-file-path.swift) | [Java](https://www.google.com) | 
+| [ ] | 387 | First Unique Character in a String | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/first-unique-character-in-a-string.swift) | [Java](https://www.google.com) | 
 | [ ] | 386 | Lexicographical Numbers | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 385 | Mini Parser | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 384 | Shuffle an Array | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 383 | Ransom Note | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 383 | Ransom Note | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/ransom-note.swift) | [Java](https://www.google.com) | 
 | [ ] | 382 | Linked List Random Node | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 380 | Insert Delete GetRandom O(1) | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -74,7 +74,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 374 | Guess Number Higher or Lower | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 373 | Find K Pairs with Smallest Sums | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 372 | Super Pow | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 371 | Sum of Two Integers | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 371 | Sum of Two Integers | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/sum-of-two-integers.swift) | [Java](https://www.google.com) | 
 | [ ] | 370 | Range Addition | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 369 | Plus One Linked List | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 368 | Largest Divisible Subset | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -101,7 +101,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 347 | Top K Frequent Elements | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 346 | Moving Average from Data Stream | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 345 | Reverse Vowels of a String | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 344 | Reverse String | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 344 | Reverse String | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/reverse_string.swift) | [Java](https://www.google.com) | 
 | [ ] | 343 | Integer Break | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 342 | Power of Four | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 341 | Flatten Nested List Iterator | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -186,7 +186,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 261 | Graph Valid Tree | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 260 | Single Number III | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 259 | 3Sum Smaller | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 258 | Add Digits | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 258 | Add Digits | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/add-digits.swift) | [Java](https://www.google.com) | 
 | [ ] | 257 | Binary Tree Paths | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 256 | Paint House | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 255 | Verify Preorder Sequence in Binary Search Tree | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -292,13 +292,13 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 139 | Word Break | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 138 | Copy List with Random Pointer | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 137 | Single Number II | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 136 | Single Number | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 136 | Single Number | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/single-number.swift) | [Java](https://www.google.com) | 
 | [ ] | 135 | Candy | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 134 | Gas Station | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 133 | Clone Graph | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 132 | Palindrome Partitioning II | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 131 | Palindrome Partitioning | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 130 | Surrounded Regions | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 130 | Surrounded Regions | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/surrounded-regions.swift) | [Java](https://www.google.com) | 
 | [ ] | 129 | Sum Root to Leaf Numbers | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 128 | Longest Consecutive Sequence | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 127 | Word Ladder | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -337,7 +337,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 94 | Binary Tree Inorder Traversal | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 93 | Restore IP Addresses | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 92 | Reverse Linked List II | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 91 | Decode Ways | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 91 | Decode Ways | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/decode-ways.swift) | [Java](https://www.google.com) | 
 | [ ] | 90 | Subsets II | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 89 | Gray Code | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 88 | Merge Sorted Array | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -399,7 +399,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 32 | Longest Valid Parentheses | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 31 | Next Permutation | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 30 | Substring with Concatenation of All Words | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 29 | Divide Two Integers | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 29 | Divide Two Integers | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/divide-two-integers.swift) | [Java](https://www.google.com) | 
 | [ ] | 28 | Implement strStr() | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 27 | Remove Element | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 26 | Remove Duplicates from Sorted Array | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
