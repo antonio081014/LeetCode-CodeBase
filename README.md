@@ -186,7 +186,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 261 | Graph Valid Tree | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 260 | Single Number III | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 259 | 3Sum Smaller | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 258 | Add Digits | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/add-digits.swift) | [Java](https://www.google.com) | 
+| [x] | 258 | Add Digits | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/add-digits.swift) | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Add_Digits.java) | 
 | [ ] | 257 | Binary Tree Paths | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 256 | Paint House | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 255 | Verify Preorder Sequence in Binary Search Tree | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
@@ -413,7 +413,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 18 | 4Sum | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 17 | Letter Combinations of a Phone Number | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 16 | 3Sum Closest | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
-| [ ] | 15 | 3Sum | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
+| [ ] | 15 | 3Sum | [Swift](https://www.google.com) | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/3Sum.java) | 
 | [ ] | 14 | Longest Common Prefix | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 13 | Roman to Integer | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
 | [ ] | 12 | Integer to Roman | [Swift](https://www.google.com) | [Java](https://www.google.com) | 
