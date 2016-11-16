@@ -298,7 +298,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 | [ ] | 133 | Clone Graph | Swift | Java | 
 | [ ] | 132 | Palindrome Partitioning II | Swift | Java | 
 | [ ] | 131 | Palindrome Partitioning | Swift | Java | 
-| [ ] | 130 | Surrounded Regions | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/surrounded-regions.swift) | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Surrounded_Regions.java) | 
+| [x] | 130 | Surrounded Regions | [Swift](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Swift/surrounded-regions.swift) | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Surrounded_Regions.java) | 
 | [ ] | 129 | Sum Root to Leaf Numbers | Swift | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Sum_Root_to_Leaf_Numbers.java) | 
 | [ ] | 128 | Longest Consecutive Sequence | Swift | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Longest_Consecutive_Sequence.java) | 
 | [ ] | 127 | Word Ladder | Swift | [Java](https://github.com/antonio081014/LeetCode-CodeBase/blob/master/Java/Word%20Ladder.java) | 
