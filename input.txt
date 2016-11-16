@@ -1,0 +1,850 @@
+459	
+Repeated Substring Pattern  		41.4%	Easy	
+456	
+132 Pattern  		22.3%	Medium	
+455	
+Assign Cookies  		53.2%	Easy	
+454	
+4Sum II  		34.4%	Medium	
+453	
+Minimum Moves to Equal Array Elements  		45.5%	Easy	
+452	
+Minimum Number of Arrows to Burst Balloons  		42.1%	Medium	
+447	
+Number of Boomerangs  		40.4%	Easy	
+446	
+Arithmetic Slices II - Subsequence  		17.8%	Hard	
+444	
+Sequence Reconstruction  		19.3%	Medium	
+441	
+Arranging Coins  		36.9%	Easy	
+440	
+K-th Smallest in Lexicographical Order  		19.7%	Hard	
+439	
+Ternary Expression Parser  		47.7%	Medium	
+438	
+Find All Anagrams in a String  		33.5%	Easy	
+437	
+Path Sum III  		38.2%	Easy	
+436	
+Find Right Interval  		42.3%	Medium	
+435	
+Non-overlapping Intervals  		39.7%	Medium	
+432	
+All O`one Data Structure  		27.1%	Hard	
+425	
+Word Squares  		39.6%	Hard	
+424	
+Longest Repeating Character Replacement  		39.0%	Medium	
+423	
+Reconstruct Original Digits from English  		41.1%	Medium	
+422	
+Valid Word Square  		36.1%	Easy	
+421	
+Maximum XOR of Two Numbers in an Array  		37.9%	Medium	
+420	
+Strong Password Checker  		22.3%	Hard	
+419	
+Battleships in a Board  		60.1%	Medium	
+418	
+Sentence Screen Fitting  		25.9%	Medium	
+417	
+Pacific Atlantic Water Flow  		31.8%	Medium	
+416	
+Partition Equal Subset Sum  		36.6%	Medium	
+415	
+Add Strings  		41.3%	Easy	
+414	
+Third Maximum Number  		26.5%	Easy	
+413	
+Arithmetic Slices  		54.1%	Medium	
+412	
+Fizz Buzz  		57.7%	Easy	
+411	
+Minimum Unique Word Abbreviation  		30.3%	Hard	
+410	
+Split Array Largest Sum  		29.6%	Hard	
+409	
+Longest Palindrome  		43.7%	Easy	
+408	
+Valid Word Abbreviation  		26.6%	Easy	
+407	
+Trapping Rain Water II  		34.8%	Hard	
+406	
+Queue Reconstruction by Height  		53.9%	Medium	
+405	
+Convert a Number to Hexadecimal  		40.8%	Easy	
+404	
+Sum of Left Leaves  		45.6%	Easy	
+403	
+Frog Jump  		29.9%	Hard	
+402	
+Remove K Digits  		25.7%	Medium	
+401	
+Binary Watch  		42.8%	Easy	
+400	
+Nth Digit  		30.2%	Easy	
+399	
+Evaluate Division  		38.3%	Medium	
+398	
+Random Pick Index  		37.7%	Medium	
+397	
+Integer Replacement  		28.6%	Medium	
+396	
+Rotate Function  		29.7%	Easy	
+395	
+Longest Substring with At Least K Repeating Characters  		35.0%	Medium	
+394	
+Decode String  		39.7%	Medium	
+393	
+UTF-8 Validation  		35.1%	Medium	
+392	
+Is Subsequence  		43.9%	Medium	
+391	
+Perfect Rectangle  		22.2%	Hard	
+390	
+Elimination Game  		35.5%	Medium	
+389	
+Find the Difference  		49.9%	Easy	
+388	
+Longest Absolute File Path  		33.6%	Medium	
+387	
+First Unique Character in a String  		44.7%	Easy	
+386	
+Lexicographical Numbers  		38.1%	Medium	
+385	
+Mini Parser  		29.2%	Medium	
+384	
+Shuffle an Array  		44.5%	Medium	
+383	
+Ransom Note  		45.5%	Easy	
+382	
+Linked List Random Node  		45.7%	Medium	
+381	
+Insert Delete GetRandom O(1) - Duplicates allowed  		26.9%	Hard	
+380	
+Insert Delete GetRandom O(1)  		37.2%	Hard	
+379	
+Design Phone Directory  		28.2%	Medium	
+378	
+Kth Smallest Element in a Sorted Matrix  		42.6%	Medium	
+377	
+Combination Sum IV  		41.2%	Medium	
+376	
+Wiggle Subsequence  		34.1%	Medium	
+375	
+Guess Number Higher or Lower II  		34.0%	Medium	
+374	
+Guess Number Higher or Lower  		32.9%	Easy	
+373	
+Find K Pairs with Smallest Sums  		29.1%	Medium	
+372	
+Super Pow  		32.5%	Medium	
+371	
+Sum of Two Integers  		51.5%	Easy	
+370	
+Range Addition  		52.6%	Medium	
+369	
+Plus One Linked List  		51.8%	Medium	
+368	
+Largest Divisible Subset  		32.5%	Medium	
+367	
+Valid Perfect Square  		37.0%	Medium	
+366	
+Find Leaves of Binary Tree  		56.4%	Medium	
+365	
+Water and Jug Problem  		25.6%	Medium	
+364	
+Nested List Weight Sum II  		49.7%	Medium	
+363	
+Max Sum of Rectangle No Larger Than K  		31.4%	Hard	
+362	
+Design Hit Counter  		51.7%	Medium	
+361	
+Bomb Enemy  		37.4%	Medium	
+360	
+Sort Transformed Array  		42.4%	Medium	
+359	
+Logger Rate Limiter  		57.5%	Easy	
+358	
+Rearrange String k Distance Apart  		31.1%	Hard	
+357	
+Count Numbers with Unique Digits  		44.6%	Medium	
+356	
+Line Reflection  		29.2%	Medium	
+355	
+Design Twitter  		23.9%	Medium	
+354	
+Russian Doll Envelopes  		31.1%	Hard	
+353	
+Design Snake Game  		24.9%	Medium	
+352	
+Data Stream as Disjoint Intervals  		38.3%	Hard	
+351	
+Android Unlock Patterns  		41.5%	Medium	
+350	
+Intersection of Two Arrays II  		43.0%	Easy	
+349	
+Intersection of Two Arrays  		45.1%	Easy	
+348	
+Design Tic-Tac-Toe  		44.7%	Medium	
+347	
+Top K Frequent Elements  		45.2%	Medium	
+346	
+Moving Average from Data Stream  		56.5%	Easy	
+345	
+Reverse Vowels of a String  		36.8%	Easy	
+344	
+Reverse String  		57.3%	Easy	
+343	
+Integer Break  		44.4%	Medium	
+342	
+Power of Four  		36.9%	Easy	
+341	
+Flatten Nested List Iterator  		37.4%	Medium	
+340	
+Longest Substring with At Most K Distinct Characters  		38.5%	Hard	
+339	
+Nested List Weight Sum  		59.3%	Easy	
+338	
+Counting Bits  		59.1%	Medium	
+337	
+House Robber III  		40.9%	Medium	
+336	
+Palindrome Pairs  		23.9%	Hard	
+335	
+Self Crossing  		23.3%	Hard	
+334	
+Increasing Triplet Subsequence  		37.2%	Medium	
+333	
+Largest BST Subtree  		29.3%	Medium	
+332	
+Reconstruct Itinerary  		27.5%	Medium	
+331	
+Verify Preorder Serialization of a Binary Tree  		34.5%	Medium	
+330	
+Patching Array  		31.1%	Hard	
+329	
+Longest Increasing Path in a Matrix  		34.7%	Hard	
+328	
+Odd Even Linked List  		41.4%	Medium	
+327	
+Count of Range Sum  		28.3%	Hard	
+326	
+Power of Three  		38.9%	Easy	
+325	
+Maximum Size Subarray Sum Equals k  		41.4%	Medium	
+324	
+Wiggle Sort II  		24.8%	Medium	
+323	
+Number of Connected Components in an Undirected Graph  		45.8%	Medium	
+322	
+Coin Change  		25.9%	Medium	
+321	
+Create Maximum Number  		23.5%	Hard	
+320	
+Generalized Abbreviation  		42.6%	Medium	
+319	
+Bulb Switcher  		41.7%	Medium	
+318	
+Maximum Product of Word Lengths  		41.7%	Medium	
+317	
+Shortest Distance from All Buildings  		32.7%	Hard	
+316	
+Remove Duplicate Letters  		28.0%	Hard	
+315	
+Count of Smaller Numbers After Self  		33.1%	Hard	
+314	
+Binary Tree Vertical Order Traversal  		34.2%	Medium	
+313	
+Super Ugly Number  		36.6%	Medium	
+312	
+Burst Balloons  		41.2%	Hard	
+311	
+Sparse Matrix Multiplication  		49.9%	Medium	
+310	
+Minimum Height Trees  		28.2%	Medium	
+309	
+Best Time to Buy and Sell Stock with Cooldown  		39.2%	Medium	
+308	
+Range Sum Query 2D - Mutable  		20.0%	Hard	
+307	
+Range Sum Query - Mutable  		18.5%	Medium	
+306	
+Additive Number  		27.1%	Medium	
+305	
+Number of Islands II  		37.5%	Hard	
+304	
+Range Sum Query 2D - Immutable  		22.6%	Medium	
+303	
+Range Sum Query - Immutable  		26.0%	Easy	
+302	
+Smallest Rectangle Enclosing Black Pixels  		42.8%	Hard	
+301	
+Remove Invalid Parentheses  		34.3%	Hard	
+300	
+Longest Increasing Subsequence  		36.9%	Medium	
+299	
+Bulls and Cows  		32.7%	Easy	
+298	
+Binary Tree Longest Consecutive Sequence  		39.2%	Medium	
+297	
+Serialize and Deserialize Binary Tree  		30.8%	Hard	
+296	
+Best Meeting Point  		49.6%	Hard	
+295	
+Find Median from Data Stream  		23.1%	Hard	
+294	
+Flip Game II  		44.4%	Medium	
+293	
+Flip Game  		53.1%	Easy	
+292	
+Nim Game  		54.5%	Easy	
+291	
+Word Pattern II  		37.2%	Hard	
+290	
+Word Pattern  		31.6%	Easy	
+289	
+Game of Life  		36.1%	Medium	
+288	
+Unique Word Abbreviation  		15.3%	Easy	
+287	
+Find the Duplicate Number  		41.3%	Hard	
+286	
+Walls and Gates  		41.4%	Medium	
+285	
+Inorder Successor in BST  		36.2%	Medium	
+284	
+Peeking Iterator  		34.9%	Medium	
+283	
+Move Zeroes  		47.2%	Easy	
+282	
+Expression Add Operators  		27.9%	Hard	
+281	
+Zigzag Iterator  		47.2%	Medium	
+280	
+Wiggle Sort  		53.9%	Medium	
+279	
+Perfect Squares  		34.5%	Medium	
+278	
+First Bad Version  		24.0%	Easy	
+277	
+Find the Celebrity  		35.5%	Medium	
+276	
+Paint Fence  		33.3%	Easy	
+275	
+H-Index II  		33.4%	Medium	
+274	
+H-Index  		31.6%	Medium	
+273	
+Integer to English Words  		20.7%	Hard	
+272	
+Closest Binary Search Tree Value II  		36.8%	Hard	
+271	
+Encode and Decode Strings  		26.5%	Medium	
+270	
+Closest Binary Search Tree Value  		37.2%	Easy	
+269	
+Alien Dictionary  		23.0%	Hard	
+268	
+Missing Number  		43.0%	Medium	
+267	
+Palindrome Permutation II  		30.4%	Medium	
+266	
+Palindrome Permutation  		54.2%	Easy	
+265	
+Paint House II  		36.8%	Hard	
+264	
+Ugly Number II  		31.1%	Medium	
+263	
+Ugly Number  		38.1%	Easy	
+261	
+Graph Valid Tree  		35.8%	Medium	
+260	
+Single Number III  		48.4%	Medium	
+259	
+3Sum Smaller  		40.1%	Medium	
+258	
+Add Digits  		50.0%	Easy	
+257	
+Binary Tree Paths  		33.7%	Easy	
+256	
+Paint House  		45.4%	Medium	
+255	
+Verify Preorder Sequence in Binary Search Tree  		38.4%	Medium	
+254	
+Factor Combinations  		39.5%	Medium	
+253	
+Meeting Rooms II  		37.8%	Medium	
+252	
+Meeting Rooms  		44.7%	Easy	
+251	
+Flatten 2D Vector  		37.8%	Medium	
+250	
+Count Univalue Subtrees  		39.7%	Medium	
+249	
+Group Shifted Strings  		37.2%	Easy	
+248	
+Strobogrammatic Number III  		30.0%	Hard	
+247	
+Strobogrammatic Number II  		37.4%	Medium	
+246	
+Strobogrammatic Number  		38.3%	Easy	
+245	
+Shortest Word Distance III  		49.0%	Medium	
+244	
+Shortest Word Distance II  		34.9%	Medium	
+243	
+Shortest Word Distance  		49.9%	Easy	
+242	
+Valid Anagram  		44.4%	Easy	
+241	
+Different Ways to Add Parentheses  		40.3%	Medium	
+240	
+Search a 2D Matrix II  		37.4%	Medium	
+239	
+Sliding Window Maximum  		30.8%	Hard	
+238	
+Product of Array Except Self  		46.3%	Medium	
+237	
+Delete Node in a Linked List  		45.1%	Easy	
+236	
+Lowest Common Ancestor of a Binary Tree  		29.2%	Medium	
+235	
+Lowest Common Ancestor of a Binary Search Tree  		37.9%	Easy	
+234	
+Palindrome Linked List  		31.1%	Easy	
+233	
+Number of Digit One  		26.9%	Hard	
+232	
+Implement Queue using Stacks  		34.8%	Easy	
+231	
+Power of Two  		38.9%	Easy	
+230	
+Kth Smallest Element in a BST  		41.3%	Medium	
+229	
+Majority Element II  		27.4%	Medium	
+228	
+Summary Ranges  		27.4%	Medium	
+227	
+Basic Calculator II  		27.6%	Medium	
+226	
+Invert Binary Tree  		49.2%	Easy	
+225	
+Implement Stack using Queues  		31.0%	Easy	
+224	
+Basic Calculator  		24.9%	Hard	
+223	
+Rectangle Area  		31.6%	Easy	
+222	
+Count Complete Tree Nodes  		26.7%	Medium	
+221	
+Maximal Square  		26.5%	Medium	
+220	
+Contains Duplicate III  		19.5%	Medium	
+219	
+Contains Duplicate II  		31.1%	Easy	
+218	
+The Skyline Problem  		25.0%	Hard	
+217	
+Contains Duplicate  		43.2%	Easy	
+216	
+Combination Sum III  		40.9%	Medium	
+215	
+Kth Largest Element in an Array  		36.8%	Medium	
+214	
+Shortest Palindrome  		22.4%	Hard	
+213	
+House Robber II  		32.7%	Medium	
+212	
+Word Search II  		21.8%	Hard	
+211	
+Add and Search Word - Data structure design  		20.1%	Medium	
+210	
+Course Schedule II  		24.7%	Medium	
+209	
+Minimum Size Subarray Sum  		28.2%	Medium	
+208	
+Implement Trie (Prefix Tree)  		25.6%	Medium	
+207	
+Course Schedule  		29.8%	Medium	
+206	
+Reverse Linked List  		42.8%	Easy	
+205	
+Isomorphic Strings  		32.0%	Easy	
+204	
+Count Primes  		25.9%	Easy	
+203	
+Remove Linked List Elements  		30.6%	Easy	
+202	
+Happy Number  		38.8%	Easy	
+201	
+Bitwise AND of Numbers Range  		32.8%	Medium	
+200	
+Number of Islands  		31.5%	Medium	
+199	
+Binary Tree Right Side View  		38.1%	Medium	
+198	
+House Robber  		37.0%	Easy	
+191	
+Number of 1 Bits  		38.2%	Easy	
+190	
+Reverse Bits  		29.5%	Easy	
+189	
+Rotate Array  		23.1%	Easy	
+188	
+Best Time to Buy and Sell Stock IV  		23.6%	Hard	
+187	
+Repeated DNA Sequences  		28.9%	Medium	
+186	
+Reverse Words in a String II  		28.5%	Medium	
+179	
+Largest Number  		21.1%	Medium	
+174	
+Dungeon Game  		22.6%	Hard	
+173	
+Binary Search Tree Iterator  		38.2%	Medium	
+172	
+Factorial Trailing Zeroes  		34.5%	Easy	
+171	
+Excel Sheet Column Number  		44.7%	Easy	
+170	
+Two Sum III - Data structure design  		22.6%	Easy	
+169	
+Majority Element  		44.2%	Easy	
+168	
+Excel Sheet Column Title  		24.0%	Easy	
+167	
+Two Sum II - Input array is sorted  		48.1%	Medium	
+166	
+Fraction to Recurring Decimal  		16.5%	Medium	
+165	
+Compare Version Numbers  		19.0%	Easy	
+164	
+Maximum Gap  		28.3%	Hard	
+163	
+Missing Ranges  		29.1%	Medium	
+162	
+Find Peak Element  		35.3%	Medium	
+161	
+One Edit Distance  		30.1%	Medium	
+160	
+Intersection of Two Linked Lists  		30.2%	Easy	
+159	
+Longest Substring with At Most Two Distinct Characters  		38.8%	Hard	
+158	
+Read N Characters Given Read4 II - Call multiple times  		24.3%	Hard	
+157	
+Read N Characters Given Read4  		29.4%	Easy	
+156	
+Binary Tree Upside Down  		41.7%	Medium	
+155	
+Min Stack  		25.6%	Easy	
+154	
+Find Minimum in Rotated Sorted Array II  		35.9%	Hard	
+153	
+Find Minimum in Rotated Sorted Array  		38.2%	Medium	
+152	
+Maximum Product Subarray  		24.0%	Medium	
+151	
+Reverse Words in a String  		15.7%	Medium	
+150	
+Evaluate Reverse Polish Notation  		25.5%	Medium	
+149	
+Max Points on a Line  		15.3%	Hard	
+148	
+Sort List  		26.9%	Medium	
+147	
+Insertion Sort List  		31.4%	Medium	
+146	
+LRU Cache  		15.9%	Hard	
+145	
+Binary Tree Postorder Traversal  		37.9%	Hard	
+144	
+Binary Tree Preorder Traversal  		42.5%	Medium	
+143	
+Reorder List  		24.3%	Medium	
+142	
+Linked List Cycle II  		31.2%	Medium	
+141	
+Linked List Cycle  		36.0%	Easy	
+140	
+Word Break II  		21.7%	Hard	
+139	
+Word Break  		27.6%	Medium	
+138	
+Copy List with Random Pointer  		26.3%	Hard	
+137	
+Single Number II  		39.8%	Medium	
+136	
+Single Number  		52.3%	Easy	
+135	
+Candy  		23.7%	Hard	
+134	
+Gas Station  		28.4%	Medium	
+133	
+Clone Graph  		25.0%	Medium	
+132	
+Palindrome Partitioning II  		23.2%	Hard	
+131	
+Palindrome Partitioning  		30.2%	Medium	
+130	
+Surrounded Regions  		17.2%	Medium	
+129	
+Sum Root to Leaf Numbers  		34.7%	Medium	
+128	
+Longest Consecutive Sequence  		34.8%	Hard	
+127	
+Word Ladder  		19.3%	Medium	
+126	
+Word Ladder II  		13.7%	Hard	
+125	
+Valid Palindrome  		25.1%	Easy	
+124	
+Binary Tree Maximum Path Sum  		24.7%	Hard	
+123	
+Best Time to Buy and Sell Stock III  		27.9%	Hard	
+122	
+Best Time to Buy and Sell Stock II  		45.0%	Medium	
+121	
+Best Time to Buy and Sell Stock  		38.6%	Easy	
+120	
+Triangle  		32.1%	Medium	
+119	
+Pascal's Triangle II  		34.5%	Easy	
+118	
+Pascal's Triangle  		36.1%	Easy	
+117	
+Populating Next Right Pointers in Each Node II  		33.3%	Hard	
+116	
+Populating Next Right Pointers in Each Node  		36.8%	Medium	
+115	
+Distinct Subsequences  		30.4%	Hard	
+114	
+Flatten Binary Tree to Linked List  		33.2%	Medium	
+113	
+Path Sum II  		30.8%	Medium	
+112	
+Path Sum  		32.6%	Easy	
+111	
+Minimum Depth of Binary Tree  		32.0%	Easy	
+110	
+Balanced Binary Tree  		35.9%	Easy	
+109	
+Convert Sorted List to Binary Search Tree  		32.3%	Medium	
+108	
+Convert Sorted Array to Binary Search Tree  		39.9%	Medium	
+107	
+Binary Tree Level Order Traversal II  		37.1%	Easy	
+106	
+Construct Binary Tree from Inorder and Postorder Traversal  		30.6%	Medium	
+105	
+Construct Binary Tree from Preorder and Inorder Traversal  		30.4%	Medium	
+104	
+Maximum Depth of Binary Tree  		50.3%	Easy	
+103	
+Binary Tree Zigzag Level Order Traversal  		31.6%	Medium	
+102	
+Binary Tree Level Order Traversal  		36.2%	Easy	
+101	
+Symmetric Tree  		36.4%	Easy	
+100	
+Same Tree  		44.9%	Easy	
+99	
+Recover Binary Search Tree  		28.3%	Hard	
+98	
+Validate Binary Search Tree  		22.1%	Medium	
+97	
+Interleaving String  		23.7%	Hard	
+96	
+Unique Binary Search Trees  		39.4%	Medium	
+95	
+Unique Binary Search Trees II  		30.3%	Medium	
+94	
+Binary Tree Inorder Traversal  		43.1%	Medium	
+93	
+Restore IP Addresses  		25.4%	Medium	
+92	
+Reverse Linked List II  		29.5%	Medium	
+91	
+Decode Ways  		18.6%	Medium	
+90	
+Subsets II  		33.2%	Medium	
+89	
+Gray Code  		38.8%	Medium	
+88	
+Merge Sorted Array  		31.1%	Easy	
+87	
+Scramble String  		28.0%	Hard	
+86	
+Partition List  		31.2%	Medium	
+85	
+Maximal Rectangle  		25.5%	Hard	
+84	
+Largest Rectangle in Histogram  		25.4%	Hard	
+83	
+Remove Duplicates from Sorted List  		38.5%	Easy	
+82	
+Remove Duplicates from Sorted List II  		28.4%	Medium	
+81	
+Search in Rotated Sorted Array II  		32.8%	Medium	
+80	
+Remove Duplicates from Sorted Array II  		34.5%	Medium	
+79	
+Word Search  		24.9%	Medium	
+78	
+Subsets  		35.7%	Medium	
+77	
+Combinations  		37.3%	Medium	
+76	
+Minimum Window Substring  		23.3%	Hard	
+75	
+Sort Colors  		36.4%	Medium	
+74	
+Search a 2D Matrix  		35.4%	Medium	
+73	
+Set Matrix Zeroes  		34.9%	Medium	
+72	
+Edit Distance  		30.3%	Hard	
+71	
+Simplify Path  		23.6%	Medium	
+70	
+Climbing Stairs  		38.3%	Easy	
+69	
+Sqrt(x)  		26.6%	Medium	
+68	
+Text Justification  		17.7%	Hard	
+67	
+Add Binary  		29.9%	Easy	
+66	
+Plus One  		36.3%	Easy	
+65	
+Valid Number  		12.5%	Hard	
+64	
+Minimum Path Sum  		36.9%	Medium	
+63	
+Unique Paths II  		30.7%	Medium	
+62	
+Unique Paths  		38.7%	Medium	
+61	
+Rotate List  		23.8%	Medium	
+60	
+Permutation Sequence  		26.7%	Medium	
+59	
+Spiral Matrix II  		37.5%	Medium	
+58	
+Length of Last Word  		30.8%	Easy	
+57	
+Insert Interval  		25.9%	Hard	
+56	
+Merge Intervals  		27.8%	Hard	
+55	
+Jump Game  		29.1%	Medium	
+54	
+Spiral Matrix  		24.2%	Medium	
+53	
+Maximum Subarray  		38.4%	Medium	
+52	
+N-Queens II  		42.2%	Hard	
+51	
+N-Queens  		28.5%	Hard	
+50	
+Pow(x, n)  		27.2%	Medium	
+49	
+Group Anagrams  		31.1%	Medium	
+48	
+Rotate Image  		36.7%	Medium	
+47	
+Permutations II  		30.4%	Medium	
+46	
+Permutations  		39.6%	Medium	
+45	
+Jump Game II  		25.9%	Hard	
+44	
+Wildcard Matching  		18.7%	Hard	
+43	
+Multiply Strings  		25.5%	Medium	
+42	
+Trapping Rain Water  		34.8%	Hard	
+41	
+First Missing Positive  		24.8%	Hard	
+40	
+Combination Sum II  		30.6%	Medium	
+39	
+Combination Sum  		34.9%	Medium	
+38	
+Count and Say  		31.9%	Easy	
+37	
+Sudoku Solver  		27.5%	Hard	
+36	
+Valid Sudoku  		33.3%	Easy	
+35	
+Search Insert Position  		38.7%	Medium	
+34	
+Search for a Range  		30.6%	Medium	
+33	
+Search in Rotated Sorted Array  		31.7%	Hard	
+32	
+Longest Valid Parentheses  		23.0%	Hard	
+31	
+Next Permutation  		27.9%	Medium	
+30	
+Substring with Concatenation of All Words  		21.6%	Hard	
+29	
+Divide Two Integers  		15.9%	Medium	
+28	
+Implement strStr()  		26.6%	Easy	
+27	
+Remove Element  		36.4%	Easy	
+26	
+Remove Duplicates from Sorted Array  		35.0%	Easy	
+25	
+Reverse Nodes in k-Group  		29.4%	Hard	
+24	
+Swap Nodes in Pairs  		36.9%	Easy	
+23	
+Merge k Sorted Lists  		25.5%	Hard	
+22	
+Generate Parentheses  		41.0%	Medium	
+21	
+Merge Two Sorted Lists  		37.5%	Easy	
+20	
+Valid Parentheses  		31.6%	Easy	
+19	
+Remove Nth Node From End of List  		31.7%	Easy	
+18	
+4Sum  		25.3%	Medium	
+17	
+Letter Combinations of a Phone Number  		31.7%	Medium	
+16	
+3Sum Closest  		30.4%	Medium	
+15	
+3Sum  		20.5%	Medium	
+14	
+Longest Common Prefix  		30.2%	Easy	
+13	
+Roman to Integer  		42.8%	Easy	
+12	
+Integer to Roman  		42.2%	Medium	
+11	
+Container With Most Water  		35.9%	Medium	
+10	
+Regular Expression Matching  		23.3%	Hard	
+9	
+Palindrome Number  		33.7%	Easy	
+8	
+String to Integer (atoi)  		13.8%	Easy	
+7	
+Reverse Integer  		23.7%	Easy	
+6	
+ZigZag Conversion  		25.6%	Easy	
+5	
+Longest Palindromic Substring  		24.1%	Medium	
+4	
+Median of Two Sorted Arrays  		20.5%	Hard	
+3	
+Longest Substring Without Repeating Characters  		23.5%	Medium	
+2	
+Add Two Numbers  		25.8%	Medium	
+1	
+Two Sum  		28.6%	Easy	
