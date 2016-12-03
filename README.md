@@ -3,6 +3,10 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 
 | X | # | Question | Swift-012 | Java-164 |
 |---|---|---|---|---|
+|     | 465 | Optimal Account Balancing | Swift | Java | 
+|     | 464 | Can I Win | Swift | Java | 
+|     | 463 | Island Perimeter | Swift | Java | 
+|     | 462 | Minimum Moves to Equal Array Elements II | Swift | Java | 
 |     | 459 | Repeated Substring Pattern | Swift | Java | 
 |     | 456 | 132 Pattern | Swift | Java | 
 |     | 455 | Assign Cookies | Swift | Java | 
