@@ -45,7 +45,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 407 | Trapping Rain Water II | Swift | Java | 
 |     | 406 | Queue Reconstruction by Height | Swift | Java | 
 |     | 405 | Convert a Number to Hexadecimal | Swift | Java | 
-|     | 404 | Sum of Left Leaves | Swift | Java | 
+|     | 404 | Sum of Left Leaves | [~~Swift~~](./Swift/sum-of-left-leaves.swift) | Java | 
 |     | 403 | Frog Jump | Swift | Java | 
 |     | 402 | Remove K Digits | Swift | Java | 
 |     | 401 | Binary Watch | Swift | Java | 
