@@ -1,8 +1,10 @@
 # LeeCode-CodeBase
 This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
-
-| X | # | Question | Swift-014 | Java-164 |
+| X | # | Question | Swift-14 | Java-147 |
 |---|---|---|---|---|
+|     | 469 | Convex Polygon | Swift | Java | 
+|     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
+|     | 466 | Count The Repetitions | Swift | Java | 
 |     | 465 | Optimal Account Balancing | Swift | Java | 
 |     | 464 | Can I Win | Swift | Java | 
 |     | 463 | Island Perimeter | [~~Swift~~](./Swift/island-perimeter.swift) | Java | 
@@ -23,6 +25,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 437 | Path Sum III | [~~Swift~~](./Swift/path-sum-iii.swift) | Java | 
 |     | 436 | Find Right Interval | Swift | Java | 
 |     | 435 | Non-overlapping Intervals | Swift | Java | 
+|     | 434 | Number of Segments in a String | Swift | Java | 
 |     | 432 | All O`one Data Structure | Swift | Java | 
 |     | 425 | Word Squares | Swift | Java | 
 |     | 424 | Longest Repeating Character Replacement | Swift | Java | 
@@ -37,7 +40,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 415 | Add Strings | Swift | Java | 
 |     | 414 | Third Maximum Number | Swift | Java | 
 |     | 413 | Arithmetic Slices | Swift | Java | 
-|     | 412 | Fizz Buzz | Swift | Java | 
+|     | 412 | Fizz Buzz | [~~Swift~~](./Swift/fizz-buzz.swift) | Java | 
 |     | 411 | Minimum Unique Word Abbreviation | Swift | Java | 
 |     | 410 | Split Array Largest Sum | Swift | Java | 
 |     | 409 | Longest Palindrome | Swift | Java | 
@@ -105,7 +108,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 347 | Top K Frequent Elements | Swift | Java | 
 |     | 346 | Moving Average from Data Stream | Swift | Java | 
 |     | 345 | Reverse Vowels of a String | Swift | Java | 
-|     | 344 | Reverse String | [~~Swift~~](./Swift/reverse_string.swift) | Java | 
+|     | 344 | Reverse String | Swift | Java | 
 |     | 343 | Integer Break | Swift | Java | 
 |     | 342 | Power of Four | Swift | Java | 
 |     | 341 | Flatten Nested List Iterator | Swift | Java | 
@@ -154,44 +157,44 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 298 | Binary Tree Longest Consecutive Sequence | Swift | Java | 
 |     | 297 | Serialize and Deserialize Binary Tree | Swift | Java | 
 |     | 296 | Best Meeting Point | Swift | Java | 
-|     | 295 | Find Median from Data Stream | Swift | Java | 
+|     | 295 | Find Median from Data Stream | Swift | [~~Java~~](./Java/find-median-from-data-stream.java) | 
 |     | 294 | Flip Game II | Swift | Java | 
 |     | 293 | Flip Game | Swift | Java | 
-|     | 292 | Nim Game | Swift | [~~Java~~](./Java/Nim_Game.java) | 
+|     | 292 | Nim Game | Swift | [~~Java~~](./Java/nim-game.java) | 
 |     | 291 | Word Pattern II | Swift | Java | 
-|     | 290 | Word Pattern | Swift | [~~Java~~](./Java/Word_Pattern.java) | 
-|     | 289 | Game of Life | Swift | [~~Java~~](./Java/Game_of_Life.java) | 
+|     | 290 | Word Pattern | Swift | [~~Java~~](./Java/word-pattern.java) | 
+|     | 289 | Game of Life | Swift | [~~Java~~](./Java/game-of-life.java) | 
 |     | 288 | Unique Word Abbreviation | Swift | Java | 
-|     | 287 | Find the Duplicate Number | Swift | [~~Java~~](./Java/Find_the_Duplicate_Number.java) | 
+|     | 287 | Find the Duplicate Number | Swift | [~~Java~~](./Java/find-the-duplicate-number.java) | 
 |     | 286 | Walls and Gates | Swift | Java | 
 |     | 285 | Inorder Successor in BST | Swift | Java | 
-|     | 284 | Peeking Iterator | Swift | [~~Java~~](./Java/Peeking_Iterator.java) | 
-|     | 283 | Move Zeroes | Swift | [~~Java~~](./Java/Move_Zeroes.java) | 
+|     | 284 | Peeking Iterator | Swift | [~~Java~~](./Java/peeking-iterator.java) | 
+|     | 283 | Move Zeroes | Swift | [~~Java~~](./Java/move-zeroes.java) | 
 |     | 282 | Expression Add Operators | Swift | Java | 
 |     | 281 | Zigzag Iterator | Swift | Java | 
 |     | 280 | Wiggle Sort | Swift | Java | 
-|     | 279 | Perfect Squares | Swift | [~~Java~~](./Java/Perfect_Squares.java) | 
-|     | 278 | First Bad Version | Swift | [~~Java~~](./Java/First_Bad_Version.java) | 
+|     | 279 | Perfect Squares | Swift | [~~Java~~](./Java/perfect-squares.java) | 
+|     | 278 | First Bad Version | Swift | [~~Java~~](./Java/first-bad-version.java) | 
 |     | 277 | Find the Celebrity | Swift | Java | 
 |     | 276 | Paint Fence | Swift | Java | 
-|     | 275 | H-Index II | Swift | [~~Java~~](./Java/H-Index_II.java) | 
-|     | 274 | H-Index | Swift | [~~Java~~](./Java/H-Index.java) | 
+|     | 275 | H-Index II | Swift | [~~Java~~](./Java/h-index-ii.java) | 
+|     | 274 | H-Index | Swift | [~~Java~~](./Java/h-index.java) | 
 |     | 273 | Integer to English Words | Swift | Java | 
 |     | 272 | Closest Binary Search Tree Value II | Swift | Java | 
 |     | 271 | Encode and Decode Strings | Swift | Java | 
 |     | 270 | Closest Binary Search Tree Value | Swift | Java | 
 |     | 269 | Alien Dictionary | Swift | Java | 
-|     | 268 | Missing Number | Swift | [~~Java~~](./Java/Missing_Number.java) | 
+|     | 268 | Missing Number | Swift | [~~Java~~](./Java/missing-number.java) | 
 |     | 267 | Palindrome Permutation II | Swift | Java | 
 |     | 266 | Palindrome Permutation | Swift | Java | 
 |     | 265 | Paint House II | Swift | Java | 
-|     | 264 | Ugly Number II | Swift | [~~Java~~](./Java/Ugly_Number_II.java) | 
-|     | 263 | Ugly Number | Swift | [~~Java~~](./Java/Ugly_Number.java) | 
+|     | 264 | Ugly Number II | Swift | [~~Java~~](./Java/ugly-number-ii.java) | 
+|     | 263 | Ugly Number | Swift | [~~Java~~](./Java/ugly-number.java) | 
 |     | 261 | Graph Valid Tree | Swift | Java | 
-|     | 260 | Single Number III | Swift | [~~Java~~](./Java/Single_Number_III.java) | 
+|     | 260 | Single Number III | Swift | [~~Java~~](./Java/single-number-iii.java) | 
 |     | 259 | 3Sum Smaller | Swift | Java | 
-|  x  | 258 | Add Digits | [~~Swift~~](./Swift/add-digits.swift) | [~~Java~~](./Java/Add_Digits.java) | 
-|     | 257 | Binary Tree Paths | Swift | [~~Java~~](./Java/Binary_Tree_Paths.java) | 
+|  X  | 258 | Add Digits | [~~Swift~~](./Swift/add-digits.swift) | [~~Java~~](./Java/add-digits.java) | 
+|     | 257 | Binary Tree Paths | Swift | [~~Java~~](./Java/binary-tree-paths.java) | 
 |     | 256 | Paint House | Swift | Java | 
 |     | 255 | Verify Preorder Sequence in Binary Search Tree | Swift | Java | 
 |     | 254 | Factor Combinations | Swift | Java | 
@@ -206,71 +209,71 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 245 | Shortest Word Distance III | Swift | Java | 
 |     | 244 | Shortest Word Distance II | Swift | Java | 
 |     | 243 | Shortest Word Distance | Swift | Java | 
-|     | 242 | Valid Anagram | Swift | [~~Java~~](./Java/Valid_Anagram.java) | 
-|     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](./Java/Different_Ways_to_Add_Parentheses.java) | 
-|     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](./Java/Search_a_2D_Matrix_II.java) | 
-|     | 239 | Sliding Window Maximum | Swift | [~~Java~~](./Java/Sliding_Window_Maximum.java) | 
+|     | 242 | Valid Anagram | Swift | [~~Java~~](./Java/valid-anagram.java) | 
+|     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](./Java/different-ways-to-add-parentheses.java) | 
+|     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](./Java/search-a-2d-matrix-ii.java) | 
+|     | 239 | Sliding Window Maximum | Swift | [~~Java~~](./Java/sliding-window-maximum.java) | 
 |     | 238 | Product of Array Except Self | Swift | Java | 
-|     | 237 | Delete Node in a Linked List | Swift | [~~Java~~](./Java/Delete_Node_in_a_Linked_List.java) | 
-|     | 236 | Lowest Common Ancestor of a Binary Tree | Swift | [~~Java~~](./Java/Lowest_Common_Ancestor_of_a_Binary_Tree.java) | 
-|     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](./Java/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java) | 
-|     | 234 | Palindrome Linked List | Swift | [~~Java~~](./Java/Palindrome_Linked_List.java) | 
+|     | 237 | Delete Node in a Linked List | Swift | [~~Java~~](./Java/delete-node-in-a-linked-list.java) | 
+|     | 236 | Lowest Common Ancestor of a Binary Tree | Swift | [~~Java~~](./Java/lowest-common-ancestor-of-a-binary-tree.java) | 
+|     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](./Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
+|     | 234 | Palindrome Linked List | Swift | [~~Java~~](./Java/palindrome-linked-list.java) | 
 |     | 233 | Number of Digit One | Swift | Java | 
-|     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](./Java/Implement_Queue_using_Stacks.java) | 
-|     | 231 | Power of Two | Swift | [~~Java~~](./Java/Power_of_Two.java) | 
+|     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](./Java/implement-queue-using-stacks.java) | 
+|     | 231 | Power of Two | Swift | [~~Java~~](./Java/power-of-two.java) | 
 |     | 230 | Kth Smallest Element in a BST | Swift | Java | 
 |     | 229 | Majority Element II | Swift | Java | 
-|     | 228 | Summary Ranges | Swift | [~~Java~~](./Java/Summary_Ranges.java) | 
+|     | 228 | Summary Ranges | Swift | [~~Java~~](./Java/summary-ranges.java) | 
 |     | 227 | Basic Calculator II | Swift | Java | 
-|     | 226 | Invert Binary Tree | Swift | [~~Java~~](./Java/Invert_Binary_Tree.java) | 
-|     | 225 | Implement Stack using Queues | Swift | [~~Java~~](./Java/Implement_Stack_using_Queues.java) | 
+|     | 226 | Invert Binary Tree | Swift | [~~Java~~](./Java/invert-binary-tree.java) | 
+|     | 225 | Implement Stack using Queues | Swift | [~~Java~~](./Java/implement-stack-using-queues.java) | 
 |     | 224 | Basic Calculator | Swift | Java | 
-|     | 223 | Rectangle Area | Swift | [~~Java~~](./Java/Rectangle_Area.java) | 
-|     | 222 | Count Complete Tree Nodes | Swift | [~~Java~~](./Java/Count_Complete_Tree_Nodes.java) | 
+|     | 223 | Rectangle Area | Swift | [~~Java~~](./Java/rectangle-area.java) | 
+|     | 222 | Count Complete Tree Nodes | Swift | [~~Java~~](./Java/count-complete-tree-nodes.java) | 
 |     | 221 | Maximal Square | Swift | Java | 
 |     | 220 | Contains Duplicate III | Swift | Java | 
 |     | 219 | Contains Duplicate II | Swift | Java | 
 |     | 218 | The Skyline Problem | Swift | Java | 
-|     | 217 | Contains Duplicate | Swift | [~~Java~~](./Java/Contains_Duplicate.java) | 
-|     | 216 | Combination Sum III | Swift | [~~Java~~](./Java/Combination_Sum_III.java) | 
-|     | 215 | Kth Largest Element in an Array | Swift | [~~Java~~](./Java/Kth_Largest_Element_in_an_Array.java) | 
+|     | 217 | Contains Duplicate | Swift | [~~Java~~](./Java/contains-duplicate.java) | 
+|     | 216 | Combination Sum III | Swift | [~~Java~~](./Java/combination-sum-iii.java) | 
+|     | 215 | Kth Largest Element in an Array | Swift | [~~Java~~](./Java/kth-largest-element-in-an-array.java) | 
 |     | 214 | Shortest Palindrome | Swift | Java | 
 |     | 213 | House Robber II | Swift | Java | 
-|     | 212 | Word Search II | Swift | [~~Java~~](./Java/Word_Search_II.java) | 
-|     | 211 | Add and Search Word - Data structure design | Swift | [~~Java~~](./Java/Add_and_Search_Word_Data_structure_design.java) | 
+|     | 212 | Word Search II | Swift | [~~Java~~](./Java/word-search-ii.java) | 
+|     | 211 | Add and Search Word - Data structure design | Swift | [~~Java~~](./Java/add-and-search-word-data-structure-design.java) | 
 |     | 210 | Course Schedule II | Swift | Java | 
 |     | 209 | Minimum Size Subarray Sum | Swift | Java | 
 |     | 208 | Implement Trie (Prefix Tree) | Swift | Java | 
-|     | 207 | Course Schedule | Swift | [~~Java~~](./Java/Course_Schedule.java) | 
-|     | 206 | Reverse Linked List | Swift | [~~Java~~](./Java/Reverse_Linked_List.java) | 
+|     | 207 | Course Schedule | Swift | [~~Java~~](./Java/course-schedule.java) | 
+|     | 206 | Reverse Linked List | Swift | [~~Java~~](./Java/reverse-linked-list.java) | 
 |     | 205 | Isomorphic Strings | Swift | Java | 
-|     | 204 | Count Primes | Swift | [~~Java~~](./Java/Count_Primes.java) | 
-|     | 203 | Remove Linked List Elements | Swift | [~~Java~~](./Java/Remove_Linked_List_Elements.java) | 
-|     | 202 | Happy Number | Swift | [~~Java~~](./Java/Happy_Number.java) | 
+|     | 204 | Count Primes | Swift | [~~Java~~](./Java/count-primes.java) | 
+|     | 203 | Remove Linked List Elements | Swift | [~~Java~~](./Java/remove-linked-list-elements.java) | 
+|     | 202 | Happy Number | Swift | [~~Java~~](./Java/happy-number.java) | 
 |     | 201 | Bitwise AND of Numbers Range | Swift | Java | 
-|     | 200 | Number of Islands | Swift | [~~Java~~](./Java/Number%20of%20Islands.java) | 
+|     | 200 | Number of Islands | Swift | Java | 
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
-|     | 198 | House Robber | Swift | [~~Java~~](./Java/House_Robber.java) | 
-|     | 191 | Number of 1 Bits | Swift | [~~Java~~](./Java/Number_of_1_Bits.java) | 
-|     | 190 | Reverse Bits | Swift | [~~Java~~](./Java/Reverse_Bits.java) | 
+|     | 198 | House Robber | Swift | [~~Java~~](./Java/house-robber.java) | 
+|     | 191 | Number of 1 Bits | Swift | [~~Java~~](./Java/number-of-1-bits.java) | 
+|     | 190 | Reverse Bits | Swift | [~~Java~~](./Java/reverse-bits.java) | 
 |     | 189 | Rotate Array | Swift | Java | 
-|     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](./Java/Best_Time_to_Buy_and_Sell_Stock_IV.java) | 
+|     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](./Java/best-time-to-buy-and-sell-stock-iv.java) | 
 |     | 187 | Repeated DNA Sequences | Swift | Java | 
 |     | 186 | Reverse Words in a String II | Swift | Java | 
 |     | 179 | Largest Number | Swift | Java | 
-|     | 174 | Dungeon Game | Swift | [~~Java~~](./Java/Dungeon_Game.java) | 
+|     | 174 | Dungeon Game | Swift | [~~Java~~](./Java/dungeon-game.java) | 
 |     | 173 | Binary Search Tree Iterator | Swift | Java | 
 |     | 172 | Factorial Trailing Zeroes | Swift | Java | 
-|     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](./Java/Excel%20Sheet%20Column%20Number.java) | 
+|     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](./Java/excel-sheet-column-number.java) | 
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
-|     | 169 | Majority Element | Swift | [~~Java~~](./Java/Majority_Element.java) | 
+|     | 169 | Majority Element | Swift | [~~Java~~](./Java/majority-element.java) | 
 |     | 168 | Excel Sheet Column Title | Swift | Java | 
 |     | 167 | Two Sum II - Input array is sorted | Swift | Java | 
 |     | 166 | Fraction to Recurring Decimal | Swift | Java | 
 |     | 165 | Compare Version Numbers | Swift | Java | 
 |     | 164 | Maximum Gap | Swift | Java | 
 |     | 163 | Missing Ranges | Swift | Java | 
-|     | 162 | Find Peak Element | Swift | [~~Java~~](./Java/Find_Peak_Element.java) | 
+|     | 162 | Find Peak Element | Swift | [~~Java~~](./Java/find-peak-element.java) | 
 |     | 161 | One Edit Distance | Swift | Java | 
 |     | 160 | Intersection of Two Linked Lists | Swift | Java | 
 |     | 159 | Longest Substring with At Most Two Distinct Characters | Swift | Java | 
@@ -278,157 +281,157 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 157 | Read N Characters Given Read4 | Swift | Java | 
 |     | 156 | Binary Tree Upside Down | Swift | Java | 
 |     | 155 | Min Stack | Swift | Java | 
-|     | 154 | Find Minimum in Rotated Sorted Array II | Swift | [~~Java~~](./Java/Find_Minimum_in_Rotated_Sorted_Array_II.java) | 
-|     | 153 | Find Minimum in Rotated Sorted Array | Swift | [~~Java~~](./Java/Find_Minimum_in_Rotated_Sorted_Array.java) | 
+|     | 154 | Find Minimum in Rotated Sorted Array II | Swift | Java | 
+|     | 153 | Find Minimum in Rotated Sorted Array | Swift | [~~Java~~](./Java/find-minimum-in-rotated-sorted-array.java) | 
 |     | 152 | Maximum Product Subarray | Swift | Java | 
 |     | 151 | Reverse Words in a String | Swift | Java | 
 |     | 150 | Evaluate Reverse Polish Notation | Swift | Java | 
-|     | 149 | Max Points on a Line | Swift | [~~Java~~](./Java/Max_Points_on_a_Line.java) | 
+|     | 149 | Max Points on a Line | Swift | [~~Java~~](./Java/max-points-on-a-line.java) | 
 |     | 148 | Sort List | Swift | Java | 
 |     | 147 | Insertion Sort List | Swift | Java | 
-|     | 146 | LRU Cache | Swift | [~~Java~~](./Java/LRU_Cache.java) | 
-|     | 145 | Binary Tree Postorder Traversal | Swift | [~~Java~~](./Java/Binary_Tree_Postorder_Traversal.java) | 
-|     | 144 | Binary Tree Preorder Traversal | Swift | [~~Java~~](./Java/Binary_Tree_Preorder_Traversal.java) | 
+|     | 146 | LRU Cache | Swift | [~~Java~~](./Java/lru-cache.java) | 
+|     | 145 | Binary Tree Postorder Traversal | Swift | [~~Java~~](./Java/binary-tree-postorder-traversal.java) | 
+|     | 144 | Binary Tree Preorder Traversal | Swift | [~~Java~~](./Java/binary-tree-preorder-traversal.java) | 
 |     | 143 | Reorder List | Swift | Java | 
 |     | 142 | Linked List Cycle II | Swift | Java | 
-|     | 141 | Linked List Cycle | Swift | [~~Java~~](./Java/Linked_List_Cycle.java) | 
-|     | 140 | Word Break II | Swift | [~~Java~~](./Java/Word_Break_II.java) | 
-|     | 139 | Word Break | Swift | [~~Java~~](./Java/Word_Break.java) | 
+|     | 141 | Linked List Cycle | Swift | [~~Java~~](./Java/linked-list-cycle.java) | 
+|     | 140 | Word Break II | Swift | [~~Java~~](./Java/word-break-ii.java) | 
+|     | 139 | Word Break | Swift | [~~Java~~](./Java/word-break.java) | 
 |     | 138 | Copy List with Random Pointer | Swift | Java | 
-|     | 137 | Single Number II | Swift | [~~Java~~](./Java/Single_Number_II.java) | 
-|  x  | 136 | Single Number | [~~Swift~~](./Swift/single-number.swift) | [~~Java~~](./Java/Single_Number.java) | 
+|     | 137 | Single Number II | Swift | [~~Java~~](./Java/single-number-ii.java) | 
+|  X  | 136 | Single Number | [~~Swift~~](./Swift/single-number.swift) | [~~Java~~](./Java/single-number.java) | 
 |     | 135 | Candy | Swift | [~~Java~~](./Java/candy.java) | 
 |     | 134 | Gas Station | Swift | Java | 
 |     | 133 | Clone Graph | Swift | Java | 
 |     | 132 | Palindrome Partitioning II | Swift | Java | 
 |     | 131 | Palindrome Partitioning | Swift | Java | 
-|  x  | 130 | Surrounded Regions | [~~Swift~~](./Swift/surrounded-regions.swift) | [~~Java~~](./Java/Surrounded_Regions.java) | 
-|     | 129 | Sum Root to Leaf Numbers | Swift | [~~Java~~](./Java/Sum_Root_to_Leaf_Numbers.java) | 
-|     | 128 | Longest Consecutive Sequence | Swift | [~~Java~~](./Java/Longest_Consecutive_Sequence.java) | 
-|     | 127 | Word Ladder | Swift | [~~Java~~](./Java/Word%20Ladder.java) | 
-|     | 126 | Word Ladder II | Swift | [~~Java~~](./Java/Word%20Ladder%20II.java) | 
+|  X  | 130 | Surrounded Regions | [~~Swift~~](./Swift/surrounded-regions.swift) | [~~Java~~](./Java/surrounded-regions.java) | 
+|     | 129 | Sum Root to Leaf Numbers | Swift | [~~Java~~](./Java/sum-root-to-leaf-numbers.java) | 
+|     | 128 | Longest Consecutive Sequence | Swift | [~~Java~~](./Java/longest-consecutive-sequence.java) | 
+|     | 127 | Word Ladder | Swift | [~~Java~~](./Java/word-ladder.java) | 
+|     | 126 | Word Ladder II | Swift | [~~Java~~](./Java/word-ladder-ii.java) | 
 |     | 125 | Valid Palindrome | Swift | Java | 
-|     | 124 | Binary Tree Maximum Path Sum | Swift | [~~Java~~](./Java/Binary_Tree_Maximum_Path_Sum.java) | 
+|     | 124 | Binary Tree Maximum Path Sum | Swift | [~~Java~~](./Java/binary-tree-maximum-path-sum.java) | 
 |     | 123 | Best Time to Buy and Sell Stock III | Swift | Java | 
-|     | 122 | Best Time to Buy and Sell Stock II | Swift | [~~Java~~](./Java/Best_Time_to_Buy_and_Sell_Stock_II.java) | 
-|     | 121 | Best Time to Buy and Sell Stock | Swift | [~~Java~~](./Java/Best_Time_to_Buy_and_Sell_Stock.java) | 
+|     | 122 | Best Time to Buy and Sell Stock II | Swift | [~~Java~~](./Java/best-time-to-buy-and-sell-stock-ii.java) | 
+|     | 121 | Best Time to Buy and Sell Stock | Swift | [~~Java~~](./Java/best-time-to-buy-and-sell-stock.java) | 
 |     | 120 | Triangle | Swift | Java | 
 |     | 119 | Pascal's Triangle II | Swift | Java | 
-|     | 118 | Pascal's Triangle | Swift | [~~Java~~](./Java/Pascal_Triangle.java) | 
+|     | 118 | Pascal's Triangle | Swift | Java | 
 |     | 117 | Populating Next Right Pointers in Each Node II | Swift | Java | 
-|     | 116 | Populating Next Right Pointers in Each Node | Swift | [~~Java~~](./Java/Populating_Next_Right_Pointers_in_Each_Node.java) | 
+|     | 116 | Populating Next Right Pointers in Each Node | Swift | [~~Java~~](./Java/populating-next-right-pointers-in-each-node.java) | 
 |     | 115 | Distinct Subsequences | Swift | Java | 
-|     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](./Java/Flatten_Binary_Tree_to_Linked_List.java) | 
-|     | 113 | Path Sum II | Swift | [~~Java~~](./Java/Path_Sum_II.java) | 
-|     | 112 | Path Sum | Swift | [~~Java~~](./Java/Path_Sum.java) | 
-|     | 111 | Minimum Depth of Binary Tree | Swift | [~~Java~~](./Java/Minimum_Depth_of_Binary_Tree.java) | 
-|     | 110 | Balanced Binary Tree | Swift | [~~Java~~](./Java/Balanced_Binary_Tree.java) | 
-|     | 109 | Convert Sorted List to Binary Search Tree | Swift | [~~Java~~](./Java/Convert%20Sorted%20List%20to_Binary_Search_Tree.java) | 
-|     | 108 | Convert Sorted Array to Binary Search Tree | Swift | [~~Java~~](./Java/Convert_Sorted_Array_to_Binary_Search_Tree.java) | 
-|     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](./Java/Binary_Tree_Level_Order_Traversal_II.java) | 
+|     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](./Java/flatten-binary-tree-to-linked-list.java) | 
+|     | 113 | Path Sum II | Swift | [~~Java~~](./Java/path-sum-ii.java) | 
+|     | 112 | Path Sum | Swift | [~~Java~~](./Java/path-sum.java) | 
+|     | 111 | Minimum Depth of Binary Tree | Swift | [~~Java~~](./Java/minimum-depth-of-binary-tree.java) | 
+|     | 110 | Balanced Binary Tree | Swift | [~~Java~~](./Java/balanced-binary-tree.java) | 
+|     | 109 | Convert Sorted List to Binary Search Tree | Swift | [~~Java~~](./Java/convert-sorted-list-to-binary-search-tree.java) | 
+|     | 108 | Convert Sorted Array to Binary Search Tree | Swift | [~~Java~~](./Java/convert-sorted-array-to-binary-search-tree.java) | 
+|     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](./Java/binary-tree-level-order-traversal-ii.java) | 
 |     | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Swift | Java | 
 |     | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Swift | Java | 
-|     | 104 | Maximum Depth of Binary Tree | Swift | [~~Java~~](./Java/Maximum_Depth_of_Binary_Tree.java) | 
-|     | 103 | Binary Tree Zigzag Level Order Traversal | Swift | [~~Java~~](./Java/Binary_Tree_Zigzag_Level_Order_Traversal.java) | 
-|     | 102 | Binary Tree Level Order Traversal | Swift | [~~Java~~](./Java/Binary_Tree_Level_Order%20Traversal.java) | 
-|     | 101 | Symmetric Tree | Swift | [~~Java~~](./Java/Symmetric_Tree.java) | 
-|     | 100 | Same Tree | Swift | [~~Java~~](./Java/Same_Tree.java) | 
-|     | 99 | Recover Binary Search Tree | Swift | [~~Java~~](./Java/Recover_Binary_Search_Tree.java) | 
+|     | 104 | Maximum Depth of Binary Tree | Swift | [~~Java~~](./Java/maximum-depth-of-binary-tree.java) | 
+|     | 103 | Binary Tree Zigzag Level Order Traversal | Swift | [~~Java~~](./Java/binary-tree-zigzag-level-order-traversal.java) | 
+|     | 102 | Binary Tree Level Order Traversal | Swift | Java | 
+|     | 101 | Symmetric Tree | Swift | [~~Java~~](./Java/symmetric-tree.java) | 
+|     | 100 | Same Tree | Swift | [~~Java~~](./Java/same-tree.java) | 
+|     | 99 | Recover Binary Search Tree | Swift | [~~Java~~](./Java/recover-binary-search-tree.java) | 
 |     | 98 | Validate Binary Search Tree | Swift | Java | 
 |     | 97 | Interleaving String | Swift | Java | 
-|     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](./Java/Unique_Binary_Search_Trees.java) | 
+|     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](./Java/unique-binary-search-trees.java) | 
 |     | 95 | Unique Binary Search Trees II | Swift | Java | 
-|     | 94 | Binary Tree Inorder Traversal | Swift | [~~Java~~](./Java/Binary_Tree_Inorder_Traversal.java) | 
-|     | 93 | Restore IP Addresses | Swift | [~~Java~~](./Java/Restore_IP_Addresses.java) | 
+|     | 94 | Binary Tree Inorder Traversal | Swift | [~~Java~~](./Java/binary-tree-inorder-traversal.java) | 
+|     | 93 | Restore IP Addresses | Swift | [~~Java~~](./Java/restore-ip-addresses.java) | 
 |     | 92 | Reverse Linked List II | Swift | Java | 
 |     | 91 | Decode Ways | [~~Swift~~](./Swift/decode-ways.swift) | Java | 
-|     | 90 | Subsets II | Swift | [~~Java~~](./Java/SubsetsII.java) | 
-|     | 89 | Gray Code | Swift | [~~Java~~](./Java/Gray_Code.java) | 
-|     | 88 | Merge Sorted Array | Swift | [~~Java~~](./Java/Merge_Sorted_Array.java) | 
+|     | 90 | Subsets II | Swift | Java | 
+|     | 89 | Gray Code | Swift | [~~Java~~](./Java/gray-code.java) | 
+|     | 88 | Merge Sorted Array | Swift | [~~Java~~](./Java/merge-sorted-array.java) | 
 |     | 87 | Scramble String | Swift | Java | 
 |     | 86 | Partition List | Swift | Java | 
 |     | 85 | Maximal Rectangle | Swift | Java | 
 |     | 84 | Largest Rectangle in Histogram | Swift | Java | 
-|     | 83 | Remove Duplicates from Sorted List | Swift | [~~Java~~](./Java/Remove_Duplicates_from_Sorted_List.java) | 
-|     | 82 | Remove Duplicates from Sorted List II | Swift | [~~Java~~](./Java/Remove_Duplicates_from_Sorted_Array_II.java) | 
+|     | 83 | Remove Duplicates from Sorted List | Swift | [~~Java~~](./Java/remove-duplicates-from-sorted-list.java) | 
+|     | 82 | Remove Duplicates from Sorted List II | Swift | Java | 
 |     | 81 | Search in Rotated Sorted Array II | Swift | Java | 
-|     | 80 | Remove Duplicates from Sorted Array II | Swift | Java | 
+|     | 80 | Remove Duplicates from Sorted Array II | Swift | [~~Java~~](./Java/remove-duplicates-from-sorted-array-ii.java) | 
 |     | 79 | Word Search | Swift | Java | 
-|     | 78 | Subsets | Swift | [~~Java~~](./Java/Subsets.java) | 
-|     | 77 | Combinations | Swift | [~~Java~~](./Java/Combinations.java) | 
+|     | 78 | Subsets | Swift | [~~Java~~](./Java/subsets.java) | 
+|     | 77 | Combinations | Swift | [~~Java~~](./Java/combinations.java) | 
 |     | 76 | Minimum Window Substring | Swift | Java | 
 |     | 75 | Sort Colors | Swift | Java | 
-|     | 74 | Search a 2D Matrix | Swift | [~~Java~~](./Java/Search_a_2D_Matrix.java) | 
+|     | 74 | Search a 2D Matrix | Swift | [~~Java~~](./Java/search-a-2d-matrix.java) | 
 |     | 73 | Set Matrix Zeroes | Swift | Java | 
-|     | 72 | Edit Distance | Swift | [~~Java~~](./Java/Edit_Distance.java) | 
+|     | 72 | Edit Distance | Swift | [~~Java~~](./Java/edit-distance.java) | 
 |     | 71 | Simplify Path | Swift | Java | 
-|     | 70 | Climbing Stairs | Swift | [~~Java~~](./Java/Climbing_Stairs.java) | 
+|     | 70 | Climbing Stairs | Swift | [~~Java~~](./Java/climbing-stairs.java) | 
 |     | 69 | Sqrt(x) | Swift | Java | 
-|     | 68 | Text Justification | Swift | [~~Java~~](./Java/Text_Justification.java) | 
+|     | 68 | Text Justification | Swift | [~~Java~~](./Java/text-justification.java) | 
 |     | 67 | Add Binary | Swift | Java | 
 |     | 66 | Plus One | Swift | Java | 
-|     | 65 | Valid Number | Swift | [~~Java~~](./Java/Valid_Number.java) | 
-|     | 64 | Minimum Path Sum | Swift | [~~Java~~](./Java/Minimum_Path_Sum.java) | 
-|     | 63 | Unique Paths II | Swift | [~~Java~~](./Java/Unique_Paths_II.java) | 
-|     | 62 | Unique Paths | Swift | [~~Java~~](./Java/Unique_Paths.java) | 
+|     | 65 | Valid Number | Swift | [~~Java~~](./Java/valid-number.java) | 
+|     | 64 | Minimum Path Sum | Swift | [~~Java~~](./Java/minimum-path-sum.java) | 
+|     | 63 | Unique Paths II | Swift | [~~Java~~](./Java/unique-paths-ii.java) | 
+|     | 62 | Unique Paths | Swift | [~~Java~~](./Java/unique-paths.java) | 
 |     | 61 | Rotate List | Swift | Java | 
-|     | 60 | Permutation Sequence | Swift | [~~Java~~](./Java/Permutation_Sequence.java) | 
-|     | 59 | Spiral Matrix II | Swift | [~~Java~~](./Java/Spiral_Matrix_II.java) | 
-|     | 58 | Length of Last Word | Swift | [~~Java~~](./Java/Length_of_Last_Word.java) | 
+|     | 60 | Permutation Sequence | Swift | [~~Java~~](./Java/permutation-sequence.java) | 
+|     | 59 | Spiral Matrix II | Swift | [~~Java~~](./Java/spiral-matrix-ii.java) | 
+|     | 58 | Length of Last Word | Swift | [~~Java~~](./Java/length-of-last-word.java) | 
 |     | 57 | Insert Interval | Swift | Java | 
-|     | 56 | Merge Intervals | Swift | [~~Java~~](./Java/Merge_Intervals.java) | 
-|     | 55 | Jump Game | Swift | [~~Java~~](./Java/Jump_Game.java) | 
+|     | 56 | Merge Intervals | Swift | [~~Java~~](./Java/merge-intervals.java) | 
+|     | 55 | Jump Game | Swift | [~~Java~~](./Java/jump-game.java) | 
 |     | 54 | Spiral Matrix | Swift | Java | 
-|     | 53 | Maximum Subarray | Swift | [~~Java~~](./Java/Maximum_Subarray.java) | 
-|     | 52 | N-Queens II | Swift | [~~Java~~](./Java/N-Queens_II.java) | 
-|     | 51 | N-Queens | Swift | [~~Java~~](./Java/N-Queens.java) | 
-|     | 50 | Pow(x, n) | Swift | [~~Java~~](./Java/Pow(x%2Cn).java) | 
-|     | 49 | Group Anagrams | Swift | ~~Java [1](./Java/Anagrams.java) [2](./Java/Group_Anagrams.java)~~ | 
+|     | 53 | Maximum Subarray | Swift | [~~Java~~](./Java/maximum-subarray.java) | 
+|     | 52 | N-Queens II | Swift | [~~Java~~](./Java/n-queens-ii.java) | 
+|     | 51 | N-Queens | Swift | [~~Java~~](./Java/n-queens.java) | 
+|     | 50 | Pow(x, n) | Swift | [~~Java~~](./Java/powx-n.java) | 
+|     | 49 | Group Anagrams | Swift | [~~Java~~](./Java/anagrams.java) | 
 |     | 48 | Rotate Image | Swift | Java | 
-|     | 47 | Permutations II | Swift | [~~Java~~](./Java/Permutations_II.java) | 
-|     | 46 | Permutations | Swift | [~~Java~~](./Java/Permutations.java) | 
-|     | 45 | Jump Game II | Swift | [~~Java~~](./Java/Jump_Game_II.java) | 
-|     | 44 | Wildcard Matching | Swift | [~~Java~~](./Java/Wildcard_Matching.java) | 
-|     | 43 | Multiply Strings | Swift | [~~Java~~](./Java/Multiply_Strings.java) | 
-|     | 42 | Trapping Rain Water | Swift | [~~Java~~](./Java/Trapping_Rain_Water.java) | 
+|     | 47 | Permutations II | Swift | [~~Java~~](./Java/permutations-ii.java) | 
+|     | 46 | Permutations | Swift | [~~Java~~](./Java/permutations.java) | 
+|     | 45 | Jump Game II | Swift | [~~Java~~](./Java/jump-game-ii.java) | 
+|     | 44 | Wildcard Matching | Swift | [~~Java~~](./Java/wildcard-matching.java) | 
+|     | 43 | Multiply Strings | Swift | [~~Java~~](./Java/multiply-strings.java) | 
+|     | 42 | Trapping Rain Water | Swift | [~~Java~~](./Java/trapping-rain-water.java) | 
 |     | 41 | First Missing Positive | Swift | Java | 
-|     | 40 | Combination Sum II | Swift | [~~Java~~](./Java/Combination_Sum_II.java) | 
-|     | 39 | Combination Sum | Swift | [~~Java~~](./Java/Combination_Sum.java) | 
+|     | 40 | Combination Sum II | Swift | [~~Java~~](./Java/combination-sum-ii.java) | 
+|     | 39 | Combination Sum | Swift | [~~Java~~](./Java/combination-sum.java) | 
 |     | 38 | Count and Say | Swift | Java | 
-|     | 37 | Sudoku Solver | Swift | [~~Java~~](./Java/Sudoku_Solver.java) | 
+|     | 37 | Sudoku Solver | Swift | [~~Java~~](./Java/sudoku-solver.java) | 
 |     | 36 | Valid Sudoku | Swift | Java | 
-|     | 35 | Search Insert Position | Swift | [~~Java~~](./Java/Search_Insert_Position.java) | 
+|     | 35 | Search Insert Position | Swift | [~~Java~~](./Java/search-insert-position.java) | 
 |     | 34 | Search for a Range | Swift | Java | 
-|     | 33 | Search in Rotated Sorted Array | Swift | [~~Java~~](./Java/Search_in_Rotated_Sorted_Array.java) | 
-|     | 32 | Longest Valid Parentheses | Swift | [~~Java~~](./Java/Longest_Valid_Parentheses.java) | 
-|     | 31 | Next Permutation | Swift | [~~Java~~](./Java/Next_Permutation.java) | 
+|     | 33 | Search in Rotated Sorted Array | Swift | [~~Java~~](./Java/search-in-rotated-sorted-array.java) | 
+|     | 32 | Longest Valid Parentheses | Swift | [~~Java~~](./Java/longest-valid-parentheses.java) | 
+|     | 31 | Next Permutation | Swift | [~~Java~~](./Java/next-permutation.java) | 
 |     | 30 | Substring with Concatenation of All Words | Swift | Java | 
-|  x  | 29 | Divide Two Integers | [~~Swift~~](./Swift/divide-two-integers.swift) | [~~Java~~](./Java/divide-two-integers.java) | 
+|  X  | 29 | Divide Two Integers | [~~Swift~~](./Swift/divide-two-integers.swift) | [~~Java~~](./Java/divide-two-integers.java) | 
 |     | 28 | Implement strStr() | Swift | Java | 
-|     | 27 | Remove Element | Swift | [~~Java~~](./Java/Remove_Element.java) | 
-|     | 26 | Remove Duplicates from Sorted Array | Swift | Java | 
-|     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](./Java/Reverse_Nodes_in_k-Group.java) | 
-|     | 24 | Swap Nodes in Pairs | Swift | [~~Java~~](./Java/Swap_Nodes_in_Pairs.java) | 
-|     | 23 | Merge k Sorted Lists | Swift | [~~Java~~](./Java/Merge_k_Sorted_Lists.java) | 
-|     | 22 | Generate Parentheses | Swift | [~~Java~~](./Java/Generate_Parentheses.java) | 
-|     | 21 | Merge Two Sorted Lists | Swift | [~~Java~~](./Java/Merge_Two_Sorted_Lists.java) | 
+|     | 27 | Remove Element | Swift | [~~Java~~](./Java/remove-element.java) | 
+|     | 26 | Remove Duplicates from Sorted Array | Swift | [~~Java~~](./Java/remove-duplicates-from-sorted-array.java) | 
+|     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](./Java/reverse-nodes-in-k-group.java) | 
+|     | 24 | Swap Nodes in Pairs | Swift | [~~Java~~](./Java/swap-nodes-in-pairs.java) | 
+|     | 23 | Merge k Sorted Lists | Swift | [~~Java~~](./Java/merge-k-sorted-lists.java) | 
+|     | 22 | Generate Parentheses | Swift | [~~Java~~](./Java/generate-parentheses.java) | 
+|     | 21 | Merge Two Sorted Lists | Swift | [~~Java~~](./Java/merge-two-sorted-lists.java) | 
 |     | 20 | Valid Parentheses | Swift | Java | 
 |     | 19 | Remove Nth Node From End of List | Swift | Java | 
 |     | 18 | 4Sum | Swift | Java | 
-|     | 17 | Letter Combinations of a Phone Number | Swift | [~~Java~~](./Java/Letter_Combinations_of_a_Phone_Number.java) | 
+|     | 17 | Letter Combinations of a Phone Number | Swift | [~~Java~~](./Java/letter-combinations-of-a-phone-number.java) | 
 |     | 16 | 3Sum Closest | Swift | Java | 
-|     | 15 | 3Sum | Swift | [~~Java~~](./Java/3Sum.java) | 
-|     | 14 | Longest Common Prefix | Swift | [~~Java~~](./Java/Longest_Common_Prefix.java) | 
-|     | 13 | Roman to Integer | Swift | [~~Java~~](./Java/Roman%20to%20Integer.java) | 
-|     | 12 | Integer to Roman | Swift | [~~Java~~](./Java/Integer%20to%20Roman.java) | 
+|     | 15 | 3Sum | Swift | [~~Java~~](./Java/3sum.java) | 
+|     | 14 | Longest Common Prefix | Swift | [~~Java~~](./Java/longest-common-prefix.java) | 
+|     | 13 | Roman to Integer | Swift | [~~Java~~](./Java/roman-to-integer.java) | 
+|     | 12 | Integer to Roman | Swift | Java | 
 |     | 11 | Container With Most Water | Swift | Java | 
 |     | 10 | Regular Expression Matching | Swift | Java | 
 |     | 9 | Palindrome Number | Swift | Java | 
 |     | 8 | String to Integer (atoi) | Swift | Java | 
-|     | 7 | Reverse Integer | Swift | [~~Java~~](./Java/Reverse_Integer.java) | 
+|     | 7 | Reverse Integer | Swift | [~~Java~~](./Java/reverse-integer.java) | 
 |     | 6 | ZigZag Conversion | Swift | Java | 
 |     | 5 | Longest Palindromic Substring | Swift | Java | 
-|     | 4 | Median of Two Sorted Arrays | Swift | [~~Java~~](./Java/Median_of_Two_Sorted_Arrays.java) | 
-|     | 3 | Longest Substring Without Repeating Characters | Swift | [~~Java~~](./Java/Longest%20Substring_Without_Repeating_Characters.java) | 
-|     | 2 | Add Two Numbers | Swift | Java | 
-|     | 1 | Two Sum | Swift | [~~Java~~](./Java/Two_Sum.java) | 
+|     | 4 | Median of Two Sorted Arrays | Swift | [~~Java~~](./Java/median-of-two-sorted-arrays.java) | 
+|     | 3 | Longest Substring Without Repeating Characters | Swift | Java | 
+|     | 2 | Add Two Numbers | Swift | [~~Java~~](./Java/add-two-numbers.java) | 
+|     | 1 | Two Sum | Swift | [~~Java~~](./Java/two-sum.java) | 

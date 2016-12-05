@@ -34,8 +34,6 @@ extension Problem {
     }
 }
 
-let url = "https://leetcode.com/api/problems/algorithms/"
-
 func importDataFromURL(_ url: String, with completionHandler: @escaping ([String: Any]) -> ()) {
     guard let mURL = URL(string: url) else {
         print("Invalid URL: \(url)")
@@ -164,4 +162,5 @@ func ifFileExists(_ name: String, in lang: Language) -> Bool {
 // MARK: - Generate README.md
 print("# LeeCode-CodeBase")
 print("This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.")
+let url = "https://leetcode.com/api/problems/algorithms/"
 importDataFromURL(url, with: normalizeJSON)
