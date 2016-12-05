@@ -1,5 +1,6 @@
 # LeeCode-CodeBase
 This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
+
 | X | # | Question | Swift-14 | Java-147 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
