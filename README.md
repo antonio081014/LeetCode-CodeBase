@@ -5,14 +5,14 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
  \> `swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-15 | Java-147 |
+| X | # | Question | Swift-15 | Java-148 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
 |     | 466 | Count The Repetitions | Swift | Java | 
 |     | 465 | Optimal Account Balancing | Swift | Java | 
 |     | 464 | Can I Win | Swift | Java | 
-|     | 463 | Island Perimeter | [~~Swift~~](./Swift/island-perimeter.swift) | Java | 
+|     | 463 | Island Perimeter | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/island-perimeter.swift) | Java | 
 |     | 462 | Minimum Moves to Equal Array Elements II | Swift | Java | 
 |     | 459 | Repeated Substring Pattern | Swift | Java | 
 |     | 456 | 132 Pattern | Swift | Java | 
@@ -27,7 +27,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 440 | K-th Smallest in Lexicographical Order | Swift | Java | 
 |     | 439 | Ternary Expression Parser | Swift | Java | 
 |     | 438 | Find All Anagrams in a String | Swift | Java | 
-|     | 437 | Path Sum III | [~~Swift~~](./Swift/path-sum-iii.swift) | Java | 
+|     | 437 | Path Sum III | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/path-sum-iii.swift) | Java | 
 |     | 436 | Find Right Interval | Swift | Java | 
 |     | 435 | Non-overlapping Intervals | Swift | Java | 
 |     | 434 | Number of Segments in a String | Swift | Java | 
@@ -45,7 +45,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 415 | Add Strings | Swift | Java | 
 |     | 414 | Third Maximum Number | Swift | Java | 
 |     | 413 | Arithmetic Slices | Swift | Java | 
-|     | 412 | Fizz Buzz | [~~Swift~~](./Swift/fizz-buzz.swift) | Java | 
+|     | 412 | Fizz Buzz | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/fizz-buzz.swift) | Java | 
 |     | 411 | Minimum Unique Word Abbreviation | Swift | Java | 
 |     | 410 | Split Array Largest Sum | Swift | Java | 
 |     | 409 | Longest Palindrome | Swift | Java | 
@@ -53,7 +53,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 407 | Trapping Rain Water II | Swift | Java | 
 |     | 406 | Queue Reconstruction by Height | Swift | Java | 
 |     | 405 | Convert a Number to Hexadecimal | Swift | Java | 
-|     | 404 | Sum of Left Leaves | [~~Swift~~](./Swift/sum-of-left-leaves.swift) | Java | 
+|     | 404 | Sum of Left Leaves | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/sum-of-left-leaves.swift) | Java | 
 |     | 403 | Frog Jump | Swift | Java | 
 |     | 402 | Remove K Digits | Swift | Java | 
 |     | 401 | Binary Watch | Swift | Java | 
@@ -69,12 +69,12 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 391 | Perfect Rectangle | Swift | Java | 
 |     | 390 | Elimination Game | Swift | Java | 
 |     | 389 | Find the Difference | Swift | Java | 
-|     | 388 | Longest Absolute File Path | [~~Swift~~](./Swift/longest-absolute-file-path.swift) | Java | 
-|     | 387 | First Unique Character in a String | [~~Swift~~](./Swift/first-unique-character-in-a-string.swift) | Java | 
+|     | 388 | Longest Absolute File Path | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-absolute-file-path.swift) | Java | 
+|     | 387 | First Unique Character in a String | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/first-unique-character-in-a-string.swift) | Java | 
 |     | 386 | Lexicographical Numbers | Swift | Java | 
 |     | 385 | Mini Parser | Swift | Java | 
 |     | 384 | Shuffle an Array | Swift | Java | 
-|     | 383 | Ransom Note | [~~Swift~~](./Swift/ransom-note.swift) | Java | 
+|     | 383 | Ransom Note | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/ransom-note.swift) | Java | 
 |     | 382 | Linked List Random Node | Swift | Java | 
 |     | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Swift | Java | 
 |     | 380 | Insert Delete GetRandom O(1) | Swift | Java | 
@@ -86,7 +86,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 374 | Guess Number Higher or Lower | Swift | Java | 
 |     | 373 | Find K Pairs with Smallest Sums | Swift | Java | 
 |     | 372 | Super Pow | Swift | Java | 
-|     | 371 | Sum of Two Integers | [~~Swift~~](./Swift/sum-of-two-integers.swift) | Java | 
+|     | 371 | Sum of Two Integers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/sum-of-two-integers.swift) | Java | 
 |     | 370 | Range Addition | Swift | Java | 
 |     | 369 | Plus One Linked List | Swift | Java | 
 |     | 368 | Largest Divisible Subset | Swift | Java | 
@@ -162,44 +162,44 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 298 | Binary Tree Longest Consecutive Sequence | Swift | Java | 
 |     | 297 | Serialize and Deserialize Binary Tree | Swift | Java | 
 |     | 296 | Best Meeting Point | Swift | Java | 
-|     | 295 | Find Median from Data Stream | Swift | [~~Java~~](./Java/find-median-from-data-stream.java) | 
+|     | 295 | Find Median from Data Stream | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-median-from-data-stream.java) | 
 |     | 294 | Flip Game II | Swift | Java | 
 |     | 293 | Flip Game | Swift | Java | 
-|     | 292 | Nim Game | Swift | [~~Java~~](./Java/nim-game.java) | 
+|     | 292 | Nim Game | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/nim-game.java) | 
 |     | 291 | Word Pattern II | Swift | Java | 
-|     | 290 | Word Pattern | Swift | [~~Java~~](./Java/word-pattern.java) | 
-|     | 289 | Game of Life | Swift | [~~Java~~](./Java/game-of-life.java) | 
+|     | 290 | Word Pattern | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-pattern.java) | 
+|     | 289 | Game of Life | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/game-of-life.java) | 
 |     | 288 | Unique Word Abbreviation | Swift | Java | 
-|     | 287 | Find the Duplicate Number | Swift | [~~Java~~](./Java/find-the-duplicate-number.java) | 
+|     | 287 | Find the Duplicate Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-the-duplicate-number.java) | 
 |     | 286 | Walls and Gates | Swift | Java | 
 |     | 285 | Inorder Successor in BST | Swift | Java | 
-|     | 284 | Peeking Iterator | Swift | [~~Java~~](./Java/peeking-iterator.java) | 
-|     | 283 | Move Zeroes | Swift | [~~Java~~](./Java/move-zeroes.java) | 
+|     | 284 | Peeking Iterator | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/peeking-iterator.java) | 
+|     | 283 | Move Zeroes | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/move-zeroes.java) | 
 |     | 282 | Expression Add Operators | Swift | Java | 
 |     | 281 | Zigzag Iterator | Swift | Java | 
 |     | 280 | Wiggle Sort | Swift | Java | 
-|     | 279 | Perfect Squares | Swift | [~~Java~~](./Java/perfect-squares.java) | 
-|     | 278 | First Bad Version | Swift | [~~Java~~](./Java/first-bad-version.java) | 
+|     | 279 | Perfect Squares | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/perfect-squares.java) | 
+|     | 278 | First Bad Version | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/first-bad-version.java) | 
 |     | 277 | Find the Celebrity | Swift | Java | 
 |     | 276 | Paint Fence | Swift | Java | 
-|     | 275 | H-Index II | Swift | [~~Java~~](./Java/h-index-ii.java) | 
-|     | 274 | H-Index | Swift | [~~Java~~](./Java/h-index.java) | 
+|     | 275 | H-Index II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/h-index-ii.java) | 
+|     | 274 | H-Index | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/h-index.java) | 
 |     | 273 | Integer to English Words | Swift | Java | 
 |     | 272 | Closest Binary Search Tree Value II | Swift | Java | 
 |     | 271 | Encode and Decode Strings | Swift | Java | 
 |     | 270 | Closest Binary Search Tree Value | Swift | Java | 
 |     | 269 | Alien Dictionary | Swift | Java | 
-|     | 268 | Missing Number | Swift | [~~Java~~](./Java/missing-number.java) | 
+|     | 268 | Missing Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/missing-number.java) | 
 |     | 267 | Palindrome Permutation II | Swift | Java | 
 |     | 266 | Palindrome Permutation | Swift | Java | 
 |     | 265 | Paint House II | Swift | Java | 
-|     | 264 | Ugly Number II | Swift | [~~Java~~](./Java/ugly-number-ii.java) | 
-|     | 263 | Ugly Number | Swift | [~~Java~~](./Java/ugly-number.java) | 
+|     | 264 | Ugly Number II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/ugly-number-ii.java) | 
+|     | 263 | Ugly Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/ugly-number.java) | 
 |     | 261 | Graph Valid Tree | Swift | Java | 
-|     | 260 | Single Number III | Swift | [~~Java~~](./Java/single-number-iii.java) | 
+|     | 260 | Single Number III | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/single-number-iii.java) | 
 |     | 259 | 3Sum Smaller | Swift | Java | 
-|  X  | 258 | Add Digits | [~~Swift~~](./Swift/add-digits.swift) | [~~Java~~](./Java/add-digits.java) | 
-|     | 257 | Binary Tree Paths | Swift | [~~Java~~](./Java/binary-tree-paths.java) | 
+|  X  | 258 | Add Digits | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/add-digits.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/add-digits.java) | 
+|     | 257 | Binary Tree Paths | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-paths.java) | 
 |     | 256 | Paint House | Swift | Java | 
 |     | 255 | Verify Preorder Sequence in Binary Search Tree | Swift | Java | 
 |     | 254 | Factor Combinations | Swift | Java | 
@@ -214,71 +214,71 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 245 | Shortest Word Distance III | Swift | Java | 
 |     | 244 | Shortest Word Distance II | Swift | Java | 
 |     | 243 | Shortest Word Distance | Swift | Java | 
-|     | 242 | Valid Anagram | Swift | [~~Java~~](./Java/valid-anagram.java) | 
-|     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](./Java/different-ways-to-add-parentheses.java) | 
-|     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](./Java/search-a-2d-matrix-ii.java) | 
-|     | 239 | Sliding Window Maximum | Swift | [~~Java~~](./Java/sliding-window-maximum.java) | 
+|     | 242 | Valid Anagram | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/valid-anagram.java) | 
+|     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/different-ways-to-add-parentheses.java) | 
+|     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-a-2d-matrix-ii.java) | 
+|     | 239 | Sliding Window Maximum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/sliding-window-maximum.java) | 
 |     | 238 | Product of Array Except Self | Swift | Java | 
-|     | 237 | Delete Node in a Linked List | Swift | [~~Java~~](./Java/delete-node-in-a-linked-list.java) | 
-|     | 236 | Lowest Common Ancestor of a Binary Tree | Swift | [~~Java~~](./Java/lowest-common-ancestor-of-a-binary-tree.java) | 
-|     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](./Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
-|     | 234 | Palindrome Linked List | Swift | [~~Java~~](./Java/palindrome-linked-list.java) | 
+|     | 237 | Delete Node in a Linked List | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/delete-node-in-a-linked-list.java) | 
+|     | 236 | Lowest Common Ancestor of a Binary Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/lowest-common-ancestor-of-a-binary-tree.java) | 
+|     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
+|     | 234 | Palindrome Linked List | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/palindrome-linked-list.java) | 
 |     | 233 | Number of Digit One | Swift | Java | 
-|     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](./Java/implement-queue-using-stacks.java) | 
-|     | 231 | Power of Two | Swift | [~~Java~~](./Java/power-of-two.java) | 
+|     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/implement-queue-using-stacks.java) | 
+|     | 231 | Power of Two | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/power-of-two.java) | 
 |     | 230 | Kth Smallest Element in a BST | Swift | Java | 
 |     | 229 | Majority Element II | Swift | Java | 
-|     | 228 | Summary Ranges | Swift | [~~Java~~](./Java/summary-ranges.java) | 
+|     | 228 | Summary Ranges | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/summary-ranges.java) | 
 |     | 227 | Basic Calculator II | Swift | Java | 
-|     | 226 | Invert Binary Tree | Swift | [~~Java~~](./Java/invert-binary-tree.java) | 
-|     | 225 | Implement Stack using Queues | Swift | [~~Java~~](./Java/implement-stack-using-queues.java) | 
+|     | 226 | Invert Binary Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/invert-binary-tree.java) | 
+|     | 225 | Implement Stack using Queues | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/implement-stack-using-queues.java) | 
 |     | 224 | Basic Calculator | Swift | Java | 
-|     | 223 | Rectangle Area | Swift | [~~Java~~](./Java/rectangle-area.java) | 
-|     | 222 | Count Complete Tree Nodes | Swift | [~~Java~~](./Java/count-complete-tree-nodes.java) | 
+|     | 223 | Rectangle Area | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/rectangle-area.java) | 
+|     | 222 | Count Complete Tree Nodes | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/count-complete-tree-nodes.java) | 
 |     | 221 | Maximal Square | Swift | Java | 
 |     | 220 | Contains Duplicate III | Swift | Java | 
 |     | 219 | Contains Duplicate II | Swift | Java | 
 |     | 218 | The Skyline Problem | Swift | Java | 
-|     | 217 | Contains Duplicate | Swift | [~~Java~~](./Java/contains-duplicate.java) | 
-|     | 216 | Combination Sum III | Swift | [~~Java~~](./Java/combination-sum-iii.java) | 
-|     | 215 | Kth Largest Element in an Array | Swift | [~~Java~~](./Java/kth-largest-element-in-an-array.java) | 
+|     | 217 | Contains Duplicate | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/contains-duplicate.java) | 
+|     | 216 | Combination Sum III | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combination-sum-iii.java) | 
+|     | 215 | Kth Largest Element in an Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/kth-largest-element-in-an-array.java) | 
 |     | 214 | Shortest Palindrome | Swift | Java | 
 |     | 213 | House Robber II | Swift | Java | 
-|     | 212 | Word Search II | Swift | [~~Java~~](./Java/word-search-ii.java) | 
-|     | 211 | Add and Search Word - Data structure design | Swift | [~~Java~~](./Java/add-and-search-word-data-structure-design.java) | 
+|     | 212 | Word Search II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-search-ii.java) | 
+|     | 211 | Add and Search Word - Data structure design | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/add-and-search-word-data-structure-design.java) | 
 |     | 210 | Course Schedule II | Swift | Java | 
 |     | 209 | Minimum Size Subarray Sum | Swift | Java | 
 |     | 208 | Implement Trie (Prefix Tree) | Swift | Java | 
-|     | 207 | Course Schedule | Swift | [~~Java~~](./Java/course-schedule.java) | 
-|     | 206 | Reverse Linked List | Swift | [~~Java~~](./Java/reverse-linked-list.java) | 
+|     | 207 | Course Schedule | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/course-schedule.java) | 
+|     | 206 | Reverse Linked List | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-linked-list.java) | 
 |     | 205 | Isomorphic Strings | Swift | Java | 
-|     | 204 | Count Primes | Swift | [~~Java~~](./Java/count-primes.java) | 
-|     | 203 | Remove Linked List Elements | Swift | [~~Java~~](./Java/remove-linked-list-elements.java) | 
-|     | 202 | Happy Number | Swift | [~~Java~~](./Java/happy-number.java) | 
+|     | 204 | Count Primes | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/count-primes.java) | 
+|     | 203 | Remove Linked List Elements | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-linked-list-elements.java) | 
+|     | 202 | Happy Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/happy-number.java) | 
 |     | 201 | Bitwise AND of Numbers Range | Swift | Java | 
 |     | 200 | Number of Islands | Swift | Java | 
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
-|     | 198 | House Robber | Swift | [~~Java~~](./Java/house-robber.java) | 
-|     | 191 | Number of 1 Bits | Swift | [~~Java~~](./Java/number-of-1-bits.java) | 
-|     | 190 | Reverse Bits | Swift | [~~Java~~](./Java/reverse-bits.java) | 
+|     | 198 | House Robber | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/house-robber.java) | 
+|     | 191 | Number of 1 Bits | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/number-of-1-bits.java) | 
+|     | 190 | Reverse Bits | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-bits.java) | 
 |     | 189 | Rotate Array | Swift | Java | 
-|     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](./Java/best-time-to-buy-and-sell-stock-iv.java) | 
+|     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock-iv.java) | 
 |     | 187 | Repeated DNA Sequences | Swift | Java | 
 |     | 186 | Reverse Words in a String II | Swift | Java | 
 |     | 179 | Largest Number | Swift | Java | 
-|     | 174 | Dungeon Game | Swift | [~~Java~~](./Java/dungeon-game.java) | 
+|     | 174 | Dungeon Game | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/dungeon-game.java) | 
 |     | 173 | Binary Search Tree Iterator | Swift | Java | 
 |     | 172 | Factorial Trailing Zeroes | Swift | Java | 
-|     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](./Java/excel-sheet-column-number.java) | 
+|     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/excel-sheet-column-number.java) | 
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
-|     | 169 | Majority Element | Swift | [~~Java~~](./Java/majority-element.java) | 
+|     | 169 | Majority Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/majority-element.java) | 
 |     | 168 | Excel Sheet Column Title | Swift | Java | 
 |     | 167 | Two Sum II - Input array is sorted | Swift | Java | 
 |     | 166 | Fraction to Recurring Decimal | Swift | Java | 
 |     | 165 | Compare Version Numbers | Swift | Java | 
 |     | 164 | Maximum Gap | Swift | Java | 
 |     | 163 | Missing Ranges | Swift | Java | 
-|     | 162 | Find Peak Element | Swift | [~~Java~~](./Java/find-peak-element.java) | 
+|     | 162 | Find Peak Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-peak-element.java) | 
 |     | 161 | One Edit Distance | Swift | Java | 
 |     | 160 | Intersection of Two Linked Lists | Swift | Java | 
 |     | 159 | Longest Substring with At Most Two Distinct Characters | Swift | Java | 
@@ -287,156 +287,156 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 156 | Binary Tree Upside Down | Swift | Java | 
 |     | 155 | Min Stack | Swift | Java | 
 |     | 154 | Find Minimum in Rotated Sorted Array II | Swift | Java | 
-|     | 153 | Find Minimum in Rotated Sorted Array | Swift | [~~Java~~](./Java/find-minimum-in-rotated-sorted-array.java) | 
+|     | 153 | Find Minimum in Rotated Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-minimum-in-rotated-sorted-array.java) | 
 |     | 152 | Maximum Product Subarray | Swift | Java | 
-|     | 151 | Reverse Words in a String | Swift | Java | 
+|     | 151 | Reverse Words in a String | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-words-in-a-string.java) | 
 |     | 150 | Evaluate Reverse Polish Notation | Swift | Java | 
-|     | 149 | Max Points on a Line | Swift | [~~Java~~](./Java/max-points-on-a-line.java) | 
+|     | 149 | Max Points on a Line | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/max-points-on-a-line.java) | 
 |     | 148 | Sort List | Swift | Java | 
 |     | 147 | Insertion Sort List | Swift | Java | 
-|     | 146 | LRU Cache | Swift | [~~Java~~](./Java/lru-cache.java) | 
-|     | 145 | Binary Tree Postorder Traversal | Swift | [~~Java~~](./Java/binary-tree-postorder-traversal.java) | 
-|     | 144 | Binary Tree Preorder Traversal | Swift | [~~Java~~](./Java/binary-tree-preorder-traversal.java) | 
+|     | 146 | LRU Cache | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/lru-cache.java) | 
+|     | 145 | Binary Tree Postorder Traversal | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-postorder-traversal.java) | 
+|     | 144 | Binary Tree Preorder Traversal | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-preorder-traversal.java) | 
 |     | 143 | Reorder List | Swift | Java | 
 |     | 142 | Linked List Cycle II | Swift | Java | 
-|     | 141 | Linked List Cycle | Swift | [~~Java~~](./Java/linked-list-cycle.java) | 
-|     | 140 | Word Break II | Swift | [~~Java~~](./Java/word-break-ii.java) | 
-|     | 139 | Word Break | Swift | [~~Java~~](./Java/word-break.java) | 
+|     | 141 | Linked List Cycle | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/linked-list-cycle.java) | 
+|     | 140 | Word Break II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-break-ii.java) | 
+|     | 139 | Word Break | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-break.java) | 
 |     | 138 | Copy List with Random Pointer | Swift | Java | 
-|     | 137 | Single Number II | Swift | [~~Java~~](./Java/single-number-ii.java) | 
-|  X  | 136 | Single Number | [~~Swift~~](./Swift/single-number.swift) | [~~Java~~](./Java/single-number.java) | 
-|     | 135 | Candy | Swift | [~~Java~~](./Java/candy.java) | 
+|     | 137 | Single Number II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/single-number-ii.java) | 
+|  X  | 136 | Single Number | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/single-number.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/single-number.java) | 
+|     | 135 | Candy | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/candy.java) | 
 |     | 134 | Gas Station | Swift | Java | 
 |     | 133 | Clone Graph | Swift | Java | 
 |     | 132 | Palindrome Partitioning II | Swift | Java | 
 |     | 131 | Palindrome Partitioning | Swift | Java | 
-|  X  | 130 | Surrounded Regions | [~~Swift~~](./Swift/surrounded-regions.swift) | [~~Java~~](./Java/surrounded-regions.java) | 
-|     | 129 | Sum Root to Leaf Numbers | Swift | [~~Java~~](./Java/sum-root-to-leaf-numbers.java) | 
-|     | 128 | Longest Consecutive Sequence | Swift | [~~Java~~](./Java/longest-consecutive-sequence.java) | 
-|     | 127 | Word Ladder | Swift | [~~Java~~](./Java/word-ladder.java) | 
-|     | 126 | Word Ladder II | Swift | [~~Java~~](./Java/word-ladder-ii.java) | 
+|  X  | 130 | Surrounded Regions | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/surrounded-regions.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/surrounded-regions.java) | 
+|     | 129 | Sum Root to Leaf Numbers | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/sum-root-to-leaf-numbers.java) | 
+|     | 128 | Longest Consecutive Sequence | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-consecutive-sequence.java) | 
+|     | 127 | Word Ladder | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-ladder.java) | 
+|     | 126 | Word Ladder II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-ladder-ii.java) | 
 |     | 125 | Valid Palindrome | Swift | Java | 
-|     | 124 | Binary Tree Maximum Path Sum | Swift | [~~Java~~](./Java/binary-tree-maximum-path-sum.java) | 
+|     | 124 | Binary Tree Maximum Path Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-maximum-path-sum.java) | 
 |     | 123 | Best Time to Buy and Sell Stock III | Swift | Java | 
-|     | 122 | Best Time to Buy and Sell Stock II | Swift | [~~Java~~](./Java/best-time-to-buy-and-sell-stock-ii.java) | 
-|     | 121 | Best Time to Buy and Sell Stock | Swift | [~~Java~~](./Java/best-time-to-buy-and-sell-stock.java) | 
+|     | 122 | Best Time to Buy and Sell Stock II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock-ii.java) | 
+|     | 121 | Best Time to Buy and Sell Stock | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock.java) | 
 |     | 120 | Triangle | Swift | Java | 
 |     | 119 | Pascal's Triangle II | Swift | Java | 
 |     | 118 | Pascal's Triangle | Swift | Java | 
 |     | 117 | Populating Next Right Pointers in Each Node II | Swift | Java | 
-|     | 116 | Populating Next Right Pointers in Each Node | Swift | [~~Java~~](./Java/populating-next-right-pointers-in-each-node.java) | 
+|     | 116 | Populating Next Right Pointers in Each Node | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/populating-next-right-pointers-in-each-node.java) | 
 |     | 115 | Distinct Subsequences | Swift | Java | 
-|     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](./Java/flatten-binary-tree-to-linked-list.java) | 
-|     | 113 | Path Sum II | Swift | [~~Java~~](./Java/path-sum-ii.java) | 
-|     | 112 | Path Sum | Swift | [~~Java~~](./Java/path-sum.java) | 
-|     | 111 | Minimum Depth of Binary Tree | Swift | [~~Java~~](./Java/minimum-depth-of-binary-tree.java) | 
-|     | 110 | Balanced Binary Tree | Swift | [~~Java~~](./Java/balanced-binary-tree.java) | 
-|     | 109 | Convert Sorted List to Binary Search Tree | Swift | [~~Java~~](./Java/convert-sorted-list-to-binary-search-tree.java) | 
-|     | 108 | Convert Sorted Array to Binary Search Tree | Swift | [~~Java~~](./Java/convert-sorted-array-to-binary-search-tree.java) | 
-|     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](./Java/binary-tree-level-order-traversal-ii.java) | 
+|     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/flatten-binary-tree-to-linked-list.java) | 
+|     | 113 | Path Sum II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/path-sum-ii.java) | 
+|     | 112 | Path Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/path-sum.java) | 
+|     | 111 | Minimum Depth of Binary Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/minimum-depth-of-binary-tree.java) | 
+|     | 110 | Balanced Binary Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/balanced-binary-tree.java) | 
+|     | 109 | Convert Sorted List to Binary Search Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/convert-sorted-list-to-binary-search-tree.java) | 
+|     | 108 | Convert Sorted Array to Binary Search Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/convert-sorted-array-to-binary-search-tree.java) | 
+|     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-level-order-traversal-ii.java) | 
 |     | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Swift | Java | 
 |     | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Swift | Java | 
-|     | 104 | Maximum Depth of Binary Tree | Swift | [~~Java~~](./Java/maximum-depth-of-binary-tree.java) | 
-|     | 103 | Binary Tree Zigzag Level Order Traversal | Swift | [~~Java~~](./Java/binary-tree-zigzag-level-order-traversal.java) | 
+|     | 104 | Maximum Depth of Binary Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/maximum-depth-of-binary-tree.java) | 
+|     | 103 | Binary Tree Zigzag Level Order Traversal | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-zigzag-level-order-traversal.java) | 
 |     | 102 | Binary Tree Level Order Traversal | Swift | Java | 
-|     | 101 | Symmetric Tree | Swift | [~~Java~~](./Java/symmetric-tree.java) | 
-|     | 100 | Same Tree | Swift | [~~Java~~](./Java/same-tree.java) | 
-|     | 99 | Recover Binary Search Tree | Swift | [~~Java~~](./Java/recover-binary-search-tree.java) | 
+|     | 101 | Symmetric Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/symmetric-tree.java) | 
+|     | 100 | Same Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/same-tree.java) | 
+|     | 99 | Recover Binary Search Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/recover-binary-search-tree.java) | 
 |     | 98 | Validate Binary Search Tree | Swift | Java | 
 |     | 97 | Interleaving String | Swift | Java | 
-|     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](./Java/unique-binary-search-trees.java) | 
+|     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/unique-binary-search-trees.java) | 
 |     | 95 | Unique Binary Search Trees II | Swift | Java | 
-|     | 94 | Binary Tree Inorder Traversal | Swift | [~~Java~~](./Java/binary-tree-inorder-traversal.java) | 
-|     | 93 | Restore IP Addresses | Swift | [~~Java~~](./Java/restore-ip-addresses.java) | 
+|     | 94 | Binary Tree Inorder Traversal | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-inorder-traversal.java) | 
+|     | 93 | Restore IP Addresses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/restore-ip-addresses.java) | 
 |     | 92 | Reverse Linked List II | Swift | Java | 
-|     | 91 | Decode Ways | [~~Swift~~](./Swift/decode-ways.swift) | Java | 
+|     | 91 | Decode Ways | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/decode-ways.swift) | Java | 
 |     | 90 | Subsets II | Swift | Java | 
-|     | 89 | Gray Code | Swift | [~~Java~~](./Java/gray-code.java) | 
-|     | 88 | Merge Sorted Array | Swift | [~~Java~~](./Java/merge-sorted-array.java) | 
+|     | 89 | Gray Code | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/gray-code.java) | 
+|     | 88 | Merge Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-sorted-array.java) | 
 |     | 87 | Scramble String | Swift | Java | 
 |     | 86 | Partition List | Swift | Java | 
 |     | 85 | Maximal Rectangle | Swift | Java | 
 |     | 84 | Largest Rectangle in Histogram | Swift | Java | 
-|     | 83 | Remove Duplicates from Sorted List | Swift | [~~Java~~](./Java/remove-duplicates-from-sorted-list.java) | 
+|     | 83 | Remove Duplicates from Sorted List | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-list.java) | 
 |     | 82 | Remove Duplicates from Sorted List II | Swift | Java | 
 |     | 81 | Search in Rotated Sorted Array II | Swift | Java | 
-|     | 80 | Remove Duplicates from Sorted Array II | Swift | [~~Java~~](./Java/remove-duplicates-from-sorted-array-ii.java) | 
+|     | 80 | Remove Duplicates from Sorted Array II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-array-ii.java) | 
 |     | 79 | Word Search | Swift | Java | 
-|     | 78 | Subsets | Swift | [~~Java~~](./Java/subsets.java) | 
-|     | 77 | Combinations | Swift | [~~Java~~](./Java/combinations.java) | 
+|     | 78 | Subsets | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/subsets.java) | 
+|     | 77 | Combinations | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combinations.java) | 
 |     | 76 | Minimum Window Substring | Swift | Java | 
 |     | 75 | Sort Colors | Swift | Java | 
-|     | 74 | Search a 2D Matrix | Swift | [~~Java~~](./Java/search-a-2d-matrix.java) | 
+|     | 74 | Search a 2D Matrix | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-a-2d-matrix.java) | 
 |     | 73 | Set Matrix Zeroes | Swift | Java | 
-|     | 72 | Edit Distance | Swift | [~~Java~~](./Java/edit-distance.java) | 
+|     | 72 | Edit Distance | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/edit-distance.java) | 
 |     | 71 | Simplify Path | Swift | Java | 
-|     | 70 | Climbing Stairs | Swift | [~~Java~~](./Java/climbing-stairs.java) | 
+|     | 70 | Climbing Stairs | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/climbing-stairs.java) | 
 |     | 69 | Sqrt(x) | Swift | Java | 
-|     | 68 | Text Justification | Swift | [~~Java~~](./Java/text-justification.java) | 
+|     | 68 | Text Justification | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/text-justification.java) | 
 |     | 67 | Add Binary | Swift | Java | 
 |     | 66 | Plus One | Swift | Java | 
-|     | 65 | Valid Number | Swift | [~~Java~~](./Java/valid-number.java) | 
-|     | 64 | Minimum Path Sum | Swift | [~~Java~~](./Java/minimum-path-sum.java) | 
-|     | 63 | Unique Paths II | Swift | [~~Java~~](./Java/unique-paths-ii.java) | 
-|     | 62 | Unique Paths | Swift | [~~Java~~](./Java/unique-paths.java) | 
+|     | 65 | Valid Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/valid-number.java) | 
+|     | 64 | Minimum Path Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/minimum-path-sum.java) | 
+|     | 63 | Unique Paths II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/unique-paths-ii.java) | 
+|     | 62 | Unique Paths | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/unique-paths.java) | 
 |     | 61 | Rotate List | Swift | Java | 
-|     | 60 | Permutation Sequence | Swift | [~~Java~~](./Java/permutation-sequence.java) | 
-|     | 59 | Spiral Matrix II | Swift | [~~Java~~](./Java/spiral-matrix-ii.java) | 
-|     | 58 | Length of Last Word | Swift | [~~Java~~](./Java/length-of-last-word.java) | 
+|     | 60 | Permutation Sequence | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/permutation-sequence.java) | 
+|     | 59 | Spiral Matrix II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/spiral-matrix-ii.java) | 
+|     | 58 | Length of Last Word | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/length-of-last-word.java) | 
 |     | 57 | Insert Interval | Swift | Java | 
-|     | 56 | Merge Intervals | Swift | [~~Java~~](./Java/merge-intervals.java) | 
-|     | 55 | Jump Game | Swift | [~~Java~~](./Java/jump-game.java) | 
+|     | 56 | Merge Intervals | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-intervals.java) | 
+|     | 55 | Jump Game | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/jump-game.java) | 
 |     | 54 | Spiral Matrix | Swift | Java | 
-|     | 53 | Maximum Subarray | Swift | [~~Java~~](./Java/maximum-subarray.java) | 
-|     | 52 | N-Queens II | Swift | [~~Java~~](./Java/n-queens-ii.java) | 
-|     | 51 | N-Queens | Swift | [~~Java~~](./Java/n-queens.java) | 
-|     | 50 | Pow(x, n) | Swift | [~~Java~~](./Java/powx-n.java) | 
-|     | 49 | Group Anagrams | Swift | [~~Java~~](./Java/anagrams.java) | 
+|     | 53 | Maximum Subarray | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/maximum-subarray.java) | 
+|     | 52 | N-Queens II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/n-queens-ii.java) | 
+|     | 51 | N-Queens | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/n-queens.java) | 
+|     | 50 | Pow(x, n) | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/powx-n.java) | 
+|     | 49 | Group Anagrams | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/anagrams.java) | 
 |     | 48 | Rotate Image | Swift | Java | 
-|     | 47 | Permutations II | Swift | [~~Java~~](./Java/permutations-ii.java) | 
-|     | 46 | Permutations | Swift | [~~Java~~](./Java/permutations.java) | 
-|     | 45 | Jump Game II | Swift | [~~Java~~](./Java/jump-game-ii.java) | 
-|     | 44 | Wildcard Matching | Swift | [~~Java~~](./Java/wildcard-matching.java) | 
-|     | 43 | Multiply Strings | Swift | [~~Java~~](./Java/multiply-strings.java) | 
-|     | 42 | Trapping Rain Water | Swift | [~~Java~~](./Java/trapping-rain-water.java) | 
+|     | 47 | Permutations II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/permutations-ii.java) | 
+|     | 46 | Permutations | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/permutations.java) | 
+|     | 45 | Jump Game II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/jump-game-ii.java) | 
+|     | 44 | Wildcard Matching | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/wildcard-matching.java) | 
+|     | 43 | Multiply Strings | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/multiply-strings.java) | 
+|     | 42 | Trapping Rain Water | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/trapping-rain-water.java) | 
 |     | 41 | First Missing Positive | Swift | Java | 
-|     | 40 | Combination Sum II | Swift | [~~Java~~](./Java/combination-sum-ii.java) | 
-|     | 39 | Combination Sum | Swift | [~~Java~~](./Java/combination-sum.java) | 
+|     | 40 | Combination Sum II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combination-sum-ii.java) | 
+|     | 39 | Combination Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combination-sum.java) | 
 |     | 38 | Count and Say | Swift | Java | 
-|     | 37 | Sudoku Solver | Swift | [~~Java~~](./Java/sudoku-solver.java) | 
+|     | 37 | Sudoku Solver | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/sudoku-solver.java) | 
 |     | 36 | Valid Sudoku | Swift | Java | 
-|     | 35 | Search Insert Position | Swift | [~~Java~~](./Java/search-insert-position.java) | 
+|     | 35 | Search Insert Position | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-insert-position.java) | 
 |     | 34 | Search for a Range | Swift | Java | 
-|     | 33 | Search in Rotated Sorted Array | Swift | [~~Java~~](./Java/search-in-rotated-sorted-array.java) | 
-|     | 32 | Longest Valid Parentheses | Swift | [~~Java~~](./Java/longest-valid-parentheses.java) | 
-|     | 31 | Next Permutation | Swift | [~~Java~~](./Java/next-permutation.java) | 
+|     | 33 | Search in Rotated Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-in-rotated-sorted-array.java) | 
+|     | 32 | Longest Valid Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-valid-parentheses.java) | 
+|     | 31 | Next Permutation | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/next-permutation.java) | 
 |     | 30 | Substring with Concatenation of All Words | Swift | Java | 
-|  X  | 29 | Divide Two Integers | [~~Swift~~](./Swift/divide-two-integers.swift) | [~~Java~~](./Java/divide-two-integers.java) | 
+|  X  | 29 | Divide Two Integers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/divide-two-integers.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/divide-two-integers.java) | 
 |     | 28 | Implement strStr() | Swift | Java | 
-|     | 27 | Remove Element | Swift | [~~Java~~](./Java/remove-element.java) | 
-|     | 26 | Remove Duplicates from Sorted Array | Swift | [~~Java~~](./Java/remove-duplicates-from-sorted-array.java) | 
-|     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](./Java/reverse-nodes-in-k-group.java) | 
-|     | 24 | Swap Nodes in Pairs | Swift | [~~Java~~](./Java/swap-nodes-in-pairs.java) | 
-|     | 23 | Merge k Sorted Lists | Swift | [~~Java~~](./Java/merge-k-sorted-lists.java) | 
-|     | 22 | Generate Parentheses | Swift | [~~Java~~](./Java/generate-parentheses.java) | 
-|     | 21 | Merge Two Sorted Lists | Swift | [~~Java~~](./Java/merge-two-sorted-lists.java) | 
+|     | 27 | Remove Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-element.java) | 
+|     | 26 | Remove Duplicates from Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-array.java) | 
+|     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-nodes-in-k-group.java) | 
+|     | 24 | Swap Nodes in Pairs | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/swap-nodes-in-pairs.java) | 
+|     | 23 | Merge k Sorted Lists | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-k-sorted-lists.java) | 
+|     | 22 | Generate Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/generate-parentheses.java) | 
+|     | 21 | Merge Two Sorted Lists | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-two-sorted-lists.java) | 
 |     | 20 | Valid Parentheses | Swift | Java | 
 |     | 19 | Remove Nth Node From End of List | Swift | Java | 
 |     | 18 | 4Sum | Swift | Java | 
-|     | 17 | Letter Combinations of a Phone Number | Swift | [~~Java~~](./Java/letter-combinations-of-a-phone-number.java) | 
+|     | 17 | Letter Combinations of a Phone Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/letter-combinations-of-a-phone-number.java) | 
 |     | 16 | 3Sum Closest | Swift | Java | 
-|     | 15 | 3Sum | Swift | [~~Java~~](./Java/3sum.java) | 
-|     | 14 | Longest Common Prefix | Swift | [~~Java~~](./Java/longest-common-prefix.java) | 
-|     | 13 | Roman to Integer | Swift | [~~Java~~](./Java/roman-to-integer.java) | 
+|     | 15 | 3Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/3sum.java) | 
+|     | 14 | Longest Common Prefix | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-common-prefix.java) | 
+|     | 13 | Roman to Integer | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/roman-to-integer.java) | 
 |     | 12 | Integer to Roman | Swift | Java | 
 |     | 11 | Container With Most Water | Swift | Java | 
 |     | 10 | Regular Expression Matching | Swift | Java | 
 |     | 9 | Palindrome Number | Swift | Java | 
 |     | 8 | String to Integer (atoi) | Swift | Java | 
-|     | 7 | Reverse Integer | Swift | [~~Java~~](./Java/reverse-integer.java) | 
+|     | 7 | Reverse Integer | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-integer.java) | 
 |     | 6 | ZigZag Conversion | Swift | Java | 
 |     | 5 | Longest Palindromic Substring | Swift | Java | 
-|     | 4 | Median of Two Sorted Arrays | Swift | [~~Java~~](./Java/median-of-two-sorted-arrays.java) | 
+|     | 4 | Median of Two Sorted Arrays | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/median-of-two-sorted-arrays.java) | 
 |     | 3 | Longest Substring Without Repeating Characters | Swift | Java | 
-|     | 2 | Add Two Numbers | Swift | [~~Java~~](./Java/add-two-numbers.java) | 
-|  X  | 1 | Two Sum | [~~Swift~~](./Swift/two-sum.swift) | [~~Java~~](./Java/two-sum.java) | 
+|     | 2 | Add Two Numbers | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/add-two-numbers.java) | 
+|  X  | 1 | Two Sum | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/two-sum.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/two-sum.java) | 
