@@ -2,6 +2,8 @@
 
 This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
 
+ \> `swift readme_gen.swift > README.md`
+
 
 | X | # | Question | Swift-15 | Java-147 |
 |---|---|---|---|---|
