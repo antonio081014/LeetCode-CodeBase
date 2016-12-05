@@ -160,7 +160,7 @@ func ifFileExists(_ name: String, in lang: Language) -> Bool {
 }
 
 // MARK: - Generate README.md
-print("# LeeCode-CodeBase")
-print("This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.")
+print("# LeeCode-CodeBase\n")
+print("This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.\n\n")
 let url = "https://leetcode.com/api/problems/algorithms/"
 importDataFromURL(url, with: normalizeJSON)
