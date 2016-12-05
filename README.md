@@ -1,7 +1,9 @@
 # LeeCode-CodeBase
+
 This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
 
-| X | # | Question | Swift-14 | Java-147 |
+
+| X | # | Question | Swift-15 | Java-147 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
@@ -435,4 +437,4 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 4 | Median of Two Sorted Arrays | Swift | [~~Java~~](./Java/median-of-two-sorted-arrays.java) | 
 |     | 3 | Longest Substring Without Repeating Characters | Swift | Java | 
 |     | 2 | Add Two Numbers | Swift | [~~Java~~](./Java/add-two-numbers.java) | 
-|     | 1 | Two Sum | Swift | [~~Java~~](./Java/two-sum.java) | 
+|  X  | 1 | Two Sum | [~~Swift~~](./Swift/two-sum.swift) | [~~Java~~](./Java/two-sum.java) | 
