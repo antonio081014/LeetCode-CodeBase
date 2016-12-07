@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
  \> `swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-15 | Java-148 |
+| X | # | Question | Swift-16 | Java-148 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
@@ -66,7 +66,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 394 | Decode String | Swift | Java | 
 |     | 393 | UTF-8 Validation | Swift | Java | 
 |     | 392 | Is Subsequence | Swift | Java | 
-|     | 391 | Perfect Rectangle | Swift | Java | 
+|     | 391 | Perfect Rectangle | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/perfect-rectangle.swift) | Java | 
 |     | 390 | Elimination Game | Swift | Java | 
 |     | 389 | Find the Difference | Swift | Java | 
 |     | 388 | Longest Absolute File Path | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-absolute-file-path.swift) | Java | 
