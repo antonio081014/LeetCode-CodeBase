@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
  \> `swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-17 | Java-148 |
+| X | # | Question | Swift-18 | Java-148 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
@@ -388,7 +388,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 55 | Jump Game | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/jump-game.java) | 
 |     | 54 | Spiral Matrix | Swift | Java | 
 |     | 53 | Maximum Subarray | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/maximum-subarray.java) | 
-|     | 52 | N-Queens II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/n-queens-ii.java) | 
+|  X  | 52 | N-Queens II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/n-queens-ii.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/n-queens-ii.java) | 
 |  X  | 51 | N-Queens | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/n-queens.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/n-queens.java) | 
 |     | 50 | Pow(x, n) | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/powx-n.java) | 
 |     | 49 | Group Anagrams | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/anagrams.java) | 
