@@ -2,10 +2,10 @@
 
 This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
 
- \> `swift readme_gen.swift > README.md`
+`> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-20 | Java-148 |
+| X | # | Question | Swift-21 | Java-148 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
@@ -170,7 +170,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 290 | Word Pattern | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-pattern.java) | 
 |     | 289 | Game of Life | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/game-of-life.java) | 
 |     | 288 | Unique Word Abbreviation | Swift | Java | 
-|     | 287 | Find the Duplicate Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-the-duplicate-number.java) | 
+|  X  | 287 | Find the Duplicate Number | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/find-the-duplicate-number.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-the-duplicate-number.java) | 
 |     | 286 | Walls and Gates | Swift | Java | 
 |     | 285 | Inorder Successor in BST | Swift | Java | 
 |     | 284 | Peeking Iterator | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/peeking-iterator.java) | 
