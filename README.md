@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
  \> `swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-19 | Java-148 |
+| X | # | Question | Swift-20 | Java-148 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
@@ -369,7 +369,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 74 | Search a 2D Matrix | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-a-2d-matrix.java) | 
 |     | 73 | Set Matrix Zeroes | Swift | Java | 
 |     | 72 | Edit Distance | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/edit-distance.java) | 
-|     | 71 | Simplify Path | Swift | Java | 
+|     | 71 | Simplify Path | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/simplify-path.swift) | Java | 
 |     | 70 | Climbing Stairs | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/climbing-stairs.java) | 
 |     | 69 | Sqrt(x) | Swift | Java | 
 |     | 68 | Text Justification | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/text-justification.java) | 
