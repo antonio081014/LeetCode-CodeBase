@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-21 | Java-148 |
+| X | # | Question | Swift-22 | Java-148 |
 |---|---|---|---|---|
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
@@ -145,7 +145,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 315 | Count of Smaller Numbers After Self | Swift | Java | 
 |     | 314 | Binary Tree Vertical Order Traversal | Swift | Java | 
 |     | 313 | Super Ugly Number | Swift | Java | 
-|     | 312 | Burst Balloons | Swift | Java | 
+|     | 312 | Burst Balloons | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/burst-balloons.swift) | Java | 
 |     | 311 | Sparse Matrix Multiplication | Swift | Java | 
 |     | 310 | Minimum Height Trees | Swift | Java | 
 |     | 309 | Best Time to Buy and Sell Stock with Cooldown | Swift | Java | 
