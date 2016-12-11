@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-26 | Java-148 |
+| X | # | Question | Swift-26 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -291,7 +291,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 157 | Read N Characters Given Read4 | Swift | Java | 
 |     | 156 | Binary Tree Upside Down | Swift | Java | 
 |     | 155 | Min Stack | Swift | Java | 
-|     | 154 | Find Minimum in Rotated Sorted Array II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/find-minimum-in-rotated-sorted-array-ii.swift) | Java | 
+|  X  | 154 | Find Minimum in Rotated Sorted Array II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/find-minimum-in-rotated-sorted-array-ii.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-minimum-in-rotated-sorted-array-ii.java) | 
 |  X  | 153 | Find Minimum in Rotated Sorted Array | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/find-minimum-in-rotated-sorted-array.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-minimum-in-rotated-sorted-array.java) | 
 |     | 152 | Maximum Product Subarray | Swift | Java | 
 |     | 151 | Reverse Words in a String | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-words-in-a-string.java) | 
