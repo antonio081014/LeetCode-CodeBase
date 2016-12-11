@@ -5,9 +5,14 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-22 | Java-148 |
+| X | # | Question | Swift-23 | Java-148 |
 |---|---|---|---|---|
+|     | 476 | Number Complement | Swift | Java | 
+|     | 475 | Heaters | Swift | Java | 
+|     | 474 | Ones and Zeroes | Swift | Java | 
+|     | 471 | Encode String with Shortest Length | Swift | Java | 
 |     | 469 | Convex Polygon | Swift | Java | 
+|     | 468 | Validate IP Address | Swift | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
 |     | 466 | Count The Repetitions | Swift | Java | 
 |     | 465 | Optimal Account Balancing | Swift | Java | 
@@ -312,7 +317,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 131 | Palindrome Partitioning | Swift | Java | 
 |  X  | 130 | Surrounded Regions | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/surrounded-regions.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/surrounded-regions.java) | 
 |     | 129 | Sum Root to Leaf Numbers | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/sum-root-to-leaf-numbers.java) | 
-|     | 128 | Longest Consecutive Sequence | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-consecutive-sequence.java) | 
+|  X  | 128 | Longest Consecutive Sequence | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-consecutive-sequence.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-consecutive-sequence.java) | 
 |     | 127 | Word Ladder | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-ladder.java) | 
 |     | 126 | Word Ladder II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-ladder-ii.java) | 
 |     | 125 | Valid Palindrome | Swift | Java | 
