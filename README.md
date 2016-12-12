@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-27 | Java-149 |
+| X | # | Question | Swift-28 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -242,7 +242,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 222 | Count Complete Tree Nodes | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/count-complete-tree-nodes.java) | 
 |     | 221 | Maximal Square | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/maximal-square.swift) | Java | 
 |     | 220 | Contains Duplicate III | Swift | Java | 
-|     | 219 | Contains Duplicate II | Swift | Java | 
+|     | 219 | Contains Duplicate II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/contains-duplicate-ii.swift) | Java | 
 |     | 218 | The Skyline Problem | Swift | Java | 
 |     | 217 | Contains Duplicate | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/contains-duplicate.java) | 
 |     | 216 | Combination Sum III | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combination-sum-iii.java) | 
