@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-29 | Java-149 |
+| X | # | Question | Swift-30 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -403,7 +403,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 45 | Jump Game II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/jump-game-ii.java) | 
 |     | 44 | Wildcard Matching | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/wildcard-matching.java) | 
 |     | 43 | Multiply Strings | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/multiply-strings.java) | 
-|     | 42 | Trapping Rain Water | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/trapping-rain-water.java) | 
+|  X  | 42 | Trapping Rain Water | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/trapping-rain-water.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/trapping-rain-water.java) | 
 |     | 41 | First Missing Positive | Swift | Java | 
 |     | 40 | Combination Sum II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combination-sum-ii.java) | 
 |     | 39 | Combination Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combination-sum.java) | 
