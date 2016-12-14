@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-30 | Java-149 |
+| X | # | Question | Swift-31 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -55,7 +55,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 410 | Split Array Largest Sum | Swift | Java | 
 |     | 409 | Longest Palindrome | Swift | Java | 
 |     | 408 | Valid Word Abbreviation | Swift | Java | 
-|     | 407 | Trapping Rain Water II | Swift | Java | 
+|     | 407 | Trapping Rain Water II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/trapping-rain-water-ii.swift) | Java | 
 |     | 406 | Queue Reconstruction by Height | Swift | Java | 
 |     | 405 | Convert a Number to Hexadecimal | Swift | Java | 
 |     | 404 | Sum of Left Leaves | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/sum-of-left-leaves.swift) | Java | 
