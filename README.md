@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-32 | Java-149 |
+| X | # | Question | Swift-33 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -442,6 +442,6 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 6 | ZigZag Conversion | Swift | Java | 
 |     | 5 | Longest Palindromic Substring | Swift | Java | 
 |     | 4 | Median of Two Sorted Arrays | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/median-of-two-sorted-arrays.java) | 
-|     | 3 | Longest Substring Without Repeating Characters | Swift | Java | 
+|     | 3 | Longest Substring Without Repeating Characters | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-substring-without-repeating-characters.swift) | Java | 
 |  X  | 2 | Add Two Numbers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/add-two-numbers.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/add-two-numbers.java) | 
 |  X  | 1 | Two Sum | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/two-sum.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/two-sum.java) | 
