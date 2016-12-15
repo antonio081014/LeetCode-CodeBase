@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-37 | Java-149 |
+| X | # | Question | Swift-38 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -438,7 +438,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 10 | Regular Expression Matching | Swift | Java | 
 |     | 9 | Palindrome Number | Swift | Java | 
 |     | 8 | String to Integer (atoi) | Swift | Java | 
-|     | 7 | Reverse Integer | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-integer.java) | 
+|  X  | 7 | Reverse Integer | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/reverse-integer.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-integer.java) | 
 |     | 6 | ZigZag Conversion | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/zigzag-conversion.swift) | Java | 
 |     | 5 | Longest Palindromic Substring | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-palindromic-substring.swift) | Java | 
 |  X  | 4 | Median of Two Sorted Arrays | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/median-of-two-sorted-arrays.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/median-of-two-sorted-arrays.java) | 
