@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-34 | Java-149 |
+| X | # | Question | Swift-35 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -360,7 +360,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 88 | Merge Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-sorted-array.java) | 
 |     | 87 | Scramble String | Swift | Java | 
 |     | 86 | Partition List | Swift | Java | 
-|     | 85 | Maximal Rectangle | Swift | Java | 
+|     | 85 | Maximal Rectangle | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/maximal-rectangle.swift) | Java | 
 |     | 84 | Largest Rectangle in Histogram | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/largest-rectangle-in-histogram.swift) | Java | 
 |     | 83 | Remove Duplicates from Sorted List | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-list.java) | 
 |     | 82 | Remove Duplicates from Sorted List II | Swift | Java | 
