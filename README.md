@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-38 | Java-149 |
+| X | # | Question | Swift-39 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -436,7 +436,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 12 | Integer to Roman | Swift | Java | 
 |     | 11 | Container With Most Water | Swift | Java | 
 |     | 10 | Regular Expression Matching | Swift | Java | 
-|     | 9 | Palindrome Number | Swift | Java | 
+|     | 9 | Palindrome Number | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/palindrome-number.swift) | Java | 
 |     | 8 | String to Integer (atoi) | Swift | Java | 
 |  X  | 7 | Reverse Integer | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/reverse-integer.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-integer.java) | 
 |     | 6 | ZigZag Conversion | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/zigzag-conversion.swift) | Java | 
