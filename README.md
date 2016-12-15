@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-35 | Java-149 |
+| X | # | Question | Swift-36 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -440,7 +440,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 8 | String to Integer (atoi) | Swift | Java | 
 |     | 7 | Reverse Integer | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-integer.java) | 
 |     | 6 | ZigZag Conversion | Swift | Java | 
-|     | 5 | Longest Palindromic Substring | Swift | Java | 
+|     | 5 | Longest Palindromic Substring | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-palindromic-substring.swift) | Java | 
 |  X  | 4 | Median of Two Sorted Arrays | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/median-of-two-sorted-arrays.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/median-of-two-sorted-arrays.java) | 
 |     | 3 | Longest Substring Without Repeating Characters | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-substring-without-repeating-characters.swift) | Java | 
 |  X  | 2 | Add Two Numbers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/add-two-numbers.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/add-two-numbers.java) | 
