@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-42 | Java-149 |
+| X | # | Question | Swift-43 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -426,7 +426,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 22 | Generate Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/generate-parentheses.java) | 
 |     | 21 | Merge Two Sorted Lists | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-two-sorted-lists.java) | 
 |     | 20 | Valid Parentheses | Swift | Java | 
-|     | 19 | Remove Nth Node From End of List | Swift | Java | 
+|     | 19 | Remove Nth Node From End of List | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/remove-nth-node-from-end-of-list.swift) | Java | 
 |     | 18 | 4Sum | Swift | Java | 
 |     | 17 | Letter Combinations of a Phone Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/letter-combinations-of-a-phone-number.java) | 
 |     | 16 | 3Sum Closest | Swift | Java | 
