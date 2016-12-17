@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-43 | Java-149 |
+| X | # | Question | Swift-44 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -428,7 +428,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 20 | Valid Parentheses | Swift | Java | 
 |     | 19 | Remove Nth Node From End of List | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/remove-nth-node-from-end-of-list.swift) | Java | 
 |     | 18 | 4Sum | Swift | Java | 
-|     | 17 | Letter Combinations of a Phone Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/letter-combinations-of-a-phone-number.java) | 
+|  X  | 17 | Letter Combinations of a Phone Number | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/letter-combinations-of-a-phone-number.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/letter-combinations-of-a-phone-number.java) | 
 |     | 16 | 3Sum Closest | Swift | Java | 
 |     | 15 | 3Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/3sum.java) | 
 |     | 14 | Longest Common Prefix | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-common-prefix.java) | 
