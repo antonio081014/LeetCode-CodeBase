@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-44 | Java-149 |
+| X | # | Question | Swift-45 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -425,7 +425,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 23 | Merge k Sorted Lists | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-k-sorted-lists.java) | 
 |     | 22 | Generate Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/generate-parentheses.java) | 
 |     | 21 | Merge Two Sorted Lists | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-two-sorted-lists.java) | 
-|     | 20 | Valid Parentheses | Swift | Java | 
+|     | 20 | Valid Parentheses | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/valid-parentheses.swift) | Java | 
 |     | 19 | Remove Nth Node From End of List | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/remove-nth-node-from-end-of-list.swift) | Java | 
 |     | 18 | 4Sum | Swift | Java | 
 |  X  | 17 | Letter Combinations of a Phone Number | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/letter-combinations-of-a-phone-number.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/letter-combinations-of-a-phone-number.java) | 
