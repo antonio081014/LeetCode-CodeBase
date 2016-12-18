@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-46 | Java-149 |
+| X | # | Question | Swift-47 | Java-149 |
 |---|---|---|---|---|
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
@@ -423,7 +423,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-nodes-in-k-group.java) | 
 |     | 24 | Swap Nodes in Pairs | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/swap-nodes-in-pairs.java) | 
 |     | 23 | Merge k Sorted Lists | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-k-sorted-lists.java) | 
-|     | 22 | Generate Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/generate-parentheses.java) | 
+|  X  | 22 | Generate Parentheses | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/generate-parentheses.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/generate-parentheses.java) | 
 |  X  | 21 | Merge Two Sorted Lists | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/merge-two-sorted-lists.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-two-sorted-lists.java) | 
 |     | 20 | Valid Parentheses | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/valid-parentheses.swift) | Java | 
 |     | 19 | Remove Nth Node From End of List | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/remove-nth-node-from-end-of-list.swift) | Java | 
