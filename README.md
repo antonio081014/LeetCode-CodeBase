@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-49 | Java-149 |
+| X | # | Question | Swift-50 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | Swift | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -423,7 +423,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |  X  | 29 | Divide Two Integers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/divide-two-integers.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/divide-two-integers.java) | 
 |     | 28 | Implement strStr() | Swift | Java | 
 |     | 27 | Remove Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-element.java) | 
-|     | 26 | Remove Duplicates from Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-array.java) | 
+|  X  | 26 | Remove Duplicates from Sorted Array | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/remove-duplicates-from-sorted-array.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-array.java) | 
 |     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-nodes-in-k-group.java) | 
 |  X  | 24 | Swap Nodes in Pairs | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/swap-nodes-in-pairs.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/swap-nodes-in-pairs.java) | 
 |  X  | 23 | Merge k Sorted Lists | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/merge-k-sorted-lists.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-k-sorted-lists.java) | 
