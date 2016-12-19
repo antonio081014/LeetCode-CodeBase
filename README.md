@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-48 | Java-149 |
+| X | # | Question | Swift-49 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | Swift | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -425,7 +425,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 27 | Remove Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-element.java) | 
 |     | 26 | Remove Duplicates from Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-array.java) | 
 |     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-nodes-in-k-group.java) | 
-|     | 24 | Swap Nodes in Pairs | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/swap-nodes-in-pairs.java) | 
+|  X  | 24 | Swap Nodes in Pairs | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/swap-nodes-in-pairs.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/swap-nodes-in-pairs.java) | 
 |  X  | 23 | Merge k Sorted Lists | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/merge-k-sorted-lists.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-k-sorted-lists.java) | 
 |  X  | 22 | Generate Parentheses | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/generate-parentheses.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/generate-parentheses.java) | 
 |  X  | 21 | Merge Two Sorted Lists | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/merge-two-sorted-lists.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/merge-two-sorted-lists.java) | 
