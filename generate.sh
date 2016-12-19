@@ -1,0 +1,40 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]; then
+echo "Needs File Name as Argument."
+exit 0
+fi
+
+if [ ! -f ./code.swift ]; then
+echo "Source Code file: code.swift not exists."
+exit 0
+fi
+
+echo $1
+
+echo "Create file $1"
+
+touch ./Swift/$1.swift
+
+echo "Create File Document Header."
+
+echo "/**" >> ./Swift/$1.swift
+echo " * https://leetcode.com/problems/$1/" >> ./Swift/$1.swift
+echo " * " >> ./Swift/$1.swift
+echo " * " >> ./Swift/$1.swift
+echo " */ " >> ./Swift/$1.swift
+
+echo "Copy Source Code."
+cat ./code.swift >> ./Swift/$1.swift
+
+echo "Clear code.swift"
+echo "" >  ./code.swift
+
+echo "Generate README.md"
+swift readme_gen.swift > README.md
+
+git add .
+
+git commit -m "Add $1.swift"
+
+git push origin master
