@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-50 | Java-149 |
+| X | # | Question | Swift-51 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | Swift | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -370,7 +370,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 82 | Remove Duplicates from Sorted List II | Swift | Java | 
 |     | 81 | Search in Rotated Sorted Array II | Swift | Java | 
 |     | 80 | Remove Duplicates from Sorted Array II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-array-ii.java) | 
-|     | 79 | Word Search | Swift | Java | 
+|     | 79 | Word Search | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/word-search.swift) | Java | 
 |     | 78 | Subsets | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/subsets.java) | 
 |     | 77 | Combinations | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/combinations.java) | 
 |     | 76 | Minimum Window Substring | Swift | Java | 
