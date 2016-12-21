@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-51 | Java-149 |
+| X | # | Question | Swift-52 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | Swift | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -29,9 +29,15 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 454 | 4Sum II | Swift | Java | 
 |     | 453 | Minimum Moves to Equal Array Elements | Swift | Java | 
 |     | 452 | Minimum Number of Arrows to Burst Balloons | Swift | Java | 
+|     | 451 | Sort Characters By Frequency | Swift | Java | 
+|     | 450 | Delete Node in a BST | Swift | Java | 
+|     | 449 | Serialize and Deserialize BST | Swift | Java | 
+|     | 448 | Find All Numbers Disappeared in an Array | Swift | Java | 
 |     | 447 | Number of Boomerangs | Swift | Java | 
 |     | 446 | Arithmetic Slices II - Subsequence | Swift | Java | 
+|     | 445 | Add Two Numbers II | Swift | Java | 
 |     | 444 | Sequence Reconstruction | Swift | Java | 
+|     | 442 | Find All Duplicates in an Array | Swift | Java | 
 |     | 441 | Arranging Coins | Swift | Java | 
 |     | 440 | K-th Smallest in Lexicographical Order | Swift | Java | 
 |     | 439 | Ternary Expression Parser | Swift | Java | 
@@ -253,7 +259,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 215 | Kth Largest Element in an Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/kth-largest-element-in-an-array.java) | 
 |     | 214 | Shortest Palindrome | Swift | Java | 
 |     | 213 | House Robber II | Swift | Java | 
-|     | 212 | Word Search II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-search-ii.java) | 
+|  X  | 212 | Word Search II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/word-search-ii.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-search-ii.java) | 
 |     | 211 | Add and Search Word - Data structure design | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/add-and-search-word-data-structure-design.java) | 
 |     | 210 | Course Schedule II | Swift | Java | 
 |     | 209 | Minimum Size Subarray Sum | Swift | Java | 
