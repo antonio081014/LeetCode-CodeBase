@@ -8,7 +8,7 @@ class Solution {
     let dir:[(Int, Int)] = [(1,0), (0,1), (-1,0), (0,-1)]
     
     /**
-     * The reason why TrieNode has to be class, is the root of Trie has be an referencable object, 
+     * The reason why TrieNode has to be class, is the root of Trie has be an reference type object, 
      * which would be the same object shared every time being used, e.g insert, search or startWith.
      *
      * The struct will make another copy of the root instead, which doesn't server as we proposed.
@@ -128,12 +128,11 @@ class Solution {
 }
 let board = ["oaan","etae","ihkr","iflv"].map({Array($0.characters)})
 let words = ["oath","pea","eat","rain", "an"]
-//let words = ["abc", "acd", "acf"]
 
 print("\(findWords(board, words))")
 
 let trie = Trie()
-for w in words {
+for w in ["abc", "acd", "acf"] {
     print("Word: \(w)")
     trie.insert(word: w)
 }
