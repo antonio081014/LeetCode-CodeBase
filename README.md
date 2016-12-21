@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-52 | Java-149 |
+| X | # | Question | Swift-53 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | Swift | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -423,7 +423,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 35 | Search Insert Position | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-insert-position.java) | 
 |     | 34 | Search for a Range | Swift | Java | 
 |     | 33 | Search in Rotated Sorted Array | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-in-rotated-sorted-array.java) | 
-|     | 32 | Longest Valid Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-valid-parentheses.java) | 
+|  X  | 32 | Longest Valid Parentheses | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-valid-parentheses.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-valid-parentheses.java) | 
 |     | 31 | Next Permutation | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/next-permutation.java) | 
 |     | 30 | Substring with Concatenation of All Words | Swift | Java | 
 |  X  | 29 | Divide Two Integers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/divide-two-integers.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/divide-two-integers.java) | 
