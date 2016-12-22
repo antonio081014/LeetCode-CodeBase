@@ -15,4 +15,15 @@ class Solution {
         }
         return count
     }
+    
+    func hammingDistance(_ x: Int, _ y: Int) -> Int {
+        let z = x ^ y
+        var count = 0
+        for i in 0..<32 {
+            if ((z>>i) & 1) > 0 {
+                count += 1
+            }
+        }
+        return count
+    }
 }
