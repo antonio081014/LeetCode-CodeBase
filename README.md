@@ -5,13 +5,13 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-56 | Java-149 |
+| X | # | Question | Swift-57 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/heaters.swift) | Java | 
 |     | 474 | Ones and Zeroes | Swift | Java | 
-|     | 473 | Matchsticks to Square | Swift | Java | 
+|     | 473 | Matchsticks to Square | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/matchsticks-to-square.swift) | Java | 
 |     | 472 | Concatenated Words | Swift | Java | 
 |     | 471 | Encode String with Shortest Length | Swift | Java | 
 |     | 469 | Convex Polygon | Swift | Java | 
