@@ -5,9 +5,9 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-54 | Java-149 |
+| X | # | Question | Swift-55 | Java-149 |
 |---|---|---|---|---|
-|     | 477 | Total Hamming Distance | Swift | Java | 
+|     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | Swift | Java | 
 |     | 474 | Ones and Zeroes | Swift | Java | 
