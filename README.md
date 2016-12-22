@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-59 | Java-149 |
+| X | # | Question | Swift-60 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -245,7 +245,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 229 | Majority Element II | Swift | Java | 
 |     | 228 | Summary Ranges | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/summary-ranges.java) | 
 |     | 227 | Basic Calculator II | Swift | Java | 
-|     | 226 | Invert Binary Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/invert-binary-tree.java) | 
+|  X  | 226 | Invert Binary Tree | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/invert-binary-tree.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/invert-binary-tree.java) | 
 |     | 225 | Implement Stack using Queues | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/implement-stack-using-queues.java) | 
 |     | 224 | Basic Calculator | Swift | Java | 
 |     | 223 | Rectangle Area | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/rectangle-area.java) | 
