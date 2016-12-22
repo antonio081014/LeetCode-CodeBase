@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-57 | Java-149 |
+| X | # | Question | Swift-58 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -32,7 +32,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 451 | Sort Characters By Frequency | Swift | Java | 
 |     | 450 | Delete Node in a BST | Swift | Java | 
 |     | 449 | Serialize and Deserialize BST | Swift | Java | 
-|     | 448 | Find All Numbers Disappeared in an Array | Swift | Java | 
+|     | 448 | Find All Numbers Disappeared in an Array | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/find-all-numbers-disappeared-in-an-array.swift) | Java | 
 |     | 447 | Number of Boomerangs | Swift | Java | 
 |     | 446 | Arithmetic Slices II - Subsequence | Swift | Java | 
 |     | 445 | Add Two Numbers II | Swift | Java | 
