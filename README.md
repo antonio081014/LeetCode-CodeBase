@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-58 | Java-149 |
+| X | # | Question | Swift-59 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -189,7 +189,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 286 | Walls and Gates | Swift | Java | 
 |     | 285 | Inorder Successor in BST | Swift | Java | 
 |     | 284 | Peeking Iterator | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/peeking-iterator.java) | 
-|     | 283 | Move Zeroes | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/move-zeroes.java) | 
+|  X  | 283 | Move Zeroes | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/move-zeroes.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/move-zeroes.java) | 
 |     | 282 | Expression Add Operators | Swift | Java | 
 |     | 281 | Zigzag Iterator | Swift | Java | 
 |     | 280 | Wiggle Sort | Swift | Java | 
