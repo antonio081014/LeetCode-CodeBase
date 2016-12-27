@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-62 | Java-149 |
+| X | # | Question | Swift-63 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -134,7 +134,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 341 | Flatten Nested List Iterator | Swift | Java | 
 |     | 340 | Longest Substring with At Most K Distinct Characters | Swift | Java | 
 |     | 339 | Nested List Weight Sum | Swift | Java | 
-|     | 338 | Counting Bits | Swift | Java | 
+|     | 338 | Counting Bits | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/counting-bits.swift) | Java | 
 |     | 337 | House Robber III | Swift | Java | 
 |     | 336 | Palindrome Pairs | Swift | Java | 
 |     | 335 | Self Crossing | Swift | Java | 
