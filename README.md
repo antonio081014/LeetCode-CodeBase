@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-61 | Java-149 |
+| X | # | Question | Swift-62 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -53,7 +53,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 422 | Valid Word Square | Swift | Java | 
 |     | 421 | Maximum XOR of Two Numbers in an Array | Swift | Java | 
 |     | 420 | Strong Password Checker | Swift | Java | 
-|     | 419 | Battleships in a Board | Swift | Java | 
+|     | 419 | Battleships in a Board | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/battleships-in-a-board.swift) | Java | 
 |     | 418 | Sentence Screen Fitting | Swift | Java | 
 |     | 417 | Pacific Atlantic Water Flow | Swift | Java | 
 |     | 416 | Partition Equal Subset Sum | Swift | Java | 
