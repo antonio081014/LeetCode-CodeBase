@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-63 | Java-149 |
+| X | # | Question | Swift-64 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -66,7 +66,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 409 | Longest Palindrome | Swift | Java | 
 |     | 408 | Valid Word Abbreviation | Swift | Java | 
 |     | 407 | Trapping Rain Water II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/trapping-rain-water-ii.swift) | Java | 
-|     | 406 | Queue Reconstruction by Height | Swift | Java | 
+|     | 406 | Queue Reconstruction by Height | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/queue-reconstruction-by-height.swift) | Java | 
 |     | 405 | Convert a Number to Hexadecimal | Swift | Java | 
 |     | 404 | Sum of Left Leaves | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/sum-of-left-leaves.swift) | Java | 
 |     | 403 | Frog Jump | Swift | Java | 
