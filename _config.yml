@@ -1,6 +1,7 @@
 title: LeetCode Source Code
 description: This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
 show_downloads: false
+is_project_page: true
 google_analytics:
 markdown: kramdown
 theme: jekyll-theme-cayman
