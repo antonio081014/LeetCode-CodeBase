@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-67 | Java-149 |
+| X | # | Question | Swift-68 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -276,7 +276,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 198 | House Robber | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/house-robber.java) | 
 |     | 191 | Number of 1 Bits | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/number-of-1-bits.java) | 
 |     | 190 | Reverse Bits | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-bits.java) | 
-|     | 189 | Rotate Array | Swift | Java | 
+|     | 189 | Rotate Array | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/rotate-array.swift) | Java | 
 |     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock-iv.java) | 
 |     | 187 | Repeated DNA Sequences | Swift | Java | 
 |     | 186 | Reverse Words in a String II | Swift | Java | 
