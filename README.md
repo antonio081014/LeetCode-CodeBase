@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-66 | Java-149 |
+| X | # | Question | Swift-67 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -21,7 +21,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 465 | Optimal Account Balancing | Swift | Java | 
 |     | 464 | Can I Win | Swift | Java | 
 |     | 463 | Island Perimeter | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/island-perimeter.swift) | Java | 
-|     | 462 | Minimum Moves to Equal Array Elements II | Swift | Java | 
+|     | 462 | Minimum Moves to Equal Array Elements II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/minimum-moves-to-equal-array-elements-ii.swift) | Java | 
 |     | 461 | Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/hamming-distance.swift) | Java | 
 |     | 459 | Repeated Substring Pattern | Swift | Java | 
 |     | 456 | 132 Pattern | Swift | Java | 
