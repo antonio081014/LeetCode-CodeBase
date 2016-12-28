@@ -24,4 +24,27 @@ class Solution {
         }
         return str
     }
+    
+    // Heavily use Swift standard library built-in functions.
+    func frequencySort(_ s: String) -> String {
+        return s.characters.reduce([String: Int](), {
+            var d = $0
+            let c = String($1)
+            if d[c] == nil {
+                d[c] = 1
+            } else {
+                d[c] = 1 + d[c]!
+            }
+            return d
+        }).map({($0, $1)}).sorted(by: {
+            $0.1 > $1.1
+        }).reduce("", {
+            var ret = ""
+            for _ in 0..<$1.1 {ret += $1.0}
+            return $0 + ret
+        })
+    }
+    
 }
+
+print("\(frequencySort("tree"))")
