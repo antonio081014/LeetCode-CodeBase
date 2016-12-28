@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-68 | Java-149 |
+| X | # | Question | Swift-69 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -29,7 +29,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 454 | 4Sum II | Swift | Java | 
 |     | 453 | Minimum Moves to Equal Array Elements | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/minimum-moves-to-equal-array-elements.swift) | Java | 
 |     | 452 | Minimum Number of Arrows to Burst Balloons | Swift | Java | 
-|     | 451 | Sort Characters By Frequency | Swift | Java | 
+|     | 451 | Sort Characters By Frequency | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/sort-characters-by-frequency.swift) | Java | 
 |     | 450 | Delete Node in a BST | Swift | Java | 
 |     | 449 | Serialize and Deserialize BST | Swift | Java | 
 |     | 448 | Find All Numbers Disappeared in an Array | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/find-all-numbers-disappeared-in-an-array.swift) | Java | 
