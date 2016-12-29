@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-72 | Java-149 |
+| X | # | Question | Swift-73 | Java-150 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -233,7 +233,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/different-ways-to-add-parentheses.java) | 
 |     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/search-a-2d-matrix-ii.java) | 
 |     | 239 | Sliding Window Maximum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/sliding-window-maximum.java) | 
-|     | 238 | Product of Array Except Self | Swift | Java | 
+|  X  | 238 | Product of Array Except Self | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/product-of-array-except-self.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/product-of-array-except-self.java) | 
 |     | 237 | Delete Node in a Linked List | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/delete-node-in-a-linked-list.java) | 
 |     | 236 | Lowest Common Ancestor of a Binary Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/lowest-common-ancestor-of-a-binary-tree.java) | 
 |     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
