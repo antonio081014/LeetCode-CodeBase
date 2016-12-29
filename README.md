@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-75 | Java-150 |
+| X | # | Question | Swift-76 | Java-150 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -125,7 +125,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 350 | Intersection of Two Arrays II | Swift | Java | 
 |     | 349 | Intersection of Two Arrays | Swift | Java | 
 |     | 348 | Design Tic-Tac-Toe | Swift | Java | 
-|     | 347 | Top K Frequent Elements | Swift | Java | 
+|     | 347 | Top K Frequent Elements | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/top-k-frequent-elements.swift) | Java | 
 |     | 346 | Moving Average from Data Stream | Swift | Java | 
 |     | 345 | Reverse Vowels of a String | Swift | Java | 
 |     | 344 | Reverse String | Swift | Java | 
