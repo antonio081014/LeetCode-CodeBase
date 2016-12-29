@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-70 | Java-149 |
+| X | # | Question | Swift-71 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -211,7 +211,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 264 | Ugly Number II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/ugly-number-ii.java) | 
 |     | 263 | Ugly Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/ugly-number.java) | 
 |     | 261 | Graph Valid Tree | Swift | Java | 
-|     | 260 | Single Number III | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/single-number-iii.java) | 
+|  X  | 260 | Single Number III | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/single-number-iii.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/single-number-iii.java) | 
 |     | 259 | 3Sum Smaller | Swift | Java | 
 |  X  | 258 | Add Digits | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/add-digits.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/add-digits.java) | 
 |     | 257 | Binary Tree Paths | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-paths.java) | 
