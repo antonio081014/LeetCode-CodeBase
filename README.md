@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-69 | Java-149 |
+| X | # | Question | Swift-70 | Java-149 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -290,7 +290,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 168 | Excel Sheet Column Title | Swift | Java | 
 |     | 167 | Two Sum II - Input array is sorted | Swift | Java | 
 |     | 166 | Fraction to Recurring Decimal | Swift | Java | 
-|     | 165 | Compare Version Numbers | Swift | Java | 
+|     | 165 | Compare Version Numbers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/compare-version-numbers.swift) | Java | 
 |     | 164 | Maximum Gap | Swift | Java | 
 |     | 163 | Missing Ranges | Swift | Java | 
 |     | 162 | Find Peak Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/find-peak-element.java) | 
