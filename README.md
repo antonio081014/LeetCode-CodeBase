@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-76 | Java-150 |
+| X | # | Question | Swift-77 | Java-150 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
@@ -333,7 +333,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 125 | Valid Palindrome | Swift | Java | 
 |     | 124 | Binary Tree Maximum Path Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-maximum-path-sum.java) | 
 |     | 123 | Best Time to Buy and Sell Stock III | Swift | Java | 
-|     | 122 | Best Time to Buy and Sell Stock II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock-ii.java) | 
+|  X  | 122 | Best Time to Buy and Sell Stock II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/best-time-to-buy-and-sell-stock-ii.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock-ii.java) | 
 |     | 121 | Best Time to Buy and Sell Stock | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock.java) | 
 |     | 120 | Triangle | Swift | Java | 
 |     | 119 | Pascal's Triangle II | Swift | Java | 
