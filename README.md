@@ -5,14 +5,13 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-78 | Java-150 |
+| X | # | Question | Swift-79 | Java-150 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
-|     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/heaters.swift) | Java | 
 |     | 474 | Ones and Zeroes | Swift | Java | 
 |     | 473 | Matchsticks to Square | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/matchsticks-to-square.swift) | Java | 
-|     | 472 | Concatenated Words | Swift | Java | 
+|     | 472 | Concatenated Words | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/concatenated-words.swift) | Java | 
 |     | 471 | Encode String with Shortest Length | Swift | Java | 
 |     | 469 | Convex Polygon | Swift | Java | 
 |     | 468 | Validate IP Address | Swift | Java | 
@@ -23,6 +22,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 463 | Island Perimeter | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/island-perimeter.swift) | Java | 
 |     | 462 | Minimum Moves to Equal Array Elements II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/minimum-moves-to-equal-array-elements-ii.swift) | Java | 
 |     | 461 | Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/hamming-distance.swift) | Java | 
+|     | 460 | LFU Cache | Swift | Java | 
 |     | 459 | Repeated Substring Pattern | Swift | Java | 
 |     | 456 | 132 Pattern | Swift | Java | 
 |     | 455 | Assign Cookies | Swift | Java | 
