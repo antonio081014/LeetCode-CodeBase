@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-79 | Java-150 |
+| X | # | Question | Swift-80 | Java-150 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 475 | Heaters | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/heaters.swift) | Java | 
@@ -18,7 +18,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
 |     | 466 | Count The Repetitions | Swift | Java | 
 |     | 465 | Optimal Account Balancing | Swift | Java | 
-|     | 464 | Can I Win | Swift | Java | 
+|     | 464 | Can I Win | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/can-i-win.swift) | Java | 
 |     | 463 | Island Perimeter | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/island-perimeter.swift) | Java | 
 |     | 462 | Minimum Moves to Equal Array Elements II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/minimum-moves-to-equal-array-elements-ii.swift) | Java | 
 |     | 461 | Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/hamming-distance.swift) | Java | 
