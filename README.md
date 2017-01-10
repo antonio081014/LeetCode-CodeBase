@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-80 | Java-150 |
+| X | # | Question | Swift-81 | Java-150 |
 |---|---|---|---|---|
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
 |     | 475 | Heaters | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/heaters.swift) | Java | 
@@ -357,7 +357,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 101 | Symmetric Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/symmetric-tree.java) | 
 |     | 100 | Same Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/same-tree.java) | 
 |     | 99 | Recover Binary Search Tree | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/recover-binary-search-tree.java) | 
-|     | 98 | Validate Binary Search Tree | Swift | Java | 
+|     | 98 | Validate Binary Search Tree | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/validate-binary-search-tree.swift) | Java | 
 |     | 97 | Interleaving String | Swift | Java | 
 |     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/unique-binary-search-trees.java) | 
 |     | 95 | Unique Binary Search Trees II | Swift | Java | 
