@@ -5,9 +5,13 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-81 | Java-150 |
+| X | # | Question | Swift-82 | Java-150 |
 |---|---|---|---|---|
+|     | 482 | License Key Formatting | Swift | Java | 
+|     | 481 | Magical String | Swift | Java | 
+|     | 480 | Sliding Window Median | Swift | Java | 
 |     | 477 | Total Hamming Distance | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/total-hamming-distance.swift) | Java | 
+|     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/heaters.swift) | Java | 
 |     | 474 | Ones and Zeroes | Swift | Java | 
 |     | 473 | Matchsticks to Square | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/matchsticks-to-square.swift) | Java | 
@@ -157,7 +161,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 318 | Maximum Product of Word Lengths | Swift | Java | 
 |     | 317 | Shortest Distance from All Buildings | Swift | Java | 
 |     | 316 | Remove Duplicate Letters | Swift | Java | 
-|     | 315 | Count of Smaller Numbers After Self | Swift | Java | 
+|     | 315 | Count of Smaller Numbers After Self | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/count-of-smaller-numbers-after-self.swift) | Java | 
 |     | 314 | Binary Tree Vertical Order Traversal | Swift | Java | 
 |     | 313 | Super Ugly Number | Swift | Java | 
 |     | 312 | Burst Balloons | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/burst-balloons.swift) | Java | 
