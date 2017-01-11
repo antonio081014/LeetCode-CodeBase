@@ -1,3 +1,8 @@
+/**
+ * https://leetcode.com/problems/validate-ip-address/
+ * 
+ * 
+ */ 
 import Foundation
 class Solution {
     func validIPAddress(_ IP: String) -> String {
@@ -9,11 +14,13 @@ class Solution {
     private func validIPAddressV4(_ ip: String) -> Bool {
         if !ip.contains(".") {return false}
         
-        var characterSet = CharacterSet()
-        characterSet.formUnion(CharacterSet.decimalDigits)
-        characterSet.insert(charactersIn: ".")
-        characterSet.invert()
-        if ip.rangeOfCharacter(from: characterSet) != nil { return false }
+//        var characterSet = CharacterSet()
+//        characterSet.formUnion(CharacterSet.decimalDigits)
+//        characterSet.insert(charactersIn: ".")
+//        characterSet.invert()
+//        if ip.rangeOfCharacter(from: characterSet) != nil { return false }
+        
+        if !inRange(ip, in: "0123456789.") { return false }
         
         let nums = ip.components(separatedBy:".")
         if nums.count != 4 {return false}
@@ -30,11 +37,13 @@ class Solution {
     private func validIPAddressV6(_ ip: String) -> Bool {
         if !ip.contains(":") {return false}
         
-        var characterSet = CharacterSet()
-        characterSet.formUnion(CharacterSet.decimalDigits)
-        characterSet.insert(charactersIn: ":ABCDEFabcdef")
-        characterSet.invert()
-        if ip.rangeOfCharacter(from: characterSet) != nil { return false }
+//        var characterSet = CharacterSet()
+//        characterSet.formUnion(CharacterSet.decimalDigits)
+//        characterSet.insert(charactersIn: ":ABCDEFabcdef")
+//        characterSet.invert()
+//        if ip.rangeOfCharacter(from: characterSet) != nil { return false }
+        
+        if !inRange(ip, in: "0123456789:ABCDEFabcdef") { return false }
         
         let nums = ip.components(separatedBy:":")
         if nums.count != 8 {return false}
@@ -47,6 +56,14 @@ class Solution {
         return true
     }
     
+    private func inRange(_ text: String, in range: String) -> Bool {
+        for c in text.characters {
+            if !range.contains(String(c)) {
+                return false
+            }
+        }
+        return true
+    }
 }
 
 let solution = Solution()

@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-82 | Java-150 |
+| X | # | Question | Swift-83 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -18,7 +18,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 472 | Concatenated Words | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/concatenated-words.swift) | Java | 
 |     | 471 | Encode String with Shortest Length | Swift | Java | 
 |     | 469 | Convex Polygon | Swift | Java | 
-|     | 468 | Validate IP Address | Swift | Java | 
+|     | 468 | Validate IP Address | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/validate-ip-address.swift) | Java | 
 |     | 467 | Unique Substrings in Wraparound String | Swift | Java | 
 |     | 466 | Count The Repetitions | Swift | Java | 
 |     | 465 | Optimal Account Balancing | Swift | Java | 
