@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-85 | Java-150 |
+| X | # | Question | Swift-86 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -62,7 +62,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 417 | Pacific Atlantic Water Flow | Swift | Java | 
 |     | 416 | Partition Equal Subset Sum | Swift | Java | 
 |     | 415 | Add Strings | Swift | Java | 
-|     | 414 | Third Maximum Number | Swift | Java | 
+|     | 414 | Third Maximum Number | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/third-maximum-number.swift) | Java | 
 |     | 413 | Arithmetic Slices | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/arithmetic-slices.swift) | Java | 
 |     | 412 | Fizz Buzz | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/fizz-buzz.swift) | Java | 
 |     | 411 | Minimum Unique Word Abbreviation | Swift | Java | 
