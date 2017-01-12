@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-83 | Java-150 |
+| X | # | Question | Swift-84 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -291,7 +291,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/excel-sheet-column-number.java) | 
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
 |     | 169 | Majority Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/majority-element.java) | 
-|     | 168 | Excel Sheet Column Title | Swift | Java | 
+|     | 168 | Excel Sheet Column Title | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/excel-sheet-column-title.swift) | Java | 
 |     | 167 | Two Sum II - Input array is sorted | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/two-sum-ii-input-array-is-sorted.swift) | Java | 
 |     | 166 | Fraction to Recurring Decimal | Swift | Java | 
 |     | 165 | Compare Version Numbers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/compare-version-numbers.swift) | Java | 
