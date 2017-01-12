@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-84 | Java-150 |
+| X | # | Question | Swift-85 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -334,7 +334,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |  X  | 128 | Longest Consecutive Sequence | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/longest-consecutive-sequence.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/longest-consecutive-sequence.java) | 
 |     | 127 | Word Ladder | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-ladder.java) | 
 |     | 126 | Word Ladder II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/word-ladder-ii.java) | 
-|     | 125 | Valid Palindrome | Swift | Java | 
+|     | 125 | Valid Palindrome | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/valid-palindrome.swift) | Java | 
 |     | 124 | Binary Tree Maximum Path Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/binary-tree-maximum-path-sum.java) | 
 |     | 123 | Best Time to Buy and Sell Stock III | Swift | Java | 
 |  X  | 122 | Best Time to Buy and Sell Stock II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/best-time-to-buy-and-sell-stock-ii.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock-ii.java) | 
