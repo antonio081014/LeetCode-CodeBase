@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-87 | Java-150 |
+| X | # | Question | Swift-88 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -49,7 +49,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 437 | Path Sum III | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/path-sum-iii.swift) | Java | 
 |     | 436 | Find Right Interval | Swift | Java | 
 |     | 435 | Non-overlapping Intervals | Swift | Java | 
-|     | 434 | Number of Segments in a String | Swift | Java | 
+|     | 434 | Number of Segments in a String | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/number-of-segments-in-a-string.swift) | Java | 
 |     | 432 | All O`one Data Structure | Swift | Java | 
 |     | 425 | Word Squares | Swift | Java | 
 |     | 424 | Longest Repeating Character Replacement | Swift | Java | 
