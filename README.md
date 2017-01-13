@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-86 | Java-150 |
+| X | # | Question | Swift-87 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -431,7 +431,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 31 | Next Permutation | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/next-permutation.java) | 
 |     | 30 | Substring with Concatenation of All Words | Swift | Java | 
 |  X  | 29 | Divide Two Integers | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/divide-two-integers.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/divide-two-integers.java) | 
-|     | 28 | Implement strStr() | Swift | Java | 
+|     | 28 | Implement strStr() | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/implement-strstr.swift) | Java | 
 |     | 27 | Remove Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-element.java) | 
 |  X  | 26 | Remove Duplicates from Sorted Array | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/remove-duplicates-from-sorted-array.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/remove-duplicates-from-sorted-array.java) | 
 |     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/reverse-nodes-in-k-group.java) | 
