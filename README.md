@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-88 | Java-150 |
+| X | # | Question | Swift-89 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -393,7 +393,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 69 | Sqrt(x) | Swift | Java | 
 |     | 68 | Text Justification | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/text-justification.java) | 
 |     | 67 | Add Binary | Swift | Java | 
-|     | 66 | Plus One | Swift | Java | 
+|     | 66 | Plus One | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/plus-one.swift) | Java | 
 |     | 65 | Valid Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/valid-number.java) | 
 |     | 64 | Minimum Path Sum | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/minimum-path-sum.java) | 
 |     | 63 | Unique Paths II | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/unique-paths-ii.java) | 
