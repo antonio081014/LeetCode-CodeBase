@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-91 | Java-150 |
+| X | # | Question | Swift-92 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -134,7 +134,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 345 | Reverse Vowels of a String | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/reverse-vowels-of-a-string.swift) | Java | 
 |     | 344 | Reverse String | Swift | Java | 
 |     | 343 | Integer Break | Swift | Java | 
-|     | 342 | Power of Four | Swift | Java | 
+|     | 342 | Power of Four | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/power-of-four.swift) | Java | 
 |     | 341 | Flatten Nested List Iterator | Swift | Java | 
 |     | 340 | Longest Substring with At Most K Distinct Characters | Swift | Java | 
 |     | 339 | Nested List Weight Sum | Swift | Java | 
