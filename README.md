@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-92 | Java-150 |
+| X | # | Question | Swift-93 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -42,7 +42,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 445 | Add Two Numbers II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/add-two-numbers-ii.swift) | Java | 
 |     | 444 | Sequence Reconstruction | Swift | Java | 
 |     | 442 | Find All Duplicates in an Array | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/find-all-duplicates-in-an-array.swift) | Java | 
-|     | 441 | Arranging Coins | Swift | Java | 
+|     | 441 | Arranging Coins | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/arranging-coins.swift) | Java | 
 |     | 440 | K-th Smallest in Lexicographical Order | Swift | Java | 
 |     | 439 | Ternary Expression Parser | Swift | Java | 
 |     | 438 | Find All Anagrams in a String | Swift | Java | 
