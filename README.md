@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-89 | Java-150 |
+| X | # | Question | Swift-90 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -131,7 +131,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 348 | Design Tic-Tac-Toe | Swift | Java | 
 |     | 347 | Top K Frequent Elements | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/top-k-frequent-elements.swift) | Java | 
 |     | 346 | Moving Average from Data Stream | Swift | Java | 
-|     | 345 | Reverse Vowels of a String | Swift | Java | 
+|     | 345 | Reverse Vowels of a String | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/reverse-vowels-of-a-string.swift) | Java | 
 |     | 344 | Reverse String | Swift | Java | 
 |     | 343 | Integer Break | Swift | Java | 
 |     | 342 | Power of Four | Swift | Java | 
