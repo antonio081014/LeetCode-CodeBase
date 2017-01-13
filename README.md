@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-90 | Java-150 |
+| X | # | Question | Swift-91 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -287,7 +287,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 179 | Largest Number | Swift | Java | 
 |     | 174 | Dungeon Game | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/dungeon-game.java) | 
 |     | 173 | Binary Search Tree Iterator | Swift | Java | 
-|     | 172 | Factorial Trailing Zeroes | Swift | Java | 
+|     | 172 | Factorial Trailing Zeroes | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/factorial-trailing-zeroes.swift) | Java | 
 |     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/excel-sheet-column-number.java) | 
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
 |     | 169 | Majority Element | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/majority-element.java) | 
