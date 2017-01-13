@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-93 | Java-150 |
+| X | # | Question | Swift-94 | Java-150 |
 |---|---|---|---|---|
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
@@ -340,7 +340,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |  X  | 122 | Best Time to Buy and Sell Stock II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/best-time-to-buy-and-sell-stock-ii.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock-ii.java) | 
 |  X  | 121 | Best Time to Buy and Sell Stock | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/best-time-to-buy-and-sell-stock.swift) | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/best-time-to-buy-and-sell-stock.java) | 
 |     | 120 | Triangle | Swift | Java | 
-|     | 119 | Pascal's Triangle II | Swift | Java | 
+|     | 119 | Pascal's Triangle II | [~~Swift~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Swift/pascals-triangle-ii.swift) | Java | 
 |     | 118 | Pascal's Triangle | Swift | Java | 
 |     | 117 | Populating Next Right Pointers in Each Node II | Swift | Java | 
 |     | 116 | Populating Next Right Pointers in Each Node | Swift | [~~Java~~](https://github.com/antonio081014/LeetCode-CodeBase/tree/master/./Java/populating-next-right-pointers-in-each-node.java) | 
