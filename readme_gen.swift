@@ -1,6 +1,6 @@
 import Foundation
 
-let absolutePath = "https://github.com/antonio081014/LeetCode-CodeBase/tree/master/"
+let absolutePath = "./"
 
 struct Problem: CustomDebugStringConvertible {
     let seq: Int
