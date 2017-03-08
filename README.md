@@ -7,6 +7,49 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 
 | X | # | Question | Swift-94 | Java-150 |
 |---|---|---|---|---|
+|     | 535 | Encode and Decode TinyURL | Swift | Java | 
+|     | 533 | Lonely Pixel II | Swift | Java | 
+|     | 532 | K-diff Pairs in an Array | Swift | Java | 
+|     | 531 | Lonely Pixel I | Swift | Java | 
+|     | 530 | Minimum Absolute Difference in BST | Swift | Java | 
+|     | 529 | Minesweeper | Swift | Java | 
+|     | 526 | Beautiful Arrangement | Swift | Java | 
+|     | 525 | Contiguous Array | Swift | Java | 
+|     | 524 | Longest Word in Dictionary through Deleting | Swift | Java | 
+|     | 523 | Continuous Subarray Sum | Swift | Java | 
+|     | 520 | Detect Capital | Swift | Java | 
+|     | 517 | Super Washing Machines | Swift | Java | 
+|     | 516 | Longest Palindromic Subsequence | Swift | Java | 
+|     | 515 | Find Largest Value in Each Tree Row | Swift | Java | 
+|     | 514 | Freedom Trail | Swift | Java | 
+|     | 513 | Find Bottom Left Tree Value | Swift | Java | 
+|     | 512 | Price Query System | Swift | Java | 
+|     | 511 | String Lengths Average and 95th Percentile | Swift | Java | 
+|     | 510 | Design Logging | Swift | Java | 
+|     | 509 | Points in Intervals | Swift | Java | 
+|     | 508 | Most Frequent Subtree Sum | Swift | Java | 
+|     | 506 | Relative Ranks | Swift | Java | 
+|     | 505 | The Maze II | Swift | Java | 
+|     | 504 | Base 7 | Swift | Java | 
+|     | 503 | Next Greater Element II | Swift | Java | 
+|     | 502 | IPO | Swift | Java | 
+|     | 501 | Find Mode in Binary Search Tree | Swift | Java | 
+|     | 500 | Keyboard Row | Swift | Java | 
+|     | 499 | The Maze III | Swift | Java | 
+|     | 498 | Diagonal Traverse | Swift | Java | 
+|     | 496 | Next Greater Element I | Swift | Java | 
+|     | 495 | Teemo Attacking | Swift | Java | 
+|     | 494 | Target Sum | Swift | Java | 
+|     | 493 | Reverse Pairs | Swift | Java | 
+|     | 492 | Construct the Rectangle | Swift | Java | 
+|     | 491 | Increasing Subsequences | Swift | Java | 
+|     | 490 | The Maze | Swift | Java | 
+|     | 488 | Zuma Game | Swift | Java | 
+|     | 487 | Max Consecutive Ones II | Swift | Java | 
+|     | 486 | Predict the Winner | Swift | Java | 
+|     | 485 | Max Consecutive Ones | Swift | Java | 
+|     | 484 | Find Permutation | Swift | Java | 
+|     | 483 | Smallest Good Base | Swift | Java | 
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
 |     | 480 | Sliding Window Median | Swift | Java | 
