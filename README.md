@@ -5,7 +5,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-94 | Java-150 |
+| X | # | Question | Swift-95 | Java-150 |
 |---|---|---|---|---|
 |     | 535 | Encode and Decode TinyURL | Swift | Java | 
 |     | 533 | Lonely Pixel II | Swift | Java | 
@@ -28,7 +28,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 510 | Design Logging | Swift | Java | 
 |     | 509 | Points in Intervals | Swift | Java | 
 |     | 508 | Most Frequent Subtree Sum | Swift | Java | 
-|     | 506 | Relative Ranks | Swift | Java | 
+|     | 506 | Relative Ranks | [~~Swift~~](././Swift/relative-ranks.swift) | Java | 
 |     | 505 | The Maze II | Swift | Java | 
 |     | 504 | Base 7 | Swift | Java | 
 |     | 503 | Next Greater Element II | Swift | Java | 
