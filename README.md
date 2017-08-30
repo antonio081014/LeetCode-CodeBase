@@ -5,29 +5,126 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-95 | Java-150 |
+| X | # | Question | Swift-96 | Java-150 |
 |---|---|---|---|---|
+|     | 668 | Kth Smallest Number in Multiplication Table | Swift | Java | 
+|     | 667 | Beautiful Arrangement II | Swift | Java | 
+|     | 666 | Path Sum IV | Swift | Java | 
+|     | 665 | Non-decreasing Array | Swift | Java | 
+|     | 664 | Strange Printer | Swift | Java | 
+|     | 663 | Equal Tree Partition | Swift | Java | 
+|     | 662 | Maximum Width of Binary Tree | Swift | Java | 
+|     | 661 | Image Smoother | Swift | Java | 
+|     | 660 | Remove 9 | Swift | Java | 
+|     | 659 | Split Array into Consecutive Subsequences | Swift | Java | 
+|     | 658 | Find K Closest Elements | Swift | Java | 
+|     | 657 | Judge Route Circle | Swift | Java | 
+|     | 656 | Coin Path | Swift | Java | 
+|     | 655 | Print Binary Tree | Swift | Java | 
+|     | 654 | Maximum Binary Tree | Swift | Java | 
+|     | 653 | Two Sum IV - Input is a BST | Swift | Java | 
+|     | 652 | Find Duplicate Subtrees | Swift | Java | 
+|     | 651 | 4 Keys Keyboard | Swift | Java | 
+|     | 650 | 2 Keys Keyboard | Swift | Java | 
+|     | 649 | Dota2 Senate | Swift | Java | 
+|     | 648 | Replace Words | Swift | Java | 
+|     | 647 | Palindromic Substrings | Swift | Java | 
+|     | 646 | Maximum Length of Pair Chain | Swift | Java | 
+|     | 645 | Set Mismatch | Swift | Java | 
+|     | 644 | Maximum Average Subarray II | Swift | Java | 
+|     | 643 | Maximum Average Subarray I | Swift | Java | 
+|     | 642 | Design Search Autocomplete System | Swift | Java | 
+|     | 640 | Solve the Equation | Swift | Java | 
+|     | 639 | Decode Ways II | Swift | Java | 
+|     | 638 | Shopping Offers | Swift | Java | 
+|     | 637 | Average of Levels in Binary Tree | Swift | Java | 
+|     | 636 | Exclusive Time of Functions | Swift | Java | 
+|     | 635 | Design Log Storage System | Swift | Java | 
+|     | 634 | Find the Derangement of An Array | Swift | Java | 
+|     | 633 | Sum of Square Numbers | Swift | Java | 
+|     | 632 | Smallest Range | Swift | Java | 
+|     | 631 | Design Excel Sum Formula | Swift | Java | 
+|     | 630 | Course Schedule III | Swift | Java | 
+|     | 629 | K Inverse Pairs Array | Swift | Java | 
+|     | 628 | Maximum Product of Three Numbers | Swift | Java | 
+|     | 625 | Minimum Factorization | Swift | Java | 
+|     | 624 | Maximum Distance in Arrays | Swift | Java | 
+|     | 623 | Add One Row to Tree | Swift | Java | 
+|     | 621 | Task Scheduler | Swift | Java | 
+|     | 617 | Merge Two Binary Trees | Swift | Java | 
+|     | 616 | Add Bold Tag in String | Swift | Java | 
+|     | 611 | Valid Triangle Number | Swift | Java | 
+|     | 609 | Find Duplicate File in System | Swift | Java | 
+|     | 606 | Construct String from Binary Tree | Swift | Java | 
+|     | 605 | Can Place Flowers | Swift | Java | 
+|     | 604 | Design Compressed String Iterator | Swift | Java | 
+|     | 600 | Non-negative Integers without Consecutive Ones | Swift | Java | 
+|     | 599 | Minimum Index Sum of Two Lists | Swift | Java | 
+|     | 598 | Range Addition II | Swift | Java | 
+|     | 594 | Longest Harmonious Subsequence | Swift | Java | 
+|     | 593 | Valid Square | Swift | Java | 
+|     | 592 | Fraction Addition and Subtraction | Swift | Java | 
+|     | 591 | Tag Validator | Swift | Java | 
+|     | 588 | Design In-Memory File System | Swift | Java | 
+|     | 587 | Erect the Fence | Swift | Java | 
+|     | 583 | Delete Operation for Two Strings | Swift | Java | 
+|     | 582 | Kill Process | Swift | Java | 
+|     | 581 | Shortest Unsorted Continuous Subarray | Swift | Java | 
+|     | 576 | Out of Boundary Paths | Swift | Java | 
+|     | 575 | Distribute Candies | Swift | Java | 
+|     | 573 | Squirrel Simulation | Swift | Java | 
+|     | 572 | Subtree of Another Tree | Swift | Java | 
+|     | 568 | Maximum Vacation Days | Swift | Java | 
+|     | 567 | Permutation in String | Swift | Java | 
+|     | 566 | Reshape the Matrix | Swift | Java | 
+|     | 565 | Array Nesting | Swift | Java | 
+|     | 564 | Find the Closest Palindrome | Swift | Java | 
+|     | 563 | Binary Tree Tilt | Swift | Java | 
+|     | 562 | Longest Line of Consecutive One in Matrix | Swift | Java | 
+|     | 561 | Array Partition I | Swift | Java | 
+|     | 560 | Subarray Sum Equals K | Swift | Java | 
+|     | 557 | Reverse Words in a String III | Swift | Java | 
+|     | 556 | Next Greater Element III | Swift | Java | 
+|     | 555 | Split Concatenated Strings | Swift | Java | 
+|     | 554 | Brick Wall | Swift | Java | 
+|     | 553 | Optimal Division | Swift | Java | 
+|     | 552 | Student Attendance Record II | Swift | Java | 
+|     | 551 | Student Attendance Record I | Swift | Java | 
+|     | 549 | Binary Tree Longest Consecutive Sequence II | Swift | Java | 
+|     | 548 | Split Array with Equal Sum | Swift | Java | 
+|     | 547 | Friend Circles | Swift | Java | 
+|     | 546 | Remove Boxes | Swift | Java | 
+|     | 545 | Boundary of Binary Tree | Swift | Java | 
+|     | 544 | Output Contest Matches | Swift | Java | 
+|     | 543 | Diameter of Binary Tree | Swift | Java | 
+|     | 542 | 01 Matrix | Swift | Java | 
+|     | 541 | Reverse String II | Swift | Java | 
+|     | 540 | Single Element in a Sorted Array | Swift | Java | 
+|     | 539 | Minimum Time Difference | Swift | Java | 
+|     | 538 | Convert BST to Greater Tree | Swift | Java | 
+|     | 537 | Complex Number Multiplication | Swift | Java | 
+|     | 536 | Construct Binary Tree from String | Swift | Java | 
 |     | 535 | Encode and Decode TinyURL | Swift | Java | 
 |     | 533 | Lonely Pixel II | Swift | Java | 
 |     | 532 | K-diff Pairs in an Array | Swift | Java | 
 |     | 531 | Lonely Pixel I | Swift | Java | 
 |     | 530 | Minimum Absolute Difference in BST | Swift | Java | 
 |     | 529 | Minesweeper | Swift | Java | 
+|     | 527 | Word Abbreviation | Swift | Java | 
 |     | 526 | Beautiful Arrangement | Swift | Java | 
 |     | 525 | Contiguous Array | Swift | Java | 
 |     | 524 | Longest Word in Dictionary through Deleting | Swift | Java | 
 |     | 523 | Continuous Subarray Sum | Swift | Java | 
+|     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
+|     | 521 | Longest Uncommon Subsequence I  | Swift | Java | 
 |     | 520 | Detect Capital | Swift | Java | 
 |     | 517 | Super Washing Machines | Swift | Java | 
 |     | 516 | Longest Palindromic Subsequence | Swift | Java | 
 |     | 515 | Find Largest Value in Each Tree Row | Swift | Java | 
 |     | 514 | Freedom Trail | Swift | Java | 
 |     | 513 | Find Bottom Left Tree Value | Swift | Java | 
-|     | 512 | Price Query System | Swift | Java | 
-|     | 511 | String Lengths Average and 95th Percentile | Swift | Java | 
-|     | 510 | Design Logging | Swift | Java | 
-|     | 509 | Points in Intervals | Swift | Java | 
 |     | 508 | Most Frequent Subtree Sum | Swift | Java | 
+|     | 507 | Perfect Number | Swift | Java | 
 |     | 506 | Relative Ranks | [~~Swift~~](././Swift/relative-ranks.swift) | Java | 
 |     | 505 | The Maze II | Swift | Java | 
 |     | 504 | Base 7 | Swift | Java | 
@@ -53,6 +150,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
 |     | 480 | Sliding Window Median | Swift | Java | 
+|     | 479 | Largest Palindrome Product | Swift | Java | 
 |     | 477 | Total Hamming Distance | [~~Swift~~](././Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | Swift | Java | 
 |     | 475 | Heaters | [~~Swift~~](././Swift/heaters.swift) | Java | 
@@ -407,7 +505,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 98 | Validate Binary Search Tree | [~~Swift~~](././Swift/validate-binary-search-tree.swift) | Java | 
 |     | 97 | Interleaving String | Swift | Java | 
 |     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](././Java/unique-binary-search-trees.java) | 
-|     | 95 | Unique Binary Search Trees II | Swift | Java | 
+|     | 95 | Unique Binary Search Trees II | [~~Swift~~](././Swift/unique-binary-search-trees-ii.swift) | Java | 
 |     | 94 | Binary Tree Inorder Traversal | Swift | [~~Java~~](././Java/binary-tree-inorder-traversal.java) | 
 |     | 93 | Restore IP Addresses | Swift | [~~Java~~](././Java/restore-ip-addresses.java) | 
 |     | 92 | Reverse Linked List II | Swift | Java | 
@@ -453,7 +551,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |  X  | 52 | N-Queens II | [~~Swift~~](././Swift/n-queens-ii.swift) | [~~Java~~](././Java/n-queens-ii.java) | 
 |  X  | 51 | N-Queens | [~~Swift~~](././Swift/n-queens.swift) | [~~Java~~](././Java/n-queens.java) | 
 |     | 50 | Pow(x, n) | Swift | [~~Java~~](././Java/powx-n.java) | 
-|     | 49 | Group Anagrams | Swift | [~~Java~~](././Java/anagrams.java) | 
+|     | 49 | Group Anagrams | Swift | [~~Java~~](././Java/group-anagrams.java) | 
 |     | 48 | Rotate Image | Swift | Java | 
 |     | 47 | Permutations II | Swift | [~~Java~~](././Java/permutations-ii.java) | 
 |     | 46 | Permutations | Swift | [~~Java~~](././Java/permutations.java) | 
