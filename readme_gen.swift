@@ -163,7 +163,8 @@ func ifFileExists(_ name: String, in lang: Language) -> Bool {
 
 // MARK: - Generate README.md
 print("# LeeCode-CodeBase\n")
-print("This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.\n")
+print("This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.\n\n")
+print("`> ./generate.sh problem_identifier`\n")
 print("`> swift readme_gen.swift > README.md`\n\n")
 
 let url = "https://leetcode.com/api/problems/algorithms/"

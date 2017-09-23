@@ -2,6 +2,9 @@
 
 This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
 
+
+`> ./generate.sh problem_identifier`
+
 `> swift readme_gen.swift > README.md`
 
 
