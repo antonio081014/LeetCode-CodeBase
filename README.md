@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-101 | Java-150 |
+| X | # | Question | Swift-102 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -142,7 +142,7 @@ Update README file only:
 |     | 1289 | Day of the Week | Swift | Java | 
 |     | 1288 | Maximum Subarray Sum with One Deletion | Swift | Java | 
 |     | 1287 | Distance Between Bus Stops | Swift | Java | 
-|     | 1285 | Balance a Binary Search Tree | Swift | Java | 
+|     | 1285 | Balance a Binary Search Tree | [~~Swift~~](././Swift/balance-a-binary-search-tree.swift) | Java | 
 |     | 1284 | Four Divisors | [~~Swift~~](././Swift/four-divisors.swift) | Java | 
 |     | 1282 | Number of Valid Words for Each Puzzle | Swift | Java | 
 |     | 1281 | Can Make Palindrome from Substring | Swift | Java | 
