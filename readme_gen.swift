@@ -13,8 +13,8 @@ struct Problem: CustomDebugStringConvertible {
 }
 
 extension Problem: Hashable {
-    var hashValue: Int {
-        return self.seq.hashValue
+    func hash(into hasher: inout Hasher) {
+        hasher.combine(seq)
     }
     
     static func == (lhs: Problem, rhs: Problem) -> Bool {
@@ -72,7 +72,7 @@ func printout(for problemList: [Problem]) {
     for problem in problemList {
         let swift = ifFileExists(problem.qSlug, in: .Swift) ? "[~~Swift~~](\(absolutePath)\(filesPath(in: .Swift))\(problem.qSlug).swift)" : "Swift"
         let java = ifFileExists(problem.qSlug, in: .Java) ? "[~~Java~~](\(absolutePath)\(filesPath(in: .Java))\(problem.qSlug).java)" : "Java"
-        let x = swift.characters.count > 5 && java.characters.count > 4 ? " X " : "   "
+        let x = swift.count > 5 && java.count > 4 ? " X " : "   "
         print("| \(x) | \(problem.seq) | \(problem.qTitle) | \(swift) | \(java) | ")
     }
 }
