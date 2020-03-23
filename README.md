@@ -8,8 +8,673 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-97 | Java-150 |
+| X | # | Question | Swift-98 | Java-150 |
 |---|---|---|---|---|
+|     | 1508 | Longest Happy Prefix | Swift | Java | 
+|     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
+|     | 1505 | Create Target Array in the Given Order | Swift | Java | 
+|     | 1499 | Maximum Performance of a Team | Swift | Java | 
+|     | 1498 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | Swift | Java | 
+|     | 1497 | Design a Stack With Increment Operation | Swift | Java | 
+|     | 1496 | Lucky Numbers in a Matrix | Swift | Java | 
+|     | 1493 | Frog Position After T Seconds | Swift | Java | 
+|     | 1492 | Time Needed to Inform All Employees | Swift | Java | 
+|     | 1491 | Bulb Switcher III | Swift | Java | 
+|     | 1490 | Generate a String With Characters That Have Odd Counts | Swift | Java | 
+|     | 1489 | Pizza With 3n Slices | Swift | Java | 
+|     | 1488 | Sort Integers by The Power Value | Swift | Java | 
+|     | 1487 | Cinema Seat Allocation | Swift | Java | 
+|     | 1486 | Find the Distance Value Between Two Arrays | Swift | Java | 
+|     | 1485 | Minimum Cost to Make at Least One Valid Path in a Grid | Swift | Java | 
+|     | 1484 | Linked List in Binary Tree | Swift | Java | 
+|     | 1483 | Rank Teams by Votes | Swift | Java | 
+|     | 1482 | How Many Numbers Are Smaller Than the Current Number | Swift | Java | 
+|     | 1479 | Construct Target Array With Multiple Sums | Swift | Java | 
+|     | 1478 | Maximum Number of Events That Can Be Attended | Swift | Java | 
+|     | 1477 | Product of the Last K Numbers | Swift | Java | 
+|     | 1476 | Count Negative Numbers in a Sorted Matrix | Swift | Java | 
+|     | 1475 | Maximum Sum BST in Binary Tree | Swift | Java | 
+|     | 1474 | Longest ZigZag Path in a Binary Tree | Swift | Java | 
+|     | 1473 | Find the Longest Substring Containing Vowels in Even Counts | Swift | Java | 
+|     | 1472 | Increasing Decreasing String | Swift | Java | 
+|     | 1471 | Maximum Students Taking Exam | Swift | Java | 
+|     | 1470 | Tweet Counts Per Frequency | Swift | Java | 
+|     | 1469 | Minimum Number of Steps to Make Two Strings Anagram | Swift | Java | 
+|     | 1468 | Check If N and Its Double Exist | Swift | Java | 
+|     | 1466 | Jump Game V | Swift | Java | 
+|     | 1465 | Maximum Product of Splitted Binary Tree | Swift | Java | 
+|     | 1464 | Reduce Array Size to The Half | Swift | Java | 
+|     | 1463 | The K Weakest Rows in a Matrix | Swift | Java | 
+|     | 1461 | Count All Valid Pickup and Delivery Options | Swift | Java | 
+|     | 1460 | Number of Substrings Containing All Three Characters | Swift | Java | 
+|     | 1459 | Apply Discount Every n Orders | Swift | Java | 
+|     | 1458 | Sort Integers by The Number of 1 Bits | Swift | Java | 
+|     | 1457 | Minimum Difficulty of a Job Schedule | Swift | Java | 
+|     | 1456 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Swift | Java | 
+|     | 1455 | Filter Restaurants by Vegan-Friendly, Price and Distance | Swift | Java | 
+|     | 1454 | Remove Palindromic Subsequences | Swift | Java | 
+|     | 1451 | Minimum Number of Taps to Open to Water a Garden | Swift | Java | 
+|     | 1450 | Delete Leaves With a Given Value | Swift | Java | 
+|     | 1449 | Print Words Vertically | Swift | Java | 
+|     | 1448 | Maximum 69 Number | Swift | Java | 
+|     | 1447 | Jump Game IV | Swift | Java | 
+|     | 1446 | Angle Between Hands of a Clock | Swift | Java | 
+|     | 1445 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Swift | Java | 
+|     | 1444 | Number of Steps to Reduce a Number to Zero | Swift | Java | 
+|     | 1443 | Minimum Distance to Type a Word Using Two Fingers | Swift | Java | 
+|     | 1442 | Number of Operations to Make Network Connected | Swift | Java | 
+|     | 1441 | Minimum Flips to Make a OR b Equal to c | Swift | Java | 
+|     | 1440 | Convert Integer to the Sum of Two No-Zero Integers | Swift | Java | 
+|     | 1437 | Minimum Insertion Steps to Make a String Palindrome | Swift | Java | 
+|     | 1436 | Get Watched Videos by Your Friends | Swift | Java | 
+|     | 1435 | XOR Queries of a Subarray | Swift | Java | 
+|     | 1434 | Decrypt String from Alphabet to Integer Mapping | Swift | Java | 
+|     | 1429 | Verbal Arithmetic Puzzle | Swift | Java | 
+|     | 1428 | Jump Game III | Swift | Java | 
+|     | 1427 | All Elements in Two Binary Search Trees | Swift | Java | 
+|     | 1426 | Find N Unique Integers Sum up to Zero | Swift | Java | 
+|     | 1424 | Maximum Candies You Can Get from Boxes | Swift | Java | 
+|     | 1423 | Maximum Number of Occurrences of a Substring | Swift | Java | 
+|     | 1422 | Divide Array in Sets of K Consecutive Numbers | Swift | Java | 
+|     | 1421 | Find Numbers with Even Number of Digits | Swift | Java | 
+|     | 1414 | Shortest Path in a Grid with Obstacles Elimination | Swift | Java | 
+|     | 1413 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Swift | Java | 
+|     | 1411 | Convert Binary Number in a Linked List to Integer | Swift | Java | 
+|     | 1409 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix | Swift | Java | 
+|     | 1408 | Find the Smallest Divisor Given a Threshold | Swift | Java | 
+|     | 1407 | Group the People Given the Group Size They Belong To | Swift | Java | 
+|     | 1406 | Subtract the Product and Sum of Digits of an Integer | Swift | Java | 
+|     | 1404 | Print Immutable Linked List in Reverse | Swift | Java | 
+|     | 1403 | Palindrome Partitioning III | Swift | Java | 
+|     | 1402 | Count Square Submatrices with All Ones | Swift | Java | 
+|     | 1401 | Number of Burgers with No Waste of Ingredients | Swift | Java | 
+|     | 1400 | Find Winner on a Tic Tac Toe Game | Swift | Java | 
+|     | 1398 | Number of Ways to Stay in the Same Place After Some Steps | Swift | Java | 
+|     | 1397 | Search Suggestions System | Swift | Java | 
+|     | 1396 | Count Servers that Communicate | Swift | Java | 
+|     | 1395 | Minimum Time Visiting All Points | Swift | Java | 
+|     | 1389 | Minimum Moves to Move a Box to Their Target Location | Swift | Java | 
+|     | 1388 | Greatest Sum Divisible by Three | Swift | Java | 
+|     | 1387 | Find Elements in a Contaminated Binary Tree | Swift | Java | 
+|     | 1386 | Shift 2D Grid | Swift | Java | 
+|     | 1381 | Maximum Score Words Formed by Letters | Swift | Java | 
+|     | 1380 | Number of Closed Islands | Swift | Java | 
+|     | 1379 | Reconstruct a 2-Row Binary Matrix | Swift | Java | 
+|     | 1378 | Cells with Odd Values in a Matrix | Swift | Java | 
+|     | 1372 | Check If It Is a Good Array | Swift | Java | 
+|     | 1371 | Minimum Remove to Make Valid Parentheses | Swift | Java | 
+|     | 1370 | Count Number of Nice Subarrays | Swift | Java | 
+|     | 1369 | Minimum Swaps to Make Strings Equal | Swift | Java | 
+|     | 1362 | Airplane Seat Assignment Probability | Swift | Java | 
+|     | 1361 | Tiling a Rectangle with the Fewest Squares | Swift | Java | 
+|     | 1360 | Maximum Length of a Concatenated String with Unique Characters | Swift | Java | 
+|     | 1359 | Circular Permutation in Binary Representation | Swift | Java | 
+|     | 1358 | Find Positive Integer Solution for a Given Equation | Swift | Java | 
+|     | 1352 | Maximum Profit in Job Scheduling | Swift | Java | 
+|     | 1351 | Replace the Substring for Balanced String | Swift | Java | 
+|     | 1350 | Remove Sub-Folders from the Filesystem | Swift | Java | 
+|     | 1349 | Check If It Is a Straight Line | Swift | Java | 
+|     | 1344 | Maximum Equal Frequency | Swift | Java | 
+|     | 1343 | Dice Roll Simulation | Swift | Java | 
+|     | 1342 | Queens That Can Attack the King | Swift | Java | 
+|     | 1341 | Split a String in Balanced Strings | Swift | Java | 
+|     | 1337 | Design Skiplist | Swift | Java | 
+|     | 1332 | Count Vowels Permutation | Swift | Java | 
+|     | 1331 | Path with Maximum Gold | Swift | Java | 
+|     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
+|     | 1329 | Play with Chips | Swift | Java | 
+|     | 1322 | Minimum Moves to Reach Target with Rotations | Swift | Java | 
+|     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
+|     | 1320 | Remove All Adjacent Duplicates in String II | Swift | Java | 
+|     | 1319 | Unique Number of Occurrences | Swift | Java | 
+|     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 
+|     | 1308 | Smallest String With Swaps | Swift | Java | 
+|     | 1307 | Ugly Number III | Swift | Java | 
+|     | 1306 | Minimum Absolute Difference | Swift | Java | 
+|     | 1300 | Critical Connections in a Network | Swift | Java | 
+|     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
+|     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
+|     | 1297 | Maximum Number of Balloons | Swift | Java | 
+|     | 1290 | Make Array Strictly Increasing | Swift | Java | 
+|     | 1289 | Day of the Week | Swift | Java | 
+|     | 1288 | Maximum Subarray Sum with One Deletion | Swift | Java | 
+|     | 1287 | Distance Between Bus Stops | Swift | Java | 
+|     | 1285 | Balance a Binary Search Tree | Swift | Java | 
+|     | 1284 | Four Divisors | Swift | Java | 
+|     | 1282 | Number of Valid Words for Each Puzzle | Swift | Java | 
+|     | 1281 | Can Make Palindrome from Substring | Swift | Java | 
+|     | 1280 | Diet Plan Performance | Swift | Java | 
+|     | 1279 | Prime Arrangements | Swift | Java | 
+|     | 1277 | Largest Multiple of Three | Swift | Java | 
+|     | 1276 | Closest Divisors | Swift | Java | 
+|     | 1275 | Validate Binary Tree Nodes | Swift | Java | 
+|     | 1274 | Number of Days Between Two Dates | Swift | Java | 
+|     | 1273 | Compare Strings by Frequency of the Smallest Character | Swift | Java | 
+|     | 1272 | Invalid Transactions | Swift | Java | 
+|     | 1271 | Web Crawler | Swift | Java | 
+|     | 1270 | Dinner Plate Stacks | Swift | Java | 
+|     | 1267 | Remove Zero Sum Consecutive Nodes from Linked List | Swift | Java | 
+|     | 1263 | Number of Dice Rolls With Target Sum | Swift | Java | 
+|     | 1262 | Online Majority Element In Subarray | Swift | Java | 
+|     | 1261 | Swap For Longest Repeated Character Substring | Swift | Java | 
+|     | 1260 | Day of the Year | Swift | Java | 
+|     | 1256 | Rank Transform of an Array | Swift | Java | 
+|     | 1255 | Reverse Subarray To Maximize Array Value | Swift | Java | 
+|     | 1254 | Deepest Leaves Sum | Swift | Java | 
+|     | 1253 | Sort the Matrix Diagonally | Swift | Java | 
+|     | 1252 | Break a Palindrome | Swift | Java | 
+|     | 1251 | Longest Chunked Palindrome Decomposition | Swift | Java | 
+|     | 1250 | Longest Common Subsequence | Swift | Java | 
+|     | 1249 | Snapshot Array | Swift | Java | 
+|     | 1248 | Binary Tree Coloring Game | Swift | Java | 
+|     | 1247 | Decrease Elements To Make Array Zigzag | Swift | Java | 
+|     | 1244 | Distinct Echo Substrings | Swift | Java | 
+|     | 1243 | Sum of Nodes with Even-Valued Grandparent | Swift | Java | 
+|     | 1242 | Matrix Block Sum | Swift | Java | 
+|     | 1241 | Decompress Run-Length Encoded List | Swift | Java | 
+|     | 1240 | Stone Game II | Swift | Java | 
+|     | 1239 | Largest 1-Bordered Square | Swift | Java | 
+|     | 1238 | Alphabet Board Path | Swift | Java | 
+|     | 1236 | N-th Tribonacci Number | Swift | Java | 
+|     | 1234 | Number of Paths with Max Score | Swift | Java | 
+|     | 1233 | Number of Ships in a Rectangle | Swift | Java | 
+|     | 1232 | Sum of Mutated Array Closest to Target | Swift | Java | 
+|     | 1231 | Replace Elements with Greatest Element on Right Side | Swift | Java | 
+|     | 1230 | Maximum of Absolute Value Expression | Swift | Java | 
+|     | 1229 | Shortest Path with Alternating Colors | Swift | Java | 
+|     | 1228 | Minimum Cost Tree From Leaf Values | Swift | Java | 
+|     | 1227 | Number of Equivalent Domino Pairs | Swift | Java | 
+|     | 1224 | Minimum Falling Path Sum II | Swift | Java | 
+|     | 1222 | Remove Covered Intervals | Swift | Java | 
+|     | 1221 | Element Appearing More Than 25% In Sorted Array | Swift | Java | 
+|     | 1220 | Smallest Sufficient Team | Swift | Java | 
+|     | 1219 | Longest Well-Performing Interval | Swift | Java | 
+|     | 1218 | Lowest Common Ancestor of Deepest Leaves | Swift | Java | 
+|     | 1217 | Relative Sort Array | Swift | Java | 
+|     | 1213 | Handshakes That Don't Cross | Swift | Java | 
+|     | 1212 | Sequential Digits | Swift | Java | 
+|     | 1211 | Iterator for Combination | Swift | Java | 
+|     | 1208 | Maximum Nesting Depth of Two Valid Parentheses Strings | Swift | Java | 
+|     | 1207 | Delete Nodes And Return Forest | Swift | Java | 
+|     | 1206 | Corporate Flight Bookings | Swift | Java | 
+|     | 1205 | Defanging an IP Address | Swift | Java | 
+|     | 1202 | Palindrome Removal | Swift | Java | 
+|     | 1201 | Delete Tree Nodes | Swift | Java | 
+|     | 1200 | Remove Interval | Swift | Java | 
+|     | 1199 | Hexspeak | Swift | Java | 
+|     | 1197 | Parsing A Boolean Expression | Swift | Java | 
+|     | 1196 | Filling Bookcase Shelves | Swift | Java | 
+|     | 1195 | Distribute Candies to People | Swift | Java | 
+|     | 1194 | Path In Zigzag Labelled Binary Tree | Swift | Java | 
+|     | 1192 | Divide Chocolate | Swift | Java | 
+|     | 1191 | Synonymous Sentences | Swift | Java | 
+|     | 1190 | Smallest Common Region | Swift | Java | 
+|     | 1189 | Encode Number | Swift | Java | 
+|     | 1188 | Brace Expansion II | Swift | Java | 
+|     | 1185 | Find in Mountain Array | Swift | Java | 
+|     | 1184 | Car Pooling | Swift | Java | 
+|     | 1183 | Statistics from a Large Sample | Swift | Java | 
+|     | 1178 | Valid Palindrome III | Swift | Java | 
+|     | 1177 | Tree Diameter | Swift | Java | 
+|     | 1176 | Design A Leaderboard | Swift | Java | 
+|     | 1175 | Array Transformation | Swift | Java | 
+|     | 1171 | Shortest Path in Binary Matrix | Swift | Java | 
+|     | 1170 | Shortest Common Supersequence  | Swift | Java | 
+|     | 1169 | Largest Values From Labels | Swift | Java | 
+|     | 1168 | Duplicate Zeros | Swift | Java | 
+|     | 1167 | Minimum Time to Build Blocks | Swift | Java | 
+|     | 1166 | Toss Strange Coins | Swift | Java | 
+|     | 1165 | Meeting Scheduler | Swift | Java | 
+|     | 1164 | Missing Number In Arithmetic Progression | Swift | Java | 
+|     | 1160 | Letter Tile Possibilities | Swift | Java | 
+|     | 1159 | Smallest Subsequence of Distinct Characters | Swift | Java | 
+|     | 1157 | Insufficient Nodes in Root to Leaf Paths | Swift | Java | 
+|     | 1156 | Occurrences After Bigram | Swift | Java | 
+|     | 1152 | Maximum Number of Ones | Swift | Java | 
+|     | 1151 | Stepping Numbers | Swift | Java | 
+|     | 1150 | Two Sum BSTs | Swift | Java | 
+|     | 1149 | Intersection of Three Sorted Arrays | Swift | Java | 
+|     | 1148 | Adding Two Negabinary Numbers | Swift | Java | 
+|     | 1147 | Flip Columns For Maximum Number of Equal Rows | Swift | Java | 
+|     | 1146 | Greatest Common Divisor of Strings | Swift | Java | 
+|     | 1145 | Number of Submatrices That Sum to Target | Swift | Java | 
+|     | 1144 | Optimize Water Distribution in a Village | Swift | Java | 
+|     | 1143 | Find Smallest Common Element in All Rows | Swift | Java | 
+|     | 1142 | Minimum Knight Moves | Swift | Java | 
+|     | 1141 | How Many Apples Can You Put into the Basket | Swift | Java | 
+|     | 1140 | Distant Barcodes | Swift | Java | 
+|     | 1139 | Previous Permutation With One Swap | Swift | Java | 
+|     | 1138 | Grumpy Bookstore Owner | Swift | Java | 
+|     | 1137 | Height Checker | Swift | Java | 
+|     | 1134 | Shortest Distance to Target Color | Swift | Java | 
+|     | 1133 | Last Substring in Lexicographical Order | Swift | Java | 
+|     | 1132 | Before and After Puzzle | Swift | Java | 
+|     | 1131 | Count Substrings with Only One Distinct Letter | Swift | Java | 
+|     | 1130 | Last Stone Weight II | Swift | Java | 
+|     | 1129 | Longest String Chain | Swift | Java | 
+|     | 1128 | Remove All Adjacent Duplicates In String | Swift | Java | 
+|     | 1127 | Last Stone Weight | Swift | Java | 
+|     | 1126 | Minimum Cost to Connect Sticks | Swift | Java | 
+|     | 1125 | Design File System | Swift | Java | 
+|     | 1124 | String Transforms Into Another String | Swift | Java | 
+|     | 1123 | Single-Row Keyboard | Swift | Java | 
+|     | 1122 | Longest Duplicate Substring | Swift | Java | 
+|     | 1121 | Partition Array for Maximum Sum | Swift | Java | 
+|     | 1120 | Flower Planting With No Adjacent | Swift | Java | 
+|     | 1119 | Robot Bounded In Circle | Swift | Java | 
+|     | 1118 | Divide Array Into Increasing Sequences | Swift | Java | 
+|     | 1117 | As Far from Land as Possible | Swift | Java | 
+|     | 1116 | Maximum Level Sum of a Binary Tree | Swift | Java | 
+|     | 1115 | Valid Boomerang | Swift | Java | 
+|     | 1114 | Binary Search Tree to Greater Sum Tree | Swift | Java | 
+|     | 1113 | Moving Stones Until Consecutive II | Swift | Java | 
+|     | 1112 | Find Words That Can Be Formed by Characters | Swift | Java | 
+|     | 1111 | Minimum Score Triangulation of Polygon | Swift | Java | 
+|     | 1108 | Analyze User Website Visit Pattern | Swift | Java | 
+|     | 1107 | Minimum Swaps to Group All 1's Together | Swift | Java | 
+|     | 1106 | Escape a Large Maze | Swift | Java | 
+|     | 1105 | Uncrossed Lines | Swift | Java | 
+|     | 1104 | Coloring A Border | Swift | Java | 
+|     | 1103 | Moving Stones Until Consecutive | Swift | Java | 
+|     | 1102 | Check If a Number Is Majority Element in a Sorted Array | Swift | Java | 
+|     | 1101 | Parallel Courses | Swift | Java | 
+|     | 1100 | Connecting Cities With Minimum Cost | Swift | Java | 
+|     | 1099 | Path With Maximum Minimum Value | Swift | Java | 
+|     | 1098 | Largest Unique Number | Swift | Java | 
+|     | 1097 | Stream of Characters | Swift | Java | 
+|     | 1096 | Maximum Sum of Two Non-Overlapping Subarrays | Swift | Java | 
+|     | 1095 | Two City Scheduling | Swift | Java | 
+|     | 1094 | Matrix Cells in Distance Order | Swift | Java | 
+|     | 1093 | Recover a Tree From Preorder Traversal | Swift | Java | 
+|     | 1092 | Maximum Difference Between Node and Ancestor | Swift | Java | 
+|     | 1091 | Maximum Average Subtree | Swift | Java | 
+|     | 1090 | Armstrong Number | Swift | Java | 
+|     | 1089 | Remove Vowels from a String | Swift | Java | 
+|     | 1088 | Number of Days in a Month | Swift | Java | 
+|     | 1087 | Longest Arithmetic Sequence | Swift | Java | 
+|     | 1086 | Divisor Game | Swift | Java | 
+|     | 1085 | The Earliest Moment When Everyone Become Friends | Swift | Java | 
+|     | 1084 | Find K-Length Substrings With No Repeated Characters | Swift | Java | 
+|     | 1083 | Two Sum Less Than K | Swift | Java | 
+|     | 1082 | Sum of Digits in the Minimum Number | Swift | Java | 
+|     | 1081 | Video Stitching | Swift | Java | 
+|     | 1080 | Camelcase Matching | Swift | Java | 
+|     | 1079 | Sum of Root To Leaf Binary Numbers | Swift | Java | 
+|     | 1078 | Remove Outermost Parentheses | Swift | Java | 
+|     | 1077 | Confusing Number II | Swift | Java | 
+|     | 1076 | Brace Expansion | Swift | Java | 
+|     | 1075 | Index Pairs of a String | Swift | Java | 
+|     | 1074 | High Five | Swift | Java | 
+|     | 1073 | Number of Enclaves | Swift | Java | 
+|     | 1072 | Next Greater Node In Linked List | Swift | Java | 
+|     | 1071 | Binary Prefix Divisible By 5 | Swift | Java | 
+|     | 1070 | Convert to Base -2 | Swift | Java | 
+|     | 1069 | Confusing Number | Swift | Java | 
+|     | 1068 | Digit Count in Range | Swift | Java | 
+|     | 1067 | Campus Bikes II | Swift | Java | 
+|     | 1066 | Fixed Point | Swift | Java | 
+|     | 1065 | Binary String With Substrings Representing 1 To N | Swift | Java | 
+|     | 1064 | Smallest Integer Divisible by K | Swift | Java | 
+|     | 1063 | Best Sightseeing Pair | Swift | Java | 
+|     | 1062 | Partition Array Into Three Parts With Equal Sum | Swift | Java | 
+|     | 1061 | Number of Valid Subarrays | Swift | Java | 
+|     | 1060 | Longest Repeating Substring | Swift | Java | 
+|     | 1059 | Missing Element in Sorted Array | Swift | Java | 
+|     | 1058 | Lexicographically Smallest Equivalent String | Swift | Java | 
+|     | 1057 | Numbers With Repeated Digits | Swift | Java | 
+|     | 1056 | Capacity To Ship Packages Within D Days | Swift | Java | 
+|     | 1055 | Pairs of Songs With Total Durations Divisible by 60 | Swift | Java | 
+|     | 1054 | Complement of Base 10 Integer | Swift | Java | 
+|     | 1053 | Minimize Rounding Error to Meet Target | Swift | Java | 
+|     | 1052 | Campus Bikes | Swift | Java | 
+|     | 1051 | Shortest Way to Form String | Swift | Java | 
+|     | 1050 | Construct Binary Search Tree from Preorder Traversal | Swift | Java | 
+|     | 1049 | Minimum Domino Rotations For Equal Row | Swift | Java | 
+|     | 1048 | Clumsy Factorial | Swift | Java | 
+|     | 1047 | Maximize Sum Of Array After K Negations | Swift | Java | 
+|     | 1046 | Max Consecutive Ones III | Swift | Java | 
+|     | 1045 | Check If Word Is Valid After Substitutions | Swift | Java | 
+|     | 1044 | Find Common Characters | Swift | Java | 
+|     | 1043 | Grid Illumination | Swift | Java | 
+|     | 1042 | Minimum Cost to Merge Stones | Swift | Java | 
+|     | 1041 | Available Captures for Rook | Swift | Java | 
+|     | 1040 | Maximum Binary Tree II | Swift | Java | 
+|     | 1039 | Find the Town Judge | Swift | Java | 
+|     | 1038 | Number of Squareful Arrays | Swift | Java | 
+|     | 1037 | Minimum Number of K Consecutive Bit Flips | Swift | Java | 
+|     | 1036 | Rotting Oranges | Swift | Java | 
+|     | 1035 | Cousins in Binary Tree | Swift | Java | 
+|     | 1034 | Subarrays with K Different Integers | Swift | Java | 
+|     | 1033 | Broken Calculator | Swift | Java | 
+|     | 1032 | Satisfiability of Equality Equations | Swift | Java | 
+|     | 1031 | Add to Array-Form of Integer | Swift | Java | 
+|     | 1030 | Smallest String Starting From Leaf | Swift | Java | 
+|     | 1029 | Vertical Order Traversal of a Binary Tree | Swift | Java | 
+|     | 1028 | Interval List Intersections | Swift | Java | 
+|     | 1027 | Sum of Even Numbers After Queries | Swift | Java | 
+|     | 1026 | String Without AAA or BBB | Swift | Java | 
+|     | 1025 | Minimum Cost For Tickets | Swift | Java | 
+|     | 1024 | Triples with Bitwise AND Equal To Zero | Swift | Java | 
+|     | 1023 | Time Based Key-Value Store | Swift | Java | 
+|     | 1022 | Unique Paths III | Swift | Java | 
+|     | 1021 | Distribute Coins in Binary Tree | Swift | Java | 
+|     | 1020 | Longest Turbulent Subarray | Swift | Java | 
+|     | 1019 | Squares of a Sorted Array | Swift | Java | 
+|     | 1018 | Largest Perimeter Triangle | Swift | Java | 
+|     | 1017 | Odd Even Jump | Swift | Java | 
+|     | 1016 | Subarray Sums Divisible by K | Swift | Java | 
+|     | 1014 | K Closest Points to Origin | Swift | Java | 
+|     | 1013 | Fibonacci Number | Swift | Java | 
+|     | 1012 | Equal Rational Numbers | Swift | Java | 
+|     | 1011 | Flip Binary Tree To Match Preorder Traversal | Swift | Java | 
+|     | 1010 | Powerful Integers | Swift | Java | 
+|     | 1009 | Pancake Sorting | Swift | Java | 
+|     | 1008 | Binary Tree Cameras | Swift | Java | 
+|     | 1007 | Numbers With Same Consecutive Differences | Swift | Java | 
+|     | 1006 | Vowel Spellchecker | Swift | Java | 
+|     | 1005 | Univalued Binary Tree | Swift | Java | 
+|     | 1004 | Least Operators to Express Number | Swift | Java | 
+|     | 1003 | Minimum Area Rectangle II | Swift | Java | 
+|     | 1002 | Maximum Width Ramp | Swift | Java | 
+|     | 1001 | N-Repeated Element in Size 2N Array | Swift | Java | 
+|     | 1000 | Delete Columns to Make Sorted III | Swift | Java | 
+|     | 999 | Regions Cut By Slashes | Swift | Java | 
+|     | 998 | Check Completeness of a Binary Tree | Swift | Java | 
+|     | 994 | Prison Cells After N Days | Swift | Java | 
+|     | 993 | Tallest Billboard | Swift | Java | 
+|     | 992 | Delete Columns to Make Sorted II | Swift | Java | 
+|     | 991 | Array of Doubled Pairs | Swift | Java | 
+|     | 990 | Verifying an Alien Dictionary | Swift | Java | 
+|     | 989 | Largest Component Size by Common Factor | Swift | Java | 
+|     | 988 | Flip Equivalent Binary Trees | Swift | Java | 
+|     | 987 | Reveal Cards In Increasing Order | Swift | Java | 
+|     | 986 | Largest Time for Given Digits | Swift | Java | 
+|     | 985 | Bag of Tokens | Swift | Java | 
+|     | 984 | Most Stones Removed with Same Row or Column | Swift | Java | 
+|     | 983 | Validate Stack Sequences | Swift | Java | 
+|     | 982 | Minimum Increment to Make Array Unique | Swift | Java | 
+|     | 981 | Delete Columns to Make Sorted | Swift | Java | 
+|     | 980 | Find the Shortest Superstring | Swift | Java | 
+|     | 979 | DI String Match | Swift | Java | 
+|     | 978 | Valid Mountain Array | Swift | Java | 
+|     | 977 | Distinct Subsequences II | Swift | Java | 
+|     | 976 | Minimum Area Rectangle | Swift | Java | 
+|     | 975 | Range Sum of BST | Swift | Java | 
+|     | 974 | Reorder Data in Log Files | Swift | Java | 
+|     | 973 | Stamping The Sequence | Swift | Java | 
+|     | 972 | Knight Dialer | Swift | Java | 
+|     | 971 | Shortest Bridge | Swift | Java | 
+|     | 969 | Number of Recent Calls | Swift | Java | 
+|     | 968 | Beautiful Array | Swift | Java | 
+|     | 967 | Minimum Falling Path Sum | Swift | Java | 
+|     | 966 | Binary Subarrays With Sum | Swift | Java | 
+|     | 965 | Unique Email Addresses | Swift | Java | 
+|     | 964 | Minimize Malware Spread II | Swift | Java | 
+|     | 963 | Three Equal Parts | Swift | Java | 
+|     | 962 | Flip String to Monotone Increasing | Swift | Java | 
+|     | 961 | Long Pressed Name | Swift | Java | 
+|     | 960 | Minimize Malware Spread | Swift | Java | 
+|     | 959 | 3Sum With Multiplicity | Swift | Java | 
+|     | 958 | Sort Array By Parity II | Swift | Java | 
+|     | 957 | Minimum Add to Make Parentheses Valid | Swift | Java | 
+|     | 956 | Number of Music Playlists | Swift | Java | 
+|     | 955 | Complete Binary Tree Inserter | Swift | Java | 
+|     | 954 | Maximum Sum Circular Subarray | Swift | Java | 
+|     | 953 | Reverse Only Letters | Swift | Java | 
+|     | 952 | Word Subsets | Swift | Java | 
+|     | 951 | Partition Array into Disjoint Intervals | Swift | Java | 
+|     | 950 | X of a Kind in a Deck of Cards | Swift | Java | 
+|     | 949 | Cat and Mouse | Swift | Java | 
+|     | 948 | Sort an Array | Swift | Java | 
+|     | 947 | Online Election | Swift | Java | 
+|     | 946 | Smallest Range II | Swift | Java | 
+|     | 945 | Snakes and Ladders | Swift | Java | 
+|     | 944 | Smallest Range I | Swift | Java | 
+|     | 943 | Sum of Subarray Minimums | Swift | Java | 
+|     | 942 | Super Palindromes | Swift | Java | 
+|     | 941 | Sort Array By Parity | Swift | Java | 
+|     | 940 | Fruit Into Baskets | Swift | Java | 
+|     | 939 | Valid Permutations for DI Sequence | Swift | Java | 
+|     | 938 | Numbers At Most N Given Digit Set | Swift | Java | 
+|     | 937 | Online Stock Span | Swift | Java | 
+|     | 936 | RLE Iterator | Swift | Java | 
+|     | 935 | Orderly Queue | Swift | Java | 
+|     | 934 | Bitwise ORs of Subarrays | Swift | Java | 
+|     | 933 | Increasing Order Search Tree | Swift | Java | 
+|     | 932 | Monotonic Array | Swift | Java | 
+|     | 931 | Maximum Frequency Stack | Swift | Java | 
+|     | 930 | All Possible Full Binary Trees | Swift | Java | 
+|     | 929 | Groups of Special-Equivalent Strings | Swift | Java | 
+|     | 928 | Surface Area of 3D Shapes | Swift | Java | 
+|     | 927 | Sum of Subsequence Widths | Swift | Java | 
+|     | 926 | Find and Replace Pattern | Swift | Java | 
+|     | 925 | Construct Binary Tree from Preorder and Postorder Traversal | Swift | Java | 
+|     | 924 | Fair Candy Swap | Swift | Java | 
+|     | 923 | Super Egg Drop | Swift | Java | 
+|     | 922 | Possible Bipartition | Swift | Java | 
+|     | 921 | Spiral Matrix III | Swift | Java | 
+|     | 920 | Uncommon Words from Two Sentences | Swift | Java | 
+|     | 919 | Projection Area of 3D Shapes | Swift | Java | 
+|     | 918 | Reachable Nodes In Subdivided Graph | Swift | Java | 
+|     | 917 | Boats to Save People | Swift | Java | 
+|     | 916 | Decoded String at Index | Swift | Java | 
+|     | 915 | Generate Random Point in a Circle | Swift | Java | 
+|     | 914 | Random Point in Non-overlapping Rectangles | Swift | Java | 
+|     | 913 | Random Flip Matrix | Swift | Java | 
+|     | 912 | Random Pick with Weight | Swift | Java | 
+|     | 911 | Profitable Schemes | Swift | Java | 
+|     | 910 | Nth Magical Number | Swift | Java | 
+|     | 909 | Stone Game | Swift | Java | 
+|     | 908 | Middle of the Linked List | Swift | Java | 
+|     | 907 | Koko Eating Bananas | Swift | Java | 
+|     | 906 | Walking Robot Simulation | Swift | Java | 
+|     | 905 | Length of Longest Fibonacci Subsequence | Swift | Java | 
+|     | 904 | Leaf-Similar Trees | Swift | Java | 
+|     | 903 | Implement Rand10() Using Rand7() | Swift | Java | 
+|     | 902 | Minimum Number of Refueling Stops | Swift | Java | 
+|     | 901 | Advantage Shuffle | Swift | Java | 
+|     | 900 | Reordered Power of 2 | Swift | Java | 
+|     | 899 | Binary Gap | Swift | Java | 
+|     | 898 | Transpose Matrix | Swift | Java | 
+|     | 897 | Prime Palindrome | Swift | Java | 
+|     | 896 | Smallest Subtree with all the Deepest Nodes | Swift | Java | 
+|     | 895 | Shortest Path to Get All Keys | Swift | Java | 
+|     | 894 | Random Pick with Blacklist | Swift | Java | 
+|     | 893 | All Nodes Distance K in Binary Tree | Swift | Java | 
+|     | 892 | Shortest Subarray with Sum at Least K | Swift | Java | 
+|     | 891 | Score After Flipping Matrix | Swift | Java | 
+|     | 890 | Lemonade Change | Swift | Java | 
+|     | 889 | Buddy Strings | Swift | Java | 
+|     | 888 | Mirror Reflection | Swift | Java | 
+|     | 887 | Minimum Cost to Hire K Workers | Swift | Java | 
+|     | 886 | Score of Parentheses | Swift | Java | 
+|     | 885 | Exam Room | Swift | Java | 
+|     | 884 | K-Similar Strings | Swift | Java | 
+|     | 883 | Car Fleet | Swift | Java | 
+|     | 882 | Peak Index in a Mountain Array | Swift | Java | 
+|     | 881 | Loud and Rich | Swift | Java | 
+|     | 880 | Rectangle Area II | Swift | Java | 
+|     | 879 | Maximize Distance to Closest Person | Swift | Java | 
+|     | 878 | Shifting Letters | Swift | Java | 
+|     | 877 | Shortest Path Visiting All Nodes | Swift | Java | 
+|     | 876 | Hand of Straights | Swift | Java | 
+|     | 875 | Longest Mountain in Array | Swift | Java | 
+|     | 874 | Backspace String Compare | Swift | Java | 
+|     | 873 | Guess the Word | Swift | Java | 
+|     | 872 | Split Array into Fibonacci Sequence | Swift | Java | 
+|     | 871 | Keys and Rooms | Swift | Java | 
+|     | 870 | Magic Squares In Grid | Swift | Java | 
+|     | 869 | Similar String Groups | Swift | Java | 
+|     | 868 | Push Dominoes | Swift | Java | 
+|     | 867 | New 21 Game | Swift | Java | 
+|     | 866 | Rectangle Overlap | Swift | Java | 
+|     | 865 | Robot Room Cleaner | Swift | Java | 
+|     | 864 | Image Overlap | Swift | Java | 
+|     | 863 | Sum of Distances in Tree | Swift | Java | 
+|     | 862 | Find And Replace in String | Swift | Java | 
+|     | 861 | Flipping an Image | Swift | Java | 
+|     | 860 | Design Circular Queue | Swift | Java | 
+|     | 859 | Design Circular Deque | Swift | Java | 
+|     | 858 | Masking Personal Information | Swift | Java | 
+|     | 857 | Positions of Large Groups | Swift | Java | 
+|     | 856 | Consecutive Numbers Sum | Swift | Java | 
+|     | 855 | Count Unique Characters of All Substrings of a Given String | Swift | Java | 
+|     | 854 | Making A Large Island | Swift | Java | 
+|     | 853 | Most Profit Assigning Work | Swift | Java | 
+|     | 852 | Friends Of Appropriate Ages | Swift | Java | 
+|     | 851 | Goat Latin | Swift | Java | 
+|     | 850 | Insert into a Sorted Circular Linked List | Swift | Java | 
+|     | 843 | Binary Trees With Factors | Swift | Java | 
+|     | 842 | Card Flipping Game | Swift | Java | 
+|     | 841 | Shortest Distance to a Character | Swift | Java | 
+|     | 839 | Short Encoding of Words | Swift | Java | 
+|     | 838 | Design Linked List | Swift | Java | 
+|     | 837 | Most Common Word | Swift | Java | 
+|     | 836 | Race Car | Swift | Java | 
+|     | 835 | Linked List Components | Swift | Java | 
+|     | 834 | Ambiguous Coordinates | Swift | Java | 
+|     | 833 | Bus Routes | Swift | Java | 
+|     | 832 | Binary Tree Pruning | Swift | Java | 
+|     | 831 | Largest Sum of Averages | Swift | Java | 
+|     | 830 | Largest Triangle Area | Swift | Java | 
+|     | 829 | Subdomain Visit Count | Swift | Java | 
+|     | 828 | Chalkboard XOR Game | Swift | Java | 
+|     | 827 | Expressive Words | Swift | Java | 
+|     | 826 | Soup Servings | Swift | Java | 
+|     | 825 | Max Increase to Keep City Skyline | Swift | Java | 
+|     | 824 | Number of Lines To Write String | Swift | Java | 
+|     | 823 | Split Array With Same Average | Swift | Java | 
+|     | 822 | Unique Morse Code Words | Swift | Java | 
+|     | 821 | Bricks Falling When Hit | Swift | Java | 
+|     | 820 | Find Eventual Safe States | Swift | Java | 
+|     | 819 | Minimum Swaps To Make Sequences Increasing | Swift | Java | 
+|     | 818 | Similar RGB Color | Swift | Java | 
+|     | 817 | Design HashMap | Swift | Java | 
+|     | 816 | Design HashSet | Swift | Java | 
+|     | 815 | Champagne Tower | Swift | Java | 
+|     | 814 | Smallest Rotation with Highest Score | Swift | Java | 
+|     | 813 | All Paths From Source to Target | Swift | Java | 
+|     | 812 | Rotate String | Swift | Java | 
+|     | 811 | Number of Subarrays with Bounded Maximum | Swift | Java | 
+|     | 810 | Valid Tic-Tac-Toe State | Swift | Java | 
+|     | 809 | Preimage Size of Factorial Zeroes Function | Swift | Java | 
+|     | 808 | Number of Matching Subsequences | Swift | Java | 
+|     | 807 | Custom Sort String | Swift | Java | 
+|     | 806 | Domino and Tromino Tiling | Swift | Java | 
+|     | 805 | Escape The Ghosts | Swift | Java | 
+|     | 804 | Rotated Digits | Swift | Java | 
+|     | 803 | Cheapest Flights Within K Stops | Swift | Java | 
+|     | 802 | K-th Smallest Prime Fraction | Swift | Java | 
+|     | 801 | Is Graph Bipartite? | Swift | Java | 
+|     | 800 | Letter Case Permutation | Swift | Java | 
+|     | 799 | Minimum Distance Between BST Nodes | Swift | Java | 
+|     | 798 | Transform to Chessboard | Swift | Java | 
+|     | 797 | Rabbits in Forest | Swift | Java | 
+|     | 796 | Reaching Points | Swift | Java | 
+|     | 795 | K-th Symbol in Grammar | Swift | Java | 
+|     | 794 | Swim in Rising Water | Swift | Java | 
+|     | 793 | Swap Adjacent in LR String | Swift | Java | 
+|     | 792 | Binary Search | Swift | Java | 
+|     | 791 | Split BST | Swift | Java | 
+|     | 790 | Global and Local Inversions | Swift | Java | 
+|     | 789 | Kth Largest Element in a Stream | Swift | Java | 
+|     | 788 | Minimize Max Distance to Gas Station | Swift | Java | 
+|     | 787 | Sliding Puzzle | Swift | Java | 
+|     | 786 | Search in a Sorted Array of Unknown Size | Swift | Java | 
+|     | 785 | Basic Calculator III | Swift | Java | 
+|     | 784 | Insert into a Binary Search Tree | Swift | Java | 
+|     | 783 | Search in a Binary Search Tree | Swift | Java | 
+|     | 782 | Jewels and Stones | Swift | Java | 
+|     | 781 | Basic Calculator IV | Swift | Java | 
+|     | 780 | Max Chunks To Make Sorted | Swift | Java | 
+|     | 779 | Max Chunks To Make Sorted II | Swift | Java | 
+|     | 778 | Reorganize String | Swift | Java | 
+|     | 777 | Toeplitz Matrix | Swift | Java | 
+|     | 776 | N-ary Tree Postorder Traversal | Swift | Java | 
+|     | 775 | N-ary Tree Preorder Traversal | Swift | Java | 
+|     | 774 | Maximum Depth of N-ary Tree | Swift | Java | 
+|     | 773 | Logical OR of Two Binary Grids Represented as Quad-Trees | Swift | Java | 
+|     | 772 | Construct Quad Tree | Swift | Java | 
+|     | 771 | Encode N-ary Tree to Binary Tree | Swift | Java | 
+|     | 770 | Couples Holding Hands | Swift | Java | 
+|     | 769 | Largest Plus Sign | Swift | Java | 
+|     | 768 | Partition Labels | Swift | Java | 
+|     | 767 | Prime Number of Set Bits in Binary Representation | Swift | Java | 
+|     | 766 | Flatten a Multilevel Doubly Linked List | Swift | Java | 
+|     | 765 | Serialize and Deserialize N-ary Tree | Swift | Java | 
+|     | 764 | N-ary Tree Level Order Traversal | Swift | Java | 
+|     | 763 | Special Binary String | Swift | Java | 
+|     | 762 | Find Anagram Mappings | Swift | Java | 
+|     | 761 | Employee Free Time | Swift | Java | 
+|     | 760 | Bold Words in String | Swift | Java | 
+|     | 759 | Set Intersection Size At Least Two | Swift | Java | 
+|     | 758 | Convert Binary Search Tree to Sorted Doubly Linked List | Swift | Java | 
+|     | 757 | Pyramid Transition Matrix | Swift | Java | 
+|     | 756 | Pour Water | Swift | Java | 
+|     | 755 | Reach a Number | Swift | Java | 
+|     | 754 | Cracking the Safe | Swift | Java | 
+|     | 753 | Open the Lock | Swift | Java | 
+|     | 752 | IP to CIDR | Swift | Java | 
+|     | 751 | Number Of Corner Rectangles | Swift | Java | 
+|     | 750 | Contain Virus | Swift | Java | 
+|     | 749 | Shortest Completing Word | Swift | Java | 
+|     | 748 | Largest Number At Least Twice of Others | Swift | Java | 
+|     | 747 | Min Cost Climbing Stairs | Swift | Java | 
+|     | 746 | Prefix and Suffix Search | Swift | Java | 
+|     | 745 | Find Smallest Letter Greater Than Target | Swift | Java | 
+|     | 744 | Network Delay Time | Swift | Java | 
+|     | 743 | Closest Leaf in a Binary Tree | Swift | Java | 
+|     | 742 | To Lower Case | Swift | Java | 
+|     | 741 | Cherry Pickup | Swift | Java | 
+|     | 740 | Delete and Earn | Swift | Java | 
+|     | 739 | Daily Temperatures | Swift | Java | 
+|     | 738 | Monotone Increasing Digits | Swift | Java | 
+|     | 737 | Sentence Similarity II | Swift | Java | 
+|     | 736 | Parse Lisp Expression | Swift | Java | 
+|     | 735 | Asteroid Collision | Swift | Java | 
+|     | 734 | Sentence Similarity | Swift | Java | 
+|     | 733 | Flood Fill | Swift | Java | 
+|     | 732 | My Calendar III | Swift | Java | 
+|     | 731 | My Calendar II | Swift | Java | 
+|     | 730 | Count Different Palindromic Subsequences | Swift | Java | 
+|     | 729 | My Calendar I | Swift | Java | 
+|     | 728 | Self Dividing Numbers | Swift | Java | 
+|     | 727 | Minimum Window Subsequence | Swift | Java | 
+|     | 726 | Number of Atoms | Swift | Java | 
+|     | 725 | Split Linked List in Parts | Swift | Java | 
+|     | 724 | Find Pivot Index | Swift | Java | 
+|     | 723 | Candy Crush | Swift | Java | 
+|     | 722 | Remove Comments | Swift | Java | 
+|     | 721 | Accounts Merge | Swift | Java | 
+|     | 720 | Longest Word in Dictionary | Swift | Java | 
+|     | 719 | Find K-th Smallest Pair Distance | Swift | Java | 
+|     | 718 | Maximum Length of Repeated Subarray | Swift | Java | 
+|     | 717 | 1-bit and 2-bit Characters | Swift | Java | 
+|     | 716 | Max Stack | Swift | Java | 
+|     | 715 | Range Module | Swift | Java | 
+|     | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Swift | Java | 
+|     | 713 | Subarray Product Less Than K | Swift | Java | 
+|     | 712 | Minimum ASCII Delete Sum for Two Strings | Swift | Java | 
+|     | 711 | Number of Distinct Islands II | Swift | Java | 
+|     | 699 | Falling Squares | Swift | Java | 
+|     | 698 | Partition to K Equal Sum Subsets | Swift | Java | 
+|     | 697 | Degree of an Array | Swift | Java | 
+|     | 696 | Count Binary Substrings | Swift | Java | 
+|     | 695 | Max Area of Island | Swift | Java | 
+|     | 694 | Number of Distinct Islands | Swift | Java | 
+|     | 693 | Binary Number with Alternating Bits | Swift | Java | 
+|     | 692 | Top K Frequent Words | Swift | Java | 
+|     | 691 | Stickers to Spell Word | Swift | Java | 
+|     | 690 | Employee Importance | Swift | Java | 
+|     | 689 | Maximum Sum of 3 Non-Overlapping Subarrays | Swift | Java | 
+|     | 688 | Knight Probability in Chessboard | Swift | Java | 
+|     | 687 | Longest Univalue Path | Swift | Java | 
+|     | 686 | Repeated String Match | Swift | Java | 
+|     | 685 | Redundant Connection II | Swift | Java | 
+|     | 684 | Redundant Connection | Swift | Java | 
+|     | 683 | K Empty Slots | Swift | Java | 
+|     | 682 | Baseball Game | Swift | Java | 
+|     | 681 | Next Closest Time | Swift | Java | 
 |     | 680 | Valid Palindrome II | Swift | Java | 
 |     | 679 | 24 Game | Swift | Java | 
 |     | 678 | Valid Parenthesis String | Swift | Java | 
@@ -33,7 +698,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 660 | Remove 9 | Swift | Java | 
 |     | 659 | Split Array into Consecutive Subsequences | Swift | Java | 
 |     | 658 | Find K Closest Elements | Swift | Java | 
-|     | 657 | Judge Route Circle | Swift | Java | 
+|     | 657 | Robot Return to Origin | Swift | Java | 
 |     | 656 | Coin Path | Swift | Java | 
 |     | 655 | Print Binary Tree | Swift | Java | 
 |     | 654 | Maximum Binary Tree | Swift | Java | 
@@ -57,7 +722,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 635 | Design Log Storage System | Swift | Java | 
 |     | 634 | Find the Derangement of An Array | Swift | Java | 
 |     | 633 | Sum of Square Numbers | Swift | Java | 
-|     | 632 | Smallest Range | Swift | Java | 
+|     | 632 | Smallest Range Covering Elements from K Lists | Swift | Java | 
 |     | 631 | Design Excel Sum Formula | Swift | Java | 
 |     | 630 | Course Schedule III | Swift | Java | 
 |     | 629 | K Inverse Pairs Array | Swift | Java | 
@@ -133,11 +798,14 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
 |     | 521 | Longest Uncommon Subsequence I  | Swift | Java | 
 |     | 520 | Detect Capital | Swift | Java | 
+|     | 518 | Coin Change 2 | Swift | Java | 
 |     | 517 | Super Washing Machines | Swift | Java | 
 |     | 516 | Longest Palindromic Subsequence | Swift | Java | 
 |     | 515 | Find Largest Value in Each Tree Row | Swift | Java | 
 |     | 514 | Freedom Trail | Swift | Java | 
 |     | 513 | Find Bottom Left Tree Value | Swift | Java | 
+|     | 511 | All Paths from Source Lead to Destination | Swift | Java | 
+|     | 509 | Inorder Successor in BST II | Swift | Java | 
 |     | 508 | Most Frequent Subtree Sum | Swift | Java | 
 |     | 507 | Perfect Number | Swift | Java | 
 |     | 506 | Relative Ranks | [~~Swift~~](././Swift/relative-ranks.swift) | Java | 
@@ -184,6 +852,8 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 461 | Hamming Distance | [~~Swift~~](././Swift/hamming-distance.swift) | Java | 
 |     | 460 | LFU Cache | Swift | Java | 
 |     | 459 | Repeated Substring Pattern | Swift | Java | 
+|     | 458 | Poor Pigs | Swift | Java | 
+|     | 457 | Circular Array Loop | Swift | Java | 
 |     | 456 | 132 Pattern | Swift | Java | 
 |     | 455 | Assign Cookies | Swift | Java | 
 |     | 454 | 4Sum II | Swift | Java | 
@@ -197,6 +867,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 446 | Arithmetic Slices II - Subsequence | [~~Swift~~](././Swift/arithmetic-slices-ii-subsequence.swift) | Java | 
 |     | 445 | Add Two Numbers II | [~~Swift~~](././Swift/add-two-numbers-ii.swift) | Java | 
 |     | 444 | Sequence Reconstruction | Swift | Java | 
+|     | 443 | String Compression | Swift | Java | 
 |     | 442 | Find All Duplicates in an Array | [~~Swift~~](././Swift/find-all-duplicates-in-an-array.swift) | Java | 
 |     | 441 | Arranging Coins | [~~Swift~~](././Swift/arranging-coins.swift) | Java | 
 |     | 440 | K-th Smallest in Lexicographical Order | Swift | Java | 
@@ -206,6 +877,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 436 | Find Right Interval | Swift | Java | 
 |     | 435 | Non-overlapping Intervals | Swift | Java | 
 |     | 434 | Number of Segments in a String | [~~Swift~~](././Swift/number-of-segments-in-a-string.swift) | Java | 
+|     | 433 | Minimum Genetic Mutation | Swift | Java | 
 |     | 432 | All O`one Data Structure | Swift | Java | 
 |     | 425 | Word Squares | Swift | Java | 
 |     | 424 | Longest Repeating Character Replacement | Swift | Java | 
@@ -581,7 +1253,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 37 | Sudoku Solver | Swift | [~~Java~~](././Java/sudoku-solver.java) | 
 |     | 36 | Valid Sudoku | Swift | Java | 
 |     | 35 | Search Insert Position | Swift | [~~Java~~](././Java/search-insert-position.java) | 
-|     | 34 | Search for a Range | Swift | Java | 
+|     | 34 | Find First and Last Position of Element in Sorted Array | Swift | Java | 
 |     | 33 | Search in Rotated Sorted Array | Swift | [~~Java~~](././Java/search-in-rotated-sorted-array.java) | 
 |  X  | 32 | Longest Valid Parentheses | [~~Swift~~](././Swift/longest-valid-parentheses.swift) | [~~Java~~](././Java/longest-valid-parentheses.java) | 
 |     | 31 | Next Permutation | Swift | [~~Java~~](././Java/next-permutation.java) | 
