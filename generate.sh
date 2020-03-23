@@ -33,11 +33,4 @@ echo "" >  ./code.swift
 echo "- Generate README.md"
 swift readme_gen.swift > README.md
 
-echo "- Add changed/new files."
-git add .
-
-echo "- Commit"
-git commit -m "Add $1.swift"
-
-echo "- Push to origin master"
-git push origin master
+./push_with_msg.sh $1

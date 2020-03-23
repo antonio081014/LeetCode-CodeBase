@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-99 | Java-150 |
+| X | # | Question | Swift-100 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -36,7 +36,7 @@ Update README file only:
 |     | 1478 | Maximum Number of Events That Can Be Attended | Swift | Java | 
 |     | 1477 | Product of the Last K Numbers | Swift | Java | 
 |     | 1476 | Count Negative Numbers in a Sorted Matrix | Swift | Java | 
-|     | 1475 | Maximum Sum BST in Binary Tree | Swift | Java | 
+|     | 1475 | Maximum Sum BST in Binary Tree | [~~Swift~~](././Swift/maximum-sum-bst-in-binary-tree.swift) | Java | 
 |     | 1474 | Longest ZigZag Path in a Binary Tree | Swift | Java | 
 |     | 1473 | Find the Longest Substring Containing Vowels in Even Counts | Swift | Java | 
 |     | 1472 | Increasing Decreasing String | Swift | Java | 
