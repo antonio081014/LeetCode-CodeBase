@@ -8,7 +8,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-98 | Java-150 |
+| X | # | Question | Swift-99 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -140,7 +140,7 @@ This repo presents all the solution I passed on LeeCode, should be used AS a Ref
 |     | 1288 | Maximum Subarray Sum with One Deletion | Swift | Java | 
 |     | 1287 | Distance Between Bus Stops | Swift | Java | 
 |     | 1285 | Balance a Binary Search Tree | Swift | Java | 
-|     | 1284 | Four Divisors | Swift | Java | 
+|     | 1284 | Four Divisors | [~~Swift~~](././Swift/four-divisors.swift) | Java | 
 |     | 1282 | Number of Valid Words for Each Puzzle | Swift | Java | 
 |     | 1281 | Can Make Palindrome from Substring | Swift | Java | 
 |     | 1280 | Diet Plan Performance | Swift | Java | 
