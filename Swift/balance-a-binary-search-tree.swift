@@ -55,6 +55,7 @@ class Solution {
         /// - Complexity:
         ///     - Time: O(n), n is the number of elements
         ///     - Space: O(n), n is the number of elements
+        ///     - Stack Space is O(logn), n is the number of elements, logn is the height of BST.
         ///
         func buildTree(_ left: Int, _ right: Int) -> TreeNode? {
             if left > right { return nil }
