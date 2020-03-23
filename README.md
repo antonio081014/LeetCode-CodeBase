@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-102 | Java-150 |
+| X | # | Question | Swift-103 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -346,7 +346,7 @@ Update README file only:
 |     | 1038 | Number of Squareful Arrays | Swift | Java | 
 |     | 1037 | Minimum Number of K Consecutive Bit Flips | Swift | Java | 
 |     | 1036 | Rotting Oranges | Swift | Java | 
-|     | 1035 | Cousins in Binary Tree | Swift | Java | 
+|     | 1035 | Cousins in Binary Tree | [~~Swift~~](././Swift/cousins-in-binary-tree.swift) | Java | 
 |     | 1034 | Subarrays with K Different Integers | Swift | Java | 
 |     | 1033 | Broken Calculator | Swift | Java | 
 |     | 1032 | Satisfiability of Equality Equations | Swift | Java | 
