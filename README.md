@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-108 | Java-150 |
+| X | # | Question | Swift-109 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -1228,7 +1228,7 @@ Update README file only:
 |     | 65 | Valid Number | Swift | [~~Java~~](././Java/valid-number.java) | 
 |     | 64 | Minimum Path Sum | Swift | [~~Java~~](././Java/minimum-path-sum.java) | 
 |     | 63 | Unique Paths II | Swift | [~~Java~~](././Java/unique-paths-ii.java) | 
-|     | 62 | Unique Paths | Swift | [~~Java~~](././Java/unique-paths.java) | 
+|  X  | 62 | Unique Paths | [~~Swift~~](././Swift/unique-paths.swift) | [~~Java~~](././Java/unique-paths.java) | 
 |     | 61 | Rotate List | Swift | Java | 
 |     | 60 | Permutation Sequence | Swift | [~~Java~~](././Java/permutation-sequence.java) | 
 |     | 59 | Spiral Matrix II | Swift | [~~Java~~](././Java/spiral-matrix-ii.java) | 
