@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-104 | Java-150 |
+| X | # | Question | Swift-105 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -1043,7 +1043,7 @@ Update README file only:
 |     | 267 | Palindrome Permutation II | Swift | Java | 
 |     | 266 | Palindrome Permutation | Swift | Java | 
 |     | 265 | Paint House II | Swift | Java | 
-|     | 264 | Ugly Number II | Swift | [~~Java~~](././Java/ugly-number-ii.java) | 
+|  X  | 264 | Ugly Number II | [~~Swift~~](././Swift/ugly-number-ii.swift) | [~~Java~~](././Java/ugly-number-ii.java) | 
 |  X  | 263 | Ugly Number | [~~Swift~~](././Swift/ugly-number.swift) | [~~Java~~](././Java/ugly-number.java) | 
 |     | 261 | Graph Valid Tree | Swift | Java | 
 |  X  | 260 | Single Number III | [~~Swift~~](././Swift/single-number-iii.swift) | [~~Java~~](././Java/single-number-iii.java) | 
