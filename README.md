@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-106 | Java-150 |
+| X | # | Question | Swift-107 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -1207,7 +1207,7 @@ Update README file only:
 |     | 86 | Partition List | Swift | Java | 
 |     | 85 | Maximal Rectangle | [~~Swift~~](././Swift/maximal-rectangle.swift) | Java | 
 |     | 84 | Largest Rectangle in Histogram | [~~Swift~~](././Swift/largest-rectangle-in-histogram.swift) | Java | 
-|     | 83 | Remove Duplicates from Sorted List | Swift | [~~Java~~](././Java/remove-duplicates-from-sorted-list.java) | 
+|  X  | 83 | Remove Duplicates from Sorted List | [~~Swift~~](././Swift/remove-duplicates-from-sorted-list.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-list.java) | 
 |     | 82 | Remove Duplicates from Sorted List II | Swift | Java | 
 |     | 81 | Search in Rotated Sorted Array II | Swift | Java | 
 |     | 80 | Remove Duplicates from Sorted Array II | Swift | [~~Java~~](././Java/remove-duplicates-from-sorted-array-ii.java) | 

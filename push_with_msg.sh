@@ -3,7 +3,7 @@
 COMMIT_MSG='AC ...'
 
 if [ $# -gt 0 ]; then
-    COMMIT_MSG="Add $1.swift"
+    COMMIT_MSG=$1
 fi
 
 echo "- Add changed/new files."

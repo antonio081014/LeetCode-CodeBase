@@ -33,4 +33,4 @@ echo "" >  ./code.swift
 echo "- Generate README.md"
 swift readme_gen.swift > README.md
 
-./push_with_msg.sh $1
+./push_with_msg.sh "Add $1.swift"
