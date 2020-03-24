@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-105 | Java-150 |
+| X | # | Question | Swift-106 | Java-150 |
 |---|---|---|---|---|
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
@@ -132,7 +132,7 @@ Update README file only:
 |     | 1319 | Unique Number of Occurrences | Swift | Java | 
 |     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 
 |     | 1308 | Smallest String With Swaps | Swift | Java | 
-|     | 1307 | Ugly Number III | Swift | Java | 
+|     | 1307 | Ugly Number III | [~~Swift~~](././Swift/ugly-number-iii.swift) | Java | 
 |     | 1306 | Minimum Absolute Difference | Swift | Java | 
 |     | 1300 | Critical Connections in a Network | Swift | Java | 
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
