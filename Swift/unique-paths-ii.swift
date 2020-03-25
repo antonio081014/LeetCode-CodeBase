@@ -8,6 +8,7 @@ class Solution {
         let n = obstacleGrid.count
         guard let m = obstacleGrid.first?.count else { return 0 }
         var mark = Array(repeating: Array(repeating: 0, count: m), count: n)
+        // It's important to check if the start position is valid or not.
         mark[0][0] = 1 - obstacleGrid[0][0]
         for x in 0 ..< n {
             for y in 0 ..< m {
