@@ -1,10 +1,13 @@
 class Solution {
-    func singleNumber(_nums: [Int]) -> Int {
-        var nums = _nums
-        for i in 1..<nums.count {
-            nums[0] ^= nums[i]
+    /// - Complexity:
+    ///     - Time: O(n), where n is the number of elements in the array
+    ///     - Space: O(1).
+    func singleNumber(_ nums: [Int]) -> Int {
+        var sum = 0
+        for n in nums {
+            sum ^= n
         }
-        return nums[0]
+        return sum
     }
 }
 /**
