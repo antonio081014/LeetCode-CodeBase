@@ -1,3 +1,9 @@
+/**
+ * https://leetcode.com/problems/single-number/
+ *
+ *
+ */
+
 class Solution {
     /// - Complexity:
     ///     - Time: O(n), where n is the number of elements in the array
@@ -10,11 +16,26 @@ class Solution {
         return sum
     }
 }
-/**
- * https://leetcode.com/problems/single-number/
- * 
- * 
- */ 
+
+class Solution {
+    func singleNumber(_ nums: [Int]) -> Int {
+        return self.singleNumber(nums, with: 2)
+    }
+    
+    fileprivate func singleNumber(_ nums: [Int], with repeatNumber: Int) -> Int {
+        var ret = 0
+        for bit in 0 ..< 64 {
+            var count = 0
+            for n in nums {
+                if ((n >> bit) & 1) == 1 { count += 1 }
+            }
+            count %= repeatNumber
+            ret |= (count << bit)
+        }
+        return ret
+    }
+}
+
 class Solution {
     /// Go through every element in the array.
     /// When first met a number, insert it to the Set,
