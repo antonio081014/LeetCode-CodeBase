@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-111 | Java-150 |
+| X | # | Question | Swift-112 | Java-150 |
 |---|---|---|---|---|
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
@@ -1157,7 +1157,7 @@ Update README file only:
 |     | 140 | Word Break II | Swift | [~~Java~~](././Java/word-break-ii.java) | 
 |  X  | 139 | Word Break | [~~Swift~~](././Swift/word-break.swift) | [~~Java~~](././Java/word-break.java) | 
 |     | 138 | Copy List with Random Pointer | Swift | Java | 
-|     | 137 | Single Number II | Swift | [~~Java~~](././Java/single-number-ii.java) | 
+|  X  | 137 | Single Number II | [~~Swift~~](././Swift/single-number-ii.swift) | [~~Java~~](././Java/single-number-ii.java) | 
 |  X  | 136 | Single Number | [~~Swift~~](././Swift/single-number.swift) | [~~Java~~](././Java/single-number.java) | 
 |     | 135 | Candy | Swift | [~~Java~~](././Java/candy.java) | 
 |     | 134 | Gas Station | Swift | Java | 
