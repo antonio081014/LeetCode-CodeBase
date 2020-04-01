@@ -13,6 +13,10 @@ Update README file only:
 
 | X | # | Question | Swift-111 | Java-150 |
 |---|---|---|---|---|
+|     | 1513 | Find All Good Strings | Swift | Java | 
+|     | 1512 | Design Underground System | Swift | Java | 
+|     | 1511 | Count Number of Teams | Swift | Java | 
+|     | 1510 | Find Lucky Integer in an Array | Swift | Java | 
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
 |     | 1505 | Create Target Array in the Given Order | Swift | Java | 
