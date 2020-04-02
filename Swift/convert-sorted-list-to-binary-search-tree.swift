@@ -30,18 +30,24 @@
 class Solution {
     /// - Complexity:
     ///     - Time: O(n), n is the number of element in the linkedlist
-    ///     - Space: O(logn), logn is the height of BST.
+    ///     - Space: O(n), n is the number of element in the linkedlist
     ///
     func sortedListToBST(_ head: ListNode?) -> TreeNode? {
         var list = [Int]()
         var node = head
-        // O(n)
+        /// - Complexity:
+        ///     - Time:  O(n)
+        ///     - Space: O(n)
         while node != nil {
             list.append(node!.val)
             node = node?.next
         }
         // T(n) = 2T(n/2) + O(1)
         // T(n) = O(n)
+        /// - Complexity:
+        ///     - Time: O(n)
+        ///     - Space: O(logn), logn is the height of BST.
+        ///
         func constructBST(_ left: Int, _ right: Int) -> TreeNode? {
             if left > right { return nil }
             let mid = left + (right - left) / 2
