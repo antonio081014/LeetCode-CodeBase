@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-113 | Java-150 |
+| X | # | Question | Swift-114 | Java-150 |
 |---|---|---|---|---|
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
@@ -1185,7 +1185,7 @@ Update README file only:
 |     | 112 | Path Sum | Swift | [~~Java~~](././Java/path-sum.java) | 
 |     | 111 | Minimum Depth of Binary Tree | Swift | [~~Java~~](././Java/minimum-depth-of-binary-tree.java) | 
 |     | 110 | Balanced Binary Tree | Swift | [~~Java~~](././Java/balanced-binary-tree.java) | 
-|     | 109 | Convert Sorted List to Binary Search Tree | Swift | [~~Java~~](././Java/convert-sorted-list-to-binary-search-tree.java) | 
+|  X  | 109 | Convert Sorted List to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-list-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-list-to-binary-search-tree.java) | 
 |  X  | 108 | Convert Sorted Array to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-array-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-array-to-binary-search-tree.java) | 
 |     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](././Java/binary-tree-level-order-traversal-ii.java) | 
 |     | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Swift | Java | 
