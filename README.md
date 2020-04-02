@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-112 | Java-150 |
+| X | # | Question | Swift-113 | Java-150 |
 |---|---|---|---|---|
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
@@ -1108,7 +1108,7 @@ Update README file only:
 |     | 205 | Isomorphic Strings | Swift | Java | 
 |     | 204 | Count Primes | Swift | [~~Java~~](././Java/count-primes.java) | 
 |     | 203 | Remove Linked List Elements | Swift | [~~Java~~](././Java/remove-linked-list-elements.java) | 
-|     | 202 | Happy Number | Swift | [~~Java~~](././Java/happy-number.java) | 
+|  X  | 202 | Happy Number | [~~Swift~~](././Swift/happy-number.swift) | [~~Java~~](././Java/happy-number.java) | 
 |     | 201 | Bitwise AND of Numbers Range | Swift | Java | 
 |     | 200 | Number of Islands | Swift | Java | 
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
