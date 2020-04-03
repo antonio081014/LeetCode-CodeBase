@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-115 | Java-150 |
+| X | # | Question | Swift-116 | Java-150 |
 |---|---|---|---|---|
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
@@ -937,7 +937,7 @@ Update README file only:
 |     | 377 | Combination Sum IV | Swift | Java | 
 |     | 376 | Wiggle Subsequence | Swift | Java | 
 |     | 375 | Guess Number Higher or Lower II | Swift | Java | 
-|     | 374 | Guess Number Higher or Lower | Swift | Java | 
+|     | 374 | Guess Number Higher or Lower | [~~Swift~~](././Swift/guess-number-higher-or-lower.swift) | Java | 
 |     | 373 | Find K Pairs with Smallest Sums | Swift | Java | 
 |     | 372 | Super Pow | Swift | Java | 
 |     | 371 | Sum of Two Integers | [~~Swift~~](././Swift/sum-of-two-integers.swift) | Java | 
