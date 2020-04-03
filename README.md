@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-114 | Java-150 |
+| X | # | Question | Swift-115 | Java-150 |
 |---|---|---|---|---|
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
@@ -1225,7 +1225,7 @@ Update README file only:
 |     | 72 | Edit Distance | Swift | [~~Java~~](././Java/edit-distance.java) | 
 |     | 71 | Simplify Path | [~~Swift~~](././Swift/simplify-path.swift) | Java | 
 |     | 70 | Climbing Stairs | Swift | [~~Java~~](././Java/climbing-stairs.java) | 
-|     | 69 | Sqrt(x) | Swift | Java | 
+|     | 69 | Sqrt(x) | [~~Swift~~](././Swift/sqrtx.swift) | Java | 
 |     | 68 | Text Justification | Swift | [~~Java~~](././Java/text-justification.java) | 
 |     | 67 | Add Binary | Swift | Java | 
 |     | 66 | Plus One | [~~Swift~~](././Swift/plus-one.swift) | Java | 
