@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-114 | Java-150 |
+| X | # | Question | Swift-115 | Java-150 |
 |---|---|---|---|---|
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
@@ -1241,7 +1241,7 @@ Update README file only:
 |     | 56 | Merge Intervals | Swift | [~~Java~~](././Java/merge-intervals.java) | 
 |     | 55 | Jump Game | Swift | [~~Java~~](././Java/jump-game.java) | 
 |     | 54 | Spiral Matrix | Swift | Java | 
-|     | 53 | Maximum Subarray | Swift | [~~Java~~](././Java/maximum-subarray.java) | 
+|  X  | 53 | Maximum Subarray | [~~Swift~~](././Swift/maximum-subarray.swift) | [~~Java~~](././Java/maximum-subarray.java) | 
 |  X  | 52 | N-Queens II | [~~Swift~~](././Swift/n-queens-ii.swift) | [~~Java~~](././Java/n-queens-ii.java) | 
 |  X  | 51 | N-Queens | [~~Swift~~](././Swift/n-queens.swift) | [~~Java~~](././Java/n-queens.java) | 
 |     | 50 | Pow(x, n) | Swift | [~~Java~~](././Java/powx-n.java) | 
