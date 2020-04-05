@@ -47,3 +47,30 @@ class Solution {
         return -1
     }
 }
+
+class Solution {
+    func search(_ nums: [Int], _ target: Int) -> Int {
+        var left = 0
+        var right = nums.count - 1
+        while left < right {
+            let mid = left + (right - left) / 2
+            if nums[mid] > nums[right] {
+                // case, 3,4,5,1,2
+                if target > nums[mid] || target <= nums[right] {
+                    left = mid + 1
+                } else {
+                    right = mid
+                }
+            } else {
+                // case, 5,7,0,1,2,3
+                if target > nums[mid] && target <= nums[right] {
+                    left = mid + 1
+                } else {
+                    right = mid
+                }
+            }
+        }
+        if left > right || target != nums[left] { return -1 }
+        return left
+    }
+}
