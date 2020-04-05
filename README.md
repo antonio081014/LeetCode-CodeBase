@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-117 | Java-150 |
+| X | # | Question | Swift-118 | Java-150 |
 |---|---|---|---|---|
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
@@ -20,6 +20,10 @@ Update README file only:
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
 |     | 1507 | Check if There is a Valid Path in a Grid | [~~Swift~~](././Swift/check-if-there-is-a-valid-path-in-a-grid.swift) | Java | 
 |     | 1505 | Create Target Array in the Given Order | Swift | Java | 
+|     | 1503 | Reducing Dishes | Swift | Java | 
+|     | 1502 | Construct K Palindrome Strings | Swift | Java | 
+|     | 1501 | Circle and Rectangle Overlapping | Swift | Java | 
+|     | 1500 | Count Largest Group | Swift | Java | 
 |     | 1499 | Maximum Performance of a Team | Swift | Java | 
 |     | 1498 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | Swift | Java | 
 |     | 1497 | Design a Stack With Increment Operation | Swift | Java | 
@@ -1261,7 +1265,7 @@ Update README file only:
 |     | 36 | Valid Sudoku | Swift | Java | 
 |     | 35 | Search Insert Position | Swift | [~~Java~~](././Java/search-insert-position.java) | 
 |     | 34 | Find First and Last Position of Element in Sorted Array | Swift | Java | 
-|     | 33 | Search in Rotated Sorted Array | Swift | [~~Java~~](././Java/search-in-rotated-sorted-array.java) | 
+|  X  | 33 | Search in Rotated Sorted Array | [~~Swift~~](././Swift/search-in-rotated-sorted-array.swift) | [~~Java~~](././Java/search-in-rotated-sorted-array.java) | 
 |  X  | 32 | Longest Valid Parentheses | [~~Swift~~](././Swift/longest-valid-parentheses.swift) | [~~Java~~](././Java/longest-valid-parentheses.java) | 
 |     | 31 | Next Permutation | Swift | [~~Java~~](././Java/next-permutation.java) | 
 |     | 30 | Substring with Concatenation of All Words | Swift | Java | 
