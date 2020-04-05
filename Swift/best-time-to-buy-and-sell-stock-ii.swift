@@ -5,12 +5,10 @@
  */ 
 class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
-        guard prices.count > 0 else {return 0}
         var profit = 0
-        for i in 1..<prices.count {
-            if prices[i] > prices[i-1] {
-                profit += prices[i] - prices[i-1]
-            }
+        if prices.isEmpty { return profit }
+        for index in 1 ..< prices.count {
+            profit += max(0, prices[index] - prices[index - 1])
         }
         return profit
     }
