@@ -11,8 +11,11 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-118 | Java-150 |
+| X | # | Question | Swift-119 | Java-150 |
 |---|---|---|---|---|
+|     | 1522 | Stone Game III | Swift | Java | 
+|     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
+|     | 1519 | Minimum Subsequence in Non-Increasing Order | Swift | Java | 
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
 |     | 1511 | Count Number of Teams | Swift | Java | 
@@ -142,6 +145,7 @@ Update README file only:
 |     | 1308 | Smallest String With Swaps | Swift | Java | 
 |     | 1307 | Ugly Number III | [~~Swift~~](././Swift/ugly-number-iii.swift) | Java | 
 |     | 1306 | Minimum Absolute Difference | Swift | Java | 
+|     | 1304 | Longest Happy String | Swift | Java | 
 |     | 1300 | Critical Connections in a Network | Swift | Java | 
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
 |     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
@@ -1249,7 +1253,7 @@ Update README file only:
 |  X  | 52 | N-Queens II | [~~Swift~~](././Swift/n-queens-ii.swift) | [~~Java~~](././Java/n-queens-ii.java) | 
 |  X  | 51 | N-Queens | [~~Swift~~](././Swift/n-queens.swift) | [~~Java~~](././Java/n-queens.java) | 
 |     | 50 | Pow(x, n) | Swift | [~~Java~~](././Java/powx-n.java) | 
-|     | 49 | Group Anagrams | Swift | [~~Java~~](././Java/group-anagrams.java) | 
+|  X  | 49 | Group Anagrams | [~~Swift~~](././Swift/group-anagrams.swift) | [~~Java~~](././Java/group-anagrams.java) | 
 |     | 48 | Rotate Image | Swift | Java | 
 |     | 47 | Permutations II | Swift | [~~Java~~](././Java/permutations-ii.java) | 
 |     | 46 | Permutations | Swift | [~~Java~~](././Java/permutations.java) | 
