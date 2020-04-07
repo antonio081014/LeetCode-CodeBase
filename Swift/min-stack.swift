@@ -95,3 +95,48 @@ class MinStack {
  * let ret_3: Int = obj.top()
  * let ret_4: Int = obj.getMin()
  */
+
+///
+/// This solution uses a simple Array to maintain as a stack.
+/// Meanwhile, it also push the current minimum value back to the array.
+///
+/// - Complexity: 0(1), every move takes constant time.
+///
+class MinStack {
+    
+    var stack: [Int]
+    
+    /** initialize your data structure here. */
+    init() {
+        self.stack = []
+    }
+    
+    func push(_ x: Int) {
+        let minElement = min(x, self.stack.last ?? Int.max)
+        self.stack.append(x)
+        self.stack.append(minElement)
+    }
+    
+    func pop() {
+        self.stack.removeLast()
+        self.stack.removeLast()
+    }
+    
+    func top() -> Int {
+        guard self.stack.isEmpty == false else { return Int.max }
+        return self.stack[self.stack.count - 2]
+    }
+    
+    func getMin() -> Int {
+        return self.stack.last ?? Int.max
+    }
+}
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * let obj = MinStack()
+ * obj.push(x)
+ * obj.pop()
+ * let ret_3: Int = obj.top()
+ * let ret_4: Int = obj.getMin()
+ */
