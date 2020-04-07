@@ -2,7 +2,12 @@
  * https://leetcode.com/problems/min-stack/
  * 
  * 
- */ 
+ */
+
+/// This solution uses binary search to locate the index of target element.
+/// Thus, it takes O(logN), N is number of elements in the array, to push and pop.
+///
+///
 class MinStack {
     
     var backupArray: [Int]
