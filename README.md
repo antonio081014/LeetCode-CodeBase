@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-121 | Java-150 |
+| X | # | Question | Swift-122 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1147,7 +1147,7 @@ Update README file only:
 |     | 158 | Read N Characters Given Read4 II - Call multiple times | Swift | Java | 
 |     | 157 | Read N Characters Given Read4 | Swift | Java | 
 |     | 156 | Binary Tree Upside Down | Swift | Java | 
-|     | 155 | Min Stack | Swift | Java | 
+|     | 155 | Min Stack | [~~Swift~~](././Swift/min-stack.swift) | Java | 
 |  X  | 154 | Find Minimum in Rotated Sorted Array II | [~~Swift~~](././Swift/find-minimum-in-rotated-sorted-array-ii.swift) | [~~Java~~](././Java/find-minimum-in-rotated-sorted-array-ii.java) | 
 |  X  | 153 | Find Minimum in Rotated Sorted Array | [~~Swift~~](././Swift/find-minimum-in-rotated-sorted-array.swift) | [~~Java~~](././Java/find-minimum-in-rotated-sorted-array.java) | 
 |     | 152 | Maximum Product Subarray | Swift | Java | 
