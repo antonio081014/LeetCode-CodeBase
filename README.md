@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-119 | Java-150 |
+| X | # | Question | Swift-120 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1041,7 +1041,7 @@ Update README file only:
 |     | 281 | Zigzag Iterator | Swift | Java | 
 |     | 280 | Wiggle Sort | Swift | Java | 
 |     | 279 | Perfect Squares | Swift | [~~Java~~](././Java/perfect-squares.java) | 
-|     | 278 | First Bad Version | Swift | [~~Java~~](././Java/first-bad-version.java) | 
+|  X  | 278 | First Bad Version | [~~Swift~~](././Swift/first-bad-version.swift) | [~~Java~~](././Java/first-bad-version.java) | 
 |     | 277 | Find the Celebrity | Swift | Java | 
 |     | 276 | Paint Fence | Swift | Java | 
 |     | 275 | H-Index II | Swift | [~~Java~~](././Java/h-index-ii.java) | 
