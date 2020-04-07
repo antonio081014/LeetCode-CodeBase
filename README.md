@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-120 | Java-150 |
+| X | # | Question | Swift-121 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1140,7 +1140,7 @@ Update README file only:
 |     | 165 | Compare Version Numbers | [~~Swift~~](././Swift/compare-version-numbers.swift) | Java | 
 |     | 164 | Maximum Gap | Swift | Java | 
 |     | 163 | Missing Ranges | Swift | Java | 
-|     | 162 | Find Peak Element | Swift | [~~Java~~](././Java/find-peak-element.java) | 
+|  X  | 162 | Find Peak Element | [~~Swift~~](././Swift/find-peak-element.swift) | [~~Java~~](././Java/find-peak-element.java) | 
 |     | 161 | One Edit Distance | Swift | Java | 
 |     | 160 | Intersection of Two Linked Lists | Swift | Java | 
 |     | 159 | Longest Substring with At Most Two Distinct Characters | Swift | Java | 
