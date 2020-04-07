@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-122 | Java-150 |
+| X | # | Question | Swift-123 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1268,7 +1268,7 @@ Update README file only:
 |     | 37 | Sudoku Solver | Swift | [~~Java~~](././Java/sudoku-solver.java) | 
 |     | 36 | Valid Sudoku | Swift | Java | 
 |     | 35 | Search Insert Position | Swift | [~~Java~~](././Java/search-insert-position.java) | 
-|     | 34 | Find First and Last Position of Element in Sorted Array | Swift | Java | 
+|     | 34 | Find First and Last Position of Element in Sorted Array | [~~Swift~~](././Swift/find-first-and-last-position-of-element-in-sorted-array.swift) | Java | 
 |  X  | 33 | Search in Rotated Sorted Array | [~~Swift~~](././Swift/search-in-rotated-sorted-array.swift) | [~~Java~~](././Java/search-in-rotated-sorted-array.java) | 
 |  X  | 32 | Longest Valid Parentheses | [~~Swift~~](././Swift/longest-valid-parentheses.swift) | [~~Java~~](././Java/longest-valid-parentheses.java) | 
 |     | 31 | Next Permutation | Swift | [~~Java~~](././Java/next-permutation.java) | 
