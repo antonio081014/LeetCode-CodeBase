@@ -19,20 +19,24 @@ class MinStack {
         self.sortedArray = []
     }
     
+    /// Use Array.append, will cost O(1) time here
+    /// While using Array.insert(_, at:) will cost O(n), n is the number of elements in the array.
     func push(_ x: Int) {
-        self.backupArray.insert(x, at: 0)
+        self.backupArray.append(x)
         self.binaryInsert(x)
     }
     
+    /// Use Array.append, will cost O(1) time here
+    /// While using Array.insert(_, at:) will cost O(n), n is the number of elements in the array.
     func pop() {
-        if let x = self.backupArray.first {
-            self.backupArray.remove(at: 0)
+        if let x = self.backupArray.last {
+            self.backupArray.removeLast()
             self.binaryRemove(x)
         }
     }
     
     func top() -> Int {
-        if let x = self.backupArray.first {
+        if let x = self.backupArray.last {
             return x
         }
         return 0
