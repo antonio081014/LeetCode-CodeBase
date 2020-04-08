@@ -37,3 +37,30 @@ class Solution {
         return node
     }
 }
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public var val: Int
+ *     public var next: ListNode?
+ *     public init(_ val: Int) {
+ *         self.val = val
+ *         self.next = nil
+ *     }
+ * }
+ */
+class Solution {
+    /// This solution uses two pointers, one slow, one fast.
+    /// The change pace of fast is twice as fast as slow pointer.
+    /// So, when fast would move beyond the tail of list, both stops there.
+    /// Thus, the slow pointer is the place where answer should be.
+    func middleNode(_ head: ListNode?) -> ListNode? {
+        var slow = head
+        var fast = head
+        while slow != nil, fast?.next != nil {
+            slow = slow?.next
+            fast = fast?.next?.next
+        }
+        return slow
+    }
+}
