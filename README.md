@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-123 | Java-150 |
+| X | # | Question | Swift-124 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -712,7 +712,7 @@ Update README file only:
 |     | 661 | Image Smoother | Swift | Java | 
 |     | 660 | Remove 9 | Swift | Java | 
 |     | 659 | Split Array into Consecutive Subsequences | Swift | Java | 
-|     | 658 | Find K Closest Elements | Swift | Java | 
+|     | 658 | Find K Closest Elements | [~~Swift~~](././Swift/find-k-closest-elements.swift) | Java | 
 |     | 657 | Robot Return to Origin | Swift | Java | 
 |     | 656 | Coin Path | Swift | Java | 
 |     | 655 | Print Binary Tree | Swift | Java | 
