@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-124 | Java-150 |
+| X | # | Question | Swift-125 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -480,7 +480,7 @@ Update README file only:
 |     | 911 | Profitable Schemes | Swift | Java | 
 |     | 910 | Nth Magical Number | Swift | Java | 
 |     | 909 | Stone Game | Swift | Java | 
-|     | 908 | Middle of the Linked List | Swift | Java | 
+|     | 908 | Middle of the Linked List | [~~Swift~~](././Swift/middle-of-the-linked-list.swift) | Java | 
 |     | 907 | Koko Eating Bananas | Swift | Java | 
 |     | 906 | Walking Robot Simulation | Swift | Java | 
 |     | 905 | Length of Longest Fibonacci Subsequence | Swift | Java | 
