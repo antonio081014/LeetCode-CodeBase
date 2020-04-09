@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-125 | Java-150 |
+| X | # | Question | Swift-126 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -514,7 +514,7 @@ Update README file only:
 |     | 877 | Shortest Path Visiting All Nodes | Swift | Java | 
 |     | 876 | Hand of Straights | Swift | Java | 
 |     | 875 | Longest Mountain in Array | Swift | Java | 
-|     | 874 | Backspace String Compare | Swift | Java | 
+|     | 874 | Backspace String Compare | [~~Swift~~](././Swift/backspace-string-compare.swift) | Java | 
 |     | 873 | Guess the Word | Swift | Java | 
 |     | 872 | Split Array into Fibonacci Sequence | Swift | Java | 
 |     | 871 | Keys and Rooms | Swift | Java | 
