@@ -22,15 +22,15 @@ class Solution {
         return a
     }
 }
-/**
- * https://leetcode.com/problems/backspace-string-compare/
- * 
- * 
- */ 
+
 class Solution {
     /// Use two pointer to loop through two strings from end to start.
     ///
+    /// - Complexity:
+    ///     - Time: O(M+N), M and N is the length of String S and T.
+    ///     - Space: O(1), if we do not count arraylized S and T. Otherwise, it's O(M+N)
     ///
+    
     func backspaceCompare(_ S: String, _ T: String) -> Bool {
         let S = Array(S)
         let T = Array(T)
