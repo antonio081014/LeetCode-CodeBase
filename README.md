@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-131 | Java-150 |
+| X | # | Question | Swift-132 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -488,7 +488,7 @@ Update README file only:
 |     | 903 | Implement Rand10() Using Rand7() | Swift | Java | 
 |     | 902 | Minimum Number of Refueling Stops | Swift | Java | 
 |     | 901 | Advantage Shuffle | Swift | Java | 
-|     | 900 | Reordered Power of 2 | Swift | Java | 
+|     | 900 | Reordered Power of 2 | [~~Swift~~](././Swift/reordered-power-of-2.swift) | Java | 
 |     | 899 | Binary Gap | Swift | Java | 
 |     | 898 | Transpose Matrix | Swift | Java | 
 |     | 897 | Prime Palindrome | Swift | Java | 
