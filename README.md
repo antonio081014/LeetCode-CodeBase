@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-132 | Java-150 |
+| X | # | Question | Swift-133 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -947,7 +947,7 @@ Update README file only:
 |     | 375 | Guess Number Higher or Lower II | Swift | Java | 
 |     | 374 | Guess Number Higher or Lower | [~~Swift~~](././Swift/guess-number-higher-or-lower.swift) | Java | 
 |     | 373 | Find K Pairs with Smallest Sums | Swift | Java | 
-|     | 372 | Super Pow | Swift | Java | 
+|     | 372 | Super Pow | [~~Swift~~](././Swift/super-pow.swift) | Java | 
 |     | 371 | Sum of Two Integers | [~~Swift~~](././Swift/sum-of-two-integers.swift) | Java | 
 |     | 370 | Range Addition | Swift | Java | 
 |     | 369 | Plus One Linked List | Swift | Java | 
