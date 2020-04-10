@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-130 | Java-150 |
+| X | # | Question | Swift-131 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -77,7 +77,7 @@ Update README file only:
 |     | 1444 | Number of Steps to Reduce a Number to Zero | Swift | Java | 
 |     | 1443 | Minimum Distance to Type a Word Using Two Fingers | Swift | Java | 
 |     | 1442 | Number of Operations to Make Network Connected | Swift | Java | 
-|     | 1441 | Minimum Flips to Make a OR b Equal to c | Swift | Java | 
+|     | 1441 | Minimum Flips to Make a OR b Equal to c | [~~Swift~~](././Swift/minimum-flips-to-make-a-or-b-equal-to-c.swift) | Java | 
 |     | 1440 | Convert Integer to the Sum of Two No-Zero Integers | Swift | Java | 
 |     | 1437 | Minimum Insertion Steps to Make a String Palindrome | Swift | Java | 
 |     | 1436 | Get Watched Videos by Your Friends | Swift | Java | 
