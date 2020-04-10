@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-126 | Java-150 |
+| X | # | Question | Swift-127 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1252,7 +1252,7 @@ Update README file only:
 |  X  | 53 | Maximum Subarray | [~~Swift~~](././Swift/maximum-subarray.swift) | [~~Java~~](././Java/maximum-subarray.java) | 
 |  X  | 52 | N-Queens II | [~~Swift~~](././Swift/n-queens-ii.swift) | [~~Java~~](././Java/n-queens-ii.java) | 
 |  X  | 51 | N-Queens | [~~Swift~~](././Swift/n-queens.swift) | [~~Java~~](././Java/n-queens.java) | 
-|     | 50 | Pow(x, n) | Swift | [~~Java~~](././Java/powx-n.java) | 
+|  X  | 50 | Pow(x, n) | [~~Swift~~](././Swift/powx-n.swift) | [~~Java~~](././Java/powx-n.java) | 
 |  X  | 49 | Group Anagrams | [~~Swift~~](././Swift/group-anagrams.swift) | [~~Java~~](././Java/group-anagrams.java) | 
 |     | 48 | Rotate Image | Swift | Java | 
 |     | 47 | Permutations II | Swift | [~~Java~~](././Java/permutations-ii.java) | 
