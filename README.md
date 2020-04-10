@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-128 | Java-150 |
+| X | # | Question | Swift-129 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -993,7 +993,7 @@ Update README file only:
 |     | 329 | Longest Increasing Path in a Matrix | Swift | Java | 
 |     | 328 | Odd Even Linked List | Swift | Java | 
 |     | 327 | Count of Range Sum | Swift | Java | 
-|     | 326 | Power of Three | Swift | Java | 
+|     | 326 | Power of Three | [~~Swift~~](././Swift/power-of-three.swift) | Java | 
 |     | 325 | Maximum Size Subarray Sum Equals k | Swift | Java | 
 |     | 324 | Wiggle Sort II | Swift | Java | 
 |     | 323 | Number of Connected Components in an Undirected Graph | Swift | Java | 
