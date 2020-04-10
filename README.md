@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-127 | Java-150 |
+| X | # | Question | Swift-128 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1087,7 +1087,7 @@ Update README file only:
 |     | 234 | Palindrome Linked List | Swift | [~~Java~~](././Java/palindrome-linked-list.java) | 
 |     | 233 | Number of Digit One | Swift | Java | 
 |     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](././Java/implement-queue-using-stacks.java) | 
-|     | 231 | Power of Two | Swift | [~~Java~~](././Java/power-of-two.java) | 
+|  X  | 231 | Power of Two | [~~Swift~~](././Swift/power-of-two.swift) | [~~Java~~](././Java/power-of-two.java) | 
 |     | 230 | Kth Smallest Element in a BST | Swift | Java | 
 |     | 229 | Majority Element II | Swift | Java | 
 |     | 228 | Summary Ranges | Swift | [~~Java~~](././Java/summary-ranges.java) | 
