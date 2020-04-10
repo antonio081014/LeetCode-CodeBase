@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-129 | Java-150 |
+| X | # | Question | Swift-130 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1122,7 +1122,7 @@ Update README file only:
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
 |     | 198 | House Robber | Swift | [~~Java~~](././Java/house-robber.java) | 
 |     | 191 | Number of 1 Bits | Swift | [~~Java~~](././Java/number-of-1-bits.java) | 
-|     | 190 | Reverse Bits | Swift | [~~Java~~](././Java/reverse-bits.java) | 
+|  X  | 190 | Reverse Bits | [~~Swift~~](././Swift/reverse-bits.swift) | [~~Java~~](././Java/reverse-bits.java) | 
 |     | 189 | Rotate Array | [~~Swift~~](././Swift/rotate-array.swift) | Java | 
 |     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](././Java/best-time-to-buy-and-sell-stock-iv.java) | 
 |     | 187 | Repeated DNA Sequences | Swift | Java | 
