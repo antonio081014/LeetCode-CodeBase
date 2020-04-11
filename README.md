@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-135 | Java-150 |
+| X | # | Question | Swift-136 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1263,7 +1263,7 @@ Update README file only:
 |  X  | 42 | Trapping Rain Water | [~~Swift~~](././Swift/trapping-rain-water.swift) | [~~Java~~](././Java/trapping-rain-water.java) | 
 |     | 41 | First Missing Positive | Swift | Java | 
 |     | 40 | Combination Sum II | Swift | [~~Java~~](././Java/combination-sum-ii.java) | 
-|     | 39 | Combination Sum | Swift | [~~Java~~](././Java/combination-sum.java) | 
+|  X  | 39 | Combination Sum | [~~Swift~~](././Swift/combination-sum.swift) | [~~Java~~](././Java/combination-sum.java) | 
 |     | 38 | Count and Say | Swift | Java | 
 |     | 37 | Sudoku Solver | Swift | [~~Java~~](././Java/sudoku-solver.java) | 
 |     | 36 | Valid Sudoku | Swift | Java | 
