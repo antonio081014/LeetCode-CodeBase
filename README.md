@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-139 | Java-150 |
+| X | # | Question | Swift-140 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1257,7 +1257,7 @@ Update README file only:
 |     | 48 | Rotate Image | Swift | Java | 
 |  X  | 47 | Permutations II | [~~Swift~~](././Swift/permutations-ii.swift) | [~~Java~~](././Java/permutations-ii.java) | 
 |  X  | 46 | Permutations | [~~Swift~~](././Swift/permutations.swift) | [~~Java~~](././Java/permutations.java) | 
-|     | 45 | Jump Game II | Swift | [~~Java~~](././Java/jump-game-ii.java) | 
+|  X  | 45 | Jump Game II | [~~Swift~~](././Swift/jump-game-ii.swift) | [~~Java~~](././Java/jump-game-ii.java) | 
 |     | 44 | Wildcard Matching | Swift | [~~Java~~](././Java/wildcard-matching.java) | 
 |     | 43 | Multiply Strings | Swift | [~~Java~~](././Java/multiply-strings.java) | 
 |  X  | 42 | Trapping Rain Water | [~~Swift~~](././Swift/trapping-rain-water.swift) | [~~Java~~](././Java/trapping-rain-water.java) | 
