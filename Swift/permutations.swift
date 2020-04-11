@@ -33,3 +33,32 @@ class Solution {
         }
     }
 }
+/**
+ * https://leetcode.com/problems/permutations/
+ * 
+ * 
+ */ 
+class Solution {
+    func permute(_ nums: [Int]) -> [[Int]] {
+        var cand: [Int : Int] = [:]
+        for n in nums {
+            cand[n] = 1 + cand[n, default: 0]
+        }
+        var ret: [[Int]] = []
+        process(&ret, [], &cand)
+        return ret
+    }
+    
+    fileprivate func process(_ result: inout [[Int]], _ solution: [Int], _ candidate: inout [Int : Int]) {
+        if candidate.isEmpty {
+            result.append(solution)
+            return
+        }
+        
+        for (key, value) in candidate {
+            candidate[key] = value == 1 ? nil : value - 1
+            process(&result, solution + [key], &candidate)
+            candidate[key] = value
+        }
+    }
+}
