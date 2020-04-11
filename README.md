@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-137 | Java-150 |
+| X | # | Question | Swift-138 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1256,7 +1256,7 @@ Update README file only:
 |  X  | 49 | Group Anagrams | [~~Swift~~](././Swift/group-anagrams.swift) | [~~Java~~](././Java/group-anagrams.java) | 
 |     | 48 | Rotate Image | Swift | Java | 
 |     | 47 | Permutations II | Swift | [~~Java~~](././Java/permutations-ii.java) | 
-|     | 46 | Permutations | Swift | [~~Java~~](././Java/permutations.java) | 
+|  X  | 46 | Permutations | [~~Swift~~](././Swift/permutations.swift) | [~~Java~~](././Java/permutations.java) | 
 |     | 45 | Jump Game II | Swift | [~~Java~~](././Java/jump-game-ii.java) | 
 |     | 44 | Wildcard Matching | Swift | [~~Java~~](././Java/wildcard-matching.java) | 
 |     | 43 | Multiply Strings | Swift | [~~Java~~](././Java/multiply-strings.java) | 
