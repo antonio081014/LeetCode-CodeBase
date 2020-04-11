@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-134 | Java-150 |
+| X | # | Question | Swift-135 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1212,7 +1212,7 @@ Update README file only:
 |     | 93 | Restore IP Addresses | Swift | [~~Java~~](././Java/restore-ip-addresses.java) | 
 |     | 92 | Reverse Linked List II | Swift | Java | 
 |     | 91 | Decode Ways | [~~Swift~~](././Swift/decode-ways.swift) | Java | 
-|     | 90 | Subsets II | Swift | Java | 
+|     | 90 | Subsets II | [~~Swift~~](././Swift/subsets-ii.swift) | Java | 
 |     | 89 | Gray Code | Swift | [~~Java~~](././Java/gray-code.java) | 
 |     | 88 | Merge Sorted Array | Swift | [~~Java~~](././Java/merge-sorted-array.java) | 
 |     | 87 | Scramble String | Swift | Java | 
