@@ -1118,7 +1118,7 @@ Update README file only:
 |     | 203 | Remove Linked List Elements | Swift | [~~Java~~](././Java/remove-linked-list-elements.java) | 
 |  X  | 202 | Happy Number | [~~Swift~~](././Swift/happy-number.swift) | [~~Java~~](././Java/happy-number.java) | 
 |     | 201 | Bitwise AND of Numbers Range | Swift | Java | 
-|     | 200 | Number of Islands | Swift | Java | 
+|     | 200 | Number of Islands | Swift | [~~Java~~](././Java/number-of-islands.java) | 
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
 |     | 198 | House Robber | Swift | [~~Java~~](././Java/house-robber.java) | 
 |     | 191 | Number of 1 Bits | Swift | [~~Java~~](././Java/number-of-1-bits.java) | 
@@ -1212,7 +1212,7 @@ Update README file only:
 |     | 93 | Restore IP Addresses | Swift | [~~Java~~](././Java/restore-ip-addresses.java) | 
 |     | 92 | Reverse Linked List II | Swift | Java | 
 |     | 91 | Decode Ways | [~~Swift~~](././Swift/decode-ways.swift) | Java | 
-|     | 90 | Subsets II | [~~Swift~~](././Swift/subsets-ii.swift) | Java | 
+|  X  | 90 | Subsets II | [~~Swift~~](././Swift/subsets-ii.swift) | [~~Java~~](././Java/subsets-ii.java) | 
 |     | 89 | Gray Code | Swift | [~~Java~~](././Java/gray-code.java) | 
 |     | 88 | Merge Sorted Array | Swift | [~~Java~~](././Java/merge-sorted-array.java) | 
 |     | 87 | Scramble String | Swift | Java | 
