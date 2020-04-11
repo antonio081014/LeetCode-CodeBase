@@ -10,6 +10,9 @@ class Solution {
         return Array(ret)
     }
     
+    /// Knapsack Problem
+    /// Unlimit use of items in the back.
+    ///
     fileprivate func process(_ solution: inout Set<[Int]>, _ result: [Int], _ target: Int, _ candidate: [Int]) {
         if 0 == target {
             solution.insert(result.sorted())
