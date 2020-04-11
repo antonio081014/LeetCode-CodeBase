@@ -15,6 +15,11 @@
  * }
  */
 class Solution {
+    ///
+    /// - Complexity:
+    ///     - Time: O(n), n is the number of ListNode instances in linked by head, inclusive.
+    ///     - Space: O(1), only use node and preNode here, everything else is in place.
+    ///
     func deleteDuplicates(_ head: ListNode?) -> ListNode? {
         let root = ListNode(0)
         root.next = head
