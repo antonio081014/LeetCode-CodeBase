@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-136 | Java-150 |
+| X | # | Question | Swift-137 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1220,7 +1220,7 @@ Update README file only:
 |     | 85 | Maximal Rectangle | [~~Swift~~](././Swift/maximal-rectangle.swift) | Java | 
 |     | 84 | Largest Rectangle in Histogram | [~~Swift~~](././Swift/largest-rectangle-in-histogram.swift) | Java | 
 |  X  | 83 | Remove Duplicates from Sorted List | [~~Swift~~](././Swift/remove-duplicates-from-sorted-list.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-list.java) | 
-|     | 82 | Remove Duplicates from Sorted List II | Swift | Java | 
+|     | 82 | Remove Duplicates from Sorted List II | [~~Swift~~](././Swift/remove-duplicates-from-sorted-list-ii.swift) | Java | 
 |     | 81 | Search in Rotated Sorted Array II | Swift | Java | 
 |  X  | 80 | Remove Duplicates from Sorted Array II | [~~Swift~~](././Swift/remove-duplicates-from-sorted-array-ii.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-array-ii.java) | 
 |     | 79 | Word Search | [~~Swift~~](././Swift/word-search.swift) | Java | 
