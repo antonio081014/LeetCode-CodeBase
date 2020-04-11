@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-133 | Java-150 |
+| X | # | Question | Swift-134 | Java-150 |
 |---|---|---|---|---|
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
@@ -1224,7 +1224,7 @@ Update README file only:
 |     | 81 | Search in Rotated Sorted Array II | Swift | Java | 
 |  X  | 80 | Remove Duplicates from Sorted Array II | [~~Swift~~](././Swift/remove-duplicates-from-sorted-array-ii.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-array-ii.java) | 
 |     | 79 | Word Search | [~~Swift~~](././Swift/word-search.swift) | Java | 
-|     | 78 | Subsets | Swift | [~~Java~~](././Java/subsets.java) | 
+|  X  | 78 | Subsets | [~~Swift~~](././Swift/subsets.swift) | [~~Java~~](././Java/subsets.java) | 
 |     | 77 | Combinations | Swift | [~~Java~~](././Java/combinations.java) | 
 |     | 76 | Minimum Window Substring | Swift | Java | 
 |     | 75 | Sort Colors | Swift | Java | 
