@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-140 | Java-150 |
+| X | # | Question | Swift-141 | Java-150 |
 |---|---|---|---|---|
+|     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
+|     | 1526 | HTML Entity Parser | Swift | Java | 
+|     | 1525 | Queries on a Permutation With Key | Swift | Java | 
+|     | 1524 | String Matching in an Array | Swift | Java | 
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
 |     | 1519 | Minimum Subsequence in Non-Increasing Order | Swift | Java | 
@@ -791,7 +795,7 @@ Update README file only:
 |     | 546 | Remove Boxes | Swift | Java | 
 |     | 545 | Boundary of Binary Tree | Swift | Java | 
 |     | 544 | Output Contest Matches | Swift | Java | 
-|     | 543 | Diameter of Binary Tree | Swift | Java | 
+|     | 543 | Diameter of Binary Tree | [~~Swift~~](././Swift/diameter-of-binary-tree.swift) | Java | 
 |     | 542 | 01 Matrix | Swift | Java | 
 |     | 541 | Reverse String II | Swift | Java | 
 |     | 540 | Single Element in a Sorted Array | Swift | Java | 
