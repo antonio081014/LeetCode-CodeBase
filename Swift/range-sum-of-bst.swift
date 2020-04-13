@@ -31,10 +31,10 @@ class Solution {
         if root.val >= L, root.val <= R {
             sum += root.val
         }
-        if let left = root.left{
+        if let left = root.left, root.val > L {
             getSum(left, L, R, &sum)
         }
-        if let right = root.right {
+        if let right = root.right, root.val < R {
             getSum(right, L, R, &sum)
         }
     }
@@ -55,10 +55,10 @@ class Solution {
             if node.val >= L, node.val <= R {
                 sum += node.val
             }
-            if let left = node.left {
+            if let left = node.left, node.val > L {
                 queue.append(left)
             }
-            if let right = node.right {
+            if let right = node.right, node.val < R {
                 queue.append(right)
             }
         }
