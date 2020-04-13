@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-144 | Java-150 |
+| X | # | Question | Swift-145 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -418,7 +418,7 @@ Update README file only:
 |     | 978 | Valid Mountain Array | Swift | Java | 
 |     | 977 | Distinct Subsequences II | Swift | Java | 
 |     | 976 | Minimum Area Rectangle | Swift | Java | 
-|     | 975 | Range Sum of BST | Swift | Java | 
+|     | 975 | Range Sum of BST | [~~Swift~~](././Swift/range-sum-of-bst.swift) | Java | 
 |     | 974 | Reorder Data in Log Files | Swift | Java | 
 |     | 973 | Stamping The Sequence | Swift | Java | 
 |     | 972 | Knight Dialer | Swift | Java | 
