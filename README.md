@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-141 | Java-150 |
+| X | # | Question | Swift-142 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -272,7 +272,7 @@ Update README file only:
 |     | 1130 | Last Stone Weight II | Swift | Java | 
 |     | 1129 | Longest String Chain | Swift | Java | 
 |     | 1128 | Remove All Adjacent Duplicates In String | Swift | Java | 
-|     | 1127 | Last Stone Weight | Swift | Java | 
+|     | 1127 | Last Stone Weight | [~~Swift~~](././Swift/last-stone-weight.swift) | Java | 
 |     | 1126 | Minimum Cost to Connect Sticks | Swift | Java | 
 |     | 1125 | Design File System | Swift | Java | 
 |     | 1124 | String Transforms Into Another String | Swift | Java | 
