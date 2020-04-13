@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-145 | Java-150 |
+| X | # | Question | Swift-146 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -943,7 +943,7 @@ Update README file only:
 |     | 383 | Ransom Note | [~~Swift~~](././Swift/ransom-note.swift) | Java | 
 |     | 382 | Linked List Random Node | Swift | Java | 
 |     | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Swift | Java | 
-|     | 380 | Insert Delete GetRandom O(1) | Swift | Java | 
+|     | 380 | Insert Delete GetRandom O(1) | [~~Swift~~](././Swift/insert-delete-getrandom-o1.swift) | Java | 
 |     | 379 | Design Phone Directory | Swift | Java | 
 |     | 378 | Kth Smallest Element in a Sorted Matrix | Swift | Java | 
 |     | 377 | Combination Sum IV | Swift | Java | 
