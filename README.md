@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-146 | Java-150 |
+| X | # | Question | Swift-147 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -811,7 +811,7 @@ Update README file only:
 |     | 529 | Minesweeper | Swift | Java | 
 |     | 527 | Word Abbreviation | Swift | Java | 
 |     | 526 | Beautiful Arrangement | Swift | Java | 
-|     | 525 | Contiguous Array | Swift | Java | 
+|     | 525 | Contiguous Array | [~~Swift~~](././Swift/contiguous-array.swift) | Java | 
 |     | 524 | Longest Word in Dictionary through Deleting | Swift | Java | 
 |     | 523 | Continuous Subarray Sum | Swift | Java | 
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
