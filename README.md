@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-142 | Java-150 |
+| X | # | Question | Swift-143 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -1258,7 +1258,7 @@ Update README file only:
 |  X  | 51 | N-Queens | [~~Swift~~](././Swift/n-queens.swift) | [~~Java~~](././Java/n-queens.java) | 
 |  X  | 50 | Pow(x, n) | [~~Swift~~](././Swift/powx-n.swift) | [~~Java~~](././Java/powx-n.java) | 
 |  X  | 49 | Group Anagrams | [~~Swift~~](././Swift/group-anagrams.swift) | [~~Java~~](././Java/group-anagrams.java) | 
-|     | 48 | Rotate Image | Swift | Java | 
+|     | 48 | Rotate Image | [~~Swift~~](././Swift/rotate-image.swift) | Java | 
 |  X  | 47 | Permutations II | [~~Swift~~](././Swift/permutations-ii.swift) | [~~Java~~](././Java/permutations-ii.java) | 
 |  X  | 46 | Permutations | [~~Swift~~](././Swift/permutations.swift) | [~~Java~~](././Java/permutations.java) | 
 |  X  | 45 | Jump Game II | [~~Swift~~](././Swift/jump-game-ii.swift) | [~~Java~~](././Java/jump-game-ii.java) | 
