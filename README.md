@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-143 | Java-150 |
+| X | # | Question | Swift-144 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -1275,7 +1275,7 @@ Update README file only:
 |     | 34 | Find First and Last Position of Element in Sorted Array | [~~Swift~~](././Swift/find-first-and-last-position-of-element-in-sorted-array.swift) | Java | 
 |  X  | 33 | Search in Rotated Sorted Array | [~~Swift~~](././Swift/search-in-rotated-sorted-array.swift) | [~~Java~~](././Java/search-in-rotated-sorted-array.java) | 
 |  X  | 32 | Longest Valid Parentheses | [~~Swift~~](././Swift/longest-valid-parentheses.swift) | [~~Java~~](././Java/longest-valid-parentheses.java) | 
-|     | 31 | Next Permutation | Swift | [~~Java~~](././Java/next-permutation.java) | 
+|  X  | 31 | Next Permutation | [~~Swift~~](././Swift/next-permutation.swift) | [~~Java~~](././Java/next-permutation.java) | 
 |     | 30 | Substring with Concatenation of All Words | Swift | Java | 
 |  X  | 29 | Divide Two Integers | [~~Swift~~](././Swift/divide-two-integers.swift) | [~~Java~~](././Java/divide-two-integers.java) | 
 |     | 28 | Implement strStr() | [~~Swift~~](././Swift/implement-strstr.swift) | Java | 
