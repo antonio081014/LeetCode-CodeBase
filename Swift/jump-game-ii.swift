@@ -26,3 +26,28 @@ class Solution {
         return steps[nums.count - 1]
     }
 }
+/**
+ * https://leetcode.com/problems/jump-game-ii/
+ * 
+ * 
+ */ 
+class Solution {
+    func jump(_ nums: [Int]) -> Int {
+        /// Steps used to get `lastFurthestPosition`.
+        var steps = 0
+        /// The furthest possible position could be reached so far by using `Steps` steps.
+        var lastFurthestPosition = 0
+        /// The furthest possible position could be reached by using 'Steps + 1' steps.
+        var nextFurthestPosition = 0
+        for index in 0 ..< nums.count {
+            // When using `Steps` steps could not reach index
+            // We need another step to get to the next possible furthest place.
+            if index > lastFurthestPosition {
+                steps += 1
+                lastFurthestPosition = nextFurthestPosition
+            }
+            nextFurthestPosition = max(nextFurthestPosition, index + nums[index])
+        }
+        return steps
+    }
+}
