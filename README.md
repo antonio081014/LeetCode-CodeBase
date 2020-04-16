@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-148 | Java-150 |
+| X | # | Question | Swift-149 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -956,7 +956,7 @@ Update README file only:
 |     | 370 | Range Addition | Swift | Java | 
 |     | 369 | Plus One Linked List | Swift | Java | 
 |     | 368 | Largest Divisible Subset | Swift | Java | 
-|     | 367 | Valid Perfect Square | Swift | Java | 
+|     | 367 | Valid Perfect Square | [~~Swift~~](././Swift/valid-perfect-square.swift) | Java | 
 |     | 366 | Find Leaves of Binary Tree | Swift | Java | 
 |     | 365 | Water and Jug Problem | Swift | Java | 
 |     | 364 | Nested List Weight Sum II | Swift | Java | 
