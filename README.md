@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-149 | Java-150 |
+| X | # | Question | Swift-150 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -640,7 +640,7 @@ Update README file only:
 |     | 748 | Largest Number At Least Twice of Others | Swift | Java | 
 |     | 747 | Min Cost Climbing Stairs | Swift | Java | 
 |     | 746 | Prefix and Suffix Search | Swift | Java | 
-|     | 745 | Find Smallest Letter Greater Than Target | Swift | Java | 
+|     | 745 | Find Smallest Letter Greater Than Target | [~~Swift~~](././Swift/find-smallest-letter-greater-than-target.swift) | Java | 
 |     | 744 | Network Delay Time | Swift | Java | 
 |     | 743 | Closest Leaf in a Binary Tree | Swift | Java | 
 |     | 742 | To Lower Case | Swift | Java | 
