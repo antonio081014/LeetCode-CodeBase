@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-150 | Java-150 |
+| X | # | Question | Swift-151 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -974,7 +974,7 @@ Update README file only:
 |     | 352 | Data Stream as Disjoint Intervals | Swift | Java | 
 |     | 351 | Android Unlock Patterns | Swift | Java | 
 |     | 350 | Intersection of Two Arrays II | Swift | Java | 
-|     | 349 | Intersection of Two Arrays | Swift | Java | 
+|     | 349 | Intersection of Two Arrays | [~~Swift~~](././Swift/intersection-of-two-arrays.swift) | Java | 
 |     | 348 | Design Tic-Tac-Toe | Swift | Java | 
 |     | 347 | Top K Frequent Elements | [~~Swift~~](././Swift/top-k-frequent-elements.swift) | Java | 
 |     | 346 | Moving Average from Data Stream | Swift | Java | 
