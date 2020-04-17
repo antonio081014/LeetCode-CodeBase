@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-153 | Java-150 |
+| X | # | Question | Swift-154 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -696,7 +696,7 @@ Update README file only:
 |     | 681 | Next Closest Time | Swift | Java | 
 |     | 680 | Valid Palindrome II | Swift | Java | 
 |     | 679 | 24 Game | Swift | Java | 
-|     | 678 | Valid Parenthesis String | Swift | Java | 
+|     | 678 | Valid Parenthesis String | [~~Swift~~](././Swift/valid-parenthesis-string.swift) | Java | 
 |     | 677 | Map Sum Pairs | Swift | Java | 
 |     | 676 | Implement Magic Dictionary | Swift | Java | 
 |     | 675 | Cut Off Trees for Golf Event | Swift | Java | 
