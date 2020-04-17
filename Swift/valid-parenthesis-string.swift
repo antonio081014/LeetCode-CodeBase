@@ -5,6 +5,9 @@
  */ 
 ///
 /// Let dp[start][end] be true if and only if the interval s[start], s[start+1], ..., s[end] can be made valid.
+/// - Complexity:
+///     - Time: O(n^3), where n is the length of string.
+///     - Space: O(n^2), where n is the length of string.
 ///
 class Solution {
     func checkValidString(_ s: String) -> Bool {
