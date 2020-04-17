@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-152 | Java-150 |
+| X | # | Question | Swift-153 | Java-150 |
 |---|---|---|---|---|
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
@@ -1122,7 +1122,7 @@ Update README file only:
 |     | 203 | Remove Linked List Elements | Swift | [~~Java~~](././Java/remove-linked-list-elements.java) | 
 |  X  | 202 | Happy Number | [~~Swift~~](././Swift/happy-number.swift) | [~~Java~~](././Java/happy-number.java) | 
 |     | 201 | Bitwise AND of Numbers Range | Swift | Java | 
-|     | 200 | Number of Islands | Swift | [~~Java~~](././Java/number-of-islands.java) | 
+|  X  | 200 | Number of Islands | [~~Swift~~](././Swift/number-of-islands.swift) | [~~Java~~](././Java/number-of-islands.java) | 
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
 |     | 198 | House Robber | Swift | [~~Java~~](././Java/house-robber.java) | 
 |     | 191 | Number of 1 Bits | Swift | [~~Java~~](././Java/number-of-1-bits.java) | 
