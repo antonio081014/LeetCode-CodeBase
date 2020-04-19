@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-156 | Java-150 |
+| X | # | Question | Swift-157 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -953,7 +953,7 @@ Update README file only:
 |     | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Swift | Java | 
 |     | 380 | Insert Delete GetRandom O(1) | [~~Swift~~](././Swift/insert-delete-getrandom-o1.swift) | Java | 
 |     | 379 | Design Phone Directory | Swift | Java | 
-|     | 378 | Kth Smallest Element in a Sorted Matrix | Swift | Java | 
+|     | 378 | Kth Smallest Element in a Sorted Matrix | [~~Swift~~](././Swift/kth-smallest-element-in-a-sorted-matrix.swift) | Java | 
 |     | 377 | Combination Sum IV | Swift | Java | 
 |     | 376 | Wiggle Subsequence | Swift | Java | 
 |     | 375 | Guess Number Higher or Lower II | Swift | Java | 
