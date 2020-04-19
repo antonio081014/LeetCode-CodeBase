@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-154 | Java-150 |
+| X | # | Question | Swift-155 | Java-150 |
 |---|---|---|---|---|
+|     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
+|     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
+|     | 1533 | Display Table of Food Orders in a Restaurant | Swift | Java | 
+|     | 1532 | Reformat The String | Swift | Java | 
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
 |     | 1525 | Queries on a Permutation With Key | Swift | Java | 
@@ -20,6 +24,10 @@ Update README file only:
 |     | 1522 | Stone Game III | Swift | Java | 
 |     | 1520 | Number of Steps to Reduce a Number in Binary Representation to One | Swift | Java | 
 |     | 1519 | Minimum Subsequence in Non-Increasing Order | Swift | Java | 
+|     | 1517 | Restore The Array | Swift | Java | 
+|     | 1516 | The k-th Lexicographical String of All Happy Strings of Length n | Swift | Java | 
+|     | 1515 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Swift | Java | 
+|     | 1514 | Minimum Value to Get Positive Step by Step Sum | Swift | Java | 
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | Swift | Java | 
 |     | 1511 | Count Number of Teams | Swift | Java | 
@@ -596,7 +604,7 @@ Update README file only:
 |     | 792 | Binary Search | Swift | Java | 
 |     | 791 | Split BST | Swift | Java | 
 |     | 790 | Global and Local Inversions | Swift | Java | 
-|     | 789 | Kth Largest Element in a Stream | Swift | Java | 
+|     | 789 | Kth Largest Element in a Stream | [~~Swift~~](././Swift/kth-largest-element-in-a-stream.swift) | Java | 
 |     | 788 | Minimize Max Distance to Gas Station | Swift | Java | 
 |     | 787 | Sliding Puzzle | Swift | Java | 
 |     | 786 | Search in a Sorted Array of Unknown Size | Swift | Java | 
