@@ -1,9 +1,4 @@
 /**
- * https://leetcode.com/problems/kth-largest-element-in-an-array/
- * 
- * 
- */ 
-/**
  * https://leetcode.com/problems/kth-largest-element-in-a-stream/
  *
  *
@@ -334,5 +329,53 @@ class Solution {
     func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
         let nums = nums.sorted(by: >)
         return nums[k - 1]
+    }
+}
+
+///
+/// The basic idea is to use Quick Select algorithm to partition the array with pivot:
+///
+/// `Put numbers < pivot to pivot's left`
+/// `Put numbers > pivot to pivot's right`
+///
+/// Then
+///
+/// `if indexOfPivot == k, return A[k]`
+/// `else if indexOfPivot < k, keep checking left part to pivot`
+/// `else if indexOfPivot > k, keep checking right part to pivot`
+/// Time complexity = O(n)
+///
+/// Discard half each time: n+(n/2)+(n/4)..1 = n + (n-1) = O(2n-1) = O(n), because n/2+n/4+n/8+..1=n-1.
+///
+class Solution {
+    func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
+        if nums.count <= 1 {
+            return nums.first ?? 0
+        }
+        var pivot = nums[Int.random(in: 0 ..< nums.count)]
+        // print("nums: \(nums)")
+        // print("pivot: \(pivot)")
+        var small = [Int]()
+        var large = [Int]()
+        var count = 0
+        for n in nums {
+            if n > pivot {
+                large.append(n)
+            } else if n < pivot {
+                small.append(n)
+            } else {
+                count += 1
+            }
+        }
+        if large.count >= k {
+            // print("1")
+            return findKthLargest(large, k)
+        } else if large.count + count >= k {
+            // print("2")
+            return pivot
+        } else {
+            // print("3")
+            return findKthLargest(small, k - large.count - count)
+        }
     }
 }
