@@ -307,13 +307,11 @@ extension PriorityQueue where T: Equatable {
         return self.heap.index(of: element)
     }
 }
-
-/**
- * Your KthLargest object will be instantiated and called as such:
- * let obj = KthLargest(k, nums)
- * let ret_1: Int = obj.add(val)
- */
-
+/// Priority Queue
+/// - Complexity:
+///     - Time: O(nlogk), n is the number of elements in the array, k is the limit.
+///     - Space: O(k)
+///
 class Solution {
     func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
         var pq: PriorityQueue<Int> = PriorityQueue<Int>(sortingComparator: <)
@@ -324,5 +322,17 @@ class Solution {
             }
         }
         return pq.peek()!
+    }
+}
+
+/// Sorting
+/// - Complexity:
+///     - Time: O(nlogn), n is the number of elements in array.
+///     - Space: O(n)
+///
+class Solution {
+    func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
+        let nums = nums.sorted(by: >)
+        return nums[k - 1]
     }
 }
