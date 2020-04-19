@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-155 | Java-150 |
+| X | # | Question | Swift-156 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -1115,7 +1115,7 @@ Update README file only:
 |     | 218 | The Skyline Problem | Swift | Java | 
 |     | 217 | Contains Duplicate | Swift | [~~Java~~](././Java/contains-duplicate.java) | 
 |     | 216 | Combination Sum III | Swift | [~~Java~~](././Java/combination-sum-iii.java) | 
-|     | 215 | Kth Largest Element in an Array | Swift | [~~Java~~](././Java/kth-largest-element-in-an-array.java) | 
+|  X  | 215 | Kth Largest Element in an Array | [~~Swift~~](././Swift/kth-largest-element-in-an-array.swift) | [~~Java~~](././Java/kth-largest-element-in-an-array.java) | 
 |     | 214 | Shortest Palindrome | Swift | Java | 
 |     | 213 | House Robber II | Swift | Java | 
 |  X  | 212 | Word Search II | [~~Swift~~](././Swift/word-search-ii.swift) | [~~Java~~](././Java/word-search-ii.java) | 
