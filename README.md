@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-158 | Java-150 |
+| X | # | Question | Swift-159 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -1209,7 +1209,7 @@ Update README file only:
 |  X  | 108 | Convert Sorted Array to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-array-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-array-to-binary-search-tree.java) | 
 |     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](././Java/binary-tree-level-order-traversal-ii.java) | 
 |     | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Swift | Java | 
-|     | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Swift | Java | 
+|     | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [~~Swift~~](././Swift/construct-binary-tree-from-preorder-and-inorder-traversal.swift) | Java | 
 |     | 104 | Maximum Depth of Binary Tree | Swift | [~~Java~~](././Java/maximum-depth-of-binary-tree.java) | 
 |     | 103 | Binary Tree Zigzag Level Order Traversal | Swift | [~~Java~~](././Java/binary-tree-zigzag-level-order-traversal.java) | 
 |     | 102 | Binary Tree Level Order Traversal | Swift | Java | 
