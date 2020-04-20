@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-159 | Java-150 |
+| X | # | Question | Swift-160 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -475,7 +475,7 @@ Update README file only:
 |     | 928 | Surface Area of 3D Shapes | Swift | Java | 
 |     | 927 | Sum of Subsequence Widths | Swift | Java | 
 |     | 926 | Find and Replace Pattern | Swift | Java | 
-|     | 925 | Construct Binary Tree from Preorder and Postorder Traversal | Swift | Java | 
+|     | 925 | Construct Binary Tree from Preorder and Postorder Traversal | [~~Swift~~](././Swift/construct-binary-tree-from-preorder-and-postorder-traversal.swift) | Java | 
 |     | 924 | Fair Candy Swap | Swift | Java | 
 |     | 923 | Super Egg Drop | Swift | Java | 
 |     | 922 | Possible Bipartition | Swift | Java | 
