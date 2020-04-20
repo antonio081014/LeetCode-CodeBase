@@ -38,3 +38,37 @@ class Solution {
         return root
     }
 }
+/**
+ * https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+ * 
+ * 
+ */ 
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init(_ val: Int) {
+ *         self.val = val
+ *         self.left = nil
+ *         self.right = nil
+ *     }
+ * }
+ */
+class Solution {
+    func buildTree(_ preorder: [Int], _ inorder: [Int]) -> TreeNode? {
+        if let val = preorder.first {
+            let root = TreeNode(val)
+            for index in 0 ..< inorder.count {
+                if inorder[index] == val {
+                    root.left = self.buildTree((index >= 1) ? Array(preorder[1 ... index]) : [], (index > 0) ? Array(inorder[0 ..< index]) : [])
+                    root.right = (index + 1 < preorder.count) ? self.buildTree(Array(preorder[(index + 1) ..< preorder.count]), Array(inorder[(index + 1) ..< inorder.count])) : nil
+                    break
+                }
+            }
+            return root
+        }
+        return nil
+    }
+}
