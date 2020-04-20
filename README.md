@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-160 | Java-150 |
+| X | # | Question | Swift-161 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -1233,7 +1233,7 @@ Update README file only:
 |     | 84 | Largest Rectangle in Histogram | [~~Swift~~](././Swift/largest-rectangle-in-histogram.swift) | Java | 
 |  X  | 83 | Remove Duplicates from Sorted List | [~~Swift~~](././Swift/remove-duplicates-from-sorted-list.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-list.java) | 
 |     | 82 | Remove Duplicates from Sorted List II | [~~Swift~~](././Swift/remove-duplicates-from-sorted-list-ii.swift) | Java | 
-|     | 81 | Search in Rotated Sorted Array II | Swift | Java | 
+|     | 81 | Search in Rotated Sorted Array II | [~~Swift~~](././Swift/search-in-rotated-sorted-array-ii.swift) | Java | 
 |  X  | 80 | Remove Duplicates from Sorted Array II | [~~Swift~~](././Swift/remove-duplicates-from-sorted-array-ii.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-array-ii.java) | 
 |     | 79 | Word Search | [~~Swift~~](././Swift/word-search.swift) | Java | 
 |  X  | 78 | Subsets | [~~Swift~~](././Swift/subsets.swift) | [~~Java~~](././Java/subsets.java) | 
