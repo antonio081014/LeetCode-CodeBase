@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-157 | Java-150 |
+| X | # | Question | Swift-158 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -355,7 +355,7 @@ Update README file only:
 |     | 1053 | Minimize Rounding Error to Meet Target | Swift | Java | 
 |     | 1052 | Campus Bikes | Swift | Java | 
 |     | 1051 | Shortest Way to Form String | Swift | Java | 
-|     | 1050 | Construct Binary Search Tree from Preorder Traversal | Swift | Java | 
+|     | 1050 | Construct Binary Search Tree from Preorder Traversal | [~~Swift~~](././Swift/construct-binary-search-tree-from-preorder-traversal.swift) | Java | 
 |     | 1049 | Minimum Domino Rotations For Equal Row | Swift | Java | 
 |     | 1048 | Clumsy Factorial | Swift | Java | 
 |     | 1047 | Maximize Sum Of Array After K Negations | Swift | Java | 
