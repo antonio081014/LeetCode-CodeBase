@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-162 | Java-150 |
+| X | # | Question | Swift-163 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -808,7 +808,7 @@ Update README file only:
 |     | 541 | Reverse String II | Swift | Java | 
 |     | 540 | Single Element in a Sorted Array | Swift | Java | 
 |     | 539 | Minimum Time Difference | Swift | Java | 
-|     | 538 | Convert BST to Greater Tree | Swift | Java | 
+|     | 538 | Convert BST to Greater Tree | [~~Swift~~](././Swift/convert-bst-to-greater-tree.swift) | Java | 
 |     | 537 | Complex Number Multiplication | Swift | Java | 
 |     | 536 | Construct Binary Tree from String | Swift | Java | 
 |     | 535 | Encode and Decode TinyURL | Swift | Java | 
