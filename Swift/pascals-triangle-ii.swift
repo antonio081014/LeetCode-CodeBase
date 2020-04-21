@@ -19,3 +19,25 @@ class Solution {
         return rowNum[rowIndex%2]
     }
 }
+/**
+ * https://leetcode.com/problems/pascals-triangle-ii/
+ * 
+ * 
+ */ 
+// Date: Tue Apr 21 14:05:17 PDT 2020
+class Solution {
+    func getRow(_ rowIndex: Int) -> [Int] {
+        var last: [Int] = []
+        for row in 0 ... rowIndex {
+            var list = [1]
+            if last.isEmpty == false {
+                for index in 0 ..< row {
+                    let sum = last[index] + (index + 1 < last.count ? last[index + 1] : 0)
+                    list.append(sum)
+                }
+            }
+            last = list
+        }
+        return last
+    }
+}
