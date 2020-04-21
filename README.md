@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-161 | Java-150 |
+| X | # | Question | Swift-162 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -840,7 +840,7 @@ Update README file only:
 |     | 504 | Base 7 | Swift | Java | 
 |     | 503 | Next Greater Element II | Swift | Java | 
 |     | 502 | IPO | Swift | Java | 
-|     | 501 | Find Mode in Binary Search Tree | Swift | Java | 
+|     | 501 | Find Mode in Binary Search Tree | [~~Swift~~](././Swift/find-mode-in-binary-search-tree.swift) | Java | 
 |     | 500 | Keyboard Row | Swift | Java | 
 |     | 499 | The Maze III | Swift | Java | 
 |     | 498 | Diagonal Traverse | Swift | Java | 
