@@ -23,7 +23,7 @@ echo " * https://leetcode.com/problems/$1/" >> ./Swift/$1.swift
 echo " * " >> ./Swift/$1.swift
 echo " * " >> ./Swift/$1.swift
 echo " */ " >> ./Swift/$1.swift
-
+echo "// Date: $(date)"
 echo "- Copy Source Code to $1.swift tail."
 cat ./code.swift >> ./Swift/$1.swift
 
