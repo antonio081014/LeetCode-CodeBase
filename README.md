@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-166 | Java-150 |
+| X | # | Question | Swift-167 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -789,7 +789,7 @@ Update README file only:
 |     | 563 | Binary Tree Tilt | Swift | Java | 
 |     | 562 | Longest Line of Consecutive One in Matrix | Swift | Java | 
 |     | 561 | Array Partition I | Swift | Java | 
-|     | 560 | Subarray Sum Equals K | Swift | Java | 
+|     | 560 | Subarray Sum Equals K | [~~Swift~~](././Swift/subarray-sum-equals-k.swift) | Java | 
 |     | 557 | Reverse Words in a String III | Swift | Java | 
 |     | 556 | Next Greater Element III | Swift | Java | 
 |     | 555 | Split Concatenated Strings | Swift | Java | 
