@@ -61,6 +61,7 @@ func importDataFromURL(_ url: String, with completionHandler: @escaping ([String
         completionHandler(json)
     })
     task.resume()
+    sleep(10)
 }
 
 func printout(for problemList: [Problem]) {
