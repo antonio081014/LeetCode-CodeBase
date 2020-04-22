@@ -7,6 +7,8 @@
 class Solution {
     /// - Complexity:
     ///     - Time: O(n^2), n is the number of elements in the array.
+    ///     - Space: O(n)
+    ///
     func subarraySum(_ nums: [Int], _ k: Int) -> Int {
         var count = 0
         var sum: [Int] = [0]
