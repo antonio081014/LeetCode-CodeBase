@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-167 | Java-150 |
+| X | # | Question | Swift-168 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -312,7 +312,7 @@ Update README file only:
 |     | 1096 | Maximum Sum of Two Non-Overlapping Subarrays | Swift | Java | 
 |     | 1095 | Two City Scheduling | Swift | Java | 
 |     | 1094 | Matrix Cells in Distance Order | Swift | Java | 
-|     | 1093 | Recover a Tree From Preorder Traversal | Swift | Java | 
+|     | 1093 | Recover a Tree From Preorder Traversal | [~~Swift~~](././Swift/recover-a-tree-from-preorder-traversal.swift) | Java | 
 |     | 1092 | Maximum Difference Between Node and Ancestor | Swift | Java | 
 |     | 1091 | Maximum Average Subtree | Swift | Java | 
 |     | 1090 | Armstrong Number | Swift | Java | 
