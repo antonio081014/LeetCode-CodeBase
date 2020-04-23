@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-168 | Java-150 |
+| X | # | Question | Swift-169 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -1129,7 +1129,7 @@ Update README file only:
 |     | 204 | Count Primes | Swift | [~~Java~~](././Java/count-primes.java) | 
 |     | 203 | Remove Linked List Elements | Swift | [~~Java~~](././Java/remove-linked-list-elements.java) | 
 |  X  | 202 | Happy Number | [~~Swift~~](././Swift/happy-number.swift) | [~~Java~~](././Java/happy-number.java) | 
-|     | 201 | Bitwise AND of Numbers Range | Swift | Java | 
+|     | 201 | Bitwise AND of Numbers Range | [~~Swift~~](././Swift/bitwise-and-of-numbers-range.swift) | Java | 
 |  X  | 200 | Number of Islands | [~~Swift~~](././Swift/number-of-islands.swift) | [~~Java~~](././Java/number-of-islands.java) | 
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
 |     | 198 | House Robber | Swift | [~~Java~~](././Java/house-robber.java) | 
