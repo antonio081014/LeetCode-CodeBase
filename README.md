@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-169 | Java-150 |
+| X | # | Question | Swift-170 | Java-150 |
 |---|---|---|---|---|
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
@@ -1259,7 +1259,7 @@ Update README file only:
 |  X  | 58 | Length of Last Word | [~~Swift~~](././Swift/length-of-last-word.swift) | [~~Java~~](././Java/length-of-last-word.java) | 
 |     | 57 | Insert Interval | Swift | Java | 
 |     | 56 | Merge Intervals | Swift | [~~Java~~](././Java/merge-intervals.java) | 
-|     | 55 | Jump Game | Swift | [~~Java~~](././Java/jump-game.java) | 
+|  X  | 55 | Jump Game | [~~Swift~~](././Swift/jump-game.swift) | [~~Java~~](././Java/jump-game.java) | 
 |     | 54 | Spiral Matrix | Swift | Java | 
 |  X  | 53 | Maximum Subarray | [~~Swift~~](././Swift/maximum-subarray.swift) | [~~Java~~](././Java/maximum-subarray.java) | 
 |  X  | 52 | N-Queens II | [~~Swift~~](././Swift/n-queens-ii.swift) | [~~Java~~](././Java/n-queens-ii.java) | 
