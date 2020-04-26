@@ -11,8 +11,11 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-170 | Java-150 |
+| X | # | Question | Swift-171 | Java-150 |
 |---|---|---|---|---|
+|     | 1539 | Diagonal Traverse II | Swift | Java | 
+|     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
+|     | 1537 | Maximum Score After Splitting a String | [~~Swift~~](././Swift/maximum-score-after-splitting-a-string.swift) | Java | 
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
 |     | 1533 | Display Table of Food Orders in a Restaurant | Swift | Java | 
@@ -166,6 +169,7 @@ Update README file only:
 |     | 1289 | Day of the Week | Swift | Java | 
 |     | 1288 | Maximum Subarray Sum with One Deletion | Swift | Java | 
 |     | 1287 | Distance Between Bus Stops | Swift | Java | 
+|     | 1286 | Constrained Subset Sum | Swift | Java | 
 |     | 1285 | Balance a Binary Search Tree | [~~Swift~~](././Swift/balance-a-binary-search-tree.swift) | Java | 
 |     | 1284 | Four Divisors | [~~Swift~~](././Swift/four-divisors.swift) | Java | 
 |     | 1282 | Number of Valid Words for Each Puzzle | Swift | Java | 
