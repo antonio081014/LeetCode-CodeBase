@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-171 | Java-150 |
+| X | # | Question | Swift-172 | Java-150 |
 |---|---|---|---|---|
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
 |     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
@@ -195,7 +195,7 @@ Update README file only:
 |     | 1253 | Sort the Matrix Diagonally | Swift | Java | 
 |     | 1252 | Break a Palindrome | Swift | Java | 
 |     | 1251 | Longest Chunked Palindrome Decomposition | Swift | Java | 
-|     | 1250 | Longest Common Subsequence | Swift | Java | 
+|     | 1250 | Longest Common Subsequence | [~~Swift~~](././Swift/longest-common-subsequence.swift) | Java | 
 |     | 1249 | Snapshot Array | Swift | Java | 
 |     | 1248 | Binary Tree Coloring Game | Swift | Java | 
 |     | 1247 | Decrease Elements To Make Array Zigzag | Swift | Java | 
