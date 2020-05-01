@@ -53,3 +53,38 @@ class Solution {
     }
 }
 
+/**
+ * https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+ * 
+ * 
+ */ 
+// Date: Fri May  1 11:05:06 PDT 2020
+class Solution {
+    func smallestDistancePair(_ nums: [Int], _ k: Int) -> Int {
+        // O(nlogn)
+        let nums = nums.sorted()
+        
+        var left = 0
+        var right = nums.last! - nums.first! + 1
+        
+        // O(nlogw)
+        while left < right {
+            let mid = left + (right - left) / 2
+            var count = 0
+            var start = 0
+            
+            for end in 0 ..< nums.count {
+                while nums[end] - nums[start] > mid { start += 1 }
+                count += end - start
+            }
+            
+            if count >= k {
+                right = mid
+            } else {
+                left = mid + 1
+            }
+        }
+        return left == (nums.last! - nums.first! + 1) ? -1 : left
+    }
+}
+
