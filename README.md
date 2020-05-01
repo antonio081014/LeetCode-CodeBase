@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-173 | Java-150 |
+| X | # | Question | Swift-174 | Java-150 |
 |---|---|---|---|---|
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
 |     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
@@ -169,7 +169,7 @@ Update README file only:
 |     | 1289 | Day of the Week | Swift | Java | 
 |     | 1288 | Maximum Subarray Sum with One Deletion | Swift | Java | 
 |     | 1287 | Distance Between Bus Stops | Swift | Java | 
-|     | 1286 | Constrained Subset Sum | Swift | Java | 
+|     | 1286 | Constrained Subsequence Sum | Swift | Java | 
 |     | 1285 | Balance a Binary Search Tree | [~~Swift~~](././Swift/balance-a-binary-search-tree.swift) | Java | 
 |     | 1284 | Four Divisors | [~~Swift~~](././Swift/four-divisors.swift) | Java | 
 |     | 1282 | Number of Valid Words for Each Puzzle | Swift | Java | 
@@ -678,7 +678,7 @@ Update README file only:
 |     | 722 | Remove Comments | Swift | Java | 
 |     | 721 | Accounts Merge | Swift | Java | 
 |     | 720 | Longest Word in Dictionary | Swift | Java | 
-|     | 719 | Find K-th Smallest Pair Distance | Swift | Java | 
+|     | 719 | Find K-th Smallest Pair Distance | [~~Swift~~](././Swift/find-k-th-smallest-pair-distance.swift) | Java | 
 |     | 718 | Maximum Length of Repeated Subarray | Swift | Java | 
 |     | 717 | 1-bit and 2-bit Characters | Swift | Java | 
 |     | 716 | Max Stack | Swift | Java | 
