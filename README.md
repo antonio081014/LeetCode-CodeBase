@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-175 | Java-150 |
+| X | # | Question | Swift-176 | Java-150 |
 |---|---|---|---|---|
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
 |     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
@@ -624,7 +624,7 @@ Update README file only:
 |     | 785 | Basic Calculator III | Swift | Java | 
 |     | 784 | Insert into a Binary Search Tree | Swift | Java | 
 |     | 783 | Search in a Binary Search Tree | Swift | Java | 
-|     | 782 | Jewels and Stones | Swift | Java | 
+|     | 782 | Jewels and Stones | [~~Swift~~](././Swift/jewels-and-stones.swift) | Java | 
 |     | 781 | Basic Calculator IV | Swift | Java | 
 |     | 780 | Max Chunks To Make Sorted | Swift | Java | 
 |     | 779 | Max Chunks To Make Sorted II | Swift | Java | 
