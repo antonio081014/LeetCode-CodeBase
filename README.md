@@ -98,6 +98,7 @@ Update README file only:
 |     | 1436 | Get Watched Videos by Your Friends | Swift | Java | 
 |     | 1435 | XOR Queries of a Subarray | Swift | Java | 
 |     | 1434 | Decrypt String from Alphabet to Integer Mapping | Swift | Java | 
+|     | 1432 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Swift | Java | 
 |     | 1429 | Verbal Arithmetic Puzzle | Swift | Java | 
 |     | 1428 | Jump Game III | Swift | Java | 
 |     | 1427 | All Elements in Two Binary Search Trees | Swift | Java | 
@@ -122,6 +123,7 @@ Update README file only:
 |     | 1397 | Search Suggestions System | Swift | Java | 
 |     | 1396 | Count Servers that Communicate | Swift | Java | 
 |     | 1395 | Minimum Time Visiting All Points | Swift | Java | 
+|     | 1391 | Counting Elements | Swift | Java | 
 |     | 1389 | Minimum Moves to Move a Box to Their Target Location | Swift | Java | 
 |     | 1388 | Greatest Sum Divisible by Three | Swift | Java | 
 |     | 1387 | Find Elements in a Contaminated Binary Tree | Swift | Java | 
@@ -130,10 +132,12 @@ Update README file only:
 |     | 1380 | Number of Closed Islands | Swift | Java | 
 |     | 1379 | Reconstruct a 2-Row Binary Matrix | Swift | Java | 
 |     | 1378 | Cells with Odd Values in a Matrix | Swift | Java | 
+|     | 1374 | Leftmost Column with at Least a One | Swift | Java | 
 |     | 1372 | Check If It Is a Good Array | Swift | Java | 
 |     | 1371 | Minimum Remove to Make Valid Parentheses | Swift | Java | 
 |     | 1370 | Count Number of Nice Subarrays | Swift | Java | 
 |     | 1369 | Minimum Swaps to Make Strings Equal | Swift | Java | 
+|     | 1366 | First Unique Number | Swift | Java | 
 |     | 1362 | Airplane Seat Assignment Probability | Swift | Java | 
 |     | 1361 | Tiling a Rectangle with the Fewest Squares | Swift | Java | 
 |     | 1360 | Maximum Length of a Concatenated String with Unique Characters | Swift | Java | 
@@ -143,6 +147,7 @@ Update README file only:
 |     | 1351 | Replace the Substring for Balanced String | Swift | Java | 
 |     | 1350 | Remove Sub-Folders from the Filesystem | Swift | Java | 
 |     | 1349 | Check If It Is a Straight Line | Swift | Java | 
+|     | 1345 | Perform String Shifts | Swift | Java | 
 |     | 1344 | Maximum Equal Frequency | Swift | Java | 
 |     | 1343 | Dice Roll Simulation | Swift | Java | 
 |     | 1342 | Queens That Can Attack the King | Swift | Java | 
