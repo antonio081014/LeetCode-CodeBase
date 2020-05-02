@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-174 | Java-150 |
+| X | # | Question | Swift-175 | Java-150 |
 |---|---|---|---|---|
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
 |     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
@@ -20,6 +20,10 @@ Update README file only:
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
 |     | 1533 | Display Table of Food Orders in a Restaurant | Swift | Java | 
 |     | 1532 | Reformat The String | Swift | Java | 
+|     | 1531 | Number of Ways to Wear Different Hats to Each Other | Swift | Java | 
+|     | 1530 | Check If a String Can Break Another String | Swift | Java | 
+|     | 1529 | Max Difference You Can Get From Changing an Integer | Swift | Java | 
+|     | 1528 | Kids With the Greatest Number of Candies | Swift | Java | 
 |     | 1527 | Number of Ways to Paint N × 3 Grid | Swift | Java | 
 |     | 1526 | HTML Entity Parser | Swift | Java | 
 |     | 1525 | Queries on a Permutation With Key | Swift | Java | 
@@ -1122,7 +1126,7 @@ Update README file only:
 |     | 220 | Contains Duplicate III | Swift | Java | 
 |     | 219 | Contains Duplicate II | [~~Swift~~](././Swift/contains-duplicate-ii.swift) | Java | 
 |     | 218 | The Skyline Problem | Swift | Java | 
-|     | 217 | Contains Duplicate | Swift | [~~Java~~](././Java/contains-duplicate.java) | 
+|  X  | 217 | Contains Duplicate | [~~Swift~~](././Swift/contains-duplicate.swift) | [~~Java~~](././Java/contains-duplicate.java) | 
 |     | 216 | Combination Sum III | Swift | [~~Java~~](././Java/combination-sum-iii.java) | 
 |  X  | 215 | Kth Largest Element in an Array | [~~Swift~~](././Swift/kth-largest-element-in-an-array.swift) | [~~Java~~](././Java/kth-largest-element-in-an-array.java) | 
 |     | 214 | Shortest Palindrome | Swift | Java | 
