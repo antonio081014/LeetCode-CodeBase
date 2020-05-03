@@ -22,3 +22,27 @@ class Solution {
         return resDigits
     }
 }
+/**
+ * https://leetcode.com/problems/plus-one/
+ * 
+ * 
+ */ 
+// Date: Sun May  3 09:58:42 PDT 2020
+class Solution {
+    func plusOne(_ digits: [Int]) -> [Int] {
+        var flag = 1
+        var index = digits.count - 1
+        var ret: [Int] = []
+        
+        while flag > 0 || index >= 0 {
+            if index >= 0 {
+                flag += digits[index]
+            }
+            ret.insert(flag % 10, at: 0)
+            flag = flag / 10
+            
+            index -= 1
+        }
+        return ret
+    }
+}
