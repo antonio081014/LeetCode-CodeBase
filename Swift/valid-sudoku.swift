@@ -55,3 +55,29 @@ class Solution {
         return true
     }
 }
+/**
+ * https://leetcode.com/problems/valid-sudoku/
+ * 
+ * 
+ */ 
+// Date: Sun May  3 10:36:18 PDT 2020
+class Solution {
+    /// Smart way:
+    /// Self-explained solution.
+    func isValidSudoku(_ board: [[Character]]) -> Bool {
+        var set: Set<String> = []
+        for row in 0 ..< 9 {
+            for col in 0 ..< 9 {
+                let c = String(board[row][col])
+                if let num = Int(c) {
+                    if !set.insert("\(num) in row \(row)").0
+                        || !set.insert("\(num) in col \(col)").0
+                        || !set.insert("\(num) in block (\(row / 3), \(col / 3))").0 {
+                        return false
+                    }
+                }
+            }
+        }
+        return true
+    }
+}
