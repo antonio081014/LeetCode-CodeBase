@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-178 | Java-150 |
+| X | # | Question | Swift-179 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1004,7 +1004,7 @@ Update README file only:
 |     | 347 | Top K Frequent Elements | [~~Swift~~](././Swift/top-k-frequent-elements.swift) | Java | 
 |     | 346 | Moving Average from Data Stream | Swift | Java | 
 |     | 345 | Reverse Vowels of a String | [~~Swift~~](././Swift/reverse-vowels-of-a-string.swift) | Java | 
-|     | 344 | Reverse String | Swift | Java | 
+|     | 344 | Reverse String | [~~Swift~~](././Swift/reverse-string.swift) | Java | 
 |     | 343 | Integer Break | Swift | Java | 
 |     | 342 | Power of Four | [~~Swift~~](././Swift/power-of-four.swift) | Java | 
 |     | 341 | Flatten Nested List Iterator | Swift | Java | 
