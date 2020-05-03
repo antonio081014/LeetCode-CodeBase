@@ -56,3 +56,20 @@ class Solution {
         return Array(num).first!
     }
 }
+/**
+ * https://leetcode.com/problems/single-number/
+ * 
+ * 
+ */ 
+// Date: Sun May  3 09:39:26 PDT 2020
+class Solution {
+    func singleNumber(_ nums: [Int]) -> Int {
+        return nums.reduce(0) { $0 ^ $1 }
+    }
+}
+
+class Solution {
+    func singleNumber(_ nums: [Int]) -> Int {
+        return nums.reduce(0, ^)
+    }
+}
