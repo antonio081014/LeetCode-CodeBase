@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-176 | Java-150 |
+| X | # | Question | Swift-177 | Java-150 |
 |---|---|---|---|---|
+|     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
+|     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
+|     | 1548 | Check If All 1's Are at Least Length K Places Away | Swift | Java | 
+|     | 1547 | Destination City | Swift | Java | 
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
 |     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
 |     | 1537 | Maximum Score After Splitting a String | [~~Swift~~](././Swift/maximum-score-after-splitting-a-string.swift) | Java | 
