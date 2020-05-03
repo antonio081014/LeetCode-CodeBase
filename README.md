@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-179 | Java-150 |
+| X | # | Question | Swift-180 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1105,7 +1105,7 @@ Update README file only:
 |     | 245 | Shortest Word Distance III | Swift | Java | 
 |     | 244 | Shortest Word Distance II | Swift | Java | 
 |     | 243 | Shortest Word Distance | Swift | Java | 
-|     | 242 | Valid Anagram | Swift | [~~Java~~](././Java/valid-anagram.java) | 
+|  X  | 242 | Valid Anagram | [~~Swift~~](././Swift/valid-anagram.swift) | [~~Java~~](././Java/valid-anagram.java) | 
 |     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](././Java/different-ways-to-add-parentheses.java) | 
 |     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](././Java/search-a-2d-matrix-ii.java) | 
 |     | 239 | Sliding Window Maximum | Swift | [~~Java~~](././Java/sliding-window-maximum.java) | 
