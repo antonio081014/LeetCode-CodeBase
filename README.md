@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-180 | Java-150 |
+| X | # | Question | Swift-181 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -719,7 +719,7 @@ Update README file only:
 |     | 683 | K Empty Slots | Swift | Java | 
 |     | 682 | Baseball Game | Swift | Java | 
 |     | 681 | Next Closest Time | Swift | Java | 
-|     | 680 | Valid Palindrome II | Swift | Java | 
+|     | 680 | Valid Palindrome II | [~~Swift~~](././Swift/valid-palindrome-ii.swift) | Java | 
 |     | 679 | 24 Game | Swift | Java | 
 |     | 678 | Valid Parenthesis String | [~~Swift~~](././Swift/valid-parenthesis-string.swift) | Java | 
 |     | 677 | Map Sum Pairs | Swift | Java | 
