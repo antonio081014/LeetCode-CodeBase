@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-177 | Java-150 |
+| X | # | Question | Swift-178 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1295,7 +1295,7 @@ Update README file only:
 |  X  | 39 | Combination Sum | [~~Swift~~](././Swift/combination-sum.swift) | [~~Java~~](././Java/combination-sum.java) | 
 |     | 38 | Count and Say | Swift | Java | 
 |     | 37 | Sudoku Solver | Swift | [~~Java~~](././Java/sudoku-solver.java) | 
-|     | 36 | Valid Sudoku | Swift | Java | 
+|     | 36 | Valid Sudoku | [~~Swift~~](././Swift/valid-sudoku.swift) | Java | 
 |     | 35 | Search Insert Position | Swift | [~~Java~~](././Java/search-insert-position.java) | 
 |     | 34 | Find First and Last Position of Element in Sorted Array | [~~Swift~~](././Swift/find-first-and-last-position-of-element-in-sorted-array.swift) | Java | 
 |  X  | 33 | Search in Rotated Sorted Array | [~~Swift~~](././Swift/search-in-rotated-sorted-array.swift) | [~~Java~~](././Java/search-in-rotated-sorted-array.java) | 
