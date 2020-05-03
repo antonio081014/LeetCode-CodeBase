@@ -41,3 +41,32 @@ class Solution {
 let solution = Solution()
 print("\(solution.isPalindrome("race a car"))")
 print("\(solution.isPalindrome("A man, a plan, a canal: Panama"))")
+/**
+ * https://leetcode.com/problems/valid-palindrome/
+ * 
+ * 
+ */ 
+// Date: Sun May  3 16:00:23 PDT 2020
+class Solution {
+    func isPalindrome(_ s: String) -> Bool {
+        let dict = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
+        // O(s.count)
+        let s = s.uppercased().filter { dict.contains($0) }
+        if s.isEmpty { return true }
+        var start = s.startIndex
+        var end = s.index(before: s.endIndex)
+        // print("\(s): \(start) - \(end)")
+        
+        // O(s.count)
+        while start < end {
+            if !dict.contains(s[start]) { start = s.index(after: start) }
+            if !dict.contains(s[end]) { end = s.index(before: end) }
+            else if s[start] != s[end] { return false }
+            else {
+                start = s.index(after: start)
+                end = s.index(before: end)
+            }
+        }
+        return true
+    }
+}
