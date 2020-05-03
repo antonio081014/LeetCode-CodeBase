@@ -6,11 +6,9 @@
 class Solution {
     func moveZeroes(_ nums: inout [Int]) {
         var start = 0
-        for index in 0..<nums.count {
+        for index in 0 ..< nums.count {
             if nums[index] != 0 {
-                let tmp = nums[start]
-                nums[start] = nums[index]
-                nums[index] = tmp
+                nums.swapAt(start, index)
                 start += 1
             }
         }
