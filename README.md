@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-183 | Java-150 |
+| X | # | Question | Swift-184 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1317,7 +1317,7 @@ Update README file only:
 |  X  | 17 | Letter Combinations of a Phone Number | [~~Swift~~](././Swift/letter-combinations-of-a-phone-number.swift) | [~~Java~~](././Java/letter-combinations-of-a-phone-number.java) | 
 |     | 16 | 3Sum Closest | Swift | Java | 
 |     | 15 | 3Sum | Swift | [~~Java~~](././Java/3sum.java) | 
-|     | 14 | Longest Common Prefix | Swift | [~~Java~~](././Java/longest-common-prefix.java) | 
+|  X  | 14 | Longest Common Prefix | [~~Swift~~](././Swift/longest-common-prefix.swift) | [~~Java~~](././Java/longest-common-prefix.java) | 
 |  X  | 13 | Roman to Integer | [~~Swift~~](././Swift/roman-to-integer.swift) | [~~Java~~](././Java/roman-to-integer.java) | 
 |     | 12 | Integer to Roman | [~~Swift~~](././Swift/integer-to-roman.swift) | Java | 
 |     | 11 | Container With Most Water | [~~Swift~~](././Swift/container-with-most-water.swift) | Java | 
