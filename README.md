@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-182 | Java-150 |
+| X | # | Question | Swift-183 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -368,7 +368,7 @@ Update README file only:
 |     | 1057 | Numbers With Repeated Digits | Swift | Java | 
 |     | 1056 | Capacity To Ship Packages Within D Days | Swift | Java | 
 |     | 1055 | Pairs of Songs With Total Durations Divisible by 60 | Swift | Java | 
-|     | 1054 | Complement of Base 10 Integer | Swift | Java | 
+|     | 1054 | Complement of Base 10 Integer | [~~Swift~~](././Swift/complement-of-base-10-integer.swift) | Java | 
 |     | 1053 | Minimize Rounding Error to Meet Target | Swift | Java | 
 |     | 1052 | Campus Bikes | Swift | Java | 
 |     | 1051 | Shortest Way to Form String | Swift | Java | 
