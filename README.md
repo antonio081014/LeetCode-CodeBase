@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-181 | Java-150 |
+| X | # | Question | Swift-182 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -879,7 +879,7 @@ Update README file only:
 |     | 480 | Sliding Window Median | Swift | Java | 
 |     | 479 | Largest Palindrome Product | Swift | Java | 
 |     | 477 | Total Hamming Distance | [~~Swift~~](././Swift/total-hamming-distance.swift) | Java | 
-|     | 476 | Number Complement | Swift | Java | 
+|     | 476 | Number Complement | [~~Swift~~](././Swift/number-complement.swift) | Java | 
 |     | 475 | Heaters | [~~Swift~~](././Swift/heaters.swift) | Java | 
 |     | 474 | Ones and Zeroes | Swift | Java | 
 |     | 473 | Matchsticks to Square | [~~Swift~~](././Swift/matchsticks-to-square.swift) | Java | 
