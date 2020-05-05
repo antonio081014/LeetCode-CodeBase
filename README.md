@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-184 | Java-150 |
+| X | # | Question | Swift-185 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1110,7 +1110,7 @@ Update README file only:
 |     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](././Java/search-a-2d-matrix-ii.java) | 
 |     | 239 | Sliding Window Maximum | Swift | [~~Java~~](././Java/sliding-window-maximum.java) | 
 |  X  | 238 | Product of Array Except Self | [~~Swift~~](././Swift/product-of-array-except-self.swift) | [~~Java~~](././Java/product-of-array-except-self.java) | 
-|     | 237 | Delete Node in a Linked List | Swift | [~~Java~~](././Java/delete-node-in-a-linked-list.java) | 
+|  X  | 237 | Delete Node in a Linked List | [~~Swift~~](././Swift/delete-node-in-a-linked-list.swift) | [~~Java~~](././Java/delete-node-in-a-linked-list.java) | 
 |     | 236 | Lowest Common Ancestor of a Binary Tree | Swift | [~~Java~~](././Java/lowest-common-ancestor-of-a-binary-tree.java) | 
 |     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](././Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
 |     | 234 | Palindrome Linked List | Swift | [~~Java~~](././Java/palindrome-linked-list.java) | 
