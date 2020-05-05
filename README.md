@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-187 | Java-150 |
+| X | # | Question | Swift-188 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1190,7 +1190,7 @@ Update README file only:
 |     | 144 | Binary Tree Preorder Traversal | Swift | [~~Java~~](././Java/binary-tree-preorder-traversal.java) | 
 |     | 143 | Reorder List | Swift | Java | 
 |     | 142 | Linked List Cycle II | Swift | Java | 
-|     | 141 | Linked List Cycle | Swift | [~~Java~~](././Java/linked-list-cycle.java) | 
+|  X  | 141 | Linked List Cycle | [~~Swift~~](././Swift/linked-list-cycle.swift) | [~~Java~~](././Java/linked-list-cycle.java) | 
 |     | 140 | Word Break II | Swift | [~~Java~~](././Java/word-break-ii.java) | 
 |  X  | 139 | Word Break | [~~Swift~~](././Swift/word-break.swift) | [~~Java~~](././Java/word-break.java) | 
 |     | 138 | Copy List with Random Pointer | Swift | Java | 
