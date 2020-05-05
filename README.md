@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-190 | Java-150 |
+| X | # | Question | Swift-191 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1220,7 +1220,7 @@ Update README file only:
 |     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](././Java/flatten-binary-tree-to-linked-list.java) | 
 |     | 113 | Path Sum II | Swift | [~~Java~~](././Java/path-sum-ii.java) | 
 |     | 112 | Path Sum | Swift | [~~Java~~](././Java/path-sum.java) | 
-|     | 111 | Minimum Depth of Binary Tree | Swift | [~~Java~~](././Java/minimum-depth-of-binary-tree.java) | 
+|  X  | 111 | Minimum Depth of Binary Tree | [~~Swift~~](././Swift/minimum-depth-of-binary-tree.swift) | [~~Java~~](././Java/minimum-depth-of-binary-tree.java) | 
 |     | 110 | Balanced Binary Tree | Swift | [~~Java~~](././Java/balanced-binary-tree.java) | 
 |  X  | 109 | Convert Sorted List to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-list-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-list-to-binary-search-tree.java) | 
 |  X  | 108 | Convert Sorted Array to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-array-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-array-to-binary-search-tree.java) | 
