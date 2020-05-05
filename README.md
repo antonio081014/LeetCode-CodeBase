@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-189 | Java-150 |
+| X | # | Question | Swift-190 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1189,7 +1189,7 @@ Update README file only:
 |  X  | 145 | Binary Tree Postorder Traversal | [~~Swift~~](././Swift/binary-tree-postorder-traversal.swift) | [~~Java~~](././Java/binary-tree-postorder-traversal.java) | 
 |     | 144 | Binary Tree Preorder Traversal | Swift | [~~Java~~](././Java/binary-tree-preorder-traversal.java) | 
 |     | 143 | Reorder List | Swift | Java | 
-|     | 142 | Linked List Cycle II | Swift | Java | 
+|     | 142 | Linked List Cycle II | [~~Swift~~](././Swift/linked-list-cycle-ii.swift) | Java | 
 |  X  | 141 | Linked List Cycle | [~~Swift~~](././Swift/linked-list-cycle.swift) | [~~Java~~](././Java/linked-list-cycle.java) | 
 |     | 140 | Word Break II | Swift | [~~Java~~](././Java/word-break-ii.java) | 
 |  X  | 139 | Word Break | [~~Swift~~](././Swift/word-break.swift) | [~~Java~~](././Java/word-break.java) | 
@@ -1227,7 +1227,7 @@ Update README file only:
 |     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](././Java/binary-tree-level-order-traversal-ii.java) | 
 |     | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Swift | Java | 
 |     | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [~~Swift~~](././Swift/construct-binary-tree-from-preorder-and-inorder-traversal.swift) | Java | 
-|     | 104 | Maximum Depth of Binary Tree | Swift | [~~Java~~](././Java/maximum-depth-of-binary-tree.java) | 
+|  X  | 104 | Maximum Depth of Binary Tree | [~~Swift~~](././Swift/maximum-depth-of-binary-tree.swift) | [~~Java~~](././Java/maximum-depth-of-binary-tree.java) | 
 |     | 103 | Binary Tree Zigzag Level Order Traversal | Swift | [~~Java~~](././Java/binary-tree-zigzag-level-order-traversal.java) | 
 |     | 102 | Binary Tree Level Order Traversal | Swift | Java | 
 |     | 101 | Symmetric Tree | Swift | [~~Java~~](././Java/symmetric-tree.java) | 
