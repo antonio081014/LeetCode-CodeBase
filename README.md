@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-186 | Java-150 |
+| X | # | Question | Swift-187 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1113,7 +1113,7 @@ Update README file only:
 |  X  | 237 | Delete Node in a Linked List | [~~Swift~~](././Swift/delete-node-in-a-linked-list.swift) | [~~Java~~](././Java/delete-node-in-a-linked-list.java) | 
 |     | 236 | Lowest Common Ancestor of a Binary Tree | Swift | [~~Java~~](././Java/lowest-common-ancestor-of-a-binary-tree.java) | 
 |     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](././Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
-|     | 234 | Palindrome Linked List | Swift | [~~Java~~](././Java/palindrome-linked-list.java) | 
+|  X  | 234 | Palindrome Linked List | [~~Swift~~](././Swift/palindrome-linked-list.swift) | [~~Java~~](././Java/palindrome-linked-list.java) | 
 |     | 233 | Number of Digit One | Swift | Java | 
 |     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](././Java/implement-queue-using-stacks.java) | 
 |  X  | 231 | Power of Two | [~~Swift~~](././Swift/power-of-two.swift) | [~~Java~~](././Java/power-of-two.java) | 
