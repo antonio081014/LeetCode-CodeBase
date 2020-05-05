@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-185 | Java-150 |
+| X | # | Question | Swift-186 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1141,7 +1141,7 @@ Update README file only:
 |     | 209 | Minimum Size Subarray Sum | Swift | Java | 
 |     | 208 | Implement Trie (Prefix Tree) | Swift | Java | 
 |     | 207 | Course Schedule | Swift | [~~Java~~](././Java/course-schedule.java) | 
-|     | 206 | Reverse Linked List | Swift | [~~Java~~](././Java/reverse-linked-list.java) | 
+|  X  | 206 | Reverse Linked List | [~~Swift~~](././Swift/reverse-linked-list.swift) | [~~Java~~](././Java/reverse-linked-list.java) | 
 |     | 205 | Isomorphic Strings | Swift | Java | 
 |     | 204 | Count Primes | Swift | [~~Java~~](././Java/count-primes.java) | 
 |     | 203 | Remove Linked List Elements | Swift | [~~Java~~](././Java/remove-linked-list-elements.java) | 
