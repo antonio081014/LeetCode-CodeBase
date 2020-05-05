@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-191 | Java-150 |
+| X | # | Question | Swift-192 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -636,7 +636,7 @@ Update README file only:
 |     | 777 | Toeplitz Matrix | Swift | Java | 
 |     | 776 | N-ary Tree Postorder Traversal | Swift | Java | 
 |     | 775 | N-ary Tree Preorder Traversal | Swift | Java | 
-|     | 774 | Maximum Depth of N-ary Tree | Swift | Java | 
+|     | 774 | Maximum Depth of N-ary Tree | [~~Swift~~](././Swift/maximum-depth-of-n-ary-tree.swift) | Java | 
 |     | 773 | Logical OR of Two Binary Grids Represented as Quad-Trees | Swift | Java | 
 |     | 772 | Construct Quad Tree | Swift | Java | 
 |     | 771 | Encode N-ary Tree to Binary Tree | Swift | Java | 
