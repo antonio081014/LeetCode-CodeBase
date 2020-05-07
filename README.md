@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-192 | Java-150 |
+| X | # | Question | Swift-193 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1261,7 +1261,7 @@ Update README file only:
 |     | 73 | Set Matrix Zeroes | Swift | Java | 
 |     | 72 | Edit Distance | Swift | [~~Java~~](././Java/edit-distance.java) | 
 |     | 71 | Simplify Path | [~~Swift~~](././Swift/simplify-path.swift) | Java | 
-|     | 70 | Climbing Stairs | Swift | [~~Java~~](././Java/climbing-stairs.java) | 
+|  X  | 70 | Climbing Stairs | [~~Swift~~](././Swift/climbing-stairs.swift) | [~~Java~~](././Java/climbing-stairs.java) | 
 |     | 69 | Sqrt(x) | [~~Swift~~](././Swift/sqrtx.swift) | Java | 
 |     | 68 | Text Justification | Swift | [~~Java~~](././Java/text-justification.java) | 
 |     | 67 | Add Binary | Swift | Java | 
