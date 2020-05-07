@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-193 | Java-150 |
+| X | # | Question | Swift-194 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -964,7 +964,7 @@ Update README file only:
 |     | 387 | First Unique Character in a String | [~~Swift~~](././Swift/first-unique-character-in-a-string.swift) | Java | 
 |     | 386 | Lexicographical Numbers | Swift | Java | 
 |     | 385 | Mini Parser | Swift | Java | 
-|     | 384 | Shuffle an Array | Swift | Java | 
+|     | 384 | Shuffle an Array | [~~Swift~~](././Swift/shuffle-an-array.swift) | Java | 
 |     | 383 | Ransom Note | [~~Swift~~](././Swift/ransom-note.swift) | Java | 
 |     | 382 | Linked List Random Node | Swift | Java | 
 |     | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Swift | Java | 
