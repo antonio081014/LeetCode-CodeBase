@@ -58,3 +58,61 @@ class Solution {
         return false
     }
 }
+/**
+ * https://leetcode.com/problems/cousins-in-binary-tree/
+ * 
+ * 
+ */ 
+// Date: Thu May  7 09:35:27 PDT 2020
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init() { self.val = 0; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+ *         self.val = val
+ *         self.left = left
+ *         self.right = right
+ *     }
+ * }
+ */
+class Solution {
+    func isCousins(_ root: TreeNode?, _ x: Int, _ y: Int) -> Bool {
+        var queue: [TreeNode?] = [root, nil]
+        var set: Set<Int> = []
+        
+        while queue.isEmpty == false {
+            var n = queue.count
+            
+            while n > 0 {
+                let exisiting = set.count
+                
+                let node1 = queue.removeFirst()
+                let node2 = queue.removeFirst()
+                n -= 2
+                if node1 != nil, (node1!.val == x || node1!.val == y) {
+                    set.insert(node1!.val)
+                }
+                if node2 != nil, (node2!.val == x || node2!.val == y) {
+                    set.insert(node2!.val)
+                }
+                
+                if exisiting == 0, set.count == 2 { return false }
+                if node1 != nil {
+                    queue.append(node1?.left)
+                    queue.append(node1?.right)
+                }
+                if node2 != nil {
+                    queue.append(node2?.left)
+                    queue.append(node2?.right)
+                }
+            }
+            if set.count == 2 { return true }
+            if set.count == 1 { return false }
+        }
+        return false
+    }
+}
