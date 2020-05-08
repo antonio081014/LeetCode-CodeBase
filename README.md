@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-194 | Java-150 |
+| X | # | Question | Swift-195 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1150,7 +1150,7 @@ Update README file only:
 |  X  | 200 | Number of Islands | [~~Swift~~](././Swift/number-of-islands.swift) | [~~Java~~](././Java/number-of-islands.java) | 
 |     | 199 | Binary Tree Right Side View | Swift | Java | 
 |     | 198 | House Robber | Swift | [~~Java~~](././Java/house-robber.java) | 
-|     | 191 | Number of 1 Bits | Swift | [~~Java~~](././Java/number-of-1-bits.java) | 
+|  X  | 191 | Number of 1 Bits | [~~Swift~~](././Swift/number-of-1-bits.swift) | [~~Java~~](././Java/number-of-1-bits.java) | 
 |  X  | 190 | Reverse Bits | [~~Swift~~](././Swift/reverse-bits.swift) | [~~Java~~](././Java/reverse-bits.java) | 
 |     | 189 | Rotate Array | [~~Swift~~](././Swift/rotate-array.swift) | Java | 
 |     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](././Java/best-time-to-buy-and-sell-stock-iv.java) | 
