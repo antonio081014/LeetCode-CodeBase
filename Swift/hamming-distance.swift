@@ -27,3 +27,20 @@ class Solution {
         return count
     }
 }
+/**
+ * https://leetcode.com/problems/hamming-distance/
+ * 
+ * 
+ */ 
+// Date: Fri May  8 13:53:34 PDT 2020
+class Solution {
+    func hammingDistance(_ x: Int, _ y: Int) -> Int {
+        var n = x ^ y
+        var count = 0
+        while n > 0 {
+            count += 1
+            n &= (n - 1)
+        }
+        return count
+    }
+}
