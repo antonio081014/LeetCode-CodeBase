@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-195 | Java-150 |
+| X | # | Question | Swift-196 | Java-150 |
 |---|---|---|---|---|
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
@@ -1080,7 +1080,7 @@ Update README file only:
 |     | 271 | Encode and Decode Strings | Swift | Java | 
 |     | 270 | Closest Binary Search Tree Value | Swift | Java | 
 |     | 269 | Alien Dictionary | Swift | Java | 
-|     | 268 | Missing Number | Swift | [~~Java~~](././Java/missing-number.java) | 
+|  X  | 268 | Missing Number | [~~Swift~~](././Swift/missing-number.swift) | [~~Java~~](././Java/missing-number.java) | 
 |     | 267 | Palindrome Permutation II | Swift | Java | 
 |     | 266 | Palindrome Permutation | Swift | Java | 
 |     | 265 | Paint House II | Swift | Java | 
