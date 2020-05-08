@@ -17,6 +17,8 @@ class Solution {
         return self.list
     }
     
+    /// This algorithms is from source code Swift Library.
+    /// https://github.com/apple/swift/blob/b1b725ac83ea965f64d8da83d97d31d95be22f2c/stdlib/public/core/CollectionAlgorithms.swift#L591
     /** Returns a random shuffling of the array. */
     func shuffle() -> [Int] {
         var indices = Array((0 ..< self.list.count).map { $0 })
