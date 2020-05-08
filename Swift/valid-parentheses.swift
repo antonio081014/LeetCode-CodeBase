@@ -42,3 +42,32 @@ class Solution {
         return stack.isEmpty
     }
 }
+/**
+ * https://leetcode.com/problems/valid-parentheses/
+ * 
+ * 
+ */ 
+// Date: Fri May  8 14:02:50 PDT 2020
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n), n is the length of s
+    ///     - Space: O(n), n is the length of s
+    ///
+    func isValid(_ s: String) -> Bool {
+        var stack: [String] = []
+        for c in s {
+            let x = String(c)
+            if stack.isEmpty {
+                stack.append(x)
+            } else if let last = stack.last {
+                let combo = last + x
+                if combo == "[]" || combo == "{}" || combo == "()" {
+                    stack.removeLast()
+                } else {
+                    stack.append(x)
+                }
+            }
+        }
+        return stack.isEmpty
+    }
+}
