@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-197 | Java-150 |
+| X | # | Question | Swift-198 | Java-150 |
 |---|---|---|---|---|
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
@@ -1191,7 +1191,7 @@ Update README file only:
 |     | 147 | Insertion Sort List | Swift | Java | 
 |  X  | 146 | LRU Cache | [~~Swift~~](././Swift/lru-cache.swift) | [~~Java~~](././Java/lru-cache.java) | 
 |  X  | 145 | Binary Tree Postorder Traversal | [~~Swift~~](././Swift/binary-tree-postorder-traversal.swift) | [~~Java~~](././Java/binary-tree-postorder-traversal.java) | 
-|     | 144 | Binary Tree Preorder Traversal | Swift | [~~Java~~](././Java/binary-tree-preorder-traversal.java) | 
+|  X  | 144 | Binary Tree Preorder Traversal | [~~Swift~~](././Swift/binary-tree-preorder-traversal.swift) | [~~Java~~](././Java/binary-tree-preorder-traversal.java) | 
 |     | 143 | Reorder List | Swift | Java | 
 |     | 142 | Linked List Cycle II | [~~Swift~~](././Swift/linked-list-cycle-ii.swift) | Java | 
 |  X  | 141 | Linked List Cycle | [~~Swift~~](././Swift/linked-list-cycle.swift) | [~~Java~~](././Java/linked-list-cycle.java) | 
