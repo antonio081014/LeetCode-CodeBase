@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-196 | Java-150 |
+| X | # | Question | Swift-197 | Java-150 |
 |---|---|---|---|---|
+|     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
+|     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
+|     | 1553 | Count Triplets That Can Form Two Arrays of Equal XOR | Swift | Java | 
+|     | 1552 | Build an Array With Stack Operations | Swift | Java | 
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
 |     | 1548 | Check If All 1's Are at Least Length K Places Away | Swift | Java | 
@@ -383,7 +387,7 @@ Update README file only:
 |     | 1042 | Minimum Cost to Merge Stones | Swift | Java | 
 |     | 1041 | Available Captures for Rook | Swift | Java | 
 |     | 1040 | Maximum Binary Tree II | Swift | Java | 
-|     | 1039 | Find the Town Judge | Swift | Java | 
+|     | 1039 | Find the Town Judge | [~~Swift~~](././Swift/find-the-town-judge.swift) | Java | 
 |     | 1038 | Number of Squareful Arrays | Swift | Java | 
 |     | 1037 | Minimum Number of K Consecutive Bit Flips | Swift | Java | 
 |     | 1036 | Rotting Oranges | Swift | Java | 
