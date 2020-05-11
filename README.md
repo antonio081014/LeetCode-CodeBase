@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-198 | Java-150 |
+| X | # | Question | Swift-199 | Java-150 |
 |---|---|---|---|---|
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
@@ -1241,7 +1241,7 @@ Update README file only:
 |     | 97 | Interleaving String | Swift | Java | 
 |     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](././Java/unique-binary-search-trees.java) | 
 |     | 95 | Unique Binary Search Trees II | [~~Swift~~](././Swift/unique-binary-search-trees-ii.swift) | Java | 
-|     | 94 | Binary Tree Inorder Traversal | Swift | [~~Java~~](././Java/binary-tree-inorder-traversal.java) | 
+|  X  | 94 | Binary Tree Inorder Traversal | [~~Swift~~](././Swift/binary-tree-inorder-traversal.swift) | [~~Java~~](././Java/binary-tree-inorder-traversal.java) | 
 |     | 93 | Restore IP Addresses | Swift | [~~Java~~](././Java/restore-ip-addresses.java) | 
 |     | 92 | Reverse Linked List II | Swift | Java | 
 |     | 91 | Decode Ways | [~~Swift~~](././Swift/decode-ways.swift) | Java | 
