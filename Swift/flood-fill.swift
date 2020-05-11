@@ -35,3 +35,39 @@ class Solution {
         return map
     }
 }
+/**
+ * https://leetcode.com/problems/flood-fill/
+ * 
+ * 
+ */ 
+// Date: Mon May 11 09:50:37 PDT 2020
+class Solution {
+    /// DFS
+    /// - Complexity:
+    ///     - Time: O(m * n), m and n are the size of the image
+    ///     - Space: O(m * n), m and n are the size of the image
+    ///
+    func floodFill(_ image: [[Int]], _ sr: Int, _ sc: Int, _ newColor: Int) -> [[Int]] {
+        var map = image
+        fill(&map, sr, sc, image[sr][sc], newColor)
+        return map
+    }
+    
+    private func fill(_ map: inout [[Int]], _ sr: Int, _ sc: Int, _ color: Int, _ newColor: Int) {
+        if map[sr][sc] != newColor {
+            map[sr][sc] = newColor
+            let n = map.count
+            let m = map.first?.count ?? 0
+            let dx = [0, 1, 0, -1]
+            let dy = [1, 0, -1, 0]
+            
+            for index in 0 ..< dx.count {
+                let r = sr + dx[index]
+                let c = sc + dy[index]
+                if r >= 0, r < n, c >= 0, c < m, map[r][c] == color {
+                    fill(&map, r, c, color, newColor)
+                }
+            }
+        }
+    }
+}
