@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-200 | Java-150 |
+| X | # | Question | Swift-201 | Java-150 |
 |---|---|---|---|---|
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
@@ -827,7 +827,7 @@ Update README file only:
 |     | 543 | Diameter of Binary Tree | [~~Swift~~](././Swift/diameter-of-binary-tree.swift) | Java | 
 |     | 542 | 01 Matrix | Swift | Java | 
 |     | 541 | Reverse String II | Swift | Java | 
-|     | 540 | Single Element in a Sorted Array | Swift | Java | 
+|     | 540 | Single Element in a Sorted Array | [~~Swift~~](././Swift/single-element-in-a-sorted-array.swift) | Java | 
 |     | 539 | Minimum Time Difference | Swift | Java | 
 |     | 538 | Convert BST to Greater Tree | [~~Swift~~](././Swift/convert-bst-to-greater-tree.swift) | Java | 
 |     | 537 | Complex Number Multiplication | Swift | Java | 
