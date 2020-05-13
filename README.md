@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-201 | Java-150 |
+| X | # | Question | Swift-202 | Java-150 |
 |---|---|---|---|---|
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
@@ -950,7 +950,7 @@ Update README file only:
 |     | 405 | Convert a Number to Hexadecimal | Swift | Java | 
 |     | 404 | Sum of Left Leaves | [~~Swift~~](././Swift/sum-of-left-leaves.swift) | Java | 
 |     | 403 | Frog Jump | Swift | Java | 
-|     | 402 | Remove K Digits | Swift | Java | 
+|     | 402 | Remove K Digits | [~~Swift~~](././Swift/remove-k-digits.swift) | Java | 
 |     | 401 | Binary Watch | Swift | Java | 
 |     | 400 | Nth Digit | Swift | Java | 
 |     | 399 | Evaluate Division | Swift | Java | 
