@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-203 | Java-150 |
+| X | # | Question | Swift-204 | Java-150 |
 |---|---|---|---|---|
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
@@ -756,7 +756,7 @@ Update README file only:
 |     | 650 | 2 Keys Keyboard | Swift | Java | 
 |     | 649 | Dota2 Senate | Swift | Java | 
 |     | 648 | Replace Words | Swift | Java | 
-|     | 647 | Palindromic Substrings | Swift | Java | 
+|     | 647 | Palindromic Substrings | [~~Swift~~](././Swift/palindromic-substrings.swift) | Java | 
 |     | 646 | Maximum Length of Pair Chain | Swift | Java | 
 |     | 645 | Set Mismatch | Swift | Java | 
 |     | 644 | Maximum Average Subarray II | Swift | Java | 
