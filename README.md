@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-202 | Java-150 |
+| X | # | Question | Swift-203 | Java-150 |
 |---|---|---|---|---|
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
@@ -1143,7 +1143,7 @@ Update README file only:
 |     | 211 | Add and Search Word - Data structure design | Swift | [~~Java~~](././Java/add-and-search-word-data-structure-design.java) | 
 |     | 210 | Course Schedule II | Swift | Java | 
 |     | 209 | Minimum Size Subarray Sum | Swift | Java | 
-|     | 208 | Implement Trie (Prefix Tree) | Swift | Java | 
+|     | 208 | Implement Trie (Prefix Tree) | [~~Swift~~](././Swift/implement-trie-prefix-tree.swift) | Java | 
 |     | 207 | Course Schedule | Swift | [~~Java~~](././Java/course-schedule.java) | 
 |  X  | 206 | Reverse Linked List | [~~Swift~~](././Swift/reverse-linked-list.swift) | [~~Java~~](././Java/reverse-linked-list.java) | 
 |     | 205 | Isomorphic Strings | Swift | Java | 
