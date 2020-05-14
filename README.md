@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-204 | Java-150 |
+| X | # | Question | Swift-205 | Java-150 |
 |---|---|---|---|---|
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
@@ -848,7 +848,7 @@ Update README file only:
 |     | 520 | Detect Capital | Swift | Java | 
 |     | 518 | Coin Change 2 | Swift | Java | 
 |     | 517 | Super Washing Machines | Swift | Java | 
-|     | 516 | Longest Palindromic Subsequence | Swift | Java | 
+|     | 516 | Longest Palindromic Subsequence | [~~Swift~~](././Swift/longest-palindromic-subsequence.swift) | Java | 
 |     | 515 | Find Largest Value in Each Tree Row | Swift | Java | 
 |     | 514 | Freedom Trail | Swift | Java | 
 |     | 513 | Find Bottom Left Tree Value | Swift | Java | 
