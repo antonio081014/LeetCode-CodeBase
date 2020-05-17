@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-205 | Java-150 |
+| X | # | Question | Swift-206 | Java-150 |
 |---|---|---|---|---|
+|     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
+|     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
+|     | 1561 | Rearrange Words in a Sentence | Swift | Java | 
+|     | 1560 | Number of Students Doing Homework at a Given Time | Swift | Java | 
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
 |     | 1553 | Count Triplets That Can Form Two Arrays of Equal XOR | Swift | Java | 
@@ -21,6 +25,10 @@ Update README file only:
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
 |     | 1548 | Check If All 1's Are at Least Length K Places Away | Swift | Java | 
 |     | 1547 | Destination City | Swift | Java | 
+|     | 1545 | Form Largest Integer With Digits That Add up to Target | Swift | Java | 
+|     | 1544 | Count Good Nodes in Binary Tree | Swift | Java | 
+|     | 1543 | Simplified Fractions | Swift | Java | 
+|     | 1542 | Consecutive Characters | Swift | Java | 
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
 |     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
 |     | 1537 | Maximum Score After Splitting a String | [~~Swift~~](././Swift/maximum-score-after-splitting-a-string.swift) | Java | 
@@ -920,7 +928,7 @@ Update README file only:
 |     | 441 | Arranging Coins | [~~Swift~~](././Swift/arranging-coins.swift) | Java | 
 |     | 440 | K-th Smallest in Lexicographical Order | Swift | Java | 
 |     | 439 | Ternary Expression Parser | Swift | Java | 
-|     | 438 | Find All Anagrams in a String | Swift | Java | 
+|     | 438 | Find All Anagrams in a String | [~~Swift~~](././Swift/find-all-anagrams-in-a-string.swift) | Java | 
 |     | 437 | Path Sum III | [~~Swift~~](././Swift/path-sum-iii.swift) | Java | 
 |     | 436 | Find Right Interval | Swift | Java | 
 |     | 435 | Non-overlapping Intervals | Swift | Java | 
