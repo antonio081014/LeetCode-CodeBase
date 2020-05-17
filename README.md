@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-206 | Java-150 |
+| X | # | Question | Swift-207 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -1032,7 +1032,7 @@ Update README file only:
 |     | 331 | Verify Preorder Serialization of a Binary Tree | [~~Swift~~](././Swift/verify-preorder-serialization-of-a-binary-tree.swift) | Java | 
 |     | 330 | Patching Array | Swift | Java | 
 |     | 329 | Longest Increasing Path in a Matrix | Swift | Java | 
-|     | 328 | Odd Even Linked List | Swift | Java | 
+|     | 328 | Odd Even Linked List | [~~Swift~~](././Swift/odd-even-linked-list.swift) | Java | 
 |     | 327 | Count of Range Sum | Swift | Java | 
 |     | 326 | Power of Three | [~~Swift~~](././Swift/power-of-three.swift) | Java | 
 |     | 325 | Maximum Size Subarray Sum Equals k | Swift | Java | 
