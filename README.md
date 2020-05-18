@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-207 | Java-150 |
+| X | # | Question | Swift-208 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -811,7 +811,7 @@ Update README file only:
 |     | 573 | Squirrel Simulation | Swift | Java | 
 |     | 572 | Subtree of Another Tree | Swift | Java | 
 |     | 568 | Maximum Vacation Days | Swift | Java | 
-|     | 567 | Permutation in String | Swift | Java | 
+|     | 567 | Permutation in String | [~~Swift~~](././Swift/permutation-in-string.swift) | Java | 
 |     | 566 | Reshape the Matrix | Swift | Java | 
 |     | 565 | Array Nesting | Swift | Java | 
 |     | 564 | Find the Closest Palindrome | Swift | Java | 
