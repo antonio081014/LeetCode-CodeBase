@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-210 | Java-150 |
+| X | # | Question | Swift-211 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -683,7 +683,7 @@ Update README file only:
 |     | 742 | To Lower Case | Swift | Java | 
 |     | 741 | Cherry Pickup | Swift | Java | 
 |     | 740 | Delete and Earn | Swift | Java | 
-|     | 739 | Daily Temperatures | Swift | Java | 
+|     | 739 | Daily Temperatures | [~~Swift~~](././Swift/daily-temperatures.swift) | Java | 
 |     | 738 | Monotone Increasing Digits | Swift | Java | 
 |     | 737 | Sentence Similarity II | Swift | Java | 
 |     | 736 | Parse Lisp Expression | Swift | Java | 
