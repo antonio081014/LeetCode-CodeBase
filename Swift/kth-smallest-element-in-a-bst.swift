@@ -40,3 +40,50 @@ class Solution {
         return 0
     }
 }
+/**
+ * https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+ * 
+ * 
+ */ 
+// Date: Wed May 20 09:56:38 PDT 2020
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init() { self.val = 0; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+ *         self.val = val
+ *         self.left = left
+ *         self.right = right
+ *     }
+ * }
+ */
+class Solution {
+    /// Recursive solution.
+    func kthSmallest(_ root: TreeNode?, _ k: Int) -> Int {
+        var result: Int = 0
+        var count = k
+        guard let root = root else { return -1 }
+        self.inorder(root, &count, &result)
+        return result
+    }
+    
+    private func inorder(_ root: TreeNode, _ k: inout Int, _ result: inout Int) {
+        if let left = root.left {
+            self.inorder(left, &k, &result)
+        }
+        
+        k -= 1
+        if k == 0 {
+            result = root.val
+            return
+        }
+        
+        if let right = root.right {
+            self.inorder(right, &k, &result)
+        }
+    }
+}
