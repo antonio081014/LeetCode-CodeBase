@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-209 | Java-150 |
+| X | # | Question | Swift-210 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -492,7 +492,7 @@ Update README file only:
 |     | 940 | Fruit Into Baskets | Swift | Java | 
 |     | 939 | Valid Permutations for DI Sequence | Swift | Java | 
 |     | 938 | Numbers At Most N Given Digit Set | Swift | Java | 
-|     | 937 | Online Stock Span | Swift | Java | 
+|     | 937 | Online Stock Span | [~~Swift~~](././Swift/online-stock-span.swift) | Java | 
 |     | 936 | RLE Iterator | Swift | Java | 
 |     | 935 | Orderly Queue | Swift | Java | 
 |     | 934 | Bitwise ORs of Subarrays | Swift | Java | 
