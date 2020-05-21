@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-214 | Java-150 |
+| X | # | Question | Swift-215 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -1231,7 +1231,7 @@ Update README file only:
 |     | 115 | Distinct Subsequences | Swift | Java | 
 |     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](././Java/flatten-binary-tree-to-linked-list.java) | 
 |     | 113 | Path Sum II | Swift | [~~Java~~](././Java/path-sum-ii.java) | 
-|     | 112 | Path Sum | Swift | [~~Java~~](././Java/path-sum.java) | 
+|  X  | 112 | Path Sum | [~~Swift~~](././Swift/path-sum.swift) | [~~Java~~](././Java/path-sum.java) | 
 |  X  | 111 | Minimum Depth of Binary Tree | [~~Swift~~](././Swift/minimum-depth-of-binary-tree.swift) | [~~Java~~](././Java/minimum-depth-of-binary-tree.java) | 
 |     | 110 | Balanced Binary Tree | Swift | [~~Java~~](././Java/balanced-binary-tree.java) | 
 |  X  | 109 | Convert Sorted List to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-list-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-list-to-binary-search-tree.java) | 
