@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-213 | Java-150 |
+| X | # | Question | Swift-214 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -136,7 +136,7 @@ Update README file only:
 |     | 1406 | Subtract the Product and Sum of Digits of an Integer | Swift | Java | 
 |     | 1404 | Print Immutable Linked List in Reverse | Swift | Java | 
 |     | 1403 | Palindrome Partitioning III | Swift | Java | 
-|     | 1402 | Count Square Submatrices with All Ones | Swift | Java | 
+|     | 1402 | Count Square Submatrices with All Ones | [~~Swift~~](././Swift/count-square-submatrices-with-all-ones.swift) | Java | 
 |     | 1401 | Number of Burgers with No Waste of Ingredients | Swift | Java | 
 |     | 1400 | Find Winner on a Tic Tac Toe Game | Swift | Java | 
 |     | 1398 | Number of Ways to Stay in the Same Place After Some Steps | Swift | Java | 
