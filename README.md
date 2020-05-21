@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-212 | Java-150 |
+| X | # | Question | Swift-213 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -722,7 +722,7 @@ Update README file only:
 |     | 692 | Top K Frequent Words | Swift | Java | 
 |     | 691 | Stickers to Spell Word | Swift | Java | 
 |     | 690 | Employee Importance | Swift | Java | 
-|     | 689 | Maximum Sum of 3 Non-Overlapping Subarrays | Swift | Java | 
+|     | 689 | Maximum Sum of 3 Non-Overlapping Subarrays | [~~Swift~~](././Swift/maximum-sum-of-3-non-overlapping-subarrays.swift) | Java | 
 |     | 688 | Knight Probability in Chessboard | Swift | Java | 
 |     | 687 | Longest Univalue Path | Swift | Java | 
 |     | 686 | Repeated String Match | Swift | Java | 
