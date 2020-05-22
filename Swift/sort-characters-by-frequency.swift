@@ -48,3 +48,36 @@ class Solution {
 }
 
 print("\(frequencySort("tree"))")
+/**
+ * https://leetcode.com/problems/sort-characters-by-frequency/
+ * 
+ * 
+ */ 
+// Date: Fri May 22 10:18:12 PDT 2020
+class Solution {
+    ///
+    /// - Complexity:
+    ///     - Time: O(n +  mlogm), n is the length of s, m is the number of unique characters in s.
+    ///     Mostly, m is smaller than or equal to n, so, it could be O(n) as the upper bound limit.
+    ///     - Space: O(m), m is the number of unique characters in s.
+    ///
+    func frequencySort(_ s: String) -> String {
+        var dict: [Character : Int] = [:]
+        // O(n), n is the length of s.
+        for c in s {
+            dict[c] = 1 + dict[c, default: 0]
+        }
+        var ret = ""
+        // map: O(m), m is the number of unique characters in s.
+        // sorted: O(mlogm)
+        let list = (dict.map { ($0.value, $0.key) }).sorted { $0.0 > $1.0 }
+        // O(n), n is the length of s.
+        for item in list {
+            let c = String(item.1)
+            for _ in 0 ..< item.0 {
+                ret += c
+            }
+        }
+        return ret
+    }
+}
