@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-215 | Java-150 |
+| X | # | Question | Swift-216 | Java-150 |
 |---|---|---|---|---|
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
@@ -406,7 +406,7 @@ Update README file only:
 |     | 1031 | Add to Array-Form of Integer | Swift | Java | 
 |     | 1030 | Smallest String Starting From Leaf | Swift | Java | 
 |     | 1029 | Vertical Order Traversal of a Binary Tree | Swift | Java | 
-|     | 1028 | Interval List Intersections | Swift | Java | 
+|     | 1028 | Interval List Intersections | [~~Swift~~](././Swift/interval-list-intersections.swift) | Java | 
 |     | 1027 | Sum of Even Numbers After Queries | Swift | Java | 
 |     | 1026 | String Without AAA or BBB | Swift | Java | 
 |     | 1025 | Minimum Cost For Tickets | Swift | Java | 
