@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-217 | Java-150 |
+| X | # | Question | Swift-218 | Java-150 |
 |---|---|---|---|---|
 |     | 1569 | Max Dot Product of Two Subsequences | Swift | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | Swift | Java | 
@@ -1067,7 +1067,7 @@ Update README file only:
 |     | 300 | Longest Increasing Subsequence | Swift | Java | 
 |     | 299 | Bulls and Cows | Swift | Java | 
 |     | 298 | Binary Tree Longest Consecutive Sequence | Swift | Java | 
-|     | 297 | Serialize and Deserialize Binary Tree | Swift | Java | 
+|     | 297 | Serialize and Deserialize Binary Tree | [~~Swift~~](././Swift/serialize-and-deserialize-binary-tree.swift) | Java | 
 |     | 296 | Best Meeting Point | Swift | Java | 
 |     | 295 | Find Median from Data Stream | Swift | [~~Java~~](././Java/find-median-from-data-stream.java) | 
 |     | 294 | Flip Game II | Swift | Java | 
