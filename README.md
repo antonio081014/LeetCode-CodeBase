@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-216 | Java-150 |
+| X | # | Question | Swift-217 | Java-150 |
 |---|---|---|---|---|
+|     | 1569 | Max Dot Product of Two Subsequences | Swift | Java | 
+|     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | Swift | Java | 
+|     | 1567 | Maximum Number of Vowels in a Substring of Given Length | Swift | Java | 
+|     | 1566 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Swift | Java | 
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
 |     | 1561 | Rearrange Words in a Sentence | Swift | Java | 
@@ -329,7 +333,7 @@ Update README file only:
 |     | 1108 | Analyze User Website Visit Pattern | Swift | Java | 
 |     | 1107 | Minimum Swaps to Group All 1's Together | Swift | Java | 
 |     | 1106 | Escape a Large Maze | Swift | Java | 
-|     | 1105 | Uncrossed Lines | Swift | Java | 
+|     | 1105 | Uncrossed Lines | [~~Swift~~](././Swift/uncrossed-lines.swift) | Java | 
 |     | 1104 | Coloring A Border | Swift | Java | 
 |     | 1103 | Moving Stones Until Consecutive | Swift | Java | 
 |     | 1102 | Check If a Number Is Majority Element in a Sorted Array | Swift | Java | 
