@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-221 | Java-150 |
+| X | # | Question | Swift-222 | Java-150 |
 |---|---|---|---|---|
 |     | 1569 | Max Dot Product of Two Subsequences | Swift | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | Swift | Java | 
@@ -196,7 +196,7 @@ Update README file only:
 |     | 1297 | Maximum Number of Balloons | Swift | Java | 
 |     | 1290 | Make Array Strictly Increasing | Swift | Java | 
 |     | 1289 | Day of the Week | Swift | Java | 
-|     | 1288 | Maximum Subarray Sum with One Deletion | Swift | Java | 
+|     | 1288 | Maximum Subarray Sum with One Deletion | [~~Swift~~](././Swift/maximum-subarray-sum-with-one-deletion.swift) | Java | 
 |     | 1287 | Distance Between Bus Stops | Swift | Java | 
 |     | 1286 | Constrained Subsequence Sum | Swift | Java | 
 |     | 1285 | Balance a Binary Search Tree | [~~Swift~~](././Swift/balance-a-binary-search-tree.swift) | Java | 
