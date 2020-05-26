@@ -20,6 +20,10 @@
 
 class Solution {
     /// Recursive solution.
+    /// - Complexity:
+    ///     - Time: O(n), n is the number of nodes in the tree.
+    ///     - Space: O(height of tree), could be logn to n.
+    ///
     func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
         guard let root = root else { return nil }
         if root.val == p?.val || root.val == q?.val { return root }
