@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-220 | Java-150 |
+| X | # | Question | Swift-221 | Java-150 |
 |---|---|---|---|---|
 |     | 1569 | Max Dot Product of Two Subsequences | Swift | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | Swift | Java | 
@@ -1231,7 +1231,7 @@ Update README file only:
 |     | 119 | Pascal's Triangle II | [~~Swift~~](././Swift/pascals-triangle-ii.swift) | Java | 
 |     | 118 | Pascal's Triangle | [~~Swift~~](././Swift/pascals-triangle.swift) | Java | 
 |     | 117 | Populating Next Right Pointers in Each Node II | [~~Swift~~](././Swift/populating-next-right-pointers-in-each-node-ii.swift) | Java | 
-|     | 116 | Populating Next Right Pointers in Each Node | Swift | [~~Java~~](././Java/populating-next-right-pointers-in-each-node.java) | 
+|  X  | 116 | Populating Next Right Pointers in Each Node | [~~Swift~~](././Swift/populating-next-right-pointers-in-each-node.swift) | [~~Java~~](././Java/populating-next-right-pointers-in-each-node.java) | 
 |     | 115 | Distinct Subsequences | Swift | Java | 
 |     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](././Java/flatten-binary-tree-to-linked-list.java) | 
 |     | 113 | Path Sum II | Swift | [~~Java~~](././Java/path-sum-ii.java) | 
