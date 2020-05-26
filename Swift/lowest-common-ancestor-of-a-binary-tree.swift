@@ -107,3 +107,60 @@ class Solution {
         return node
     }
 }
+/**
+ * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+ * 
+ * 
+ */ 
+// Date: Tue May 26 11:50:35 PDT 2020
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init(_ val: Int) {
+ *         self.val = val
+ *         self.left = nil
+ *         self.right = nil
+ *     }
+ * }
+ */
+
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n), visiting all possible nodes using DFS to get the path from root to specified target node.
+    ///     - Space: O(height of tree), each path stores the path from root to target node, which could be the height of tree or shorter. Also, recursive functions call will be less than the height of tree.
+    ///
+    func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
+        var pathP = [TreeNode]()
+        var pathQ = [TreeNode]()
+        
+        if findPath(root, &pathP, p), findPath(root, &pathQ, q) {
+            // Find the first different node along the two paths starting from root.
+            // Then the parent node of this node will be the lca.
+            var index = 0
+            while index < pathP.count, index < pathQ.count {
+                if pathP[index].val != pathQ[index].val {
+                    break
+                }
+                index += 1
+            }
+            return pathP[index - 1]
+            
+        }
+        return nil
+    }
+    
+    /// Find the path from root to specified target node.
+    private func findPath(_ root: TreeNode?, _ path: inout [TreeNode], _ target: TreeNode?) -> Bool {
+        guard let root = root else { return false }
+        path.append(root)
+        if root.val == target?.val { return true }
+        if findPath(root.left, &path, target) || findPath(root.right, &path, target) {
+            return true
+        }
+        path.removeLast()
+        return false
+    }
+}
