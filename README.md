@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-222 | Java-150 |
+| X | # | Question | Swift-223 | Java-150 |
 |---|---|---|---|---|
 |     | 1569 | Max Dot Product of Two Subsequences | Swift | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | Swift | Java | 
@@ -511,7 +511,7 @@ Update README file only:
 |     | 925 | Construct Binary Tree from Preorder and Postorder Traversal | [~~Swift~~](././Swift/construct-binary-tree-from-preorder-and-postorder-traversal.swift) | Java | 
 |     | 924 | Fair Candy Swap | Swift | Java | 
 |     | 923 | Super Egg Drop | Swift | Java | 
-|     | 922 | Possible Bipartition | Swift | Java | 
+|     | 922 | Possible Bipartition | [~~Swift~~](././Swift/possible-bipartition.swift) | Java | 
 |     | 921 | Spiral Matrix III | Swift | Java | 
 |     | 920 | Uncommon Words from Two Sentences | Swift | Java | 
 |     | 919 | Projection Area of 3D Shapes | Swift | Java | 
