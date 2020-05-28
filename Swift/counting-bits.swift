@@ -16,3 +16,25 @@ class Solution {
         return count
     }
 }
+/**
+ * https://leetcode.com/problems/counting-bits/
+ * 
+ * 
+ */ 
+// Date: Thu May 28 10:57:04 PDT 2020
+class Solution {
+    func countBits(_ num: Int) -> [Int] {
+        if num == 0 { return [0] }
+        var ret = [0, 1]
+        if num >= 2 {
+            for x in 2 ... num {
+                if x % 2 == 0 {
+                    ret.append(ret[x / 2])
+                } else {
+                    ret.append(ret[(x - 1) / 2] + 1)
+                }
+            }
+        }
+        return ret
+    }
+}
