@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-224 | Java-150 |
+| X | # | Question | Swift-225 | Java-150 |
 |---|---|---|---|---|
 |     | 1569 | Max Dot Product of Two Subsequences | [~~Swift~~](././Swift/max-dot-product-of-two-subsequences.swift) | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | Swift | Java | 
@@ -1156,7 +1156,7 @@ Update README file only:
 |     | 210 | Course Schedule II | Swift | Java | 
 |     | 209 | Minimum Size Subarray Sum | Swift | Java | 
 |     | 208 | Implement Trie (Prefix Tree) | [~~Swift~~](././Swift/implement-trie-prefix-tree.swift) | Java | 
-|     | 207 | Course Schedule | Swift | [~~Java~~](././Java/course-schedule.java) | 
+|  X  | 207 | Course Schedule | [~~Swift~~](././Swift/course-schedule.swift) | [~~Java~~](././Java/course-schedule.java) | 
 |  X  | 206 | Reverse Linked List | [~~Swift~~](././Swift/reverse-linked-list.swift) | [~~Java~~](././Java/reverse-linked-list.java) | 
 |     | 205 | Isomorphic Strings | Swift | Java | 
 |     | 204 | Count Primes | Swift | [~~Java~~](././Java/count-primes.java) | 
