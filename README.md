@@ -11,10 +11,10 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-225 | Java-150 |
+| X | # | Question | Swift-226 | Java-150 |
 |---|---|---|---|---|
 |     | 1569 | Max Dot Product of Two Subsequences | [~~Swift~~](././Swift/max-dot-product-of-two-subsequences.swift) | Java | 
-|     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | Swift | Java | 
+|     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | [~~Swift~~](././Swift/pseudo-palindromic-paths-in-a-binary-tree.swift) | Java | 
 |     | 1567 | Maximum Number of Vowels in a Substring of Given Length | Swift | Java | 
 |     | 1566 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Swift | Java | 
 |     | 1563 | Maximum Number of Darts Inside of a Circular Dartboard | Swift | Java | 
