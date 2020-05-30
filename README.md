@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-226 | Java-150 |
+| X | # | Question | Swift-227 | Java-150 |
 |---|---|---|---|---|
 |     | 1569 | Max Dot Product of Two Subsequences | [~~Swift~~](././Swift/max-dot-product-of-two-subsequences.swift) | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | [~~Swift~~](././Swift/pseudo-palindromic-paths-in-a-binary-tree.swift) | Java | 
@@ -423,7 +423,7 @@ Update README file only:
 |     | 1018 | Largest Perimeter Triangle | Swift | Java | 
 |     | 1017 | Odd Even Jump | Swift | Java | 
 |     | 1016 | Subarray Sums Divisible by K | Swift | Java | 
-|     | 1014 | K Closest Points to Origin | Swift | Java | 
+|     | 1014 | K Closest Points to Origin | [~~Swift~~](././Swift/k-closest-points-to-origin.swift) | Java | 
 |     | 1013 | Fibonacci Number | Swift | Java | 
 |     | 1012 | Equal Rational Numbers | Swift | Java | 
 |     | 1011 | Flip Binary Tree To Match Preorder Traversal | Swift | Java | 
