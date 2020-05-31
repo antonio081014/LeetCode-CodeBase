@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-227 | Java-150 |
+| X | # | Question | Swift-228 | Java-150 |
 |---|---|---|---|---|
+|     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
+|     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
+|     | 1575 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Swift | Java | 
+|     | 1574 | Maximum Product of Two Elements in an Array | Swift | Java | 
 |     | 1569 | Max Dot Product of Two Subsequences | [~~Swift~~](././Swift/max-dot-product-of-two-subsequences.swift) | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | [~~Swift~~](././Swift/pseudo-palindromic-paths-in-a-binary-tree.swift) | Java | 
 |     | 1567 | Maximum Number of Vowels in a Substring of Given Length | Swift | Java | 
@@ -21,6 +25,10 @@ Update README file only:
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
 |     | 1561 | Rearrange Words in a Sentence | Swift | Java | 
 |     | 1560 | Number of Students Doing Homework at a Given Time | Swift | Java | 
+|     | 1559 | Cherry Pickup II | Swift | Java | 
+|     | 1558 | Course Schedule IV | Swift | Java | 
+|     | 1557 | Check If a String Contains All Binary Codes of Size K | Swift | Java | 
+|     | 1556 | Make Two Arrays Equal by Reversing Sub-arrays | Swift | Java | 
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
 |     | 1553 | Count Triplets That Can Form Two Arrays of Equal XOR | Swift | Java | 
@@ -1275,7 +1283,7 @@ Update README file only:
 |     | 75 | Sort Colors | Swift | Java | 
 |     | 74 | Search a 2D Matrix | Swift | [~~Java~~](././Java/search-a-2d-matrix.java) | 
 |     | 73 | Set Matrix Zeroes | Swift | Java | 
-|     | 72 | Edit Distance | Swift | [~~Java~~](././Java/edit-distance.java) | 
+|  X  | 72 | Edit Distance | [~~Swift~~](././Swift/edit-distance.swift) | [~~Java~~](././Java/edit-distance.java) | 
 |     | 71 | Simplify Path | [~~Swift~~](././Swift/simplify-path.swift) | Java | 
 |  X  | 70 | Climbing Stairs | [~~Swift~~](././Swift/climbing-stairs.swift) | [~~Java~~](././Java/climbing-stairs.java) | 
 |     | 69 | Sqrt(x) | [~~Swift~~](././Swift/sqrtx.swift) | Java | 
