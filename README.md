@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-229 | Java-150 |
+| X | # | Question | Swift-230 | Java-150 |
 |---|---|---|---|---|
 |     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
@@ -1063,7 +1063,7 @@ Update README file only:
 |     | 312 | Burst Balloons | [~~Swift~~](././Swift/burst-balloons.swift) | Java | 
 |     | 311 | Sparse Matrix Multiplication | Swift | Java | 
 |     | 310 | Minimum Height Trees | Swift | Java | 
-|     | 309 | Best Time to Buy and Sell Stock with Cooldown | Swift | Java | 
+|     | 309 | Best Time to Buy and Sell Stock with Cooldown | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-with-cooldown.swift) | Java | 
 |     | 308 | Range Sum Query 2D - Mutable | Swift | Java | 
 |     | 307 | Range Sum Query - Mutable | Swift | Java | 
 |     | 306 | Additive Number | Swift | Java | 
