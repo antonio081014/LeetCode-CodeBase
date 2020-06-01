@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-230 | Java-150 |
+| X | # | Question | Swift-231 | Java-150 |
 |---|---|---|---|---|
 |     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
@@ -1177,7 +1177,7 @@ Update README file only:
 |  X  | 191 | Number of 1 Bits | [~~Swift~~](././Swift/number-of-1-bits.swift) | [~~Java~~](././Java/number-of-1-bits.java) | 
 |  X  | 190 | Reverse Bits | [~~Swift~~](././Swift/reverse-bits.swift) | [~~Java~~](././Java/reverse-bits.java) | 
 |     | 189 | Rotate Array | [~~Swift~~](././Swift/rotate-array.swift) | Java | 
-|     | 188 | Best Time to Buy and Sell Stock IV | Swift | [~~Java~~](././Java/best-time-to-buy-and-sell-stock-iv.java) | 
+|  X  | 188 | Best Time to Buy and Sell Stock IV | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-iv.swift) | [~~Java~~](././Java/best-time-to-buy-and-sell-stock-iv.java) | 
 |     | 187 | Repeated DNA Sequences | Swift | Java | 
 |     | 186 | Reverse Words in a String II | Swift | Java | 
 |     | 179 | Largest Number | Swift | Java | 
