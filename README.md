@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-231 | Java-150 |
+| X | # | Question | Swift-232 | Java-150 |
 |---|---|---|---|---|
 |     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
@@ -720,7 +720,7 @@ Update README file only:
 |     | 717 | 1-bit and 2-bit Characters | Swift | Java | 
 |     | 716 | Max Stack | Swift | Java | 
 |     | 715 | Range Module | Swift | Java | 
-|     | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Swift | Java | 
+|     | 714 | Best Time to Buy and Sell Stock with Transaction Fee | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-with-transaction-fee.swift) | Java | 
 |     | 713 | Subarray Product Less Than K | Swift | Java | 
 |     | 712 | Minimum ASCII Delete Sum for Two Strings | Swift | Java | 
 |     | 711 | Number of Distinct Islands II | Swift | Java | 
