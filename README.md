@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-232 | Java-150 |
+| X | # | Question | Swift-233 | Java-150 |
 |---|---|---|---|---|
 |     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
@@ -351,7 +351,7 @@ Update README file only:
 |     | 1098 | Largest Unique Number | Swift | Java | 
 |     | 1097 | Stream of Characters | Swift | Java | 
 |     | 1096 | Maximum Sum of Two Non-Overlapping Subarrays | Swift | Java | 
-|     | 1095 | Two City Scheduling | Swift | Java | 
+|     | 1095 | Two City Scheduling | [~~Swift~~](././Swift/two-city-scheduling.swift) | Java | 
 |     | 1094 | Matrix Cells in Distance Order | Swift | Java | 
 |     | 1093 | Recover a Tree From Preorder Traversal | [~~Swift~~](././Swift/recover-a-tree-from-preorder-traversal.swift) | Java | 
 |     | 1092 | Maximum Difference Between Node and Ancestor | Swift | Java | 
