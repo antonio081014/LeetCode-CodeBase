@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-233 | Java-150 |
+| X | # | Question | Swift-234 | Java-150 |
 |---|---|---|---|---|
+|     | 1609 | Find All the Lonely Nodes | Swift | Java | 
 |     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
 |     | 1575 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Swift | Java | 
@@ -529,7 +530,7 @@ Update README file only:
 |     | 915 | Generate Random Point in a Circle | Swift | Java | 
 |     | 914 | Random Point in Non-overlapping Rectangles | Swift | Java | 
 |     | 913 | Random Flip Matrix | Swift | Java | 
-|     | 912 | Random Pick with Weight | Swift | Java | 
+|     | 912 | Random Pick with Weight | [~~Swift~~](././Swift/random-pick-with-weight.swift) | Java | 
 |     | 911 | Profitable Schemes | Swift | Java | 
 |     | 910 | Nth Magical Number | Swift | Java | 
 |     | 909 | Stone Game | Swift | Java | 
