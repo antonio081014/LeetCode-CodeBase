@@ -18,3 +18,21 @@ class Solution {
 }
 
 print("\(reconstructQueue([[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]))")
+/**
+ * https://leetcode.com/problems/queue-reconstruction-by-height/
+ * 
+ * 
+ */ 
+// Date: Sat Jun  6 22:43:22 PDT 2020
+class Solution {
+    func reconstructQueue(_ people: [[Int]]) -> [[Int]] {
+        let ppl = people.sorted {
+            $0[0] != $1[0] ? $0[0] > $1[0] : $0[1] < $1[1]
+        }
+        var result: [[Int]] = []
+        for item in ppl {
+            result.insert(item, at: item[1])
+        }
+        return result
+    }
+}

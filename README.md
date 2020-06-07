@@ -13,7 +13,11 @@ Update README file only:
 
 | X | # | Question | Swift-234 | Java-150 |
 |---|---|---|---|---|
-|     | 1609 | Find All the Lonely Nodes | Swift | Java | 
+|     | 1609 | Find All The Lonely Nodes | Swift | Java | 
+|     | 1583 | Paint House III | Swift | Java | 
+|     | 1582 | Design Browser History | Swift | Java | 
+|     | 1581 | The k Strongest Values in an Array | Swift | Java | 
+|     | 1580 | Shuffle the Array | Swift | Java | 
 |     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
 |     | 1575 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Swift | Java | 
