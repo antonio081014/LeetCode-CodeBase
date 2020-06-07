@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-235 | Java-150 |
+| X | # | Question | Swift-236 | Java-150 |
 |---|---|---|---|---|
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
@@ -1055,7 +1055,7 @@ Update README file only:
 |     | 325 | Maximum Size Subarray Sum Equals k | Swift | Java | 
 |     | 324 | Wiggle Sort II | Swift | Java | 
 |     | 323 | Number of Connected Components in an Undirected Graph | Swift | Java | 
-|     | 322 | Coin Change | Swift | Java | 
+|     | 322 | Coin Change | [~~Swift~~](././Swift/coin-change.swift) | Java | 
 |     | 321 | Create Maximum Number | Swift | Java | 
 |     | 320 | Generalized Abbreviation | Swift | Java | 
 |     | 319 | Bulb Switcher | Swift | Java | 
