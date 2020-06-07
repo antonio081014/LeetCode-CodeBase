@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-234 | Java-150 |
+| X | # | Question | Swift-235 | Java-150 |
 |---|---|---|---|---|
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
@@ -871,7 +871,7 @@ Update README file only:
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
 |     | 521 | Longest Uncommon Subsequence I  | Swift | Java | 
 |     | 520 | Detect Capital | Swift | Java | 
-|     | 518 | Coin Change 2 | Swift | Java | 
+|     | 518 | Coin Change 2 | [~~Swift~~](././Swift/coin-change-2.swift) | Java | 
 |     | 517 | Super Washing Machines | Swift | Java | 
 |     | 516 | Longest Palindromic Subsequence | [~~Swift~~](././Swift/longest-palindromic-subsequence.swift) | Java | 
 |     | 515 | Find Largest Value in Each Tree Row | Swift | Java | 
