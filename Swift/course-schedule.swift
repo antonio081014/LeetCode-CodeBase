@@ -31,3 +31,40 @@ class Solution {
         return true
     }
 }
+/**
+ * https://leetcode.com/problems/course-schedule/
+ * 
+ * 
+ */ 
+// Date: Mon Jun  8 14:54:02 PDT 2020
+class Solution {
+    func canFinish(_ numCourses: Int, _ prerequisites: [[Int]]) -> Bool {
+        var graph: [[Int]] = Array(repeating: [], count: numCourses)
+        var degree = Array(repeating: 0, count: numCourses)
+        for item in prerequisites {
+            graph[item[1]].append(item[0])
+            degree[item[0]] += 1
+        }
+        var visitedQ: [Int] = []
+        for index in 0 ..< numCourses {
+            if degree[index] == 0 {
+                visitedQ.append(index)
+            }
+        }
+        // print("\(graph)")
+        // print("\(degree)")
+        // print("\(visitedQ)")
+        var count = 0
+        while visitedQ.isEmpty == false {
+            let preCourse = visitedQ.removeFirst()
+            count += 1
+            for course in graph[preCourse] {
+                degree[course] -= 1
+                if degree[course] == 0 {
+                    visitedQ.append(course)
+                }
+            }
+        }
+        return numCourses == count
+    }
+}
