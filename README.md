@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-237 | Java-150 |
+| X | # | Question | Swift-238 | Java-150 |
 |---|---|---|---|---|
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
@@ -985,7 +985,7 @@ Update README file only:
 |     | 395 | Longest Substring with At Least K Repeating Characters | Swift | Java | 
 |     | 394 | Decode String | Swift | Java | 
 |     | 393 | UTF-8 Validation | Swift | Java | 
-|     | 392 | Is Subsequence | Swift | Java | 
+|     | 392 | Is Subsequence | [~~Swift~~](././Swift/is-subsequence.swift) | Java | 
 |     | 391 | Perfect Rectangle | [~~Swift~~](././Swift/perfect-rectangle.swift) | Java | 
 |     | 390 | Elimination Game | Swift | Java | 
 |     | 389 | Find the Difference | Swift | Java | 
