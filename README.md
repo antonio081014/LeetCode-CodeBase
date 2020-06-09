@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-238 | Java-150 |
+| X | # | Question | Swift-239 | Java-150 |
 |---|---|---|---|---|
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
@@ -1067,7 +1067,7 @@ Update README file only:
 |     | 313 | Super Ugly Number | Swift | Java | 
 |     | 312 | Burst Balloons | [~~Swift~~](././Swift/burst-balloons.swift) | Java | 
 |     | 311 | Sparse Matrix Multiplication | Swift | Java | 
-|     | 310 | Minimum Height Trees | Swift | Java | 
+|     | 310 | Minimum Height Trees | [~~Swift~~](././Swift/minimum-height-trees.swift) | Java | 
 |     | 309 | Best Time to Buy and Sell Stock with Cooldown | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-with-cooldown.swift) | Java | 
 |     | 308 | Range Sum Query 2D - Mutable | Swift | Java | 
 |     | 307 | Range Sum Query - Mutable | Swift | Java | 
