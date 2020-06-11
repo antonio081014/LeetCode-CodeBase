@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-240 | Java-150 |
+| X | # | Question | Swift-241 | Java-150 |
 |---|---|---|---|---|
+|     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
 |     | 1582 | Design Browser History | Swift | Java | 
@@ -1285,7 +1286,7 @@ Update README file only:
 |  X  | 78 | Subsets | [~~Swift~~](././Swift/subsets.swift) | [~~Java~~](././Java/subsets.java) | 
 |     | 77 | Combinations | Swift | [~~Java~~](././Java/combinations.java) | 
 |     | 76 | Minimum Window Substring | Swift | Java | 
-|     | 75 | Sort Colors | Swift | Java | 
+|     | 75 | Sort Colors | [~~Swift~~](././Swift/sort-colors.swift) | Java | 
 |     | 74 | Search a 2D Matrix | Swift | [~~Java~~](././Java/search-a-2d-matrix.java) | 
 |     | 73 | Set Matrix Zeroes | Swift | Java | 
 |  X  | 72 | Edit Distance | [~~Swift~~](././Swift/edit-distance.swift) | [~~Java~~](././Java/edit-distance.java) | 
