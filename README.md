@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-241 | Java-150 |
+| X | # | Question | Swift-242 | Java-150 |
 |---|---|---|---|---|
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
@@ -23,6 +23,10 @@ Update README file only:
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
 |     | 1575 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Swift | Java | 
 |     | 1574 | Maximum Product of Two Elements in an Array | Swift | Java | 
+|     | 1573 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Swift | Java | 
+|     | 1572 | Subrectangle Queries | Swift | Java | 
+|     | 1571 | Allocate Mailboxes | Swift | Java | 
+|     | 1570 | Final Prices With a Special Discount in a Shop | Swift | Java | 
 |     | 1569 | Max Dot Product of Two Subsequences | [~~Swift~~](././Swift/max-dot-product-of-two-subsequences.swift) | Java | 
 |     | 1568 | Pseudo-Palindromic Paths in a Binary Tree | [~~Swift~~](././Swift/pseudo-palindromic-paths-in-a-binary-tree.swift) | Java | 
 |     | 1567 | Maximum Number of Vowels in a Substring of Given Length | Swift | Java | 
@@ -1010,7 +1014,7 @@ Update README file only:
 |     | 371 | Sum of Two Integers | [~~Swift~~](././Swift/sum-of-two-integers.swift) | Java | 
 |     | 370 | Range Addition | Swift | Java | 
 |     | 369 | Plus One Linked List | Swift | Java | 
-|     | 368 | Largest Divisible Subset | Swift | Java | 
+|     | 368 | Largest Divisible Subset | [~~Swift~~](././Swift/largest-divisible-subset.swift) | Java | 
 |     | 367 | Valid Perfect Square | [~~Swift~~](././Swift/valid-perfect-square.swift) | Java | 
 |     | 366 | Find Leaves of Binary Tree | Swift | Java | 
 |     | 365 | Water and Jug Problem | Swift | Java | 
