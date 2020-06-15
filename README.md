@@ -11,10 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-242 | Java-150 |
+| X | # | Question | Swift-243 | Java-150 |
 |---|---|---|---|---|
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
+|     | 1605 | Minimum Number of Days to Make m Bouquets | Swift | Java | 
+|     | 1604 | Least Number of Unique Integers after K Removals | Swift | Java | 
+|     | 1603 | Running Sum of 1d Array | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
 |     | 1582 | Design Browser History | Swift | Java | 
 |     | 1581 | The k Strongest Values in an Array | Swift | Java | 
@@ -212,6 +215,7 @@ Update README file only:
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
 |     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
 |     | 1297 | Maximum Number of Balloons | Swift | Java | 
+|     | 1296 | Kth Ancestor of a Tree Node | Swift | Java | 
 |     | 1290 | Make Array Strictly Increasing | Swift | Java | 
 |     | 1289 | Day of the Week | Swift | Java | 
 |     | 1288 | Maximum Subarray Sum with One Deletion | [~~Swift~~](././Swift/maximum-subarray-sum-with-one-deletion.swift) | Java | 
@@ -641,7 +645,7 @@ Update README file only:
 |     | 806 | Domino and Tromino Tiling | Swift | Java | 
 |     | 805 | Escape The Ghosts | Swift | Java | 
 |     | 804 | Rotated Digits | Swift | Java | 
-|     | 803 | Cheapest Flights Within K Stops | Swift | Java | 
+|     | 803 | Cheapest Flights Within K Stops | [~~Swift~~](././Swift/cheapest-flights-within-k-stops.swift) | Java | 
 |     | 802 | K-th Smallest Prime Fraction | Swift | Java | 
 |     | 801 | Is Graph Bipartite? | Swift | Java | 
 |     | 800 | Letter Case Permutation | Swift | Java | 
