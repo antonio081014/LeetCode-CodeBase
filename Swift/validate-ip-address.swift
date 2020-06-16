@@ -70,3 +70,52 @@ let solution = Solution()
 print("\(solution.validIPAddress("0.0.0.-0"))")
 print("\(solution.validIPAddress("172.16.254.1"))")
 print("\(solution.validIPAddress("2001:db8:85a3:0:0:8A2E:370:7334"))")
+/**
+ * https://leetcode.com/problems/validate-ip-address/
+ * 
+ * 
+ */ 
+// Date: Tue Jun 16 15:48:44 PDT 2020
+class Solution {
+    func validIPAddress(_ IP: String) -> String {
+        if IP.contains("."), self.checkIPv4(IP) {
+            return "IPv4"
+        } else if self.checkIPv6(IP) {
+            return "IPv6"
+        }
+        return "Neither"
+    }
+    
+    private func checkIPv4(_ address: String) -> Bool {
+        let comp = address.split(separator: ".", omittingEmptySubsequences: false)
+        if comp.count != 4 { return false }
+        for num in comp {
+            if num.count == 0 { return false }
+            if num.count > 3 { return false }
+            if let x = Int(num), (x >= 0 && x < 256) {
+                if String(x) != num { return false }
+                continue
+            }
+            else { return false }
+            
+        }
+        return true
+    }
+    
+    private func checkIPv6(_ address: String) -> Bool {
+        if address.contains("-") { return false }
+        let comp = address.split(separator: ":", omittingEmptySubsequences: false)
+        if comp.count != 8 { return false }
+        for num in comp {
+            // print("\(num) : \(num.count)")
+            if num.count == 0 { return false }
+            if num.count > 4 { return false }
+            if let x = Int(num, radix: 16), (x >= 0 && x < 0xFFFF) {
+                // print("\(x)")
+                // if String(x, radix: 16, uppercase: false) != num { return false }
+                continue
+            } else { return false }
+        }
+        return true
+    }
+}
