@@ -61,3 +61,62 @@ class Solution {
         }
     }
 }
+/**
+ * https://leetcode.com/problems/surrounded-regions/
+ * 
+ * 
+ */ 
+// Date: Wed Jun 17 10:56:04 PDT 2020
+class Solution {
+    func solve(_ board: inout [[Character]]) {
+        let n = board.count
+        guard let m = board.first?.count else { return }
+        var visited: [[Bool]] = Array(repeating: Array(repeating: false, count: m), count: n)
+        
+        let dx = [1, 0, -1, 0]
+        let dy = [0, 1, 0, -1]
+        
+        func visit(_ x: Int, _ y: Int) {
+            for index in 0 ..< dx.count {
+                let xx = x + dx[index]
+                let yy = y + dy[index]
+                if xx >= 0, xx < n, yy >= 0, yy < m, visited[xx][yy] == false, board[xx][yy] == "O" {
+                    visited[xx][yy] = true
+                    visit(xx, yy)
+                }
+            }
+        }
+        
+        for y in 0 ..< m {
+            if board[0][y] == "O", visited[0][y] == false {
+                visited[0][y] = true
+                visit(0, y)
+            }
+            
+            if board[n - 1][y] == "O", visited[n - 1][y] == false {
+                visited[n - 1][y] = true
+                visit(n - 1, y)
+            }
+        }
+        
+        for x in 0 ..< n {
+            if board[x][0] == "O", visited[x][0] == false {
+                visited[x][0] = true
+                visit(x, 0)
+            }
+            
+            if board[x][m - 1] == "O", visited[x][m - 1] == false {
+                visited[x][m - 1] = true
+                visit(x, m - 1)
+            }
+        }
+        
+        for x in 0 ..< n {
+            for y in 0 ..< m {
+                if board[x][y] == "O", !visited[x][y] {
+                    board[x][y] = "X"
+                }
+            }
+        }
+    }
+}
