@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-243 | Java-150 |
+| X | # | Question | Swift-244 | Java-150 |
 |---|---|---|---|---|
+|     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1605 | Minimum Number of Days to Make m Bouquets | Swift | Java | 
@@ -1111,7 +1112,7 @@ Update README file only:
 |  X  | 278 | First Bad Version | [~~Swift~~](././Swift/first-bad-version.swift) | [~~Java~~](././Java/first-bad-version.java) | 
 |     | 277 | Find the Celebrity | Swift | Java | 
 |     | 276 | Paint Fence | Swift | Java | 
-|     | 275 | H-Index II | Swift | [~~Java~~](././Java/h-index-ii.java) | 
+|  X  | 275 | H-Index II | [~~Swift~~](././Swift/h-index-ii.swift) | [~~Java~~](././Java/h-index-ii.java) | 
 |     | 274 | H-Index | Swift | [~~Java~~](././Java/h-index.java) | 
 |     | 273 | Integer to English Words | Swift | Java | 
 |     | 272 | Closest Binary Search Tree Value II | Swift | Java | 
