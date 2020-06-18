@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-244 | Java-150 |
+| X | # | Question | Swift-245 | Java-150 |
 |---|---|---|---|---|
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
@@ -1293,7 +1293,7 @@ Update README file only:
 |  X  | 80 | Remove Duplicates from Sorted Array II | [~~Swift~~](././Swift/remove-duplicates-from-sorted-array-ii.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-array-ii.java) | 
 |     | 79 | Word Search | [~~Swift~~](././Swift/word-search.swift) | Java | 
 |  X  | 78 | Subsets | [~~Swift~~](././Swift/subsets.swift) | [~~Java~~](././Java/subsets.java) | 
-|     | 77 | Combinations | Swift | [~~Java~~](././Java/combinations.java) | 
+|  X  | 77 | Combinations | [~~Swift~~](././Swift/combinations.swift) | [~~Java~~](././Java/combinations.java) | 
 |     | 76 | Minimum Window Substring | Swift | Java | 
 |     | 75 | Sort Colors | [~~Swift~~](././Swift/sort-colors.swift) | Java | 
 |     | 74 | Search a 2D Matrix | Swift | [~~Java~~](././Java/search-a-2d-matrix.java) | 
