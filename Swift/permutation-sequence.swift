@@ -4,6 +4,7 @@
  * 
  */ 
 // Date: Tue Jun 23 08:41:22 PDT 2020
+// Ref: https://leetcode.com/problems/permutation-sequence/discuss/22507/%22Explain-like-I'm-five%22-Java-Solution-in-O(n)
 class Solution {
     func getPermutation(_ n: Int, _ k: Int) -> String {
         var  prod = 1
