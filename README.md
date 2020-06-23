@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-248 | Java-150 |
+| X | # | Question | Swift-249 | Java-150 |
 |---|---|---|---|---|
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
+|     | 1613 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Swift | Java | 
+|     | 1612 | Avoid Flood in The City | Swift | Java | 
+|     | 1611 | Making File Names Unique | Swift | Java | 
+|     | 1610 | XOR Operation in an Array | Swift | Java | 
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1605 | Minimum Number of Days to Make m Bouquets | Swift | Java | 
 |     | 1604 | Least Number of Unique Integers after K Removals | Swift | Java | 
@@ -1310,7 +1314,7 @@ Update README file only:
 |  X  | 63 | Unique Paths II | [~~Swift~~](././Swift/unique-paths-ii.swift) | [~~Java~~](././Java/unique-paths-ii.java) | 
 |  X  | 62 | Unique Paths | [~~Swift~~](././Swift/unique-paths.swift) | [~~Java~~](././Java/unique-paths.java) | 
 |     | 61 | Rotate List | Swift | Java | 
-|     | 60 | Permutation Sequence | Swift | [~~Java~~](././Java/permutation-sequence.java) | 
+|  X  | 60 | Permutation Sequence | [~~Swift~~](././Swift/permutation-sequence.swift) | [~~Java~~](././Java/permutation-sequence.java) | 
 |     | 59 | Spiral Matrix II | Swift | [~~Java~~](././Java/spiral-matrix-ii.java) | 
 |  X  | 58 | Length of Last Word | [~~Swift~~](././Swift/length-of-last-word.swift) | [~~Java~~](././Java/length-of-last-word.java) | 
 |     | 57 | Insert Interval | Swift | Java | 
