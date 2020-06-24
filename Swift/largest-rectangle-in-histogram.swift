@@ -23,3 +23,37 @@ class Solution {
         return maxA
     }
 }
+/**
+ * https://leetcode.com/problems/largest-rectangle-in-histogram/
+ * 
+ * 
+ */ 
+// Date: Wed Jun 24 12:04:45 PDT 2020
+class Solution {
+    func largestRectangleArea(_ heights: [Int]) -> Int {
+        guard heights.count > 0 else { return 0 }
+        var leftBound = Array(repeating: -1, count: heights.count)
+        for index in 1 ..< heights.count {
+            var p = index - 1
+            while p >= 0, heights[p] >= heights[index] {
+                p = leftBound[p]
+            }
+            leftBound[index] = p
+        }
+        var rightBound = Array(repeating: heights.count, count: heights.count)
+        for index in stride(from: heights.count - 2, through: 0, by: -1) {
+            var p = index + 1
+            while p < heights.count, heights[p] >= heights[index] {
+                p = rightBound[p]
+            }
+            rightBound[index] = p
+        }
+
+        var maxArea = 0
+        for index in 0 ..< heights.count {
+            maxArea = max(maxArea, heights[index] * (rightBound[index] - leftBound[index] - 1))
+        }
+        return maxArea
+    }
+}
+
