@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-249 | Java-150 |
+| X | # | Question | Swift-250 | Java-150 |
 |---|---|---|---|---|
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
@@ -1278,7 +1278,7 @@ Update README file only:
 |     | 99 | Recover Binary Search Tree | Swift | [~~Java~~](././Java/recover-binary-search-tree.java) | 
 |     | 98 | Validate Binary Search Tree | [~~Swift~~](././Swift/validate-binary-search-tree.swift) | Java | 
 |     | 97 | Interleaving String | Swift | Java | 
-|     | 96 | Unique Binary Search Trees | Swift | [~~Java~~](././Java/unique-binary-search-trees.java) | 
+|  X  | 96 | Unique Binary Search Trees | [~~Swift~~](././Swift/unique-binary-search-trees.swift) | [~~Java~~](././Java/unique-binary-search-trees.java) | 
 |     | 95 | Unique Binary Search Trees II | [~~Swift~~](././Swift/unique-binary-search-trees-ii.swift) | Java | 
 |  X  | 94 | Binary Tree Inorder Traversal | [~~Swift~~](././Swift/binary-tree-inorder-traversal.swift) | [~~Java~~](././Java/binary-tree-inorder-traversal.java) | 
 |     | 93 | Restore IP Addresses | Swift | [~~Java~~](././Java/restore-ip-addresses.java) | 
