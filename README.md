@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-250 | Java-150 |
+| X | # | Question | Swift-251 | Java-150 |
 |---|---|---|---|---|
+|     | 1634 | Clone N-ary Tree | Swift | Java | 
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
 |     | 1613 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Swift | Java | 
@@ -1245,7 +1246,7 @@ Update README file only:
 |     | 132 | Palindrome Partitioning II | Swift | Java | 
 |     | 131 | Palindrome Partitioning | Swift | Java | 
 |  X  | 130 | Surrounded Regions | [~~Swift~~](././Swift/surrounded-regions.swift) | [~~Java~~](././Java/surrounded-regions.java) | 
-|     | 129 | Sum Root to Leaf Numbers | Swift | [~~Java~~](././Java/sum-root-to-leaf-numbers.java) | 
+|  X  | 129 | Sum Root to Leaf Numbers | [~~Swift~~](././Swift/sum-root-to-leaf-numbers.swift) | [~~Java~~](././Java/sum-root-to-leaf-numbers.java) | 
 |  X  | 128 | Longest Consecutive Sequence | [~~Swift~~](././Swift/longest-consecutive-sequence.swift) | [~~Java~~](././Java/longest-consecutive-sequence.java) | 
 |     | 127 | Word Ladder | Swift | [~~Java~~](././Java/word-ladder.java) | 
 |     | 126 | Word Ladder II | Swift | [~~Java~~](././Java/word-ladder-ii.java) | 
