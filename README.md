@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-252 | Java-150 |
+| X | # | Question | Swift-253 | Java-150 |
 |---|---|---|---|---|
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
@@ -1276,7 +1276,7 @@ Update README file only:
 |     | 102 | Binary Tree Level Order Traversal | Swift | Java | 
 |     | 101 | Symmetric Tree | Swift | [~~Java~~](././Java/symmetric-tree.java) | 
 |     | 100 | Same Tree | Swift | [~~Java~~](././Java/same-tree.java) | 
-|     | 99 | Recover Binary Search Tree | Swift | [~~Java~~](././Java/recover-binary-search-tree.java) | 
+|  X  | 99 | Recover Binary Search Tree | [~~Swift~~](././Swift/recover-binary-search-tree.swift) | [~~Java~~](././Java/recover-binary-search-tree.java) | 
 |     | 98 | Validate Binary Search Tree | [~~Swift~~](././Swift/validate-binary-search-tree.swift) | Java | 
 |     | 97 | Interleaving String | Swift | Java | 
 |  X  | 96 | Unique Binary Search Trees | [~~Swift~~](././Swift/unique-binary-search-trees.swift) | [~~Java~~](././Java/unique-binary-search-trees.java) | 
