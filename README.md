@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-251 | Java-150 |
+| X | # | Question | Swift-252 | Java-150 |
 |---|---|---|---|---|
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
@@ -1113,7 +1113,7 @@ Update README file only:
 |     | 282 | Expression Add Operators | Swift | Java | 
 |     | 281 | Zigzag Iterator | Swift | Java | 
 |     | 280 | Wiggle Sort | Swift | Java | 
-|     | 279 | Perfect Squares | Swift | [~~Java~~](././Java/perfect-squares.java) | 
+|  X  | 279 | Perfect Squares | [~~Swift~~](././Swift/perfect-squares.swift) | [~~Java~~](././Java/perfect-squares.java) | 
 |  X  | 278 | First Bad Version | [~~Swift~~](././Swift/first-bad-version.swift) | [~~Java~~](././Java/first-bad-version.java) | 
 |     | 277 | Find the Celebrity | Swift | Java | 
 |     | 276 | Paint Fence | Swift | Java | 
