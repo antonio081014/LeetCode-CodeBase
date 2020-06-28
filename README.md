@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-253 | Java-150 |
+| X | # | Question | Swift-254 | Java-150 |
 |---|---|---|---|---|
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
+|     | 1622 | Max Value of Equation | Swift | Java | 
+|     | 1621 | Number of Subsequences That Satisfy the Given Sum Condition | Swift | Java | 
+|     | 1620 | Check If Array Pairs Are Divisible by k | Swift | Java | 
+|     | 1619 | Path Crossing | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
 |     | 1613 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Swift | Java | 
 |     | 1612 | Avoid Flood in The City | Swift | Java | 
@@ -24,6 +28,10 @@ Update README file only:
 |     | 1605 | Minimum Number of Days to Make m Bouquets | Swift | Java | 
 |     | 1604 | Least Number of Unique Integers after K Removals | Swift | Java | 
 |     | 1603 | Running Sum of 1d Array | Swift | Java | 
+|     | 1587 | Parallel Courses II | Swift | Java | 
+|     | 1586 | Longest Subarray of 1's After Deleting One Element | Swift | Java | 
+|     | 1585 | The kth Factor of n | Swift | Java | 
+|     | 1584 | Average Salary Excluding the Minimum and Maximum Salary | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
 |     | 1582 | Design Browser History | Swift | Java | 
 |     | 1581 | The k Strongest Values in an Array | Swift | Java | 
@@ -1060,7 +1068,7 @@ Update README file only:
 |     | 335 | Self Crossing | Swift | Java | 
 |     | 334 | Increasing Triplet Subsequence | Swift | Java | 
 |     | 333 | Largest BST Subtree | Swift | Java | 
-|     | 332 | Reconstruct Itinerary | Swift | Java | 
+|     | 332 | Reconstruct Itinerary | [~~Swift~~](././Swift/reconstruct-itinerary.swift) | Java | 
 |     | 331 | Verify Preorder Serialization of a Binary Tree | [~~Swift~~](././Swift/verify-preorder-serialization-of-a-binary-tree.swift) | Java | 
 |     | 330 | Patching Array | Swift | Java | 
 |     | 329 | Longest Increasing Path in a Matrix | Swift | Java | 
