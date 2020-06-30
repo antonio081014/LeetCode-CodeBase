@@ -49,3 +49,47 @@ class Solution {
         return false
     }
 }
+/**
+ * https://leetcode.com/problems/word-search/
+ * 
+ * 
+ */ 
+// Date: Tue Jun 30 11:45:48 PDT 2020
+class Solution {
+    func exist(_ board: [[Character]], _ word: String) -> Bool {
+        let n = board.count
+        guard let m = board.first?.count else { return word.isEmpty }
+        let word = Array(word)
+        
+        func verify(_ x: Int, _ y: Int, at index: Int, _ visited: inout [[Bool]]) -> Bool {
+            if board[x][y] != word[index] { return false }
+            if index == word.count - 1 {
+                return true
+            }
+            
+            visited[x][y] = true
+            
+            let dx = [1, 0, -1, 0]
+            let dy = [0, 1, 0, -1]
+            
+            for offset in 0 ..< dx.count {
+                let xx = x + dx[offset]
+                let yy = y + dy[offset]
+                if xx >= 0, xx < n, yy >= 0, yy < m, visited[xx][yy] == false {
+                    if verify(xx, yy, at: index + 1, &visited) { return true }
+                }
+            }
+            
+            visited[x][y] = false
+            return false
+        }
+        
+        for x in 0 ..< n {
+            for y in 0 ..< m {
+                var visited = Array(repeating: Array(repeating: false, count: m), count: n)
+                if verify(x, y, at: 0, &visited) { return true }
+            }
+        }
+        return false
+    }
+}
