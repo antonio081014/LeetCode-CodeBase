@@ -7,8 +7,8 @@
 class Solution {
     /// DFS with early termination.
     /// - Complexity:
-    ///     - Time: TBA
-    ///     - Space: TBA
+    ///     - Time: O(3^4))
+    ///     - Space: O(3^4 + 4), result space + stack space.
     ///
     func restoreIpAddresses(_ s: String) -> [String] {
         var s = Array(s)
