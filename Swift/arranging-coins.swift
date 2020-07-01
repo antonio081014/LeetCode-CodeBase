@@ -44,3 +44,24 @@ class Solution {
         return left - 1
     }
 }
+/**
+ * https://leetcode.com/problems/arranging-coins/
+ * 
+ * 
+ */ 
+// Date: Wed Jul  1 09:39:52 PDT 2020
+class Solution {
+    /// Mathmatical way to solve this problem
+    /// k*(k+1) / 2 <= n
+    /// k^2 + k <= 2n
+    /// (k+1/2)^2 <= 2n + 1/4
+    /// k <= sqrt(2n + 1/4) - 1/2
+    /// 
+    /// - Complexity:
+    ///     - Time: O(1)
+    ///     - Space: O(1)
+    ///
+    func arrangeCoins(_ n: Int) -> Int {
+        return Int(sqrt(Double(n) * 2.0 + 0.25) - 0.5)
+    }
+}
