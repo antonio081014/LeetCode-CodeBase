@@ -50,3 +50,64 @@ class Solution {
         return maxA
     }
 }
+/**
+ * https://leetcode.com/problems/maximal-rectangle/
+ * 
+ * 
+ */ 
+// Date: Thu Jul  2 11:11:24 PDT 2020
+class Solution {
+    /// Ref: https://www.youtube.com/watch?v=2Yk3Avrzauk
+    /// - Complexity:
+    ///     - Time: O(n*m*m), 
+    ///     - Space: O(m)
+    ///
+    func maximalRectangle(_ matrix: [[Character]]) -> Int {
+        let n = matrix.count
+        guard let m = matrix.first?.count else { return 0 }
+        var maxArea = 0
+        var heights = Array(repeating: 0, count: m)
+        for x in 0 ..< n {
+            for y in 0 ..< m {
+                if let num = Int(String(matrix[x][y])), num > 0 {
+                    heights[y] += num
+                } else {
+                    heights[y] = 0
+                }
+            }
+            maxArea = max(maxArea, largestRectangleArea(heights))
+        }
+        
+        return maxArea
+    }
+    
+    /// - Complexity:
+    ///     - Time: O(m), m is the number of elements in heights.
+    ///     - Space: O(m), m is the number of elements in heights.
+    ///
+    func largestRectangleArea(_ heights: [Int]) -> Int {
+        guard heights.count > 0 else { return 0 }
+        var leftBound = Array(repeating: -1, count: heights.count)
+        for index in 1 ..< heights.count {
+            var p = index - 1
+            while p >= 0, heights[p] >= heights[index] {
+                p = leftBound[p]
+            }
+            leftBound[index] = p
+        }
+        var rightBound = Array(repeating: heights.count, count: heights.count)
+        for index in stride(from: heights.count - 2, through: 0, by: -1) {
+            var p = index + 1
+            while p < heights.count, heights[p] >= heights[index] {
+                p = rightBound[p]
+            }
+            rightBound[index] = p
+        }
+        
+        var maxArea = 0
+        for index in 0 ..< heights.count {
+            maxArea = max(maxArea, heights[index] * (rightBound[index] - leftBound[index] - 1))
+        }
+        return maxArea
+    }
+}
