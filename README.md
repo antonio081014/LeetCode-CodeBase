@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-256 | Java-150 |
+| X | # | Question | Swift-257 | Java-150 |
 |---|---|---|---|---|
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
 |     | 1624 | Clone Binary Tree With Random Pointer | Swift | Java | 
@@ -1269,7 +1269,7 @@ Update README file only:
 |     | 117 | Populating Next Right Pointers in Each Node II | [~~Swift~~](././Swift/populating-next-right-pointers-in-each-node-ii.swift) | Java | 
 |  X  | 116 | Populating Next Right Pointers in Each Node | [~~Swift~~](././Swift/populating-next-right-pointers-in-each-node.swift) | [~~Java~~](././Java/populating-next-right-pointers-in-each-node.java) | 
 |     | 115 | Distinct Subsequences | Swift | Java | 
-|     | 114 | Flatten Binary Tree to Linked List | Swift | [~~Java~~](././Java/flatten-binary-tree-to-linked-list.java) | 
+|  X  | 114 | Flatten Binary Tree to Linked List | [~~Swift~~](././Swift/flatten-binary-tree-to-linked-list.swift) | [~~Java~~](././Java/flatten-binary-tree-to-linked-list.java) | 
 |     | 113 | Path Sum II | Swift | [~~Java~~](././Java/path-sum-ii.java) | 
 |  X  | 112 | Path Sum | [~~Swift~~](././Swift/path-sum.swift) | [~~Java~~](././Java/path-sum.java) | 
 |  X  | 111 | Minimum Depth of Binary Tree | [~~Swift~~](././Swift/minimum-depth-of-binary-tree.swift) | [~~Java~~](././Java/minimum-depth-of-binary-tree.java) | 
