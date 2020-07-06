@@ -46,3 +46,24 @@ class Solution {
         return ret
     }
 }
+/**
+ * https://leetcode.com/problems/plus-one/
+ * 
+ * 
+ */ 
+// Date: Mon Jul  6 08:34:17 PDT 2020
+class Solution {
+    func plusOne(_ digits: [Int]) -> [Int] {
+        var offset = 1
+        var result = digits
+        for index in stride(from: digits.count - 1, through: 0, by: -1) {
+            result[index] += offset
+            offset = result[index] / 10
+            result[index] %= 10
+        }
+        if offset > 0 {
+            result.insert(offset, at: 0)
+        }
+        return result
+    }
+}
