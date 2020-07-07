@@ -77,3 +77,29 @@ class Solution {
         return total
     }
 }
+/**
+ * https://leetcode.com/problems/island-perimeter/
+ * 
+ * 
+ */ 
+// Date: Tue Jul  7 09:35:19 PDT 2020
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n*m), n and m are sizes of grid.
+    ///     - Space: O(1), only use constant space to store sizes and total number of edges of island.  
+    ///
+    func islandPerimeter(_ grid: [[Int]]) -> Int {
+        var total = 0
+        let n = grid.count
+        guard let m = grid.first?.count else { return total }
+        for x in 0 ..< n {
+            for y in 0 ..< m {
+                if grid[x][y] != 1 { continue }
+                total += 4
+                if x > 0, grid[x - 1][y] == 1 { total -= 2 }
+                if y > 0, grid[x][y - 1] == 1 { total -= 2 }
+            }
+        }
+        return total
+    }
+}
