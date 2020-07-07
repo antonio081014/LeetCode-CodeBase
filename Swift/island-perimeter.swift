@@ -34,3 +34,46 @@ class Solution {
         return count
     }
 }
+/**
+ * https://leetcode.com/problems/island-perimeter/
+ * 
+ * 
+ */ 
+// Date: Tue Jul  7 09:19:50 PDT 2020
+class Solution {
+    func islandPerimeter(_ grid: [[Int]]) -> Int {
+        var total = 0
+        let n = grid.count
+        guard let m = grid.first?.count else { return total }
+        for x in 0 ..< n {
+            for y in 0 ..< m {
+                if grid[x][y] != 1 { continue }
+                if x == 0 {
+                    total += 1
+                } else {
+                    if grid[x - 1][y] != grid[x][y] {
+                        total += 1
+                    }
+                }
+                if y == 0 {
+                    total += 1
+                } else {
+                    total += grid[x][y - 1] != grid[x][y] ? 1 : 0
+                }
+                
+                if x == n - 1 {
+                    total += 1
+                } else {
+                    total += grid[x + 1][y] != grid[x][y] ? 1 : 0
+                }
+                
+                if y == m - 1 {
+                    total += 1
+                } else {
+                    total += grid[x][y + 1] != grid[x][y] ? 1 : 0
+                }
+            }
+        }
+        return total
+    }
+}
