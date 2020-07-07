@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-257 | Java-150 |
+| X | # | Question | Swift-258 | Java-150 |
 |---|---|---|---|---|
 |     | 1640 | Design a File Sharing System | Swift | Java | 
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
@@ -1205,7 +1205,7 @@ Update README file only:
 |  X  | 202 | Happy Number | [~~Swift~~](././Swift/happy-number.swift) | [~~Java~~](././Java/happy-number.java) | 
 |     | 201 | Bitwise AND of Numbers Range | [~~Swift~~](././Swift/bitwise-and-of-numbers-range.swift) | Java | 
 |  X  | 200 | Number of Islands | [~~Swift~~](././Swift/number-of-islands.swift) | [~~Java~~](././Java/number-of-islands.java) | 
-|     | 199 | Binary Tree Right Side View | Swift | Java | 
+|     | 199 | Binary Tree Right Side View | [~~Swift~~](././Swift/binary-tree-right-side-view.swift) | Java | 
 |     | 198 | House Robber | Swift | [~~Java~~](././Java/house-robber.java) | 
 |  X  | 191 | Number of 1 Bits | [~~Swift~~](././Swift/number-of-1-bits.swift) | [~~Java~~](././Java/number-of-1-bits.java) | 
 |  X  | 190 | Reverse Bits | [~~Swift~~](././Swift/reverse-bits.swift) | [~~Java~~](././Java/reverse-bits.java) | 
