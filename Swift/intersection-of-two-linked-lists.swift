@@ -17,6 +17,10 @@
  */
 
 class Solution {
+    /// - Complexity:
+    ///     - Time: O(max(n, m)), n and m are the size of two ListNode.
+    ///     - Space: O(m + n), n and m are the size of two ListNode.
+    ///
     func getIntersectionNode(_ headA: ListNode?, _ headB: ListNode?) -> ListNode? {
         var stackA: [ListNode] = []
         var stackB: [ListNode] = []
