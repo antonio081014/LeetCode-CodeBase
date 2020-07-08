@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-258 | Java-150 |
+| X | # | Question | Swift-259 | Java-150 |
 |---|---|---|---|---|
 |     | 1640 | Design a File Sharing System | Swift | Java | 
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
@@ -1228,7 +1228,7 @@ Update README file only:
 |     | 163 | Missing Ranges | Swift | Java | 
 |  X  | 162 | Find Peak Element | [~~Swift~~](././Swift/find-peak-element.swift) | [~~Java~~](././Java/find-peak-element.java) | 
 |     | 161 | One Edit Distance | Swift | Java | 
-|     | 160 | Intersection of Two Linked Lists | Swift | Java | 
+|     | 160 | Intersection of Two Linked Lists | [~~Swift~~](././Swift/intersection-of-two-linked-lists.swift) | Java | 
 |     | 159 | Longest Substring with At Most Two Distinct Characters | Swift | Java | 
 |     | 158 | Read N Characters Given Read4 II - Call multiple times | Swift | Java | 
 |     | 157 | Read N Characters Given Read4 | Swift | Java | 
