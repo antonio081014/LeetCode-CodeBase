@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-259 | Java-150 |
+| X | # | Question | Swift-260 | Java-150 |
 |---|---|---|---|---|
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
 |     | 1640 | Design a File Sharing System | Swift | Java | 
@@ -702,7 +702,7 @@ Update README file only:
 |     | 769 | Largest Plus Sign | Swift | Java | 
 |     | 768 | Partition Labels | Swift | Java | 
 |     | 767 | Prime Number of Set Bits in Binary Representation | Swift | Java | 
-|     | 766 | Flatten a Multilevel Doubly Linked List | Swift | Java | 
+|     | 766 | Flatten a Multilevel Doubly Linked List | [~~Swift~~](././Swift/flatten-a-multilevel-doubly-linked-list.swift) | Java | 
 |     | 765 | Serialize and Deserialize N-ary Tree | Swift | Java | 
 |     | 764 | N-ary Tree Level Order Traversal | Swift | Java | 
 |     | 763 | Special Binary String | Swift | Java | 
