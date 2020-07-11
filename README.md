@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-260 | Java-150 |
+| X | # | Question | Swift-261 | Java-150 |
 |---|---|---|---|---|
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
 |     | 1640 | Design a File Sharing System | Swift | Java | 
@@ -795,7 +795,7 @@ Update README file only:
 |     | 665 | Non-decreasing Array | Swift | Java | 
 |     | 664 | Strange Printer | Swift | Java | 
 |     | 663 | Equal Tree Partition | Swift | Java | 
-|     | 662 | Maximum Width of Binary Tree | Swift | Java | 
+|     | 662 | Maximum Width of Binary Tree | [~~Swift~~](././Swift/maximum-width-of-binary-tree.swift) | Java | 
 |     | 661 | Image Smoother | Swift | Java | 
 |     | 660 | Remove 9 | Swift | Java | 
 |     | 659 | Split Array into Consecutive Subsequences | Swift | Java | 
