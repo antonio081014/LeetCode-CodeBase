@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-261 | Java-150 |
+| X | # | Question | Swift-262 | Java-150 |
 |---|---|---|---|---|
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
 |     | 1640 | Design a File Sharing System | Swift | Java | 
@@ -1289,7 +1289,7 @@ Update README file only:
 |     | 103 | Binary Tree Zigzag Level Order Traversal | Swift | [~~Java~~](././Java/binary-tree-zigzag-level-order-traversal.java) | 
 |     | 102 | Binary Tree Level Order Traversal | Swift | Java | 
 |     | 101 | Symmetric Tree | Swift | [~~Java~~](././Java/symmetric-tree.java) | 
-|     | 100 | Same Tree | Swift | [~~Java~~](././Java/same-tree.java) | 
+|  X  | 100 | Same Tree | [~~Swift~~](././Swift/same-tree.swift) | [~~Java~~](././Java/same-tree.java) | 
 |  X  | 99 | Recover Binary Search Tree | [~~Swift~~](././Swift/recover-binary-search-tree.swift) | [~~Java~~](././Java/recover-binary-search-tree.java) | 
 |     | 98 | Validate Binary Search Tree | [~~Swift~~](././Swift/validate-binary-search-tree.swift) | Java | 
 |     | 97 | Interleaving String | Swift | Java | 
