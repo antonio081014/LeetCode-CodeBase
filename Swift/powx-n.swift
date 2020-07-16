@@ -41,3 +41,29 @@ class Solution {
         }
     }
 }
+/**
+ * https://leetcode.com/problems/powx-n/
+ * 
+ * 
+ */ 
+// Date: Thu Jul 16 09:25:19 PDT 2020
+class Solution {
+    /// iterative solution.
+    func myPow(_ x: Double, _ n: Int) -> Double {
+        var x = x 
+        var n = n
+        if n < 0 {
+            x = 1.0 / x
+            n = -n
+        }
+        var pow = 1.0
+        while n > 0 {
+            if n % 2 == 1 {
+                pow *= x
+            }
+            x *= x
+            n /= 2
+        }
+        return pow
+    }
+}
