@@ -15,6 +15,9 @@ Update README file only:
 |---|---|---|---|---|
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
 |     | 1640 | Design a File Sharing System | Swift | Java | 
+|     | 1638 | Best Position for a Service Centre | Swift | Java | 
+|     | 1636 | Number of Substrings With Only 1s | Swift | Java | 
+|     | 1635 | Number of Good Pairs | Swift | Java | 
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
 |     | 1629 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | Swift | Java | 
 |     | 1628 | Count Submatrices With All Ones | Swift | Java | 
@@ -26,6 +29,9 @@ Update README file only:
 |     | 1620 | Check If Array Pairs Are Divisible by k | Swift | Java | 
 |     | 1619 | Path Crossing | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
+|     | 1617 | Stone Game IV | Swift | Java | 
+|     | 1616 | Minimum Difference Between Largest and Smallest Value in Three Moves | Swift | Java | 
+|     | 1615 | Range Sum of Sorted Subarray Sums | Swift | Java | 
 |     | 1613 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Swift | Java | 
 |     | 1612 | Avoid Flood in The City | Swift | Java | 
 |     | 1611 | Making File Names Unique | Swift | Java | 
@@ -222,6 +228,7 @@ Update README file only:
 |     | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
 |     | 1329 | Play with Chips | Swift | Java | 
+|     | 1325 | Path with Maximum Probability | Swift | Java | 
 |     | 1322 | Minimum Moves to Reach Target with Rotations | Swift | Java | 
 |     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
 |     | 1320 | Remove All Adjacent Duplicates in String II | Swift | Java | 
@@ -243,6 +250,7 @@ Update README file only:
 |     | 1286 | Constrained Subsequence Sum | Swift | Java | 
 |     | 1285 | Balance a Binary Search Tree | [~~Swift~~](././Swift/balance-a-binary-search-tree.swift) | Java | 
 |     | 1284 | Four Divisors | [~~Swift~~](././Swift/four-divisors.swift) | Java | 
+|     | 1283 | Reformat Date | Swift | Java | 
 |     | 1282 | Number of Valid Words for Each Puzzle | Swift | Java | 
 |     | 1281 | Can Make Palindrome from Substring | Swift | Java | 
 |     | 1280 | Diet Plan Performance | Swift | Java | 
