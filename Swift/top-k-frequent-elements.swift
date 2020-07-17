@@ -41,3 +41,29 @@ class Solution {
         return ret
     }
 }
+/**
+ * https://leetcode.com/problems/top-k-frequent-elements/
+ * 
+ * 
+ */ 
+// Date: Fri Jul 17 10:16:22 PDT 2020
+class Solution {
+    func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
+        // 1. count the freq of each num in nums.
+        var count: [Int: Int] = [:]
+        for n in nums {
+            count[n] = 1 + count[n, default: 0]
+        }
+        // 2. Turn the dictionary into an Array.
+        var list: [(Int, Int)] = []
+        for (key, value) in count {
+            list.append((key, value))
+        }
+        // 3. Sort the array by the freq.
+        list = list.sorted(by: {
+            $0.1 > $1.1
+        })
+        // 4. Return first k elements with first value in the tuple.
+        return Array(list[0 ..< k].map { $0.0 })
+    }
+}
