@@ -67,3 +67,39 @@ class Solution {
         return Array(list[0 ..< k].map { $0.0 })
     }
 }
+/**
+ * https://leetcode.com/problems/top-k-frequent-elements/
+ * 
+ * 
+ */ 
+// Date: Fri Jul 17 10:49:12 PDT 2020
+class Solution {
+    /// Bucket Sort
+    /// - Complexity:
+    ///     - Time: O(n), n is the number of elements in nums.
+    ///     - Space: O(n), n is the number of elements in nums
+    ///
+    func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
+        var count: [Int: Int] = [:]
+        for n in nums {
+            count[n] = 1 + count[n, default: 0]
+        }
+        var bucket: [[Int]] = Array(repeating: [], count: nums.count + 1)
+        for (key, value) in count {
+            if bucket[value] == nil {
+                bucket[value] = []
+            }
+            bucket[value].append(key)
+        }
+        var result: [Int] = []
+        for index in stride(from: nums.count, through: 0, by: -1) {
+            if bucket[index] != nil, bucket[index].isEmpty == false {
+                result += bucket[index]
+            }
+            if result.count >= k {
+                return result
+            }
+        }
+        return result
+    }
+}
