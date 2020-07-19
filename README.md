@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-263 | Java-150 |
+| X | # | Question | Swift-264 | Java-150 |
 |---|---|---|---|---|
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
@@ -1331,7 +1331,7 @@ Update README file only:
 |  X  | 70 | Climbing Stairs | [~~Swift~~](././Swift/climbing-stairs.swift) | [~~Java~~](././Java/climbing-stairs.java) | 
 |     | 69 | Sqrt(x) | [~~Swift~~](././Swift/sqrtx.swift) | Java | 
 |     | 68 | Text Justification | Swift | [~~Java~~](././Java/text-justification.java) | 
-|     | 67 | Add Binary | Swift | Java | 
+|     | 67 | Add Binary | [~~Swift~~](././Swift/add-binary.swift) | Java | 
 |     | 66 | Plus One | [~~Swift~~](././Swift/plus-one.swift) | Java | 
 |     | 65 | Valid Number | Swift | [~~Java~~](././Java/valid-number.java) | 
 |  X  | 64 | Minimum Path Sum | [~~Swift~~](././Swift/minimum-path-sum.swift) | [~~Java~~](././Java/minimum-path-sum.java) | 
