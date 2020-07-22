@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-265 | Java-150 |
+| X | # | Question | Swift-266 | Java-150 |
 |---|---|---|---|---|
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
@@ -1316,7 +1316,7 @@ Update README file only:
 |     | 89 | Gray Code | Swift | [~~Java~~](././Java/gray-code.java) | 
 |     | 88 | Merge Sorted Array | Swift | [~~Java~~](././Java/merge-sorted-array.java) | 
 |     | 87 | Scramble String | Swift | Java | 
-|     | 86 | Partition List | Swift | Java | 
+|     | 86 | Partition List | [~~Swift~~](././Swift/partition-list.swift) | Java | 
 |     | 85 | Maximal Rectangle | [~~Swift~~](././Swift/maximal-rectangle.swift) | Java | 
 |     | 84 | Largest Rectangle in Histogram | [~~Swift~~](././Swift/largest-rectangle-in-histogram.swift) | Java | 
 |  X  | 83 | Remove Duplicates from Sorted List | [~~Swift~~](././Swift/remove-duplicates-from-sorted-list.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-list.java) | 
