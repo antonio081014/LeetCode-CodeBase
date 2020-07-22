@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-264 | Java-150 |
+| X | # | Question | Swift-265 | Java-150 |
 |---|---|---|---|---|
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
+|     | 1645 | Find a Value of a Mysterious Function Closest to Target | Swift | Java | 
+|     | 1644 | Maximum Number of Non-Overlapping Substrings | Swift | Java | 
+|     | 1643 | Number of Nodes in the Sub-Tree With the Same Label | Swift | Java | 
+|     | 1642 | Water Bottles | Swift | Java | 
 |     | 1640 | Design a File Sharing System | Swift | Java | 
 |     | 1638 | Best Position for a Service Centre | Swift | Java | 
 |     | 1636 | Number of Substrings With Only 1s | Swift | Java | 
@@ -497,7 +501,7 @@ Update README file only:
 |     | 991 | Array of Doubled Pairs | Swift | Java | 
 |     | 990 | Verifying an Alien Dictionary | Swift | Java | 
 |     | 989 | Largest Component Size by Common Factor | Swift | Java | 
-|     | 988 | Flip Equivalent Binary Trees | Swift | Java | 
+|     | 988 | Flip Equivalent Binary Trees | [~~Swift~~](././Swift/flip-equivalent-binary-trees.swift) | Java | 
 |     | 987 | Reveal Cards In Increasing Order | Swift | Java | 
 |     | 986 | Largest Time for Given Digits | Swift | Java | 
 |     | 985 | Bag of Tokens | Swift | Java | 
