@@ -5,6 +5,10 @@
  */ 
 // Date: Thu Jul 23 16:07:29 PDT 2020
 class Solution {
+    /// - Complexity:
+    ///     - Time: O(m*n), m and n are sizes of width and height of matrix.
+    ///     - Space: O(m*n), to store all the elements for return.
+    ///
     func spiralOrder(_ matrix: [[Int]]) -> [Int] {
         let n = matrix.count
         guard let m = matrix.first?.count else { return [] }
