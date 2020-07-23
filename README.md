@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-266 | Java-150 |
+| X | # | Question | Swift-267 | Java-150 |
 |---|---|---|---|---|
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
@@ -1348,7 +1348,7 @@ Update README file only:
 |     | 57 | Insert Interval | Swift | Java | 
 |     | 56 | Merge Intervals | Swift | [~~Java~~](././Java/merge-intervals.java) | 
 |  X  | 55 | Jump Game | [~~Swift~~](././Swift/jump-game.swift) | [~~Java~~](././Java/jump-game.java) | 
-|     | 54 | Spiral Matrix | Swift | Java | 
+|     | 54 | Spiral Matrix | [~~Swift~~](././Swift/spiral-matrix.swift) | Java | 
 |  X  | 53 | Maximum Subarray | [~~Swift~~](././Swift/maximum-subarray.swift) | [~~Java~~](././Java/maximum-subarray.java) | 
 |  X  | 52 | N-Queens II | [~~Swift~~](././Swift/n-queens-ii.swift) | [~~Java~~](././Java/n-queens-ii.java) | 
 |  X  | 51 | N-Queens | [~~Swift~~](././Swift/n-queens.swift) | [~~Java~~](././Java/n-queens.java) | 
