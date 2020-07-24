@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-268 | Java-150 |
+| X | # | Question | Swift-269 | Java-150 |
 |---|---|---|---|---|
+|     | 1665 | Diameter of N-Ary Tree | Swift | Java | 
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
 |     | 1645 | Find a Value of a Mysterious Function Closest to Target | Swift | Java | 
@@ -668,7 +669,7 @@ Update README file only:
 |     | 816 | Design HashSet | Swift | Java | 
 |     | 815 | Champagne Tower | Swift | Java | 
 |     | 814 | Smallest Rotation with Highest Score | Swift | Java | 
-|     | 813 | All Paths From Source to Target | Swift | Java | 
+|     | 813 | All Paths From Source to Target | [~~Swift~~](././Swift/all-paths-from-source-to-target.swift) | Java | 
 |     | 812 | Rotate String | Swift | Java | 
 |     | 811 | Number of Subarrays with Bounded Maximum | Swift | Java | 
 |     | 810 | Valid Tic-Tac-Toe State | Swift | Java | 
