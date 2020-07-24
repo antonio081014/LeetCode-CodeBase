@@ -60,3 +60,39 @@ class Solution {
         return result
     }
 }
+/**
+ * https://leetcode.com/problems/all-paths-from-source-to-target/
+ * 
+ * 
+ */ 
+// Date: Fri Jul 24 10:11:59 PDT 2020
+class Solution {
+    /// DFS the graph.
+    /// Key part of this solution, which differs from the previous one, is it kept the path to destination from current node in a dictionary.
+    /// This will save a lot of time.
+    /// - Complexity:
+    ///     - Time: O(n), n is the number of nodes in graph.
+    ///     - Space: O(n), n is the number of nodes in graph.
+    ///
+    func allPathsSourceTarget(_ graph: [[Int]]) -> [[Int]] {
+        let n = graph.count - 1
+        var pathMap: [Int : [[Int]]] = [:]
+        func dfs(_ current: Int) {
+            if let _ = pathMap[current] {
+                return
+            }
+            if current == n {
+                pathMap[current] = [[current]]
+                return
+            }
+            var path: [[Int]] = []
+            for dst in graph[current] {
+                dfs(dst)
+                path += pathMap[dst, default: []].map { [current] + $0 }
+            }
+            pathMap[current] = path
+        }
+        dfs(0)
+        return pathMap[0, default: []]
+    }
+}
