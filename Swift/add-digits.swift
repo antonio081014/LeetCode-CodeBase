@@ -30,3 +30,23 @@ class Solution {
         return addDigits(sum)
     }
 }
+/**
+ * https://leetcode.com/problems/add-digits/
+ * 
+ * 
+ */ 
+// Date: Sun Jul 26 00:43:53 PDT 2020
+class Solution {
+    func addDigits(_ num: Int) -> Int {
+        var num = num
+        while num > 9 {
+            var sum = 0
+            while num > 0 {
+                sum += num % 10
+                num /= 10
+            }
+            num = sum
+        }
+        return num
+    }
+}
