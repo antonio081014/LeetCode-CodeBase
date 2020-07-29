@@ -11,10 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-269 | Java-150 |
+| X | # | Question | Swift-270 | Java-150 |
 |---|---|---|---|---|
 |     | 1665 | Diameter of N-Ary Tree | Swift | Java | 
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
+|     | 1653 | Number of Good Leaf Nodes Pairs | Swift | Java | 
+|     | 1652 | Bulb Switcher IV | Swift | Java | 
+|     | 1651 | Shuffle String | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
 |     | 1645 | Find a Value of a Mysterious Function Closest to Target | Swift | Java | 
 |     | 1644 | Maximum Number of Non-Overlapping Substrings | Swift | Java | 
@@ -22,9 +25,14 @@ Update README file only:
 |     | 1642 | Water Bottles | Swift | Java | 
 |     | 1640 | Design a File Sharing System | Swift | Java | 
 |     | 1638 | Best Position for a Service Centre | Swift | Java | 
+|     | 1637 | String Compression II | Swift | Java | 
 |     | 1636 | Number of Substrings With Only 1s | Swift | Java | 
 |     | 1635 | Number of Good Pairs | Swift | Java | 
 |     | 1634 | Clone N-ary Tree | Swift | Java | 
+|     | 1633 | Minimum Number of Increments on Subarrays to Form a Target Array | Swift | Java | 
+|     | 1632 | Number of Good Ways to Split a String | Swift | Java | 
+|     | 1631 | Number of Sub-arrays With Odd Sum | Swift | Java | 
+|     | 1630 | Count Odd Numbers in an Interval Range | Swift | Java | 
 |     | 1629 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | Swift | Java | 
 |     | 1628 | Count Submatrices With All Ones | Swift | Java | 
 |     | 1627 | Last Moment Before All Ants Fall Out of a Plank | Swift | Java | 
@@ -846,7 +854,7 @@ Update README file only:
 |     | 625 | Minimum Factorization | Swift | Java | 
 |     | 624 | Maximum Distance in Arrays | Swift | Java | 
 |     | 623 | Add One Row to Tree | Swift | Java | 
-|     | 621 | Task Scheduler | Swift | Java | 
+|     | 621 | Task Scheduler | [~~Swift~~](././Swift/task-scheduler.swift) | Java | 
 |     | 617 | Merge Two Binary Trees | Swift | Java | 
 |     | 616 | Add Bold Tag in String | Swift | Java | 
 |     | 611 | Valid Triangle Number | Swift | Java | 
