@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-272 | Java-150 |
+| X | # | Question | Swift-273 | Java-150 |
 |---|---|---|---|---|
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
 |     | 1665 | Diameter of N-Ary Tree | Swift | Java | 
+|     | 1659 | Get the Maximum Score | Swift | Java | 
+|     | 1658 | Minimum Swaps to Arrange a Binary Grid | Swift | Java | 
+|     | 1657 | Find the Winner of an Array Game | Swift | Java | 
+|     | 1656 | Count Good Triplets | Swift | Java | 
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1653 | Number of Good Leaf Nodes Pairs | Swift | Java | 
 |     | 1652 | Bulb Switcher IV | Swift | Java | 
@@ -922,7 +926,7 @@ Update README file only:
 |     | 523 | Continuous Subarray Sum | Swift | Java | 
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
 |     | 521 | Longest Uncommon Subsequence I  | Swift | Java | 
-|     | 520 | Detect Capital | Swift | Java | 
+|     | 520 | Detect Capital | [~~Swift~~](././Swift/detect-capital.swift) | Java | 
 |     | 518 | Coin Change 2 | [~~Swift~~](././Swift/coin-change-2.swift) | Java | 
 |     | 517 | Super Washing Machines | Swift | Java | 
 |     | 516 | Longest Palindromic Subsequence | [~~Swift~~](././Swift/longest-palindromic-subsequence.swift) | Java | 
