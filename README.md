@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-273 | Java-150 |
 |---|---|---|---|---|
+|     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
 |     | 1665 | Diameter of N-Ary Tree | Swift | Java | 
 |     | 1659 | Get the Maximum Score | Swift | Java | 
