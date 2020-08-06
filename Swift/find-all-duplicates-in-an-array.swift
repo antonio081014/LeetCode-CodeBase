@@ -42,3 +42,28 @@ class Solution {
         return result
     }
 }
+/**
+ * https://leetcode.com/problems/find-all-duplicates-in-an-array/
+ * 
+ * 
+ */ 
+// Date: Thu Aug  6 09:01:46 PDT 2020
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n), n is the length of array.
+    ///     - Space: O(1), if we don't count the copy of nums.
+    ///
+    func findDuplicates(_ nums: [Int]) -> [Int] {
+        var result = [Int]()
+        var nums = nums
+        for index in 0 ..< nums.count {
+            let n = abs(nums[index])
+            if nums[n - 1] < 0 {
+                result.append(n)
+            } else {
+                nums[n - 1] = -nums[n - 1]
+            }
+        }
+        return result
+    }
+}
