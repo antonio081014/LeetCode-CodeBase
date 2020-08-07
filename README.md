@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-273 | Java-150 |
+| X | # | Question | Swift-274 | Java-150 |
 |---|---|---|---|---|
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
@@ -479,7 +479,7 @@ Update README file only:
 |     | 1032 | Satisfiability of Equality Equations | Swift | Java | 
 |     | 1031 | Add to Array-Form of Integer | Swift | Java | 
 |     | 1030 | Smallest String Starting From Leaf | Swift | Java | 
-|     | 1029 | Vertical Order Traversal of a Binary Tree | Swift | Java | 
+|     | 1029 | Vertical Order Traversal of a Binary Tree | [~~Swift~~](././Swift/vertical-order-traversal-of-a-binary-tree.swift) | Java | 
 |     | 1028 | Interval List Intersections | [~~Swift~~](././Swift/interval-list-intersections.swift) | Java | 
 |     | 1027 | Sum of Even Numbers After Queries | Swift | Java | 
 |     | 1026 | String Without AAA or BBB | Swift | Java | 
