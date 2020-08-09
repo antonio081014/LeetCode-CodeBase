@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-274 | Java-150 |
+| X | # | Question | Swift-275 | Java-150 |
 |---|---|---|---|---|
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
@@ -472,7 +472,7 @@ Update README file only:
 |     | 1039 | Find the Town Judge | [~~Swift~~](././Swift/find-the-town-judge.swift) | Java | 
 |     | 1038 | Number of Squareful Arrays | Swift | Java | 
 |     | 1037 | Minimum Number of K Consecutive Bit Flips | Swift | Java | 
-|     | 1036 | Rotting Oranges | Swift | Java | 
+|     | 1036 | Rotting Oranges | [~~Swift~~](././Swift/rotting-oranges.swift) | Java | 
 |     | 1035 | Cousins in Binary Tree | [~~Swift~~](././Swift/cousins-in-binary-tree.swift) | Java | 
 |     | 1034 | Subarrays with K Different Integers | Swift | Java | 
 |     | 1033 | Broken Calculator | Swift | Java | 
