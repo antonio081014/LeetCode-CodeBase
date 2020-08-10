@@ -15,3 +15,23 @@ class Solution {
         return colString
     }
 }
+/**
+ * https://leetcode.com/problems/excel-sheet-column-title/
+ * 
+ * 
+ */ 
+// Date: Mon Aug 10 10:51:52 PDT 2020
+class Solution {
+    func convertToTitle(_ n: Int) -> String {
+        var result = ""
+        var n = n
+        while n > 0 {
+            let code = Unicode.Scalar(UInt8(n % 26 == 0 ? 26 : n % 26) + 64)
+            // print("\(n % 26 + 64) : \(code)")
+            result = String(Character(code)) + result
+            n -= Int(code.value) - 64
+            n /= 26
+        }
+        return result
+    }
+}
