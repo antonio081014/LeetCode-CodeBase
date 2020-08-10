@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-275 | Java-150 |
+| X | # | Question | Swift-276 | Java-150 |
 |---|---|---|---|---|
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
+|     | 1669 | Minimum Cost to Cut a Stick | Swift | Java | 
+|     | 1668 | Find Longest Awesome Substring | Swift | Java | 
+|     | 1667 | Find Kth Bit in Nth Binary String | Swift | Java | 
+|     | 1666 | Make The String Great | Swift | Java | 
 |     | 1665 | Diameter of N-Ary Tree | Swift | Java | 
 |     | 1659 | Get the Maximum Score | Swift | Java | 
 |     | 1658 | Minimum Swaps to Arrange a Binary Grid | Swift | Java | 
@@ -25,6 +29,10 @@ Update README file only:
 |     | 1652 | Bulb Switcher IV | Swift | Java | 
 |     | 1651 | Shuffle String | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
+|     | 1649 | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target | Swift | Java | 
+|     | 1648 | Minimum Insertions to Balance a Parentheses String | Swift | Java | 
+|     | 1647 | Can Convert String in K Moves | Swift | Java | 
+|     | 1646 | Kth Missing Positive Number | Swift | Java | 
 |     | 1645 | Find a Value of a Mysterious Function Closest to Target | Swift | Java | 
 |     | 1644 | Maximum Number of Non-Overlapping Substrings | Swift | Java | 
 |     | 1643 | Number of Nodes in the Sub-Tree With the Same Label | Swift | Java | 
@@ -1246,7 +1254,7 @@ Update README file only:
 |  X  | 174 | Dungeon Game | [~~Swift~~](././Swift/dungeon-game.swift) | [~~Java~~](././Java/dungeon-game.java) | 
 |     | 173 | Binary Search Tree Iterator | Swift | Java | 
 |     | 172 | Factorial Trailing Zeroes | [~~Swift~~](././Swift/factorial-trailing-zeroes.swift) | Java | 
-|     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](././Java/excel-sheet-column-number.java) | 
+|  X  | 171 | Excel Sheet Column Number | [~~Swift~~](././Swift/excel-sheet-column-number.swift) | [~~Java~~](././Java/excel-sheet-column-number.java) | 
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
 |     | 169 | Majority Element | Swift | [~~Java~~](././Java/majority-element.java) | 
 |     | 168 | Excel Sheet Column Title | [~~Swift~~](././Swift/excel-sheet-column-title.swift) | Java | 
