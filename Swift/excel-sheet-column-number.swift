@@ -13,3 +13,14 @@ class Solution {
         return result
     }
 }
+/**
+ * https://leetcode.com/problems/excel-sheet-column-number/
+ * 
+ * 
+ */ 
+// Date: Mon Aug 10 10:18:33 PDT 2020
+class Solution {
+    func titleToNumber(_ s: String) -> Int {
+        return s.unicodeScalars.reduce(0) { $0 * 26 + Int($1.value) - 64 }
+    }
+}
