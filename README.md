@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-276 | Java-150 |
+| X | # | Question | Swift-277 | Java-150 |
 |---|---|---|---|---|
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
@@ -1168,7 +1168,7 @@ Update README file only:
 |     | 277 | Find the Celebrity | Swift | Java | 
 |     | 276 | Paint Fence | Swift | Java | 
 |  X  | 275 | H-Index II | [~~Swift~~](././Swift/h-index-ii.swift) | [~~Java~~](././Java/h-index-ii.java) | 
-|     | 274 | H-Index | Swift | [~~Java~~](././Java/h-index.java) | 
+|  X  | 274 | H-Index | [~~Swift~~](././Swift/h-index.swift) | [~~Java~~](././Java/h-index.java) | 
 |     | 273 | Integer to English Words | Swift | Java | 
 |     | 272 | Closest Binary Search Tree Value II | Swift | Java | 
 |     | 271 | Encode and Decode Strings | Swift | Java | 
