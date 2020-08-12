@@ -41,3 +41,27 @@ class Solution {
         return last
     }
 }
+/**
+ * https://leetcode.com/problems/pascals-triangle-ii/
+ * 
+ * 
+ */ 
+// Date: Wed Aug 12 06:59:35 PDT 2020
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(k^2)
+    ///     - Space: O(k)
+    ///
+    func getRow(_ rowIndex: Int) -> [Int] {
+        var result = Array(repeating: 0, count: rowIndex + 1)
+        result[0] = 1
+        if rowIndex < 1 { return result }
+        for row in 1 ... rowIndex {
+            for index in stride(from: row, through: 1, by: -1) {
+                result[index] += result[index - 1]
+            }
+            // print("\(row) : \(result)")
+        }
+        return result
+    }
+}
