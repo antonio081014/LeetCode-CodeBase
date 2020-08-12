@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-274 | Java-150 |
+| X | # | Question | Swift-277 | Java-150 |
 |---|---|---|---|---|
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
@@ -480,7 +480,7 @@ Update README file only:
 |     | 1039 | Find the Town Judge | [~~Swift~~](././Swift/find-the-town-judge.swift) | Java | 
 |     | 1038 | Number of Squareful Arrays | Swift | Java | 
 |     | 1037 | Minimum Number of K Consecutive Bit Flips | Swift | Java | 
-|     | 1036 | Rotting Oranges | Swift | Java | 
+|     | 1036 | Rotting Oranges | [~~Swift~~](././Swift/rotting-oranges.swift) | Java | 
 |     | 1035 | Cousins in Binary Tree | [~~Swift~~](././Swift/cousins-in-binary-tree.swift) | Java | 
 |     | 1034 | Subarrays with K Different Integers | Swift | Java | 
 |     | 1033 | Broken Calculator | Swift | Java | 
@@ -1168,7 +1168,7 @@ Update README file only:
 |     | 277 | Find the Celebrity | Swift | Java | 
 |     | 276 | Paint Fence | Swift | Java | 
 |  X  | 275 | H-Index II | [~~Swift~~](././Swift/h-index-ii.swift) | [~~Java~~](././Java/h-index-ii.java) | 
-|     | 274 | H-Index | Swift | [~~Java~~](././Java/h-index.java) | 
+|  X  | 274 | H-Index | [~~Swift~~](././Swift/h-index.swift) | [~~Java~~](././Java/h-index.java) | 
 |     | 273 | Integer to English Words | Swift | Java | 
 |     | 272 | Closest Binary Search Tree Value II | Swift | Java | 
 |     | 271 | Encode and Decode Strings | Swift | Java | 
@@ -1254,7 +1254,7 @@ Update README file only:
 |  X  | 174 | Dungeon Game | [~~Swift~~](././Swift/dungeon-game.swift) | [~~Java~~](././Java/dungeon-game.java) | 
 |     | 173 | Binary Search Tree Iterator | Swift | Java | 
 |     | 172 | Factorial Trailing Zeroes | [~~Swift~~](././Swift/factorial-trailing-zeroes.swift) | Java | 
-|     | 171 | Excel Sheet Column Number | Swift | [~~Java~~](././Java/excel-sheet-column-number.java) | 
+|  X  | 171 | Excel Sheet Column Number | [~~Swift~~](././Swift/excel-sheet-column-number.swift) | [~~Java~~](././Java/excel-sheet-column-number.java) | 
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
 |     | 169 | Majority Element | Swift | [~~Java~~](././Java/majority-element.java) | 
 |     | 168 | Excel Sheet Column Title | [~~Swift~~](././Swift/excel-sheet-column-title.swift) | Java | 
