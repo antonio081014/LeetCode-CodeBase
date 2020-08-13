@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-277 | Java-150 |
+| X | # | Question | Swift-278 | Java-150 |
 |---|---|---|---|---|
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
@@ -331,7 +331,7 @@ Update README file only:
 |     | 1217 | Relative Sort Array | Swift | Java | 
 |     | 1213 | Handshakes That Don't Cross | Swift | Java | 
 |     | 1212 | Sequential Digits | Swift | Java | 
-|     | 1211 | Iterator for Combination | Swift | Java | 
+|     | 1211 | Iterator for Combination | [~~Swift~~](././Swift/iterator-for-combination.swift) | Java | 
 |     | 1208 | Maximum Nesting Depth of Two Valid Parentheses Strings | Swift | Java | 
 |     | 1207 | Delete Nodes And Return Forest | Swift | Java | 
 |     | 1206 | Corporate Flight Bookings | Swift | Java | 
