@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-278 | Java-150 |
+| X | # | Question | Swift-279 | Java-150 |
 |---|---|---|---|---|
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
@@ -324,7 +324,7 @@ Update README file only:
 |     | 1227 | Number of Equivalent Domino Pairs | Swift | Java | 
 |     | 1224 | Minimum Falling Path Sum II | Swift | Java | 
 |     | 1222 | Remove Covered Intervals | Swift | Java | 
-|     | 1221 | Element Appearing More Than 25% In Sorted Array | Swift | Java | 
+|     | 1221 | Element Appearing More Than 25% In Sorted Array | [~~Swift~~](././Swift/element-appearing-more-than-25-in-sorted-array.swift) | Java | 
 |     | 1220 | Smallest Sufficient Team | Swift | Java | 
 |     | 1219 | Longest Well-Performing Interval | Swift | Java | 
 |     | 1218 | Lowest Common Ancestor of Deepest Leaves | Swift | Java | 
