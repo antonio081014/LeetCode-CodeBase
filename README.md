@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-279 | Java-150 |
+| X | # | Question | Swift-280 | Java-150 |
 |---|---|---|---|---|
+|     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
 |     | 1669 | Minimum Cost to Cut a Stick | Swift | Java | 
@@ -1033,7 +1034,7 @@ Update README file only:
 |     | 412 | Fizz Buzz | [~~Swift~~](././Swift/fizz-buzz.swift) | Java | 
 |     | 411 | Minimum Unique Word Abbreviation | Swift | Java | 
 |     | 410 | Split Array Largest Sum | Swift | Java | 
-|     | 409 | Longest Palindrome | Swift | Java | 
+|     | 409 | Longest Palindrome | [~~Swift~~](././Swift/longest-palindrome.swift) | Java | 
 |     | 408 | Valid Word Abbreviation | Swift | Java | 
 |     | 407 | Trapping Rain Water II | [~~Swift~~](././Swift/trapping-rain-water-ii.swift) | Java | 
 |     | 406 | Queue Reconstruction by Height | [~~Swift~~](././Swift/queue-reconstruction-by-height.swift) | Java | 
@@ -1230,7 +1231,7 @@ Update README file only:
 |     | 214 | Shortest Palindrome | Swift | Java | 
 |     | 213 | House Robber II | Swift | Java | 
 |  X  | 212 | Word Search II | [~~Swift~~](././Swift/word-search-ii.swift) | [~~Java~~](././Java/word-search-ii.java) | 
-|     | 211 | Add and Search Word - Data structure design | Swift | [~~Java~~](././Java/add-and-search-word-data-structure-design.java) | 
+|     | 211 | Design Add and Search Words Data Structure | Swift | Java | 
 |     | 210 | Course Schedule II | [~~Swift~~](././Swift/course-schedule-ii.swift) | Java | 
 |     | 209 | Minimum Size Subarray Sum | Swift | Java | 
 |     | 208 | Implement Trie (Prefix Tree) | [~~Swift~~](././Swift/implement-trie-prefix-tree.swift) | Java | 
