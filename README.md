@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-282 | Java-150 |
+| X | # | Question | Swift-283 | Java-150 |
 |---|---|---|---|---|
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
@@ -513,7 +513,7 @@ Update README file only:
 |     | 1010 | Powerful Integers | Swift | Java | 
 |     | 1009 | Pancake Sorting | Swift | Java | 
 |     | 1008 | Binary Tree Cameras | Swift | Java | 
-|     | 1007 | Numbers With Same Consecutive Differences | Swift | Java | 
+|     | 1007 | Numbers With Same Consecutive Differences | [~~Swift~~](././Swift/numbers-with-same-consecutive-differences.swift) | Java | 
 |     | 1006 | Vowel Spellchecker | Swift | Java | 
 |     | 1005 | Univalued Binary Tree | Swift | Java | 
 |     | 1004 | Least Operators to Express Number | Swift | Java | 
