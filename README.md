@@ -11,10 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-281 | Java-150 |
+| X | # | Question | Swift-282 | Java-150 |
 |---|---|---|---|---|
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
+|     | 1676 | Minimum Number of Days to Eat N Oranges | Swift | Java | 
+|     | 1675 | Magnetic Force Between Two Balls | Swift | Java | 
+|     | 1674 | Minimum Operations to Make Array Equal | Swift | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
 |     | 1669 | Minimum Cost to Cut a Stick | Swift | Java | 
 |     | 1668 | Find Longest Awesome Substring | Swift | Java | 
@@ -256,7 +259,7 @@ Update README file only:
 |     | 1332 | Count Vowels Permutation | Swift | Java | 
 |     | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
-|     | 1329 | Play with Chips | Swift | Java | 
+|     | 1329 | Minimum Cost to Move Chips to The Same Position | Swift | Java | 
 |     | 1325 | Path with Maximum Probability | Swift | Java | 
 |     | 1322 | Minimum Moves to Reach Target with Rotations | Swift | Java | 
 |     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
@@ -272,6 +275,7 @@ Update README file only:
 |     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
 |     | 1297 | Maximum Number of Balloons | Swift | Java | 
 |     | 1296 | Kth Ancestor of a Tree Node | Swift | Java | 
+|     | 1293 | Three Consecutive Odds | Swift | Java | 
 |     | 1290 | Make Array Strictly Increasing | Swift | Java | 
 |     | 1289 | Day of the Week | Swift | Java | 
 |     | 1288 | Maximum Subarray Sum with One Deletion | [~~Swift~~](././Swift/maximum-subarray-sum-with-one-deletion.swift) | Java | 
@@ -343,7 +347,7 @@ Update README file only:
 |     | 1199 | Hexspeak | Swift | Java | 
 |     | 1197 | Parsing A Boolean Expression | Swift | Java | 
 |     | 1196 | Filling Bookcase Shelves | Swift | Java | 
-|     | 1195 | Distribute Candies to People | Swift | Java | 
+|     | 1195 | Distribute Candies to People | [~~Swift~~](././Swift/distribute-candies-to-people.swift) | Java | 
 |     | 1194 | Path In Zigzag Labelled Binary Tree | Swift | Java | 
 |     | 1192 | Divide Chocolate | Swift | Java | 
 |     | 1191 | Synonymous Sentences | Swift | Java | 
@@ -430,7 +434,7 @@ Update README file only:
 |     | 1090 | Armstrong Number | Swift | Java | 
 |     | 1089 | Remove Vowels from a String | Swift | Java | 
 |     | 1088 | Number of Days in a Month | Swift | Java | 
-|     | 1087 | Longest Arithmetic Sequence | Swift | Java | 
+|     | 1087 | Longest Arithmetic Subsequence | Swift | Java | 
 |     | 1086 | Divisor Game | Swift | Java | 
 |     | 1085 | The Earliest Moment When Everyone Become Friends | Swift | Java | 
 |     | 1084 | Find K-Length Substrings With No Repeated Characters | Swift | Java | 
