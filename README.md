@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-283 | Java-150 |
+| X | # | Question | Swift-284 | Java-150 |
 |---|---|---|---|---|
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
@@ -665,7 +665,7 @@ Update README file only:
 |     | 854 | Making A Large Island | Swift | Java | 
 |     | 853 | Most Profit Assigning Work | Swift | Java | 
 |     | 852 | Friends Of Appropriate Ages | Swift | Java | 
-|     | 851 | Goat Latin | Swift | Java | 
+|     | 851 | Goat Latin | [~~Swift~~](././Swift/goat-latin.swift) | Java | 
 |     | 850 | Insert into a Sorted Circular Linked List | Swift | Java | 
 |     | 843 | Binary Trees With Factors | Swift | Java | 
 |     | 842 | Card Flipping Game | Swift | Java | 
