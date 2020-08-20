@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-284 | Java-150 |
+| X | # | Question | Swift-285 | Java-150 |
 |---|---|---|---|---|
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
@@ -1287,7 +1287,7 @@ Update README file only:
 |  X  | 146 | LRU Cache | [~~Swift~~](././Swift/lru-cache.swift) | [~~Java~~](././Java/lru-cache.java) | 
 |  X  | 145 | Binary Tree Postorder Traversal | [~~Swift~~](././Swift/binary-tree-postorder-traversal.swift) | [~~Java~~](././Java/binary-tree-postorder-traversal.java) | 
 |  X  | 144 | Binary Tree Preorder Traversal | [~~Swift~~](././Swift/binary-tree-preorder-traversal.swift) | [~~Java~~](././Java/binary-tree-preorder-traversal.java) | 
-|     | 143 | Reorder List | Swift | Java | 
+|     | 143 | Reorder List | [~~Swift~~](././Swift/reorder-list.swift) | Java | 
 |     | 142 | Linked List Cycle II | [~~Swift~~](././Swift/linked-list-cycle-ii.swift) | Java | 
 |  X  | 141 | Linked List Cycle | [~~Swift~~](././Swift/linked-list-cycle.swift) | [~~Java~~](././Java/linked-list-cycle.java) | 
 |  X  | 140 | Word Break II | [~~Swift~~](././Swift/word-break-ii.swift) | [~~Java~~](././Java/word-break-ii.java) | 
