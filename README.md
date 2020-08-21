@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-285 | Java-150 |
+| X | # | Question | Swift-286 | Java-150 |
 |---|---|---|---|---|
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
@@ -575,7 +575,7 @@ Update README file only:
 |     | 944 | Smallest Range I | Swift | Java | 
 |     | 943 | Sum of Subarray Minimums | Swift | Java | 
 |     | 942 | Super Palindromes | Swift | Java | 
-|     | 941 | Sort Array By Parity | Swift | Java | 
+|     | 941 | Sort Array By Parity | [~~Swift~~](././Swift/sort-array-by-parity.swift) | Java | 
 |     | 940 | Fruit Into Baskets | Swift | Java | 
 |     | 939 | Valid Permutations for DI Sequence | Swift | Java | 
 |     | 938 | Numbers At Most N Given Digit Set | Swift | Java | 
