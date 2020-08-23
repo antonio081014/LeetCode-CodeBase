@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-286 | Java-150 |
+| X | # | Question | Swift-287 | Java-150 |
 |---|---|---|---|---|
+|     | 1697 | Strings Differ by One Character | Swift | Java | 
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1676 | Minimum Number of Days to Eat N Oranges | Swift | Java | 
@@ -24,6 +25,10 @@ Update README file only:
 |     | 1667 | Find Kth Bit in Nth Binary String | Swift | Java | 
 |     | 1666 | Make The String Great | Swift | Java | 
 |     | 1665 | Diameter of N-Ary Tree | Swift | Java | 
+|     | 1663 | Detect Cycles in 2D Grid | Swift | Java | 
+|     | 1662 | Minimum Numbers of Function Calls to Make Target Array | Swift | Java | 
+|     | 1661 | Minimum Number of Vertices to Reach All Nodes | Swift | Java | 
+|     | 1660 | Thousand Separator | Swift | Java | 
 |     | 1659 | Get the Maximum Score | Swift | Java | 
 |     | 1658 | Minimum Swaps to Arrange a Binary Grid | Swift | Java | 
 |     | 1657 | Find the Winner of an Array Game | Swift | Java | 
@@ -602,7 +607,7 @@ Update README file only:
 |     | 917 | Boats to Save People | Swift | Java | 
 |     | 916 | Decoded String at Index | Swift | Java | 
 |     | 915 | Generate Random Point in a Circle | Swift | Java | 
-|     | 914 | Random Point in Non-overlapping Rectangles | Swift | Java | 
+|     | 914 | Random Point in Non-overlapping Rectangles | [~~Swift~~](././Swift/random-point-in-non-overlapping-rectangles.swift) | Java | 
 |     | 913 | Random Flip Matrix | Swift | Java | 
 |     | 912 | Random Pick with Weight | [~~Swift~~](././Swift/random-pick-with-weight.swift) | Java | 
 |     | 911 | Profitable Schemes | Swift | Java | 
