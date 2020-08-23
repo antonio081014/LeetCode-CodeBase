@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-287 | Java-150 |
+| X | # | Question | Swift-288 | Java-150 |
 |---|---|---|---|---|
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
@@ -429,7 +429,7 @@ Update README file only:
 |     | 1100 | Connecting Cities With Minimum Cost | Swift | Java | 
 |     | 1099 | Path With Maximum Minimum Value | Swift | Java | 
 |     | 1098 | Largest Unique Number | Swift | Java | 
-|     | 1097 | Stream of Characters | Swift | Java | 
+|     | 1097 | Stream of Characters | [~~Swift~~](././Swift/stream-of-characters.swift) | Java | 
 |     | 1096 | Maximum Sum of Two Non-Overlapping Subarrays | Swift | Java | 
 |     | 1095 | Two City Scheduling | [~~Swift~~](././Swift/two-city-scheduling.swift) | Java | 
 |     | 1094 | Matrix Cells in Distance Order | Swift | Java | 
