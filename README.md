@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-288 | Java-150 |
+| X | # | Question | Swift-289 | Java-150 |
 |---|---|---|---|---|
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
@@ -563,7 +563,7 @@ Update README file only:
 |     | 961 | Long Pressed Name | Swift | Java | 
 |     | 960 | Minimize Malware Spread | Swift | Java | 
 |     | 959 | 3Sum With Multiplicity | Swift | Java | 
-|     | 958 | Sort Array By Parity II | Swift | Java | 
+|     | 958 | Sort Array By Parity II | [~~Swift~~](././Swift/sort-array-by-parity-ii.swift) | Java | 
 |     | 957 | Minimum Add to Make Parentheses Valid | Swift | Java | 
 |     | 956 | Number of Music Playlists | Swift | Java | 
 |     | 955 | Complete Binary Tree Inserter | Swift | Java | 
