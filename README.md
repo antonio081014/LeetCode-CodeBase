@@ -15,6 +15,10 @@ Update README file only:
 |---|---|---|---|---|
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
+|     | 1685 | Stone Game V | Swift | Java | 
+|     | 1684 | Find Latest Group of Size M | Swift | Java | 
+|     | 1683 | Maximum Number of Coins You Can Get | Swift | Java | 
+|     | 1682 | Most Visited Sector in  a Circular Track | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
 |     | 1676 | Minimum Number of Days to Eat N Oranges | Swift | Java | 
 |     | 1675 | Magnetic Force Between Two Balls | Swift | Java | 
