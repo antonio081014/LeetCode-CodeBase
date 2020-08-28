@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-291 | Java-150 |
+| X | # | Question | Swift-292 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -506,7 +506,7 @@ Update README file only:
 |     | 1028 | Interval List Intersections | [~~Swift~~](././Swift/interval-list-intersections.swift) | Java | 
 |     | 1027 | Sum of Even Numbers After Queries | Swift | Java | 
 |     | 1026 | String Without AAA or BBB | Swift | Java | 
-|     | 1025 | Minimum Cost For Tickets | Swift | Java | 
+|     | 1025 | Minimum Cost For Tickets | [~~Swift~~](././Swift/minimum-cost-for-tickets.swift) | Java | 
 |     | 1024 | Triples with Bitwise AND Equal To Zero | Swift | Java | 
 |     | 1023 | Time Based Key-Value Store | Swift | Java | 
 |     | 1022 | Unique Paths III | Swift | Java | 
