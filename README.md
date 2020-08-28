@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-290 | Java-150 |
+| X | # | Question | Swift-291 | Java-150 |
 |---|---|---|---|---|
+|     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1685 | Stone Game V | Swift | Java | 
@@ -622,7 +623,7 @@ Update README file only:
 |     | 906 | Walking Robot Simulation | Swift | Java | 
 |     | 905 | Length of Longest Fibonacci Subsequence | Swift | Java | 
 |     | 904 | Leaf-Similar Trees | Swift | Java | 
-|     | 903 | Implement Rand10() Using Rand7() | Swift | Java | 
+|     | 903 | Implement Rand10() Using Rand7() | [~~Swift~~](././Swift/implement-rand10-using-rand7.swift) | Java | 
 |     | 902 | Minimum Number of Refueling Stops | Swift | Java | 
 |     | 901 | Advantage Shuffle | Swift | Java | 
 |     | 900 | Reordered Power of 2 | [~~Swift~~](././Swift/reordered-power-of-2.swift) | Java | 
