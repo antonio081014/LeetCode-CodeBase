@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-292 | Java-150 |
+| X | # | Question | Swift-293 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -521,7 +521,7 @@ Update README file only:
 |     | 1012 | Equal Rational Numbers | Swift | Java | 
 |     | 1011 | Flip Binary Tree To Match Preorder Traversal | Swift | Java | 
 |     | 1010 | Powerful Integers | Swift | Java | 
-|     | 1009 | Pancake Sorting | Swift | Java | 
+|     | 1009 | Pancake Sorting | [~~Swift~~](././Swift/pancake-sorting.swift) | Java | 
 |     | 1008 | Binary Tree Cameras | Swift | Java | 
 |     | 1007 | Numbers With Same Consecutive Differences | [~~Swift~~](././Swift/numbers-with-same-consecutive-differences.swift) | Java | 
 |     | 1006 | Vowel Spellchecker | Swift | Java | 
