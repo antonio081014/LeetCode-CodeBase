@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-293 | Java-150 |
+| X | # | Question | Swift-294 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -538,7 +538,7 @@ Update README file only:
 |     | 992 | Delete Columns to Make Sorted II | Swift | Java | 
 |     | 991 | Array of Doubled Pairs | Swift | Java | 
 |     | 990 | Verifying an Alien Dictionary | Swift | Java | 
-|     | 989 | Largest Component Size by Common Factor | Swift | Java | 
+|     | 989 | Largest Component Size by Common Factor | [~~Swift~~](././Swift/largest-component-size-by-common-factor.swift) | Java | 
 |     | 988 | Flip Equivalent Binary Trees | [~~Swift~~](././Swift/flip-equivalent-binary-trees.swift) | Java | 
 |     | 987 | Reveal Cards In Increasing Order | Swift | Java | 
 |     | 986 | Largest Time for Given Digits | Swift | Java | 
