@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-295 | Java-150 |
+| X | # | Question | Swift-296 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -945,7 +945,7 @@ Update README file only:
 |     | 533 | Lonely Pixel II | Swift | Java | 
 |     | 532 | K-diff Pairs in an Array | Swift | Java | 
 |     | 531 | Lonely Pixel I | Swift | Java | 
-|     | 530 | Minimum Absolute Difference in BST | Swift | Java | 
+|     | 530 | Minimum Absolute Difference in BST | [~~Swift~~](././Swift/minimum-absolute-difference-in-bst.swift) | Java | 
 |     | 529 | Minesweeper | Swift | Java | 
 |     | 527 | Word Abbreviation | Swift | Java | 
 |     | 526 | Beautiful Arrangement | Swift | Java | 
