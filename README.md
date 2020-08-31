@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-294 | Java-150 |
+| X | # | Question | Swift-295 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
+|     | 1692 | Number of Ways to Reorder Array to Get Same BST | Swift | Java | 
+|     | 1691 | Minimum Number of Days to Disconnect Island | Swift | Java | 
+|     | 1690 | Maximum Length of Subarray With Positive Product | Swift | Java | 
+|     | 1689 | Detect Pattern of Length M Repeated K or More Times | Swift | Java | 
 |     | 1687 | The Most Similar Path in a Graph | Swift | Java | 
 |     | 1685 | Stone Game V | Swift | Java | 
 |     | 1684 | Find Latest Group of Size M | Swift | Java | 
@@ -1013,7 +1017,7 @@ Update README file only:
 |     | 453 | Minimum Moves to Equal Array Elements | [~~Swift~~](././Swift/minimum-moves-to-equal-array-elements.swift) | Java | 
 |     | 452 | Minimum Number of Arrows to Burst Balloons | Swift | Java | 
 |     | 451 | Sort Characters By Frequency | [~~Swift~~](././Swift/sort-characters-by-frequency.swift) | Java | 
-|     | 450 | Delete Node in a BST | Swift | Java | 
+|     | 450 | Delete Node in a BST | [~~Swift~~](././Swift/delete-node-in-a-bst.swift) | Java | 
 |     | 449 | Serialize and Deserialize BST | [~~Swift~~](././Swift/serialize-and-deserialize-bst.swift) | Java | 
 |     | 448 | Find All Numbers Disappeared in an Array | [~~Swift~~](././Swift/find-all-numbers-disappeared-in-an-array.swift) | Java | 
 |     | 447 | Number of Boomerangs | Swift | Java | 
