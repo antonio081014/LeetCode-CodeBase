@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-296 | Java-150 |
+| X | # | Question | Swift-297 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -724,7 +724,7 @@ Update README file only:
 |     | 802 | K-th Smallest Prime Fraction | Swift | Java | 
 |     | 801 | Is Graph Bipartite? | Swift | Java | 
 |     | 800 | Letter Case Permutation | Swift | Java | 
-|     | 799 | Minimum Distance Between BST Nodes | Swift | Java | 
+|     | 799 | Minimum Distance Between BST Nodes | [~~Swift~~](././Swift/minimum-distance-between-bst-nodes.swift) | Java | 
 |     | 798 | Transform to Chessboard | Swift | Java | 
 |     | 797 | Rabbits in Forest | Swift | Java | 
 |     | 796 | Reaching Points | Swift | Java | 
