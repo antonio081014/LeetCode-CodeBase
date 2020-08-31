@@ -44,12 +44,13 @@ class Solution {
         }
         return minDiff
     }
-}/**
+}
+/**
  * https://leetcode.com/problems/minimum-distance-between-bst-nodes/
  * 
  * 
  */ 
-// Date: Mon Aug 31 13:31:24 PDT 2020
+// Date: Mon Aug 31 13:36:48 PDT 2020
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -72,7 +73,7 @@ class Solution {
     ///
     ///     - Space: O(1), 
     /// 
-    func getMinimumDifference(_ root: TreeNode?) -> Int {
+    func minDiffInBST(_ root: TreeNode?) -> Int {
         
         var minDiff = Int.max
         var prev: Int? = nil
