@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-297 | Java-150 |
+| X | # | Question | Swift-298 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -545,7 +545,7 @@ Update README file only:
 |     | 989 | Largest Component Size by Common Factor | [~~Swift~~](././Swift/largest-component-size-by-common-factor.swift) | Java | 
 |     | 988 | Flip Equivalent Binary Trees | [~~Swift~~](././Swift/flip-equivalent-binary-trees.swift) | Java | 
 |     | 987 | Reveal Cards In Increasing Order | Swift | Java | 
-|     | 986 | Largest Time for Given Digits | Swift | Java | 
+|     | 986 | Largest Time for Given Digits | [~~Swift~~](././Swift/largest-time-for-given-digits.swift) | Java | 
 |     | 985 | Bag of Tokens | Swift | Java | 
 |     | 984 | Most Stones Removed with Same Row or Column | Swift | Java | 
 |     | 983 | Validate Stack Sequences | Swift | Java | 
