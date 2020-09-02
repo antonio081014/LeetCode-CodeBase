@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-298 | Java-150 |
+| X | # | Question | Swift-299 | Java-150 |
 |---|---|---|---|---|
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -1240,7 +1240,7 @@ Update README file only:
 |     | 223 | Rectangle Area | Swift | [~~Java~~](././Java/rectangle-area.java) | 
 |     | 222 | Count Complete Tree Nodes | Swift | [~~Java~~](././Java/count-complete-tree-nodes.java) | 
 |     | 221 | Maximal Square | [~~Swift~~](././Swift/maximal-square.swift) | Java | 
-|     | 220 | Contains Duplicate III | Swift | Java | 
+|     | 220 | Contains Duplicate III | [~~Swift~~](././Swift/contains-duplicate-iii.swift) | Java | 
 |     | 219 | Contains Duplicate II | [~~Swift~~](././Swift/contains-duplicate-ii.swift) | Java | 
 |     | 218 | The Skyline Problem | Swift | Java | 
 |  X  | 217 | Contains Duplicate | [~~Swift~~](././Swift/contains-duplicate.swift) | [~~Java~~](././Java/contains-duplicate.java) | 
