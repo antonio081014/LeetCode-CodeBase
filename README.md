@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-299 | Java-150 |
+| X | # | Question | Swift-300 | Java-150 |
 |---|---|---|---|---|
+|     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
 |     | 1692 | Number of Ways to Reorder Array to Get Same BST | Swift | Java | 
@@ -755,7 +756,7 @@ Update README file only:
 |     | 771 | Encode N-ary Tree to Binary Tree | Swift | Java | 
 |     | 770 | Couples Holding Hands | Swift | Java | 
 |     | 769 | Largest Plus Sign | Swift | Java | 
-|     | 768 | Partition Labels | Swift | Java | 
+|     | 768 | Partition Labels | [~~Swift~~](././Swift/partition-labels.swift) | Java | 
 |     | 767 | Prime Number of Set Bits in Binary Representation | Swift | Java | 
 |     | 766 | Flatten a Multilevel Doubly Linked List | [~~Swift~~](././Swift/flatten-a-multilevel-doubly-linked-list.swift) | Java | 
 |     | 765 | Serialize and Deserialize N-ary Tree | Swift | Java | 
@@ -953,7 +954,7 @@ Update README file only:
 |     | 524 | Longest Word in Dictionary through Deleting | Swift | Java | 
 |     | 523 | Continuous Subarray Sum | Swift | Java | 
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
-|     | 521 | Longest Uncommon Subsequence I  | Swift | Java | 
+|     | 521 | Longest Uncommon Subsequence I | Swift | Java | 
 |     | 520 | Detect Capital | [~~Swift~~](././Swift/detect-capital.swift) | Java | 
 |     | 518 | Coin Change 2 | [~~Swift~~](././Swift/coin-change-2.swift) | Java | 
 |     | 517 | Super Washing Machines | Swift | Java | 
