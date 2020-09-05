@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-300 | Java-150 |
+| X | # | Question | Swift-301 | Java-150 |
 |---|---|---|---|---|
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
@@ -219,7 +219,7 @@ Update README file only:
 |     | 1432 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Swift | Java | 
 |     | 1429 | Verbal Arithmetic Puzzle | Swift | Java | 
 |     | 1428 | Jump Game III | Swift | Java | 
-|     | 1427 | All Elements in Two Binary Search Trees | Swift | Java | 
+|     | 1427 | All Elements in Two Binary Search Trees | [~~Swift~~](././Swift/all-elements-in-two-binary-search-trees.swift) | Java | 
 |     | 1426 | Find N Unique Integers Sum up to Zero | Swift | Java | 
 |     | 1424 | Maximum Candies You Can Get from Boxes | Swift | Java | 
 |     | 1423 | Maximum Number of Occurrences of a Substring | Swift | Java | 
