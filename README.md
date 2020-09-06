@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-301 | Java-150 |
+| X | # | Question | Swift-302 | Java-150 |
 |---|---|---|---|---|
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
@@ -667,7 +667,7 @@ Update README file only:
 |     | 867 | New 21 Game | Swift | Java | 
 |     | 866 | Rectangle Overlap | Swift | Java | 
 |     | 865 | Robot Room Cleaner | Swift | Java | 
-|     | 864 | Image Overlap | Swift | Java | 
+|     | 864 | Image Overlap | [~~Swift~~](././Swift/image-overlap.swift) | Java | 
 |     | 863 | Sum of Distances in Tree | Swift | Java | 
 |     | 862 | Find And Replace in String | Swift | Java | 
 |     | 861 | Flipping an Image | Swift | Java | 
