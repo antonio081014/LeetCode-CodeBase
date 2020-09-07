@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-302 | Java-150 |
+| X | # | Question | Swift-303 | Java-150 |
 |---|---|---|---|---|
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
@@ -1172,7 +1172,7 @@ Update README file only:
 |     | 293 | Flip Game | Swift | Java | 
 |     | 292 | Nim Game | Swift | [~~Java~~](././Java/nim-game.java) | 
 |     | 291 | Word Pattern II | Swift | Java | 
-|     | 290 | Word Pattern | Swift | [~~Java~~](././Java/word-pattern.java) | 
+|  X  | 290 | Word Pattern | [~~Swift~~](././Swift/word-pattern.swift) | [~~Java~~](././Java/word-pattern.java) | 
 |     | 289 | Game of Life | Swift | [~~Java~~](././Java/game-of-life.java) | 
 |     | 288 | Unique Word Abbreviation | Swift | Java | 
 |  X  | 287 | Find the Duplicate Number | [~~Swift~~](././Swift/find-the-duplicate-number.swift) | [~~Java~~](././Java/find-the-duplicate-number.java) | 
