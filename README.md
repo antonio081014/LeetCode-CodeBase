@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-303 | Java-150 |
+| X | # | Question | Swift-304 | Java-150 |
 |---|---|---|---|---|
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
+|     | 1701 | Remove Max Number of Edges to Keep Graph Fully Traversable | Swift | Java | 
+|     | 1700 | Minimum Deletion Cost to Avoid Repeating Letters | Swift | Java | 
+|     | 1699 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | Swift | Java | 
+|     | 1698 | Replace All ?'s to Avoid Consecutive Repeating Characters | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
 |     | 1692 | Number of Ways to Reorder Array to Get Same BST | Swift | Java | 
 |     | 1691 | Minimum Number of Days to Disconnect Island | Swift | Java | 
@@ -26,6 +30,10 @@ Update README file only:
 |     | 1683 | Maximum Number of Coins You Can Get | Swift | Java | 
 |     | 1682 | Most Visited Sector in  a Circular Track | Swift | Java | 
 |     | 1681 | Guess the Majority in a Hidden Array | Swift | Java | 
+|     | 1680 | Count All Possible Routes | Swift | Java | 
+|     | 1679 | Shortest Subarray to be Removed to Make Array Sorted | Swift | Java | 
+|     | 1678 | Number of Ways to Split a String | Swift | Java | 
+|     | 1677 | Matrix Diagonal Sum | Swift | Java | 
 |     | 1676 | Minimum Number of Days to Eat N Oranges | Swift | Java | 
 |     | 1675 | Magnetic Force Between Two Balls | Swift | Java | 
 |     | 1674 | Minimum Operations to Make Array Equal | Swift | Java | 
@@ -457,7 +465,7 @@ Update README file only:
 |     | 1082 | Sum of Digits in the Minimum Number | Swift | Java | 
 |     | 1081 | Video Stitching | Swift | Java | 
 |     | 1080 | Camelcase Matching | Swift | Java | 
-|     | 1079 | Sum of Root To Leaf Binary Numbers | Swift | Java | 
+|     | 1079 | Sum of Root To Leaf Binary Numbers | [~~Swift~~](././Swift/sum-of-root-to-leaf-binary-numbers.swift) | Java | 
 |     | 1078 | Remove Outermost Parentheses | Swift | Java | 
 |     | 1077 | Confusing Number II | Swift | Java | 
 |     | 1076 | Brace Expansion | Swift | Java | 
