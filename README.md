@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-304 | Java-150 |
+| X | # | Question | Swift-305 | Java-150 |
 |---|---|---|---|---|
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
@@ -1017,7 +1017,7 @@ Update README file only:
 |     | 462 | Minimum Moves to Equal Array Elements II | [~~Swift~~](././Swift/minimum-moves-to-equal-array-elements-ii.swift) | Java | 
 |     | 461 | Hamming Distance | [~~Swift~~](././Swift/hamming-distance.swift) | Java | 
 |     | 460 | LFU Cache | Swift | Java | 
-|     | 459 | Repeated Substring Pattern | Swift | Java | 
+|     | 459 | Repeated Substring Pattern | [~~Swift~~](././Swift/repeated-substring-pattern.swift) | Java | 
 |     | 458 | Poor Pigs | Swift | Java | 
 |     | 457 | Circular Array Loop | Swift | Java | 
 |     | 456 | 132 Pattern | Swift | Java | 
