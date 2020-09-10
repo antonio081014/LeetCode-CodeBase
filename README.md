@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-306 | Java-150 |
+| X | # | Question | Swift-307 | Java-150 |
 |---|---|---|---|---|
+|     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1701 | Remove Max Number of Edges to Keep Graph Fully Traversable | Swift | Java | 
@@ -1171,7 +1172,7 @@ Update README file only:
 |     | 302 | Smallest Rectangle Enclosing Black Pixels | Swift | Java | 
 |     | 301 | Remove Invalid Parentheses | Swift | Java | 
 |     | 300 | Longest Increasing Subsequence | Swift | Java | 
-|     | 299 | Bulls and Cows | Swift | Java | 
+|     | 299 | Bulls and Cows | [~~Swift~~](././Swift/bulls-and-cows.swift) | Java | 
 |     | 298 | Binary Tree Longest Consecutive Sequence | Swift | Java | 
 |     | 297 | Serialize and Deserialize Binary Tree | [~~Swift~~](././Swift/serialize-and-deserialize-binary-tree.swift) | Java | 
 |     | 296 | Best Meeting Point | Swift | Java | 
