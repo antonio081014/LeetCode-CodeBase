@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-306 | Java-150 |
+| X | # | Question | Swift-307 | Java-150 |
 |---|---|---|---|---|
+|     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1701 | Remove Max Number of Edges to Keep Graph Fully Traversable | Swift | Java | 
@@ -1253,7 +1254,7 @@ Update README file only:
 |     | 219 | Contains Duplicate II | [~~Swift~~](././Swift/contains-duplicate-ii.swift) | Java | 
 |     | 218 | The Skyline Problem | [~~Swift~~](././Swift/the-skyline-problem.swift) | Java | 
 |  X  | 217 | Contains Duplicate | [~~Swift~~](././Swift/contains-duplicate.swift) | [~~Java~~](././Java/contains-duplicate.java) | 
-|     | 216 | Combination Sum III | Swift | [~~Java~~](././Java/combination-sum-iii.java) | 
+|  X  | 216 | Combination Sum III | [~~Swift~~](././Swift/combination-sum-iii.swift) | [~~Java~~](././Java/combination-sum-iii.java) | 
 |  X  | 215 | Kth Largest Element in an Array | [~~Swift~~](././Swift/kth-largest-element-in-an-array.swift) | [~~Java~~](././Java/kth-largest-element-in-an-array.java) | 
 |     | 214 | Shortest Palindrome | Swift | Java | 
 |     | 213 | House Robber II | Swift | Java | 
