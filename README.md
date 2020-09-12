@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-307 | Java-150 |
+| X | # | Question | Swift-309 | Java-150 |
 |---|---|---|---|---|
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
@@ -1334,7 +1334,7 @@ Update README file only:
 |     | 123 | Best Time to Buy and Sell Stock III | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-iii.swift) | Java | 
 |  X  | 122 | Best Time to Buy and Sell Stock II | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-ii.swift) | [~~Java~~](././Java/best-time-to-buy-and-sell-stock-ii.java) | 
 |  X  | 121 | Best Time to Buy and Sell Stock | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock.swift) | [~~Java~~](././Java/best-time-to-buy-and-sell-stock.java) | 
-|     | 120 | Triangle | Swift | Java | 
+|     | 120 | Triangle | [~~Swift~~](././Swift/triangle.swift) | Java | 
 |     | 119 | Pascal's Triangle II | [~~Swift~~](././Swift/pascals-triangle-ii.swift) | Java | 
 |     | 118 | Pascal's Triangle | [~~Swift~~](././Swift/pascals-triangle.swift) | Java | 
 |     | 117 | Populating Next Right Pointers in Each Node II | [~~Swift~~](././Swift/populating-next-right-pointers-in-each-node-ii.swift) | Java | 
