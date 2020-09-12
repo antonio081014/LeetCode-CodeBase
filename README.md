@@ -1172,7 +1172,7 @@ Update README file only:
 |     | 302 | Smallest Rectangle Enclosing Black Pixels | Swift | Java | 
 |     | 301 | Remove Invalid Parentheses | Swift | Java | 
 |     | 300 | Longest Increasing Subsequence | Swift | Java | 
-|     | 299 | Bulls and Cows | Swift | Java | 
+|     | 299 | Bulls and Cows | [~~Swift~~](././Swift/bulls-and-cows.swift) | Java | 
 |     | 298 | Binary Tree Longest Consecutive Sequence | Swift | Java | 
 |     | 297 | Serialize and Deserialize Binary Tree | [~~Swift~~](././Swift/serialize-and-deserialize-binary-tree.swift) | Java | 
 |     | 296 | Best Meeting Point | Swift | Java | 
