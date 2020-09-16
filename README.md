@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-309 | Java-150 |
+| X | # | Question | Swift-310 | Java-150 |
 |---|---|---|---|---|
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
+|     | 1707 | Check If String Is Transformable With Substring Sort Operations | Swift | Java | 
+|     | 1706 | Min Cost to Connect All Points | Swift | Java | 
+|     | 1705 | Count Unhappy Friends | Swift | Java | 
+|     | 1704 | Special Positions in a Binary Matrix | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1701 | Remove Max Number of Edges to Keep Graph Fully Traversable | Swift | Java | 
 |     | 1700 | Minimum Deletion Cost to Avoid Repeating Letters | Swift | Java | 
@@ -1050,7 +1054,7 @@ Update README file only:
 |     | 424 | Longest Repeating Character Replacement | Swift | Java | 
 |     | 423 | Reconstruct Original Digits from English | Swift | Java | 
 |     | 422 | Valid Word Square | Swift | Java | 
-|     | 421 | Maximum XOR of Two Numbers in an Array | Swift | Java | 
+|     | 421 | Maximum XOR of Two Numbers in an Array | [~~Swift~~](././Swift/maximum-xor-of-two-numbers-in-an-array.swift) | Java | 
 |     | 420 | Strong Password Checker | Swift | Java | 
 |     | 419 | Battleships in a Board | [~~Swift~~](././Swift/battleships-in-a-board.swift) | Java | 
 |     | 418 | Sentence Screen Fitting | Swift | Java | 
