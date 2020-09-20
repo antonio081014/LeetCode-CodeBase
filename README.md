@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-311 | Java-150 |
+| X | # | Question | Swift-312 | Java-150 |
 |---|---|---|---|---|
+|     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1707 | Check If String Is Transformable With Substring Sort Operations | Swift | Java | 
@@ -527,7 +528,7 @@ Update README file only:
 |     | 1025 | Minimum Cost For Tickets | [~~Swift~~](././Swift/minimum-cost-for-tickets.swift) | Java | 
 |     | 1024 | Triples with Bitwise AND Equal To Zero | Swift | Java | 
 |     | 1023 | Time Based Key-Value Store | Swift | Java | 
-|     | 1022 | Unique Paths III | Swift | Java | 
+|     | 1022 | Unique Paths III | [~~Swift~~](././Swift/unique-paths-iii.swift) | Java | 
 |     | 1021 | Distribute Coins in Binary Tree | Swift | Java | 
 |     | 1020 | Longest Turbulent Subarray | Swift | Java | 
 |     | 1019 | Squares of a Sorted Array | Swift | Java | 
