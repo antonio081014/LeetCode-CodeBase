@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-312 | Java-150 |
+| X | # | Question | Swift-313 | Java-150 |
 |---|---|---|---|---|
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
@@ -364,7 +364,7 @@ Update README file only:
 |     | 1218 | Lowest Common Ancestor of Deepest Leaves | Swift | Java | 
 |     | 1217 | Relative Sort Array | Swift | Java | 
 |     | 1213 | Handshakes That Don't Cross | Swift | Java | 
-|     | 1212 | Sequential Digits | Swift | Java | 
+|     | 1212 | Sequential Digits | [~~Swift~~](././Swift/sequential-digits.swift) | Java | 
 |     | 1211 | Iterator for Combination | [~~Swift~~](././Swift/iterator-for-combination.swift) | Java | 
 |     | 1208 | Maximum Nesting Depth of Two Valid Parentheses Strings | Swift | Java | 
 |     | 1207 | Delete Nodes And Return Forest | Swift | Java | 
