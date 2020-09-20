@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-313 | Java-150 |
+| X | # | Question | Swift-314 | Java-150 |
 |---|---|---|---|---|
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
@@ -1307,7 +1307,7 @@ Update README file only:
 |     | 155 | Min Stack | [~~Swift~~](././Swift/min-stack.swift) | Java | 
 |  X  | 154 | Find Minimum in Rotated Sorted Array II | [~~Swift~~](././Swift/find-minimum-in-rotated-sorted-array-ii.swift) | [~~Java~~](././Java/find-minimum-in-rotated-sorted-array-ii.java) | 
 |  X  | 153 | Find Minimum in Rotated Sorted Array | [~~Swift~~](././Swift/find-minimum-in-rotated-sorted-array.swift) | [~~Java~~](././Java/find-minimum-in-rotated-sorted-array.java) | 
-|     | 152 | Maximum Product Subarray | Swift | Java | 
+|     | 152 | Maximum Product Subarray | [~~Swift~~](././Swift/maximum-product-subarray.swift) | Java | 
 |     | 151 | Reverse Words in a String | Swift | [~~Java~~](././Java/reverse-words-in-a-string.java) | 
 |     | 150 | Evaluate Reverse Polish Notation | Swift | Java | 
 |     | 149 | Max Points on a Line | Swift | [~~Java~~](././Java/max-points-on-a-line.java) | 
