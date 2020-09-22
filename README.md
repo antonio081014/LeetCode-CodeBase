@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-315 | Java-150 |
+| X | # | Question | Swift-316 | Java-150 |
 |---|---|---|---|---|
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
@@ -1298,7 +1298,7 @@ Update README file only:
 |     | 172 | Factorial Trailing Zeroes | [~~Swift~~](././Swift/factorial-trailing-zeroes.swift) | Java | 
 |  X  | 171 | Excel Sheet Column Number | [~~Swift~~](././Swift/excel-sheet-column-number.swift) | [~~Java~~](././Java/excel-sheet-column-number.java) | 
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
-|     | 169 | Majority Element | Swift | [~~Java~~](././Java/majority-element.java) | 
+|  X  | 169 | Majority Element | [~~Swift~~](././Swift/majority-element.swift) | [~~Java~~](././Java/majority-element.java) | 
 |     | 168 | Excel Sheet Column Title | [~~Swift~~](././Swift/excel-sheet-column-title.swift) | Java | 
 |     | 167 | Two Sum II - Input array is sorted | [~~Swift~~](././Swift/two-sum-ii-input-array-is-sorted.swift) | Java | 
 |     | 166 | Fraction to Recurring Decimal | Swift | Java | 
