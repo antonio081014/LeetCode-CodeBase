@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-314 | Java-150 |
+| X | # | Question | Swift-315 | Java-150 |
 |---|---|---|---|---|
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
+|     | 1717 | Minimum Cost to Connect Two Groups of Points | Swift | Java | 
+|     | 1716 | Maximum Non Negative Product in a Matrix | Swift | Java | 
+|     | 1715 | Split a String Into the Max Number of Unique Substrings | Swift | Java | 
+|     | 1714 | Rearrange Spaces Between Words | Swift | Java | 
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
 |     | 1707 | Check If String Is Transformable With Substring Sort Operations | Swift | Java | 
 |     | 1706 | Min Cost to Connect All Points | Swift | Java | 
@@ -26,6 +30,10 @@ Update README file only:
 |     | 1699 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | Swift | Java | 
 |     | 1698 | Replace All ?'s to Avoid Consecutive Repeating Characters | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
+|     | 1696 | Strange Printer II | Swift | Java | 
+|     | 1695 | Maximum Sum Obtained of Any Permutation | Swift | Java | 
+|     | 1694 | Make Sum Divisible by P | Swift | Java | 
+|     | 1693 | Sum of All Odd Length Subarrays | Swift | Java | 
 |     | 1692 | Number of Ways to Reorder Array to Get Same BST | Swift | Java | 
 |     | 1691 | Minimum Number of Days to Disconnect Island | Swift | Java | 
 |     | 1690 | Maximum Length of Subarray With Positive Product | Swift | Java | 
@@ -384,7 +392,7 @@ Update README file only:
 |     | 1189 | Encode Number | Swift | Java | 
 |     | 1188 | Brace Expansion II | Swift | Java | 
 |     | 1185 | Find in Mountain Array | Swift | Java | 
-|     | 1184 | Car Pooling | Swift | Java | 
+|     | 1184 | Car Pooling | [~~Swift~~](././Swift/car-pooling.swift) | Java | 
 |     | 1183 | Statistics from a Large Sample | Swift | Java | 
 |     | 1178 | Valid Palindrome III | Swift | Java | 
 |     | 1177 | Tree Diameter | Swift | Java | 
