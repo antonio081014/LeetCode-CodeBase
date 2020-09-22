@@ -39,4 +39,28 @@ class Solution {
         }
         return true
     }
+}/**
+ * https://leetcode.com/problems/car-pooling/
+ * 
+ * 
+ */ 
+// Date: Tue Sep 22 09:05:49 PDT 2020
+
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n), n is the length of trips.
+    ///     - Space: O(1000).
+    func carPooling(_ trips: [[Int]], _ capacity: Int) -> Bool {
+        var count: [Int : Int] = [:]
+        for trip in trips {
+            count[trip[1]] = count[trip[1], default: 0] + trip[0]
+            count[trip[2]] = count[trip[2], default: 0] - trip[0]
+        }
+        var cap = capacity
+        for stop in 0 ... 1000 {
+            cap -= count[stop, default: 0]
+            if cap < 0 { return false }
+        }
+        return true
+    }
 }
