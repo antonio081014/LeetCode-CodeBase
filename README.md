@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-316 | Java-150 |
+| X | # | Question | Swift-317 | Java-150 |
 |---|---|---|---|---|
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
@@ -1254,7 +1254,7 @@ Update README file only:
 |     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](././Java/implement-queue-using-stacks.java) | 
 |  X  | 231 | Power of Two | [~~Swift~~](././Swift/power-of-two.swift) | [~~Java~~](././Java/power-of-two.java) | 
 |     | 230 | Kth Smallest Element in a BST | [~~Swift~~](././Swift/kth-smallest-element-in-a-bst.swift) | Java | 
-|     | 229 | Majority Element II | Swift | Java | 
+|     | 229 | Majority Element II | [~~Swift~~](././Swift/majority-element-ii.swift) | Java | 
 |     | 228 | Summary Ranges | Swift | [~~Java~~](././Java/summary-ranges.java) | 
 |     | 227 | Basic Calculator II | Swift | Java | 
 |  X  | 226 | Invert Binary Tree | [~~Swift~~](././Swift/invert-binary-tree.swift) | [~~Java~~](././Java/invert-binary-tree.java) | 
