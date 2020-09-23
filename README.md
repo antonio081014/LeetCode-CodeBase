@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-317 | Java-150 |
+| X | # | Question | Swift-318 | Java-150 |
 |---|---|---|---|---|
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
@@ -1333,7 +1333,7 @@ Update README file only:
 |  X  | 137 | Single Number II | [~~Swift~~](././Swift/single-number-ii.swift) | [~~Java~~](././Java/single-number-ii.java) | 
 |  X  | 136 | Single Number | [~~Swift~~](././Swift/single-number.swift) | [~~Java~~](././Java/single-number.java) | 
 |     | 135 | Candy | Swift | [~~Java~~](././Java/candy.java) | 
-|     | 134 | Gas Station | Swift | Java | 
+|     | 134 | Gas Station | [~~Swift~~](././Swift/gas-station.swift) | Java | 
 |     | 133 | Clone Graph | Swift | Java | 
 |     | 132 | Palindrome Partitioning II | Swift | Java | 
 |     | 131 | Palindrome Partitioning | Swift | Java | 
