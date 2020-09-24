@@ -24,4 +24,21 @@ class Solution {
         }
         return Character("a")
     }
+}/**
+ * https://leetcode.com/problems/find-the-difference/
+ * 
+ * 
+ */ 
+// Date: Thu Sep 24 09:52:54 PDT 2020
+class Solution {
+    func findTheDifference(_ s: String, _ t: String) -> Character {
+        var result:UInt8 = 0
+        for x in s.utf8 {
+            result ^= UInt8(x)
+        }
+        for x in t.utf8 {
+            result ^= UInt8(x)
+        }
+        return Character(UnicodeScalar(result))
+    }
 }
