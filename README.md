@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-318 | Java-150 |
+| X | # | Question | Swift-319 | Java-150 |
 |---|---|---|---|---|
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1719 | Put Boxes Into the Warehouse II | Swift | Java | 
@@ -1095,7 +1095,7 @@ Update README file only:
 |     | 392 | Is Subsequence | [~~Swift~~](././Swift/is-subsequence.swift) | Java | 
 |     | 391 | Perfect Rectangle | [~~Swift~~](././Swift/perfect-rectangle.swift) | Java | 
 |     | 390 | Elimination Game | Swift | Java | 
-|     | 389 | Find the Difference | Swift | Java | 
+|     | 389 | Find the Difference | [~~Swift~~](././Swift/find-the-difference.swift) | Java | 
 |     | 388 | Longest Absolute File Path | [~~Swift~~](././Swift/longest-absolute-file-path.swift) | Java | 
 |     | 387 | First Unique Character in a String | [~~Swift~~](././Swift/first-unique-character-in-a-string.swift) | Java | 
 |     | 386 | Lexicographical Numbers | Swift | Java | 
