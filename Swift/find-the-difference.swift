@@ -41,4 +41,16 @@ class Solution {
         }
         return Character(UnicodeScalar(result))
     }
+}/**
+ * https://leetcode.com/problems/find-the-difference/
+ * 
+ * 
+ */ 
+// Date: Thu Sep 24 09:59:15 PDT 2020
+class Solution {
+    func findTheDifference(_ s: String, _ t: String) -> Character {
+        var result = s.unicodeScalars.reduce(0) { $0 ^ $1.value }
+        result = t.unicodeScalars.reduce(result) { $0 ^ $1.value }
+        return Character(UnicodeScalar(result)!)
+    }
 }
