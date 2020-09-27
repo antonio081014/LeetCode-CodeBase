@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-320 | Java-150 |
+| X | # | Question | Swift-321 | Java-150 |
 |---|---|---|---|---|
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
@@ -1086,7 +1086,7 @@ Update README file only:
 |     | 402 | Remove K Digits | [~~Swift~~](././Swift/remove-k-digits.swift) | Java | 
 |     | 401 | Binary Watch | Swift | Java | 
 |     | 400 | Nth Digit | Swift | Java | 
-|     | 399 | Evaluate Division | Swift | Java | 
+|     | 399 | Evaluate Division | [~~Swift~~](././Swift/evaluate-division.swift) | Java | 
 |     | 398 | Random Pick Index | Swift | Java | 
 |     | 397 | Integer Replacement | Swift | Java | 
 |     | 396 | Rotate Function | Swift | Java | 
