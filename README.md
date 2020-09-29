@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-322 | Java-150 |
+| X | # | Question | Swift-323 | Java-150 |
 |---|---|---|---|---|
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
@@ -1003,7 +1003,7 @@ Update README file only:
 |     | 499 | The Maze III | Swift | Java | 
 |     | 498 | Diagonal Traverse | Swift | Java | 
 |     | 496 | Next Greater Element I | Swift | Java | 
-|     | 495 | Teemo Attacking | Swift | Java | 
+|     | 495 | Teemo Attacking | [~~Swift~~](././Swift/teemo-attacking.swift) | Java | 
 |     | 494 | Target Sum | Swift | Java | 
 |     | 493 | Reverse Pairs | Swift | Java | 
 |     | 492 | Construct the Rectangle | Swift | Java | 
