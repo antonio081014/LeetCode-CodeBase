@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-323 | Java-150 |
+| X | # | Question | Swift-324 | Java-150 |
 |---|---|---|---|---|
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
@@ -1431,7 +1431,7 @@ Update README file only:
 |     | 44 | Wildcard Matching | Swift | [~~Java~~](././Java/wildcard-matching.java) | 
 |     | 43 | Multiply Strings | Swift | [~~Java~~](././Java/multiply-strings.java) | 
 |  X  | 42 | Trapping Rain Water | [~~Swift~~](././Swift/trapping-rain-water.swift) | [~~Java~~](././Java/trapping-rain-water.java) | 
-|     | 41 | First Missing Positive | Swift | Java | 
+|     | 41 | First Missing Positive | [~~Swift~~](././Swift/first-missing-positive.swift) | Java | 
 |     | 40 | Combination Sum II | Swift | [~~Java~~](././Java/combination-sum-ii.java) | 
 |  X  | 39 | Combination Sum | [~~Swift~~](././Swift/combination-sum.swift) | [~~Java~~](././Java/combination-sum.java) | 
 |     | 38 | Count and Say | Swift | Java | 
