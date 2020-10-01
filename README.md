@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-324 | Java-150 |
+| X | # | Question | Swift-325 | Java-150 |
 |---|---|---|---|---|
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
@@ -589,7 +589,7 @@ Update README file only:
 |     | 973 | Stamping The Sequence | Swift | Java | 
 |     | 972 | Knight Dialer | Swift | Java | 
 |     | 971 | Shortest Bridge | Swift | Java | 
-|     | 969 | Number of Recent Calls | Swift | Java | 
+|     | 969 | Number of Recent Calls | [~~Swift~~](././Swift/number-of-recent-calls.swift) | Java | 
 |     | 968 | Beautiful Array | Swift | Java | 
 |     | 967 | Minimum Falling Path Sum | Swift | Java | 
 |     | 966 | Binary Subarrays With Sum | Swift | Java | 
