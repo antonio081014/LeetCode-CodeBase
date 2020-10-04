@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-325 | Java-150 |
+| X | # | Question | Swift-326 | Java-150 |
 |---|---|---|---|---|
+|     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1723 | Maximum Number of Achievable Transfer Requests | Swift | Java | 
@@ -971,7 +972,7 @@ Update README file only:
 |     | 536 | Construct Binary Tree from String | Swift | Java | 
 |     | 535 | Encode and Decode TinyURL | Swift | Java | 
 |     | 533 | Lonely Pixel II | Swift | Java | 
-|     | 532 | K-diff Pairs in an Array | Swift | Java | 
+|     | 532 | K-diff Pairs in an Array | [~~Swift~~](././Swift/k-diff-pairs-in-an-array.swift) | Java | 
 |     | 531 | Lonely Pixel I | Swift | Java | 
 |     | 530 | Minimum Absolute Difference in BST | [~~Swift~~](././Swift/minimum-absolute-difference-in-bst.swift) | Java | 
 |     | 529 | Minesweeper | Swift | Java | 
