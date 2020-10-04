@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-326 | Java-150 |
+| X | # | Question | Swift-327 | Java-150 |
 |---|---|---|---|---|
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
@@ -371,7 +371,7 @@ Update README file only:
 |     | 1228 | Minimum Cost Tree From Leaf Values | Swift | Java | 
 |     | 1227 | Number of Equivalent Domino Pairs | Swift | Java | 
 |     | 1224 | Minimum Falling Path Sum II | Swift | Java | 
-|     | 1222 | Remove Covered Intervals | Swift | Java | 
+|     | 1222 | Remove Covered Intervals | [~~Swift~~](././Swift/remove-covered-intervals.swift) | Java | 
 |     | 1221 | Element Appearing More Than 25% In Sorted Array | [~~Swift~~](././Swift/element-appearing-more-than-25-in-sorted-array.swift) | Java | 
 |     | 1220 | Smallest Sufficient Team | Swift | Java | 
 |     | 1219 | Longest Well-Performing Interval | Swift | Java | 
