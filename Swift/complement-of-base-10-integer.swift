@@ -43,4 +43,19 @@ class Solution {
         }
         return result.reduce(0) { $0 * 2 + $1 }
     }
+}/**
+ * https://leetcode.com/problems/complement-of-base-10-integer/
+ * 
+ * 
+ */ 
+// Date: Mon Oct  5 08:25:46 PDT 2020
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(32)
+    ///     - Space: O(1)
+    func bitwiseComplement(_ N: Int) -> Int {
+        var x = 1
+        while N > x { x = x * 2 + 1 }
+        return x ^ N
+    }
 }
