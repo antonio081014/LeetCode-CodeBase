@@ -15,6 +15,10 @@ Update README file only:
 |---|---|---|---|---|
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
+|     | 1733 | Maximum Number of Visible Points | Swift | Java | 
+|     | 1732 | Minimum One Bit Operations to Make Integers Zero | Swift | Java | 
+|     | 1731 | Even Odd Tree | Swift | Java | 
+|     | 1730 | Special Array With X Elements Greater Than or Equal X | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1723 | Maximum Number of Achievable Transfer Requests | Swift | Java | 
 |     | 1722 | Throne Inheritance | Swift | Java | 
@@ -26,6 +30,10 @@ Update README file only:
 |     | 1715 | Split a String Into the Max Number of Unique Substrings | Swift | Java | 
 |     | 1714 | Rearrange Spaces Between Words | Swift | Java | 
 |     | 1713 | Dot Product of Two Sparse Vectors | Swift | Java | 
+|     | 1711 | Find Valid Matrix Given Row and Column Sums | Swift | Java | 
+|     | 1710 | Find Servers That Handled Most Number of Requests | Swift | Java | 
+|     | 1709 | Alert Using Same Key-Card Three or More Times in a One Hour Period | Swift | Java | 
+|     | 1708 | Design Parking System | Swift | Java | 
 |     | 1707 | Check If String Is Transformable With Substring Sort Operations | Swift | Java | 
 |     | 1706 | Min Cost to Connect All Points | Swift | Java | 
 |     | 1705 | Count Unhappy Friends | Swift | Java | 
