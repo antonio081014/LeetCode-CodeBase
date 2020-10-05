@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-327 | Java-150 |
+| X | # | Question | Swift-328 | Java-150 |
 |---|---|---|---|---|
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
@@ -1121,7 +1121,7 @@ Update README file only:
 |     | 380 | Insert Delete GetRandom O(1) | [~~Swift~~](././Swift/insert-delete-getrandom-o1.swift) | Java | 
 |     | 379 | Design Phone Directory | Swift | Java | 
 |     | 378 | Kth Smallest Element in a Sorted Matrix | [~~Swift~~](././Swift/kth-smallest-element-in-a-sorted-matrix.swift) | Java | 
-|     | 377 | Combination Sum IV | Swift | Java | 
+|     | 377 | Combination Sum IV | [~~Swift~~](././Swift/combination-sum-iv.swift) | Java | 
 |     | 376 | Wiggle Subsequence | Swift | Java | 
 |     | 375 | Guess Number Higher or Lower II | Swift | Java | 
 |     | 374 | Guess Number Higher or Lower | [~~Swift~~](././Swift/guess-number-higher-or-lower.swift) | Java | 
