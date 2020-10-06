@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-328 | Java-150 |
+| X | # | Question | Swift-329 | Java-150 |
 |---|---|---|---|---|
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
@@ -776,7 +776,7 @@ Update README file only:
 |     | 787 | Sliding Puzzle | Swift | Java | 
 |     | 786 | Search in a Sorted Array of Unknown Size | Swift | Java | 
 |     | 785 | Basic Calculator III | Swift | Java | 
-|     | 784 | Insert into a Binary Search Tree | Swift | Java | 
+|     | 784 | Insert into a Binary Search Tree | [~~Swift~~](././Swift/insert-into-a-binary-search-tree.swift) | Java | 
 |     | 783 | Search in a Binary Search Tree | Swift | Java | 
 |     | 782 | Jewels and Stones | [~~Swift~~](././Swift/jewels-and-stones.swift) | Java | 
 |     | 781 | Basic Calculator IV | Swift | Java | 
