@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-329 | Java-150 |
+| X | # | Question | Swift-330 | Java-150 |
 |---|---|---|---|---|
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
@@ -1420,7 +1420,7 @@ Update README file only:
 |  X  | 64 | Minimum Path Sum | [~~Swift~~](././Swift/minimum-path-sum.swift) | [~~Java~~](././Java/minimum-path-sum.java) | 
 |  X  | 63 | Unique Paths II | [~~Swift~~](././Swift/unique-paths-ii.swift) | [~~Java~~](././Java/unique-paths-ii.java) | 
 |  X  | 62 | Unique Paths | [~~Swift~~](././Swift/unique-paths.swift) | [~~Java~~](././Java/unique-paths.java) | 
-|     | 61 | Rotate List | Swift | Java | 
+|     | 61 | Rotate List | [~~Swift~~](././Swift/rotate-list.swift) | Java | 
 |  X  | 60 | Permutation Sequence | [~~Swift~~](././Swift/permutation-sequence.swift) | [~~Java~~](././Java/permutation-sequence.java) | 
 |     | 59 | Spiral Matrix II | Swift | [~~Java~~](././Java/spiral-matrix-ii.java) | 
 |  X  | 58 | Length of Last Word | [~~Swift~~](././Swift/length-of-last-word.swift) | [~~Java~~](././Java/length-of-last-word.java) | 
