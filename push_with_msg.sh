@@ -12,5 +12,5 @@ git add .
 echo "- Commit"
 git commit -m "${COMMIT_MSG}"
 
-echo "- Push to origin master"
+echo "- Push to origin HEAD"
 git push origin HEAD
