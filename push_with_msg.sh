@@ -13,4 +13,4 @@ echo "- Commit"
 git commit -m "${COMMIT_MSG}"
 
 echo "- Push to origin master"
-git push origin master
+git push origin HEAD
