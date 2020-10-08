@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-331 | Java-150 |
+| X | # | Question | Swift-332 | Java-150 |
 |---|---|---|---|---|
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
@@ -953,7 +953,7 @@ Update README file only:
 |     | 566 | Reshape the Matrix | Swift | Java | 
 |     | 565 | Array Nesting | Swift | Java | 
 |     | 564 | Find the Closest Palindrome | Swift | Java | 
-|     | 563 | Binary Tree Tilt | Swift | Java | 
+|     | 563 | Binary Tree Tilt | [~~Swift~~](././Swift/binary-tree-tilt.swift) | Java | 
 |     | 562 | Longest Line of Consecutive One in Matrix | Swift | Java | 
 |     | 561 | Array Partition I | Swift | Java | 
 |     | 560 | Subarray Sum Equals K | [~~Swift~~](././Swift/subarray-sum-equals-k.swift) | Java | 
