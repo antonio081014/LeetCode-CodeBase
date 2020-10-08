@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-330 | Java-150 |
+| X | # | Question | Swift-331 | Java-150 |
 |---|---|---|---|---|
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
@@ -768,7 +768,7 @@ Update README file only:
 |     | 795 | K-th Symbol in Grammar | Swift | Java | 
 |     | 794 | Swim in Rising Water | Swift | Java | 
 |     | 793 | Swap Adjacent in LR String | Swift | Java | 
-|     | 792 | Binary Search | Swift | Java | 
+|     | 792 | Binary Search | [~~Swift~~](././Swift/binary-search.swift) | Java | 
 |     | 791 | Split BST | Swift | Java | 
 |     | 790 | Global and Local Inversions | Swift | Java | 
 |     | 789 | Kth Largest Element in a Stream | [~~Swift~~](././Swift/kth-largest-element-in-a-stream.swift) | Java | 
