@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-332 | Java-150 |
+| X | # | Question | Swift-333 | Java-150 |
 |---|---|---|---|---|
+|     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
 |     | 1733 | Maximum Number of Visible Points | Swift | Java | 
@@ -1052,7 +1053,7 @@ Update README file only:
 |     | 455 | Assign Cookies | Swift | Java | 
 |     | 454 | 4Sum II | Swift | Java | 
 |     | 453 | Minimum Moves to Equal Array Elements | [~~Swift~~](././Swift/minimum-moves-to-equal-array-elements.swift) | Java | 
-|     | 452 | Minimum Number of Arrows to Burst Balloons | Swift | Java | 
+|     | 452 | Minimum Number of Arrows to Burst Balloons | [~~Swift~~](././Swift/minimum-number-of-arrows-to-burst-balloons.swift) | Java | 
 |     | 451 | Sort Characters By Frequency | [~~Swift~~](././Swift/sort-characters-by-frequency.swift) | Java | 
 |     | 450 | Delete Node in a BST | [~~Swift~~](././Swift/delete-node-in-a-bst.swift) | Java | 
 |     | 449 | Serialize and Deserialize BST | [~~Swift~~](././Swift/serialize-and-deserialize-bst.swift) | Java | 
