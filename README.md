@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-333 | Java-150 |
+| X | # | Question | Swift-334 | Java-150 |
 |---|---|---|---|---|
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
@@ -679,7 +679,7 @@ Update README file only:
 |     | 892 | Shortest Subarray with Sum at Least K | Swift | Java | 
 |     | 891 | Score After Flipping Matrix | Swift | Java | 
 |     | 890 | Lemonade Change | Swift | Java | 
-|     | 889 | Buddy Strings | Swift | Java | 
+|     | 889 | Buddy Strings | [~~Swift~~](././Swift/buddy-strings.swift) | Java | 
 |     | 888 | Mirror Reflection | Swift | Java | 
 |     | 887 | Minimum Cost to Hire K Workers | Swift | Java | 
 |     | 886 | Score of Parentheses | Swift | Java | 
