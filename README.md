@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-334 | Java-150 |
+| X | # | Question | Swift-335 | Java-150 |
 |---|---|---|---|---|
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
+|     | 1740 | Count Subtrees With Max Distance Between Cities | Swift | Java | 
+|     | 1739 | Split Two Strings to Make Palindrome | Swift | Java | 
+|     | 1738 | Maximal Network Rank | Swift | Java | 
+|     | 1737 | Maximum Nesting Depth of the Parentheses | Swift | Java | 
 |     | 1736 | Build Binary Expression Tree From Infix Expression | Swift | Java | 
 |     | 1733 | Maximum Number of Visible Points | Swift | Java | 
 |     | 1732 | Minimum One Bit Operations to Make Integers Zero | Swift | Java | 
@@ -1334,7 +1338,7 @@ Update README file only:
 |     | 151 | Reverse Words in a String | Swift | [~~Java~~](././Java/reverse-words-in-a-string.java) | 
 |     | 150 | Evaluate Reverse Polish Notation | Swift | Java | 
 |     | 149 | Max Points on a Line | Swift | [~~Java~~](././Java/max-points-on-a-line.java) | 
-|     | 148 | Sort List | Swift | Java | 
+|     | 148 | Sort List | [~~Swift~~](././Swift/sort-list.swift) | Java | 
 |     | 147 | Insertion Sort List | Swift | Java | 
 |  X  | 146 | LRU Cache | [~~Swift~~](././Swift/lru-cache.swift) | [~~Java~~](././Java/lru-cache.java) | 
 |  X  | 145 | Binary Tree Postorder Traversal | [~~Swift~~](././Swift/binary-tree-postorder-traversal.swift) | [~~Java~~](././Java/binary-tree-postorder-traversal.java) | 
