@@ -37,4 +37,50 @@ class Solution {
         }
         return root
     }
+}/**
+ * https://leetcode.com/problems/clone-graph/
+ * 
+ * 
+ */ 
+// Date: Thu Oct 22 11:23:07 PDT 2020
+/**
+ * Definition for a Node.
+ * public class Node {
+ *     public var val: Int
+ *     public var neighbors: [Node?]
+ *     public init(_ val: Int) {
+ *         self.val = val
+ *         self.neighbors = []
+ *     }
+ * }
+ */
+///
+/// BFS, traverse all the nodes and edges from starting node.
+///
+/// - Complexity:
+///     - Time: O(E + V)
+///     - Space: O(E + V)
+class Solution {
+    func cloneGraph(_ node: Node?) -> Node? {
+        guard let val = node?.val else { return nil }
+        var visited: [Int : Node] = [:]
+        let root = Node(val)
+        visited[val] = root
+        // Keep original nodes in the queue, 
+        // while keep all the new created nodes in the visited dictionary.
+        var queue: [Node] = [node!]
+        while let first = queue.first {
+            queue.removeFirst()
+            for neighbor in first.neighbors where neighbor != nil {
+                if visited[neighbor!.val] == nil {
+                    queue.append(neighbor!)
+                    visited[neighbor!.val] = Node(neighbor!.val)
+                }
+                if let cloneNode = visited[first.val], let nextNode = visited[neighbor!.val] {
+                    cloneNode.neighbors.append(nextNode)
+                }
+            }
+        }
+        return root
+    }
 }
