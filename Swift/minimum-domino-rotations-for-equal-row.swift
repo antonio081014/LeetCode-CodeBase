@@ -27,3 +27,30 @@ class Solution {
     }
 }
 
+/**
+ * https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+ * 
+ * 
+ */ 
+// Date: Thu Oct 22 11:53:07 PDT 2020
+class Solution {
+    func minDominoRotations(_ A: [Int], _ B: [Int]) -> Int {
+        var count1 = Array(repeating: 0, count: 7)
+        var count2 = Array(repeating: 0, count: 7)
+        var same = Array(repeating: 0, count: 7)
+        for index in 0 ..< A.count {
+            count1[A[index]] += 1
+            count2[B[index]] += 1
+            if A[index] == B[index] {
+                same[A[index]] += 1
+            }
+        }
+        for n in 1 ... 6 {
+            if count1[n] + count2[n] - same[n] == A.count {
+                return A.count - max(count1[n], count2[n])
+            }
+        }
+        return -1
+    }
+}
+
