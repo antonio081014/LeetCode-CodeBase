@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-337 | Java-150 |
+| X | # | Question | Swift-338 | Java-150 |
 |---|---|---|---|---|
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
 |     | 1748 | Best Team With No Conflicts | Swift | Java | 
@@ -537,7 +537,7 @@ Update README file only:
 |     | 1052 | Campus Bikes | Swift | Java | 
 |     | 1051 | Shortest Way to Form String | Swift | Java | 
 |     | 1050 | Construct Binary Search Tree from Preorder Traversal | [~~Swift~~](././Swift/construct-binary-search-tree-from-preorder-traversal.swift) | Java | 
-|     | 1049 | Minimum Domino Rotations For Equal Row | Swift | Java | 
+|     | 1049 | Minimum Domino Rotations For Equal Row | [~~Swift~~](././Swift/minimum-domino-rotations-for-equal-row.swift) | Java | 
 |     | 1048 | Clumsy Factorial | Swift | Java | 
 |     | 1047 | Maximize Sum Of Array After K Negations | Swift | Java | 
 |     | 1046 | Max Consecutive Ones III | Swift | Java | 
