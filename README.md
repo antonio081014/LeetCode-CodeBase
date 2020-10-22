@@ -11,9 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-335 | Java-150 |
+| X | # | Question | Swift-336 | Java-150 |
 |---|---|---|---|---|
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
+|     | 1748 | Best Team With No Conflicts | Swift | Java | 
+|     | 1747 | Lexicographically Smallest String After Applying Operations | Swift | Java | 
+|     | 1746 | Largest Substring Between Two Equal Characters | Swift | Java | 
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
 |     | 1740 | Count Subtrees With Max Distance Between Cities | Swift | Java | 
 |     | 1739 | Split Two Strings to Make Palindrome | Swift | Java | 
@@ -25,6 +28,9 @@ Update README file only:
 |     | 1731 | Even Odd Tree | Swift | Java | 
 |     | 1730 | Special Array With X Elements Greater Than or Equal X | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
+|     | 1728 | Fancy Sequence | Swift | Java | 
+|     | 1726 | Coordinate With Maximum Network Quality | Swift | Java | 
+|     | 1725 | Number of Sets of K Non-Overlapping Line Segments | Swift | Java | 
 |     | 1723 | Maximum Number of Achievable Transfer Requests | Swift | Java | 
 |     | 1722 | Throne Inheritance | Swift | Java | 
 |     | 1721 | Maximum Profit of Operating a Centennial Wheel | Swift | Java | 
@@ -287,6 +293,7 @@ Update README file only:
 |     | 1388 | Greatest Sum Divisible by Three | Swift | Java | 
 |     | 1387 | Find Elements in a Contaminated Binary Tree | Swift | Java | 
 |     | 1386 | Shift 2D Grid | Swift | Java | 
+|     | 1384 | Maximum Font to Fit a Sentence in a Screen | Swift | Java | 
 |     | 1381 | Maximum Score Words Formed by Letters | Swift | Java | 
 |     | 1380 | Number of Closed Islands | Swift | Java | 
 |     | 1379 | Reconstruct a 2-Row Binary Matrix | Swift | Java | 
@@ -384,6 +391,7 @@ Update README file only:
 |     | 1228 | Minimum Cost Tree From Leaf Values | Swift | Java | 
 |     | 1227 | Number of Equivalent Domino Pairs | Swift | Java | 
 |     | 1224 | Minimum Falling Path Sum II | Swift | Java | 
+|     | 1223 | Graph Connectivity With Threshold | Swift | Java | 
 |     | 1222 | Remove Covered Intervals | [~~Swift~~](././Swift/remove-covered-intervals.swift) | Java | 
 |     | 1221 | Element Appearing More Than 25% In Sorted Array | [~~Swift~~](././Swift/element-appearing-more-than-25-in-sorted-array.swift) | Java | 
 |     | 1220 | Smallest Sufficient Team | Swift | Java | 
@@ -393,6 +401,7 @@ Update README file only:
 |     | 1213 | Handshakes That Don't Cross | Swift | Java | 
 |     | 1212 | Sequential Digits | [~~Swift~~](././Swift/sequential-digits.swift) | Java | 
 |     | 1211 | Iterator for Combination | [~~Swift~~](././Swift/iterator-for-combination.swift) | Java | 
+|     | 1210 | Mean of Array After Removing Some Elements | Swift | Java | 
 |     | 1208 | Maximum Nesting Depth of Two Valid Parentheses Strings | Swift | Java | 
 |     | 1207 | Delete Nodes And Return Forest | Swift | Java | 
 |     | 1206 | Corporate Flight Bookings | Swift | Java | 
@@ -830,7 +839,7 @@ Update README file only:
 |     | 738 | Monotone Increasing Digits | Swift | Java | 
 |     | 737 | Sentence Similarity II | Swift | Java | 
 |     | 736 | Parse Lisp Expression | Swift | Java | 
-|     | 735 | Asteroid Collision | Swift | Java | 
+|     | 735 | Asteroid Collision | [~~Swift~~](././Swift/asteroid-collision.swift) | Java | 
 |     | 734 | Sentence Similarity | Swift | Java | 
 |     | 733 | Flood Fill | [~~Swift~~](././Swift/flood-fill.swift) | Java | 
 |     | 732 | My Calendar III | Swift | Java | 
