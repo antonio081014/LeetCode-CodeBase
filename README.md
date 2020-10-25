@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-338 | Java-150 |
+| X | # | Question | Swift-339 | Java-150 |
 |---|---|---|---|---|
+|     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
 |     | 1748 | Best Team With No Conflicts | Swift | Java | 
 |     | 1747 | Lexicographically Smallest String After Applying Operations | Swift | Java | 
@@ -123,7 +124,7 @@ Update README file only:
 |     | 1620 | Check If Array Pairs Are Divisible by k | Swift | Java | 
 |     | 1619 | Path Crossing | Swift | Java | 
 |     | 1618 | Delete N Nodes After M Nodes of a Linked List | Swift | Java | 
-|     | 1617 | Stone Game IV | Swift | Java | 
+|     | 1617 | Stone Game IV | [~~Swift~~](././Swift/stone-game-iv.swift) | Java | 
 |     | 1616 | Minimum Difference Between Largest and Smallest Value in Three Moves | Swift | Java | 
 |     | 1615 | Range Sum of Sorted Subarray Sums | Swift | Java | 
 |     | 1613 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Swift | Java | 
