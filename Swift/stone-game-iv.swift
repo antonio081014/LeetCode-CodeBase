@@ -46,4 +46,24 @@ class Solution {
         }
         return result[n]
     }
+}/**
+ * https://leetcode.com/problems/stone-game-iv/
+ * 
+ * 
+ */ 
+// Date: Sun Oct 25 11:32:44 PDT 2020
+class Solution {
+    func winnerSquareGame(_ n: Int) -> Bool {
+        var result = Array(repeating: false, count: n + 1)
+        // print(candidate)
+        for x in 0 ... n {
+            if result[x] { continue }
+            var step = 1
+            while x + step * step <= n {
+                result[x + step * step] = true
+                step += 1
+            }
+        }
+        return result[n]
+    }
 }
