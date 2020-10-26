@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-339 | Java-150 |
+| X | # | Question | Swift-340 | Java-150 |
 |---|---|---|---|---|
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
@@ -760,7 +760,7 @@ Update README file only:
 |     | 818 | Similar RGB Color | Swift | Java | 
 |     | 817 | Design HashMap | Swift | Java | 
 |     | 816 | Design HashSet | Swift | Java | 
-|     | 815 | Champagne Tower | Swift | Java | 
+|     | 815 | Champagne Tower | [~~Swift~~](././Swift/champagne-tower.swift) | Java | 
 |     | 814 | Smallest Rotation with Highest Score | Swift | Java | 
 |     | 813 | All Paths From Source to Target | [~~Swift~~](././Swift/all-paths-from-source-to-target.swift) | Java | 
 |     | 812 | Rotate String | Swift | Java | 
