@@ -11,9 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-340 | Java-150 |
+| X | # | Question | Swift-341 | Java-150 |
 |---|---|---|---|---|
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
+|     | 1753 | Path With Minimum Effort | Swift | Java | 
+|     | 1752 | Arithmetic Subarrays | Swift | Java | 
+|     | 1751 | Slowest Key | Swift | Java | 
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
 |     | 1748 | Best Team With No Conflicts | Swift | Java | 
 |     | 1747 | Lexicographically Smallest String After Applying Operations | Swift | Java | 
@@ -365,6 +368,7 @@ Update README file only:
 |     | 1262 | Online Majority Element In Subarray | Swift | Java | 
 |     | 1261 | Swap For Longest Repeated Character Substring | Swift | Java | 
 |     | 1260 | Day of the Year | Swift | Java | 
+|     | 1257 | Rank Transform of a Matrix | Swift | Java | 
 |     | 1256 | Rank Transform of an Array | Swift | Java | 
 |     | 1255 | Reverse Subarray To Maximize Array Value | Swift | Java | 
 |     | 1254 | Deepest Leaves Sum | Swift | Java | 
@@ -1197,7 +1201,7 @@ Update README file only:
 |     | 319 | Bulb Switcher | Swift | Java | 
 |     | 318 | Maximum Product of Word Lengths | Swift | Java | 
 |     | 317 | Shortest Distance from All Buildings | Swift | Java | 
-|     | 316 | Remove Duplicate Letters | Swift | Java | 
+|     | 316 | Remove Duplicate Letters | [~~Swift~~](././Swift/remove-duplicate-letters.swift) | Java | 
 |     | 315 | Count of Smaller Numbers After Self | [~~Swift~~](././Swift/count-of-smaller-numbers-after-self.swift) | Java | 
 |     | 314 | Binary Tree Vertical Order Traversal | Swift | Java | 
 |     | 313 | Super Ugly Number | Swift | Java | 
