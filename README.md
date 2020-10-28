@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-341 | Java-150 |
+| X | # | Question | Swift-342 | Java-150 |
 |---|---|---|---|---|
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
 |     | 1753 | Path With Minimum Effort | Swift | Java | 
@@ -1288,7 +1288,7 @@ Update README file only:
 |  X  | 231 | Power of Two | [~~Swift~~](././Swift/power-of-two.swift) | [~~Java~~](././Java/power-of-two.java) | 
 |     | 230 | Kth Smallest Element in a BST | [~~Swift~~](././Swift/kth-smallest-element-in-a-bst.swift) | Java | 
 |     | 229 | Majority Element II | [~~Swift~~](././Swift/majority-element-ii.swift) | Java | 
-|     | 228 | Summary Ranges | Swift | [~~Java~~](././Java/summary-ranges.java) | 
+|  X  | 228 | Summary Ranges | [~~Swift~~](././Swift/summary-ranges.swift) | [~~Java~~](././Java/summary-ranges.java) | 
 |     | 227 | Basic Calculator II | Swift | Java | 
 |  X  | 226 | Invert Binary Tree | [~~Swift~~](././Swift/invert-binary-tree.swift) | [~~Java~~](././Java/invert-binary-tree.java) | 
 |     | 225 | Implement Stack using Queues | Swift | [~~Java~~](././Java/implement-stack-using-queues.java) | 
