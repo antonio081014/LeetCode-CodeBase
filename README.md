@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-343 | Java-150 |
+| X | # | Question | Swift-344 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
@@ -1427,7 +1427,7 @@ Update README file only:
 |  X  | 77 | Combinations | [~~Swift~~](././Swift/combinations.swift) | [~~Java~~](././Java/combinations.java) | 
 |     | 76 | Minimum Window Substring | Swift | Java | 
 |     | 75 | Sort Colors | [~~Swift~~](././Swift/sort-colors.swift) | Java | 
-|     | 74 | Search a 2D Matrix | Swift | [~~Java~~](././Java/search-a-2d-matrix.java) | 
+|  X  | 74 | Search a 2D Matrix | [~~Swift~~](././Swift/search-a-2d-matrix.swift) | [~~Java~~](././Java/search-a-2d-matrix.java) | 
 |     | 73 | Set Matrix Zeroes | Swift | Java | 
 |  X  | 72 | Edit Distance | [~~Swift~~](././Swift/edit-distance.swift) | [~~Java~~](././Java/edit-distance.java) | 
 |     | 71 | Simplify Path | [~~Swift~~](././Swift/simplify-path.swift) | Java | 
