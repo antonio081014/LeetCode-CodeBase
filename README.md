@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-344 | Java-150 |
+| X | # | Question | Swift-345 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
@@ -1324,7 +1324,7 @@ Update README file only:
 |  X  | 190 | Reverse Bits | [~~Swift~~](././Swift/reverse-bits.swift) | [~~Java~~](././Java/reverse-bits.java) | 
 |     | 189 | Rotate Array | [~~Swift~~](././Swift/rotate-array.swift) | Java | 
 |  X  | 188 | Best Time to Buy and Sell Stock IV | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-iv.swift) | [~~Java~~](././Java/best-time-to-buy-and-sell-stock-iv.java) | 
-|     | 187 | Repeated DNA Sequences | Swift | Java | 
+|     | 187 | Repeated DNA Sequences | [~~Swift~~](././Swift/repeated-dna-sequences.swift) | Java | 
 |     | 186 | Reverse Words in a String II | Swift | Java | 
 |     | 179 | Largest Number | [~~Swift~~](././Swift/largest-number.swift) | Java | 
 |  X  | 174 | Dungeon Game | [~~Swift~~](././Swift/dungeon-game.swift) | [~~Java~~](././Java/dungeon-game.java) | 
