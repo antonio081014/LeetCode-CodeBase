@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-342 | Java-150 |
+| X | # | Question | Swift-343 | Java-150 |
 |---|---|---|---|---|
+|     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
 |     | 1753 | Path With Minimum Effort | Swift | Java | 
 |     | 1752 | Arithmetic Subarrays | Swift | Java | 
@@ -707,7 +708,7 @@ Update README file only:
 |     | 882 | Peak Index in a Mountain Array | Swift | Java | 
 |     | 881 | Loud and Rich | Swift | Java | 
 |     | 880 | Rectangle Area II | Swift | Java | 
-|     | 879 | Maximize Distance to Closest Person | Swift | Java | 
+|     | 879 | Maximize Distance to Closest Person | [~~Swift~~](././Swift/maximize-distance-to-closest-person.swift) | Java | 
 |     | 878 | Shifting Letters | Swift | Java | 
 |     | 877 | Shortest Path Visiting All Nodes | Swift | Java | 
 |     | 876 | Hand of Straights | Swift | Java | 
