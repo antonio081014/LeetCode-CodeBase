@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-346 | Java-150 |
+| X | # | Question | Swift-347 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
@@ -603,7 +603,7 @@ Update README file only:
 |     | 988 | Flip Equivalent Binary Trees | [~~Swift~~](././Swift/flip-equivalent-binary-trees.swift) | Java | 
 |     | 987 | Reveal Cards In Increasing Order | Swift | Java | 
 |     | 986 | Largest Time for Given Digits | [~~Swift~~](././Swift/largest-time-for-given-digits.swift) | Java | 
-|     | 985 | Bag of Tokens | Swift | Java | 
+|     | 985 | Bag of Tokens | [~~Swift~~](././Swift/bag-of-tokens.swift) | Java | 
 |     | 984 | Most Stones Removed with Same Row or Column | Swift | Java | 
 |     | 983 | Validate Stack Sequences | Swift | Java | 
 |     | 982 | Minimum Increment to Make Array Unique | Swift | Java | 
