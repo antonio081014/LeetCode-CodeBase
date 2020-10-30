@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-345 | Java-150 |
+| X | # | Question | Swift-346 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
@@ -896,7 +896,7 @@ Update README file only:
 |     | 676 | Implement Magic Dictionary | Swift | Java | 
 |     | 675 | Cut Off Trees for Golf Event | Swift | Java | 
 |     | 674 | Longest Continuous Increasing Subsequence | Swift | Java | 
-|     | 673 | Number of Longest Increasing Subsequence | Swift | Java | 
+|     | 673 | Number of Longest Increasing Subsequence | [~~Swift~~](././Swift/number-of-longest-increasing-subsequence.swift) | Java | 
 |     | 672 | Bulb Switcher II | Swift | Java | 
 |     | 671 | Second Minimum Node In a Binary Tree | Swift | Java | 
 |     | 670 | Maximum Swap | Swift | Java | 
