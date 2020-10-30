@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-347 | Java-150 |
+| X | # | Question | Swift-348 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
@@ -1068,7 +1068,7 @@ Update README file only:
 |     | 459 | Repeated Substring Pattern | [~~Swift~~](././Swift/repeated-substring-pattern.swift) | Java | 
 |     | 458 | Poor Pigs | Swift | Java | 
 |     | 457 | Circular Array Loop | Swift | Java | 
-|     | 456 | 132 Pattern | Swift | Java | 
+|     | 456 | 132 Pattern | [~~Swift~~](././Swift/132-pattern.swift) | Java | 
 |     | 455 | Assign Cookies | Swift | Java | 
 |     | 454 | 4Sum II | Swift | Java | 
 |     | 453 | Minimum Moves to Equal Array Elements | [~~Swift~~](././Swift/minimum-moves-to-equal-array-elements.swift) | Java | 
