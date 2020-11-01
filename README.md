@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-348 | Java-150 |
+| X | # | Question | Swift-349 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
@@ -279,7 +279,7 @@ Update README file only:
 |     | 1421 | Find Numbers with Even Number of Digits | Swift | Java | 
 |     | 1414 | Shortest Path in a Grid with Obstacles Elimination | Swift | Java | 
 |     | 1413 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Swift | Java | 
-|     | 1411 | Convert Binary Number in a Linked List to Integer | Swift | Java | 
+|     | 1411 | Convert Binary Number in a Linked List to Integer | [~~Swift~~](././Swift/convert-binary-number-in-a-linked-list-to-integer.swift) | Java | 
 |     | 1409 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix | Swift | Java | 
 |     | 1408 | Find the Smallest Divisor Given a Threshold | Swift | Java | 
 |     | 1407 | Group the People Given the Group Size They Belong To | Swift | Java | 
