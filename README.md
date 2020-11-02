@@ -11,10 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-349 | Java-150 |
+| X | # | Question | Swift-350 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
+|     | 1762 | Furthest Building You Can Reach | Swift | Java | 
+|     | 1761 | Count Sorted Vowel Strings | Swift | Java | 
+|     | 1760 | Check Array Formation Through Concatenation | Swift | Java | 
 |     | 1753 | Path With Minimum Effort | Swift | Java | 
 |     | 1752 | Arithmetic Subarrays | Swift | Java | 
 |     | 1751 | Slowest Key | Swift | Java | 
@@ -23,6 +26,10 @@ Update README file only:
 |     | 1747 | Lexicographically Smallest String After Applying Operations | Swift | Java | 
 |     | 1746 | Largest Substring Between Two Equal Characters | Swift | Java | 
 |     | 1745 | Find Nearest Right Node in Binary Tree | Swift | Java | 
+|     | 1744 | Number of Ways to Form a Target String Given a Dictionary | Swift | Java | 
+|     | 1743 | Count Substrings That Differ by One Character | Swift | Java | 
+|     | 1742 | Widest Vertical Area Between Two Points Containing No Points | Swift | Java | 
+|     | 1741 | Sort Array by Increasing Frequency | Swift | Java | 
 |     | 1740 | Count Subtrees With Max Distance Between Cities | Swift | Java | 
 |     | 1739 | Split Two Strings to Make Palindrome | Swift | Java | 
 |     | 1738 | Maximal Network Rank | Swift | Java | 
@@ -1038,6 +1045,7 @@ Update README file only:
 |     | 492 | Construct the Rectangle | Swift | Java | 
 |     | 491 | Increasing Subsequences | Swift | Java | 
 |     | 490 | The Maze | Swift | Java | 
+|     | 489 | Kth Smallest Instructions | Swift | Java | 
 |     | 488 | Zuma Game | Swift | Java | 
 |     | 487 | Max Consecutive Ones II | Swift | Java | 
 |     | 486 | Predict the Winner | Swift | Java | 
@@ -1354,7 +1362,7 @@ Update README file only:
 |     | 150 | Evaluate Reverse Polish Notation | Swift | Java | 
 |     | 149 | Max Points on a Line | Swift | [~~Java~~](././Java/max-points-on-a-line.java) | 
 |     | 148 | Sort List | [~~Swift~~](././Swift/sort-list.swift) | Java | 
-|     | 147 | Insertion Sort List | Swift | Java | 
+|     | 147 | Insertion Sort List | [~~Swift~~](././Swift/insertion-sort-list.swift) | Java | 
 |  X  | 146 | LRU Cache | [~~Swift~~](././Swift/lru-cache.swift) | [~~Java~~](././Java/lru-cache.java) | 
 |  X  | 145 | Binary Tree Postorder Traversal | [~~Swift~~](././Swift/binary-tree-postorder-traversal.swift) | [~~Java~~](././Java/binary-tree-postorder-traversal.java) | 
 |  X  | 144 | Binary Tree Preorder Traversal | [~~Swift~~](././Swift/binary-tree-preorder-traversal.swift) | [~~Java~~](././Java/binary-tree-preorder-traversal.java) | 
