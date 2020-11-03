@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-350 | Java-150 |
+| X | # | Question | Swift-351 | Java-150 |
 |---|---|---|---|---|
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
@@ -185,7 +185,7 @@ Update README file only:
 |     | 1545 | Form Largest Integer With Digits That Add up to Target | Swift | Java | 
 |     | 1544 | Count Good Nodes in Binary Tree | Swift | Java | 
 |     | 1543 | Simplified Fractions | Swift | Java | 
-|     | 1542 | Consecutive Characters | Swift | Java | 
+|     | 1542 | Consecutive Characters | [~~Swift~~](././Swift/consecutive-characters.swift) | Java | 
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
 |     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
 |     | 1537 | Maximum Score After Splitting a String | [~~Swift~~](././Swift/maximum-score-after-splitting-a-string.swift) | Java | 
