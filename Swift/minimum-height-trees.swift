@@ -97,4 +97,45 @@ class Solution {
         }
         return roots
     }
+}/**
+ * https://leetcode.com/problems/minimum-height-trees/
+ * 
+ * 
+ */ 
+// Date: Wed Nov  4 10:19:41 PST 2020
+class Solution {
+    /// Toplogical solution.
+    /// - Complexity:
+    ///     - Time: O(V + E), V = n, e = edges.count
+    ///     - Space:
+    func findMinHeightTrees(_ n: Int, _ edges: [[Int]]) -> [Int] {
+        var graph: [Set<Int>] = Array(repeating: [], count: n)
+        for edge in edges {
+            graph[edge[0]].insert(edge[1])
+            graph[edge[1]].insert(edge[0])
+        }
+
+        var leaves: Set<Int> = []
+        for leaf in 0 ..< n {
+            if graph[leaf].count <= 1 {
+                leaves.insert(leaf)
+            }
+        }
+        var nextLayer: Set<Int> = []
+        repeat {
+            nextLayer = []
+            for leaf in leaves {
+                for neighbor in graph[leaf] {
+                    graph[neighbor].remove(leaf)
+                    if graph[neighbor].count == 1 {
+                        nextLayer.insert(neighbor)
+                    }
+                }
+            }
+            if nextLayer.isEmpty == false {
+                leaves = nextLayer
+            }
+        } while !nextLayer.isEmpty
+        return Array(leaves)
+    }
 }
