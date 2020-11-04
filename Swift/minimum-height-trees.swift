@@ -50,3 +50,51 @@ class Solution {
         return roots
     }
 }
+/**
+ * https://leetcode.com/problems/minimum-height-trees/
+ * 
+ * 
+ */ 
+// Date: Wed Nov  4 10:16:50 PST 2020
+class Solution {
+    /// TLE solution, O(n^2 + n * E)
+    /// - Complexity:
+    ///     - Time: O(n * (V + E)), v = n, e = edges.count.
+    ///     - Space:
+    func findMinHeightTrees(_ n: Int, _ edges: [[Int]]) -> [Int] {
+        var graph: [[Int]] = Array(repeating: [], count: n)
+        for edge in edges {
+            graph[edge[0]].append(edge[1])
+            graph[edge[1]].append(edge[0])
+        }
+        
+        var roots: [Int] = []
+        var minHeight = n
+        for root in 0 ..< n {
+            var queue: [Int] = [root]
+            var visited: Set<Int> = [root]
+            var height = 0
+            while queue.isEmpty == false {
+                var layerCount = queue.count
+                height += 1
+                while layerCount > 0 {
+                    layerCount -= 1
+                    let node = queue.removeFirst()
+                    for neighbor in graph[node] {
+                        if visited.contains(neighbor) == false {
+                            visited.insert(neighbor)
+                            queue.append(neighbor)
+                        }
+                    }
+                }
+            }
+            if height < minHeight {
+                minHeight = height
+                roots = [root]
+            } else if height == minHeight {
+                roots.append(root)
+            }
+        }
+        return roots
+    }
+}
