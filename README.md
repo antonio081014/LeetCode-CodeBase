@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-352 | Java-150 |
+| X | # | Question | Swift-353 | Java-150 |
 |---|---|---|---|---|
+|     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
 |     | 1762 | Furthest Building You Can Reach | Swift | Java | 
@@ -334,7 +335,7 @@ Update README file only:
 |     | 1332 | Count Vowels Permutation | Swift | Java | 
 |     | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
-|     | 1329 | Minimum Cost to Move Chips to The Same Position | Swift | Java | 
+|     | 1329 | Minimum Cost to Move Chips to The Same Position | [~~Swift~~](././Swift/minimum-cost-to-move-chips-to-the-same-position.swift) | Java | 
 |     | 1325 | Path with Maximum Probability | Swift | Java | 
 |     | 1322 | Minimum Moves to Reach Target with Rotations | Swift | Java | 
 |     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
