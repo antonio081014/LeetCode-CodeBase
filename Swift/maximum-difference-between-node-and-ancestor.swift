@@ -34,4 +34,43 @@ class Solution {
         dfs(root, root.val, root.val)
         return maxDiff
     }
+}/**
+ * https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+ * 
+ * 
+ */ 
+// Date: Mon Nov  9 11:25:06 PST 2020
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init() { self.val = 0; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+ *         self.val = val
+ *         self.left = left
+ *         self.right = right
+ *     }
+ * }
+ */
+class Solution {
+    func maxAncestorDiff(_ root: TreeNode?) -> Int {
+        guard let root = root else { return 0 }
+        var maxDiff = 0
+        var queue = [(root, root.val, root.val)]
+        while !queue.isEmpty {
+            var (node, maxValue, minValue) = queue.removeFirst()
+            maxDiff = max(maxDiff, max(abs(maxValue - node.val), abs(minValue - node.val)))
+            if let left = node.left {
+                queue.append((left, max(maxValue, node.val), min(minValue, node.val)))
+            }
+            
+            if let right = node.right {
+                queue.append((right, max(maxValue, node.val), min(minValue, node.val)))
+            }
+        }
+        return maxDiff
+    }
 }
