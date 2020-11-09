@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-354 | Java-150 |
+| X | # | Question | Swift-355 | Java-150 |
 |---|---|---|---|---|
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
+|     | 1772 | Create Sorted Array through Instructions | Swift | Java | 
+|     | 1771 | Sell Diminishing-Valued Colored Balls | Swift | Java | 
+|     | 1770 | Minimum Deletions to Make Character Frequencies Unique | Swift | Java | 
+|     | 1769 | Get Maximum in Generated Array | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
 |     | 1762 | Furthest Building You Can Reach | Swift | Java | 
 |     | 1761 | Count Sorted Vowel Strings | Swift | Java | 
@@ -508,7 +512,7 @@ Update README file only:
 |     | 1095 | Two City Scheduling | [~~Swift~~](././Swift/two-city-scheduling.swift) | Java | 
 |     | 1094 | Matrix Cells in Distance Order | Swift | Java | 
 |     | 1093 | Recover a Tree From Preorder Traversal | [~~Swift~~](././Swift/recover-a-tree-from-preorder-traversal.swift) | Java | 
-|     | 1092 | Maximum Difference Between Node and Ancestor | Swift | Java | 
+|     | 1092 | Maximum Difference Between Node and Ancestor | [~~Swift~~](././Swift/maximum-difference-between-node-and-ancestor.swift) | Java | 
 |     | 1091 | Maximum Average Subtree | Swift | Java | 
 |     | 1090 | Armstrong Number | Swift | Java | 
 |     | 1089 | Remove Vowels from a String | Swift | Java | 
