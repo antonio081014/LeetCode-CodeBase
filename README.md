@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-355 | Java-150 |
+| X | # | Question | Swift-356 | Java-150 |
 |---|---|---|---|---|
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
@@ -738,7 +738,7 @@ Update README file only:
 |     | 864 | Image Overlap | [~~Swift~~](././Swift/image-overlap.swift) | Java | 
 |     | 863 | Sum of Distances in Tree | Swift | Java | 
 |     | 862 | Find And Replace in String | Swift | Java | 
-|     | 861 | Flipping an Image | Swift | Java | 
+|     | 861 | Flipping an Image | [~~Swift~~](././Swift/flipping-an-image.swift) | Java | 
 |     | 860 | Design Circular Queue | Swift | Java | 
 |     | 859 | Design Circular Deque | Swift | Java | 
 |     | 858 | Masking Personal Information | Swift | Java | 
