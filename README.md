@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-356 | Java-150 |
+| X | # | Question | Swift-357 | Java-150 |
 |---|---|---|---|---|
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
@@ -968,7 +968,7 @@ Update README file only:
 |     | 599 | Minimum Index Sum of Two Lists | Swift | Java | 
 |     | 598 | Range Addition II | Swift | Java | 
 |     | 594 | Longest Harmonious Subsequence | Swift | Java | 
-|     | 593 | Valid Square | Swift | Java | 
+|     | 593 | Valid Square | [~~Swift~~](././Swift/valid-square.swift) | Java | 
 |     | 592 | Fraction Addition and Subtraction | Swift | Java | 
 |     | 591 | Tag Validator | Swift | Java | 
 |     | 588 | Design In-Memory File System | Swift | Java | 
