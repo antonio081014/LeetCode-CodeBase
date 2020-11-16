@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-357 | Java-150 |
+| X | # | Question | Swift-358 | Java-150 |
 |---|---|---|---|---|
+|     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1772 | Create Sorted Array through Instructions | Swift | Java | 
@@ -724,7 +725,7 @@ Update README file only:
 |     | 878 | Shifting Letters | Swift | Java | 
 |     | 877 | Shortest Path Visiting All Nodes | Swift | Java | 
 |     | 876 | Hand of Straights | Swift | Java | 
-|     | 875 | Longest Mountain in Array | Swift | Java | 
+|     | 875 | Longest Mountain in Array | [~~Swift~~](././Swift/longest-mountain-in-array.swift) | Java | 
 |     | 874 | Backspace String Compare | [~~Swift~~](././Swift/backspace-string-compare.swift) | Java | 
 |     | 873 | Guess the Word | Swift | Java | 
 |     | 872 | Split Array into Fibonacci Sequence | Swift | Java | 
