@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-358 | Java-150 |
+| X | # | Question | Swift-359 | Java-150 |
 |---|---|---|---|---|
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
+|     | 1778 | Maximize Grid Happiness | Swift | Java | 
+|     | 1777 | Determine if Two Strings Are Close | Swift | Java | 
+|     | 1776 | Minimum Operations to Reduce X to Zero | Swift | Java | 
+|     | 1775 | Design an Ordered Stream | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1772 | Create Sorted Array through Instructions | Swift | Java | 
 |     | 1771 | Sell Diminishing-Valued Colored Balls | Swift | Java | 
@@ -24,6 +28,10 @@ Update README file only:
 |     | 1762 | Furthest Building You Can Reach | Swift | Java | 
 |     | 1761 | Count Sorted Vowel Strings | Swift | Java | 
 |     | 1760 | Check Array Formation Through Concatenation | Swift | Java | 
+|     | 1758 | Distribute Repeating Integers | Swift | Java | 
+|     | 1757 | Minimum Jumps to Reach Home | Swift | Java | 
+|     | 1756 | Minimum Deletions to Make String Balanced | Swift | Java | 
+|     | 1755 | Defuse the Bomb | Swift | Java | 
 |     | 1753 | Path With Minimum Effort | Swift | Java | 
 |     | 1752 | Arithmetic Subarrays | Swift | Java | 
 |     | 1751 | Slowest Key | Swift | Java | 
@@ -1138,7 +1146,7 @@ Update README file only:
 |     | 397 | Integer Replacement | Swift | Java | 
 |     | 396 | Rotate Function | Swift | Java | 
 |     | 395 | Longest Substring with At Least K Repeating Characters | Swift | Java | 
-|     | 394 | Decode String | Swift | Java | 
+|     | 394 | Decode String | [~~Swift~~](././Swift/decode-string.swift) | Java | 
 |     | 393 | UTF-8 Validation | Swift | Java | 
 |     | 392 | Is Subsequence | [~~Swift~~](././Swift/is-subsequence.swift) | Java | 
 |     | 391 | Perfect Rectangle | [~~Swift~~](././Swift/perfect-rectangle.swift) | Java | 
