@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-359 | Java-150 |
+| X | # | Question | Swift-360 | Java-150 |
 |---|---|---|---|---|
+|     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1778 | Maximize Grid Happiness | Swift | Java | 
@@ -779,7 +780,7 @@ Update README file only:
 |     | 825 | Max Increase to Keep City Skyline | Swift | Java | 
 |     | 824 | Number of Lines To Write String | Swift | Java | 
 |     | 823 | Split Array With Same Average | Swift | Java | 
-|     | 822 | Unique Morse Code Words | Swift | Java | 
+|     | 822 | Unique Morse Code Words | [~~Swift~~](././Swift/unique-morse-code-words.swift) | Java | 
 |     | 821 | Bricks Falling When Hit | Swift | Java | 
 |     | 820 | Find Eventual Safe States | Swift | Java | 
 |     | 819 | Minimum Swaps To Make Sequences Increasing | Swift | Java | 
