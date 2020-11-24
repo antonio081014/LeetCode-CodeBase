@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-360 | Java-150 |
+| X | # | Question | Swift-361 | Java-150 |
 |---|---|---|---|---|
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
+|     | 1784 | Minimum Initial Energy to Finish Tasks | Swift | Java | 
+|     | 1783 | Ways to Make a Fair Array | Swift | Java | 
+|     | 1782 | Smallest String With A Given Numeric Value | Swift | Java | 
+|     | 1781 | Check If Two String Arrays are Equivalent | Swift | Java | 
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1778 | Maximize Grid Happiness | Swift | Java | 
 |     | 1777 | Determine if Two Strings Are Close | Swift | Java | 
@@ -1313,7 +1317,7 @@ Update README file only:
 |     | 230 | Kth Smallest Element in a BST | [~~Swift~~](././Swift/kth-smallest-element-in-a-bst.swift) | Java | 
 |     | 229 | Majority Element II | [~~Swift~~](././Swift/majority-element-ii.swift) | Java | 
 |  X  | 228 | Summary Ranges | [~~Swift~~](././Swift/summary-ranges.swift) | [~~Java~~](././Java/summary-ranges.java) | 
-|     | 227 | Basic Calculator II | Swift | Java | 
+|     | 227 | Basic Calculator II | [~~Swift~~](././Swift/basic-calculator-ii.swift) | Java | 
 |  X  | 226 | Invert Binary Tree | [~~Swift~~](././Swift/invert-binary-tree.swift) | [~~Java~~](././Java/invert-binary-tree.java) | 
 |     | 225 | Implement Stack using Queues | Swift | [~~Java~~](././Java/implement-stack-using-queues.java) | 
 |     | 224 | Basic Calculator | Swift | Java | 
