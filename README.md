@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-361 | Java-150 |
+| X | # | Question | Swift-362 | Java-150 |
 |---|---|---|---|---|
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
@@ -554,7 +554,7 @@ Update README file only:
 |     | 1067 | Campus Bikes II | Swift | Java | 
 |     | 1066 | Fixed Point | Swift | Java | 
 |     | 1065 | Binary String With Substrings Representing 1 To N | Swift | Java | 
-|     | 1064 | Smallest Integer Divisible by K | Swift | Java | 
+|     | 1064 | Smallest Integer Divisible by K | [~~Swift~~](././Swift/smallest-integer-divisible-by-k.swift) | Java | 
 |     | 1063 | Best Sightseeing Pair | Swift | Java | 
 |     | 1062 | Partition Array Into Three Parts With Equal Sum | Swift | Java | 
 |     | 1061 | Number of Valid Subarrays | Swift | Java | 
