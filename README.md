@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-362 | Java-150 |
+| X | # | Question | Swift-363 | Java-150 |
 |---|---|---|---|---|
+|     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
 |     | 1784 | Minimum Initial Energy to Finish Tasks | Swift | Java | 
@@ -1129,7 +1130,7 @@ Update README file only:
 |     | 419 | Battleships in a Board | [~~Swift~~](././Swift/battleships-in-a-board.swift) | Java | 
 |     | 418 | Sentence Screen Fitting | Swift | Java | 
 |     | 417 | Pacific Atlantic Water Flow | Swift | Java | 
-|     | 416 | Partition Equal Subset Sum | Swift | Java | 
+|     | 416 | Partition Equal Subset Sum | [~~Swift~~](././Swift/partition-equal-subset-sum.swift) | Java | 
 |     | 415 | Add Strings | Swift | Java | 
 |     | 414 | Third Maximum Number | [~~Swift~~](././Swift/third-maximum-number.swift) | Java | 
 |     | 413 | Arithmetic Slices | [~~Swift~~](././Swift/arithmetic-slices.swift) | Java | 
