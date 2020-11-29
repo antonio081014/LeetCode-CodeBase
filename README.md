@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-365 | Java-150 |
+| X | # | Question | Swift-366 | Java-150 |
 |---|---|---|---|---|
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
@@ -1074,7 +1074,7 @@ Update README file only:
 |     | 483 | Smallest Good Base | Swift | Java | 
 |     | 482 | License Key Formatting | Swift | Java | 
 |     | 481 | Magical String | Swift | Java | 
-|     | 480 | Sliding Window Median | Swift | Java | 
+|     | 480 | Sliding Window Median | [~~Swift~~](././Swift/sliding-window-median.swift) | Java | 
 |     | 479 | Largest Palindrome Product | Swift | Java | 
 |     | 477 | Total Hamming Distance | [~~Swift~~](././Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | [~~Swift~~](././Swift/number-complement.swift) | Java | 
