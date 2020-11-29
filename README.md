@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-363 | Java-150 |
+| X | # | Question | Swift-364 | Java-150 |
 |---|---|---|---|---|
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
@@ -297,7 +297,7 @@ Update README file only:
 |     | 1434 | Decrypt String from Alphabet to Integer Mapping | Swift | Java | 
 |     | 1432 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Swift | Java | 
 |     | 1429 | Verbal Arithmetic Puzzle | Swift | Java | 
-|     | 1428 | Jump Game III | Swift | Java | 
+|     | 1428 | Jump Game III | [~~Swift~~](././Swift/jump-game-iii.swift) | Java | 
 |     | 1427 | All Elements in Two Binary Search Trees | [~~Swift~~](././Swift/all-elements-in-two-binary-search-trees.swift) | Java | 
 |     | 1426 | Find N Unique Integers Sum up to Zero | Swift | Java | 
 |     | 1424 | Maximum Candies You Can Get from Boxes | Swift | Java | 
