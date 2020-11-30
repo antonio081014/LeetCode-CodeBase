@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-366 | Java-150 |
+| X | # | Question | Swift-367 | Java-150 |
 |---|---|---|---|---|
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
@@ -676,7 +676,7 @@ Update README file only:
 |     | 941 | Sort Array By Parity | [~~Swift~~](././Swift/sort-array-by-parity.swift) | Java | 
 |     | 940 | Fruit Into Baskets | Swift | Java | 
 |     | 939 | Valid Permutations for DI Sequence | Swift | Java | 
-|     | 938 | Numbers At Most N Given Digit Set | Swift | Java | 
+|     | 938 | Numbers At Most N Given Digit Set | [~~Swift~~](././Swift/numbers-at-most-n-given-digit-set.swift) | Java | 
 |     | 937 | Online Stock Span | [~~Swift~~](././Swift/online-stock-span.swift) | Java | 
 |     | 936 | RLE Iterator | Swift | Java | 
 |     | 935 | Orderly Queue | Swift | Java | 
