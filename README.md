@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-367 | Java-150 |
+| X | # | Question | Swift-368 | Java-150 |
 |---|---|---|---|---|
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
@@ -1151,7 +1151,7 @@ Update README file only:
 |     | 398 | Random Pick Index | Swift | Java | 
 |     | 397 | Integer Replacement | Swift | Java | 
 |     | 396 | Rotate Function | Swift | Java | 
-|     | 395 | Longest Substring with At Least K Repeating Characters | Swift | Java | 
+|     | 395 | Longest Substring with At Least K Repeating Characters | [~~Swift~~](././Swift/longest-substring-with-at-least-k-repeating-characters.swift) | Java | 
 |     | 394 | Decode String | [~~Swift~~](././Swift/decode-string.swift) | Java | 
 |     | 393 | UTF-8 Validation | Swift | Java | 
 |     | 392 | Is Subsequence | [~~Swift~~](././Swift/is-subsequence.swift) | Java | 
