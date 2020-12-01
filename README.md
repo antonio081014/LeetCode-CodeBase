@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-368 | Java-150 |
+| X | # | Question | Swift-369 | Java-150 |
 |---|---|---|---|---|
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
+|     | 1794 | Minimize Deviation in Array | Swift | Java | 
+|     | 1793 | Minimum Moves to Make Array Complementary | Swift | Java | 
+|     | 1792 | Find the Most Competitive Subsequence | Swift | Java | 
+|     | 1791 | Richest Customer Wealth | Swift | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
 |     | 1784 | Minimum Initial Energy to Finish Tasks | Swift | Java | 
 |     | 1783 | Ways to Make a Fair Array | Swift | Java | 
@@ -31,6 +35,10 @@ Update README file only:
 |     | 1770 | Minimum Deletions to Make Character Frequencies Unique | Swift | Java | 
 |     | 1769 | Get Maximum in Generated Array | Swift | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
+|     | 1767 | Design Front Middle Back Queue | Swift | Java | 
+|     | 1766 | Minimum Number of Removals to Make Mountain Array | Swift | Java | 
+|     | 1765 | Merge In Between Linked Lists | Swift | Java | 
+|     | 1764 | Maximum Repeating Substring | Swift | Java | 
 |     | 1762 | Furthest Building You Can Reach | Swift | Java | 
 |     | 1761 | Count Sorted Vowel Strings | Swift | Java | 
 |     | 1760 | Check Array Formation Through Concatenation | Swift | Java | 
@@ -1058,7 +1066,7 @@ Update README file only:
 |     | 500 | Keyboard Row | Swift | Java | 
 |     | 499 | The Maze III | Swift | Java | 
 |     | 498 | Diagonal Traverse | Swift | Java | 
-|     | 496 | Next Greater Element I | Swift | Java | 
+|     | 496 | Next Greater Element I | [~~Swift~~](././Swift/next-greater-element-i.swift) | Java | 
 |     | 495 | Teemo Attacking | [~~Swift~~](././Swift/teemo-attacking.swift) | Java | 
 |     | 494 | Target Sum | Swift | Java | 
 |     | 493 | Reverse Pairs | Swift | Java | 
