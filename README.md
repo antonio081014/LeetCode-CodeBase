@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-369 | Java-150 |
+| X | # | Question | Swift-370 | Java-150 |
 |---|---|---|---|---|
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
@@ -1172,7 +1172,7 @@ Update README file only:
 |     | 385 | Mini Parser | Swift | Java | 
 |     | 384 | Shuffle an Array | [~~Swift~~](././Swift/shuffle-an-array.swift) | Java | 
 |     | 383 | Ransom Note | [~~Swift~~](././Swift/ransom-note.swift) | Java | 
-|     | 382 | Linked List Random Node | Swift | Java | 
+|     | 382 | Linked List Random Node | [~~Swift~~](././Swift/linked-list-random-node.swift) | Java | 
 |     | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Swift | Java | 
 |     | 380 | Insert Delete GetRandom O(1) | [~~Swift~~](././Swift/insert-delete-getrandom-o1.swift) | Java | 
 |     | 379 | Design Phone Directory | Swift | Java | 
