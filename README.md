@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-370 | Java-150 |
+| X | # | Question | Swift-371 | Java-150 |
 |---|---|---|---|---|
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
@@ -689,7 +689,7 @@ Update README file only:
 |     | 936 | RLE Iterator | Swift | Java | 
 |     | 935 | Orderly Queue | Swift | Java | 
 |     | 934 | Bitwise ORs of Subarrays | Swift | Java | 
-|     | 933 | Increasing Order Search Tree | Swift | Java | 
+|     | 933 | Increasing Order Search Tree | [~~Swift~~](././Swift/increasing-order-search-tree.swift) | Java | 
 |     | 932 | Monotonic Array | Swift | Java | 
 |     | 931 | Maximum Frequency Stack | Swift | Java | 
 |     | 930 | All Possible Full Binary Trees | Swift | Java | 
