@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-371 | Java-150 |
+| X | # | Question | Swift-372 | Java-150 |
 |---|---|---|---|---|
+|     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1794 | Minimize Deviation in Array | Swift | Java | 
@@ -176,7 +177,7 @@ Update README file only:
 |     | 1603 | Running Sum of 1d Array | Swift | Java | 
 |     | 1587 | Parallel Courses II | Swift | Java | 
 |     | 1586 | Longest Subarray of 1's After Deleting One Element | Swift | Java | 
-|     | 1585 | The kth Factor of n | Swift | Java | 
+|     | 1585 | The kth Factor of n | [~~Swift~~](././Swift/the-kth-factor-of-n.swift) | Java | 
 |     | 1584 | Average Salary Excluding the Minimum and Maximum Salary | Swift | Java | 
 |     | 1583 | Paint House III | Swift | Java | 
 |     | 1582 | Design Browser History | Swift | Java | 
