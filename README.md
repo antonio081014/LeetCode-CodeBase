@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-373 | Java-150 |
+| X | # | Question | Swift-374 | Java-150 |
 |---|---|---|---|---|
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
@@ -986,7 +986,7 @@ Update README file only:
 |     | 611 | Valid Triangle Number | Swift | Java | 
 |     | 609 | Find Duplicate File in System | Swift | Java | 
 |     | 606 | Construct String from Binary Tree | Swift | Java | 
-|     | 605 | Can Place Flowers | Swift | Java | 
+|     | 605 | Can Place Flowers | [~~Swift~~](././Swift/can-place-flowers.swift) | Java | 
 |     | 604 | Design Compressed String Iterator | Swift | Java | 
 |     | 600 | Non-negative Integers without Consecutive Ones | Swift | Java | 
 |     | 599 | Minimum Index Sum of Two Lists | Swift | Java | 
