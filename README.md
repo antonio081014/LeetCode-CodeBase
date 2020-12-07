@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-372 | Java-150 |
+| X | # | Question | Swift-373 | Java-150 |
 |---|---|---|---|---|
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
@@ -1479,7 +1479,7 @@ Update README file only:
 |  X  | 62 | Unique Paths | [~~Swift~~](././Swift/unique-paths.swift) | [~~Java~~](././Java/unique-paths.java) | 
 |     | 61 | Rotate List | [~~Swift~~](././Swift/rotate-list.swift) | Java | 
 |  X  | 60 | Permutation Sequence | [~~Swift~~](././Swift/permutation-sequence.swift) | [~~Java~~](././Java/permutation-sequence.java) | 
-|     | 59 | Spiral Matrix II | Swift | [~~Java~~](././Java/spiral-matrix-ii.java) | 
+|  X  | 59 | Spiral Matrix II | [~~Swift~~](././Swift/spiral-matrix-ii.swift) | [~~Java~~](././Java/spiral-matrix-ii.java) | 
 |  X  | 58 | Length of Last Word | [~~Swift~~](././Swift/length-of-last-word.swift) | [~~Java~~](././Java/length-of-last-word.java) | 
 |     | 57 | Insert Interval | [~~Swift~~](././Swift/insert-interval.swift) | Java | 
 |     | 56 | Merge Intervals | Swift | [~~Java~~](././Java/merge-intervals.java) | 
