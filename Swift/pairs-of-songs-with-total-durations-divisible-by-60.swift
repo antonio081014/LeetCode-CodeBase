@@ -29,4 +29,28 @@ class Solution {
         }
         return result
     }
+}/**
+ * https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+ * 
+ * 
+ */ 
+// Date: Tue Dec  8 10:37:46 PST 2020
+class Solution {
+    /// Scan through the array.
+    /// - Complexity:
+    ///     - Time: O(n), n = time.count
+    ///     - Space: O(n), n = time.count
+    func numPairsDivisibleBy60(_ time: [Int]) -> Int {
+        var counter = Array(repeating: 0, count: 60)
+        var result = 0
+        for t in time {
+            if t % 60 == 0 {
+                result += counter[0]
+            } else {
+                result += counter[60 - t % 60]
+            }
+            counter[t % 60] += 1
+        }
+        return result
+    }
 }
