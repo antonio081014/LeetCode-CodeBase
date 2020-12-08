@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-374 | Java-150 |
+| X | # | Question | Swift-375 | Java-150 |
 |---|---|---|---|---|
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
@@ -573,7 +573,7 @@ Update README file only:
 |     | 1058 | Lexicographically Smallest Equivalent String | Swift | Java | 
 |     | 1057 | Numbers With Repeated Digits | Swift | Java | 
 |     | 1056 | Capacity To Ship Packages Within D Days | Swift | Java | 
-|     | 1055 | Pairs of Songs With Total Durations Divisible by 60 | Swift | Java | 
+|     | 1055 | Pairs of Songs With Total Durations Divisible by 60 | [~~Swift~~](././Swift/pairs-of-songs-with-total-durations-divisible-by-60.swift) | Java | 
 |     | 1054 | Complement of Base 10 Integer | [~~Swift~~](././Swift/complement-of-base-10-integer.swift) | Java | 
 |     | 1053 | Minimize Rounding Error to Meet Target | Swift | Java | 
 |     | 1052 | Campus Bikes | Swift | Java | 
