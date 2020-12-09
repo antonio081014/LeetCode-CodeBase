@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-375 | Java-150 |
+| X | # | Question | Swift-376 | Java-150 |
 |---|---|---|---|---|
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
@@ -1349,7 +1349,7 @@ Update README file only:
 |  X  | 212 | Word Search II | [~~Swift~~](././Swift/word-search-ii.swift) | [~~Java~~](././Java/word-search-ii.java) | 
 |     | 211 | Design Add and Search Words Data Structure | Swift | Java | 
 |     | 210 | Course Schedule II | [~~Swift~~](././Swift/course-schedule-ii.swift) | Java | 
-|     | 209 | Minimum Size Subarray Sum | Swift | Java | 
+|     | 209 | Minimum Size Subarray Sum | [~~Swift~~](././Swift/minimum-size-subarray-sum.swift) | Java | 
 |     | 208 | Implement Trie (Prefix Tree) | [~~Swift~~](././Swift/implement-trie-prefix-tree.swift) | Java | 
 |  X  | 207 | Course Schedule | [~~Swift~~](././Swift/course-schedule.swift) | [~~Java~~](././Java/course-schedule.java) | 
 |  X  | 206 | Reverse Linked List | [~~Swift~~](././Swift/reverse-linked-list.swift) | [~~Java~~](././Java/reverse-linked-list.java) | 
