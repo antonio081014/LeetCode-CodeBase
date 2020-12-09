@@ -15,6 +15,10 @@ Update README file only:
 |---|---|---|---|---|
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
+|     | 1800 | Concatenation of Consecutive Binary Numbers | Swift | Java | 
+|     | 1799 | Minimum Incompatibility | Swift | Java | 
+|     | 1798 | Max Number of K-Sum Pairs | Swift | Java | 
+|     | 1797 | Goal Parser Interpretation | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1794 | Minimize Deviation in Array | Swift | Java | 
 |     | 1793 | Minimum Moves to Make Array Complementary | Swift | Java | 
