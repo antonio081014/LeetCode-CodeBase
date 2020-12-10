@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-376 | Java-150 |
+| X | # | Question | Swift-377 | Java-150 |
 |---|---|---|---|---|
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
@@ -650,7 +650,7 @@ Update README file only:
 |     | 981 | Delete Columns to Make Sorted | Swift | Java | 
 |     | 980 | Find the Shortest Superstring | Swift | Java | 
 |     | 979 | DI String Match | Swift | Java | 
-|     | 978 | Valid Mountain Array | Swift | Java | 
+|     | 978 | Valid Mountain Array | [~~Swift~~](././Swift/valid-mountain-array.swift) | Java | 
 |     | 977 | Distinct Subsequences II | Swift | Java | 
 |     | 976 | Minimum Area Rectangle | Swift | Java | 
 |     | 975 | Range Sum of BST | [~~Swift~~](././Swift/range-sum-of-bst.swift) | Java | 
