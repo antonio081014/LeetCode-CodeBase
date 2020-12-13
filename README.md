@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-377 | Java-150 |
+| X | # | Question | Swift-378 | Java-150 |
 |---|---|---|---|---|
+|     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1800 | Concatenation of Consecutive Binary Numbers | Swift | Java | 
@@ -25,6 +26,10 @@ Update README file only:
 |     | 1792 | Find the Most Competitive Subsequence | Swift | Java | 
 |     | 1791 | Richest Customer Wealth | Swift | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
+|     | 1789 | Delivering Boxes from Storage to Ports | Swift | Java | 
+|     | 1788 | Stone Game VI | Swift | Java | 
+|     | 1787 | Sum of Absolute Differences in a Sorted Array | Swift | Java | 
+|     | 1786 | Count the Number of Consistent Strings | Swift | Java | 
 |     | 1784 | Minimum Initial Energy to Finish Tasks | Swift | Java | 
 |     | 1783 | Ways to Make a Fair Array | Swift | Java | 
 |     | 1782 | Smallest String With A Given Numeric Value | Swift | Java | 
@@ -731,7 +736,7 @@ Update README file only:
 |     | 899 | Binary Gap | Swift | Java | 
 |     | 898 | Transpose Matrix | Swift | Java | 
 |     | 897 | Prime Palindrome | Swift | Java | 
-|     | 896 | Smallest Subtree with all the Deepest Nodes | Swift | Java | 
+|     | 896 | Smallest Subtree with all the Deepest Nodes | [~~Swift~~](././Swift/smallest-subtree-with-all-the-deepest-nodes.swift) | Java | 
 |     | 895 | Shortest Path to Get All Keys | Swift | Java | 
 |     | 894 | Random Pick with Blacklist | Swift | Java | 
 |     | 893 | All Nodes Distance K in Binary Tree | Swift | Java | 
