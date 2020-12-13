@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-378 | Java-150 |
+| X | # | Question | Swift-379 | Java-150 |
 |---|---|---|---|---|
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
@@ -447,7 +447,7 @@ Update README file only:
 |     | 1221 | Element Appearing More Than 25% In Sorted Array | [~~Swift~~](././Swift/element-appearing-more-than-25-in-sorted-array.swift) | Java | 
 |     | 1220 | Smallest Sufficient Team | Swift | Java | 
 |     | 1219 | Longest Well-Performing Interval | Swift | Java | 
-|     | 1218 | Lowest Common Ancestor of Deepest Leaves | Swift | Java | 
+|     | 1218 | Lowest Common Ancestor of Deepest Leaves | [~~Swift~~](././Swift/lowest-common-ancestor-of-deepest-leaves.swift) | Java | 
 |     | 1217 | Relative Sort Array | Swift | Java | 
 |     | 1213 | Handshakes That Don't Cross | Swift | Java | 
 |     | 1212 | Sequential Digits | [~~Swift~~](././Swift/sequential-digits.swift) | Java | 
