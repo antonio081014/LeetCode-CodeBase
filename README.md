@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-379 | Java-150 |
+| X | # | Question | Swift-380 | Java-150 |
 |---|---|---|---|---|
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
@@ -1416,7 +1416,7 @@ Update README file only:
 |     | 134 | Gas Station | [~~Swift~~](././Swift/gas-station.swift) | Java | 
 |     | 133 | Clone Graph | [~~Swift~~](././Swift/clone-graph.swift) | Java | 
 |     | 132 | Palindrome Partitioning II | Swift | Java | 
-|     | 131 | Palindrome Partitioning | Swift | Java | 
+|     | 131 | Palindrome Partitioning | [~~Swift~~](././Swift/palindrome-partitioning.swift) | Java | 
 |  X  | 130 | Surrounded Regions | [~~Swift~~](././Swift/surrounded-regions.swift) | [~~Java~~](././Java/surrounded-regions.java) | 
 |  X  | 129 | Sum Root to Leaf Numbers | [~~Swift~~](././Swift/sum-root-to-leaf-numbers.swift) | [~~Java~~](././Java/sum-root-to-leaf-numbers.java) | 
 |  X  | 128 | Longest Consecutive Sequence | [~~Swift~~](././Swift/longest-consecutive-sequence.swift) | [~~Java~~](././Java/longest-consecutive-sequence.java) | 
