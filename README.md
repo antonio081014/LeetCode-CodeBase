@@ -11,11 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-380 | Java-150 |
+| X | # | Question | Swift-381 | Java-150 |
 |---|---|---|---|---|
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
+|     | 1808 | Stone Game VII | Swift | Java | 
+|     | 1807 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Swift | Java | 
+|     | 1806 | Count of Matches in Tournament | Swift | Java | 
 |     | 1800 | Concatenation of Consecutive Binary Numbers | Swift | Java | 
 |     | 1799 | Minimum Incompatibility | Swift | Java | 
 |     | 1798 | Max Number of K-Sum Pairs | Swift | Java | 
@@ -353,6 +356,7 @@ Update README file only:
 |     | 1371 | Minimum Remove to Make Valid Parentheses | Swift | Java | 
 |     | 1370 | Count Number of Nice Subarrays | Swift | Java | 
 |     | 1369 | Minimum Swaps to Make Strings Equal | Swift | Java | 
+|     | 1367 | Maximum Height by Stacking Cuboids  | Swift | Java | 
 |     | 1366 | First Unique Number | Swift | Java | 
 |     | 1362 | Airplane Seat Assignment Probability | Swift | Java | 
 |     | 1361 | Tiling a Rectangle with the Fewest Squares | Swift | Java | 
@@ -618,7 +622,7 @@ Update README file only:
 |     | 1022 | Unique Paths III | [~~Swift~~](././Swift/unique-paths-iii.swift) | Java | 
 |     | 1021 | Distribute Coins in Binary Tree | Swift | Java | 
 |     | 1020 | Longest Turbulent Subarray | Swift | Java | 
-|     | 1019 | Squares of a Sorted Array | Swift | Java | 
+|     | 1019 | Squares of a Sorted Array | [~~Swift~~](././Swift/squares-of-a-sorted-array.swift) | Java | 
 |     | 1018 | Largest Perimeter Triangle | Swift | Java | 
 |     | 1017 | Odd Even Jump | Swift | Java | 
 |     | 1016 | Subarray Sums Divisible by K | Swift | Java | 
