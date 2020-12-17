@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-381 | Java-150 |
+| X | # | Question | Swift-382 | Java-150 |
 |---|---|---|---|---|
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
@@ -1120,7 +1120,7 @@ Update README file only:
 |     | 457 | Circular Array Loop | Swift | Java | 
 |     | 456 | 132 Pattern | [~~Swift~~](././Swift/132-pattern.swift) | Java | 
 |     | 455 | Assign Cookies | Swift | Java | 
-|     | 454 | 4Sum II | Swift | Java | 
+|     | 454 | 4Sum II | [~~Swift~~](././Swift/4sum-ii.swift) | Java | 
 |     | 453 | Minimum Moves to Equal Array Elements | [~~Swift~~](././Swift/minimum-moves-to-equal-array-elements.swift) | Java | 
 |     | 452 | Minimum Number of Arrows to Burst Balloons | [~~Swift~~](././Swift/minimum-number-of-arrows-to-burst-balloons.swift) | Java | 
 |     | 451 | Sort Characters By Frequency | [~~Swift~~](././Swift/sort-characters-by-frequency.swift) | Java | 
