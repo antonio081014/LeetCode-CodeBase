@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-382 | Java-150 |
+| X | # | Question | Swift-383 | Java-150 |
 |---|---|---|---|---|
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
@@ -1234,7 +1234,7 @@ Update README file only:
 |     | 337 | House Robber III | Swift | Java | 
 |     | 336 | Palindrome Pairs | Swift | Java | 
 |     | 335 | Self Crossing | Swift | Java | 
-|     | 334 | Increasing Triplet Subsequence | Swift | Java | 
+|     | 334 | Increasing Triplet Subsequence | [~~Swift~~](././Swift/increasing-triplet-subsequence.swift) | Java | 
 |     | 333 | Largest BST Subtree | Swift | Java | 
 |     | 332 | Reconstruct Itinerary | [~~Swift~~](././Swift/reconstruct-itinerary.swift) | Java | 
 |     | 331 | Verify Preorder Serialization of a Binary Tree | [~~Swift~~](././Swift/verify-preorder-serialization-of-a-binary-tree.swift) | Java | 
