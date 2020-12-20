@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-383 | Java-150 |
+| X | # | Question | Swift-384 | Java-150 |
 |---|---|---|---|---|
+|     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
@@ -211,7 +212,7 @@ Update README file only:
 |     | 1562 | People Whose List of Favorite Companies Is Not a Subset of Another List | Swift | Java | 
 |     | 1561 | Rearrange Words in a Sentence | Swift | Java | 
 |     | 1560 | Number of Students Doing Homework at a Given Time | Swift | Java | 
-|     | 1559 | Cherry Pickup II | Swift | Java | 
+|     | 1559 | Cherry Pickup II | [~~Swift~~](././Swift/cherry-pickup-ii.swift) | Java | 
 |     | 1558 | Course Schedule IV | Swift | Java | 
 |     | 1557 | Check If a String Contains All Binary Codes of Size K | Swift | Java | 
 |     | 1556 | Make Two Arrays Equal by Reversing Sub-arrays | Swift | Java | 
