@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-384 | Java-150 |
+| X | # | Question | Swift-385 | Java-150 |
 |---|---|---|---|---|
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
@@ -1442,7 +1442,7 @@ Update README file only:
 |     | 113 | Path Sum II | Swift | [~~Java~~](././Java/path-sum-ii.java) | 
 |  X  | 112 | Path Sum | [~~Swift~~](././Swift/path-sum.swift) | [~~Java~~](././Java/path-sum.java) | 
 |  X  | 111 | Minimum Depth of Binary Tree | [~~Swift~~](././Swift/minimum-depth-of-binary-tree.swift) | [~~Java~~](././Java/minimum-depth-of-binary-tree.java) | 
-|     | 110 | Balanced Binary Tree | Swift | [~~Java~~](././Java/balanced-binary-tree.java) | 
+|  X  | 110 | Balanced Binary Tree | [~~Swift~~](././Swift/balanced-binary-tree.swift) | [~~Java~~](././Java/balanced-binary-tree.java) | 
 |  X  | 109 | Convert Sorted List to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-list-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-list-to-binary-search-tree.java) | 
 |  X  | 108 | Convert Sorted Array to Binary Search Tree | [~~Swift~~](././Swift/convert-sorted-array-to-binary-search-tree.swift) | [~~Java~~](././Java/convert-sorted-array-to-binary-search-tree.java) | 
 |     | 107 | Binary Tree Level Order Traversal II | Swift | [~~Java~~](././Java/binary-tree-level-order-traversal-ii.java) | 
