@@ -11,11 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-385 | Java-150 |
+| X | # | Question | Swift-386 | Java-150 |
 |---|---|---|---|---|
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
+|     | 1815 | Checking Existence of Edge Length Limited Paths | Swift | Java | 
+|     | 1814 | Jump Game VI | Swift | Java | 
+|     | 1813 | Maximum Erasure Value | Swift | Java | 
+|     | 1812 | Reformat Phone Number | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1808 | Stone Game VII | Swift | Java | 
 |     | 1807 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Swift | Java | 
@@ -1028,7 +1032,7 @@ Update README file only:
 |     | 561 | Array Partition I | Swift | Java | 
 |     | 560 | Subarray Sum Equals K | [~~Swift~~](././Swift/subarray-sum-equals-k.swift) | Java | 
 |     | 557 | Reverse Words in a String III | Swift | Java | 
-|     | 556 | Next Greater Element III | Swift | Java | 
+|     | 556 | Next Greater Element III | [~~Swift~~](././Swift/next-greater-element-iii.swift) | Java | 
 |     | 555 | Split Concatenated Strings | Swift | Java | 
 |     | 554 | Brick Wall | Swift | Java | 
 |     | 553 | Optimal Division | Swift | Java | 
