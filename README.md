@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-386 | Java-150 |
+| X | # | Question | Swift-387 | Java-150 |
 |---|---|---|---|---|
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
@@ -1084,7 +1084,7 @@ Update README file only:
 |     | 501 | Find Mode in Binary Search Tree | [~~Swift~~](././Swift/find-mode-in-binary-search-tree.swift) | Java | 
 |     | 500 | Keyboard Row | Swift | Java | 
 |     | 499 | The Maze III | Swift | Java | 
-|     | 498 | Diagonal Traverse | Swift | Java | 
+|     | 498 | Diagonal Traverse | [~~Swift~~](././Swift/diagonal-traverse.swift) | Java | 
 |     | 496 | Next Greater Element I | [~~Swift~~](././Swift/next-greater-element-i.swift) | Java | 
 |     | 495 | Teemo Attacking | [~~Swift~~](././Swift/teemo-attacking.swift) | Java | 
 |     | 494 | Target Sum | Swift | Java | 
