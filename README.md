@@ -13,7 +13,11 @@ Update README file only:
 
 | X | # | Question | Swift-387 | Java-150 |
 |---|---|---|---|---|
+|     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
+|     | 1826 | Maximum XOR With an Element From Array | Swift | Java | 
+|     | 1824 | Maximum Number of Eaten Apples | Swift | Java | 
+|     | 1823 | Determine if String Halves Are Alike | Swift | Java | 
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1815 | Checking Existence of Edge Length Limited Paths | Swift | Java | 
@@ -24,6 +28,10 @@ Update README file only:
 |     | 1808 | Stone Game VII | Swift | Java | 
 |     | 1807 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Swift | Java | 
 |     | 1806 | Count of Matches in Tournament | Swift | Java | 
+|     | 1805 | Minimum Adjacent Swaps for K Consecutive Ones | Swift | Java | 
+|     | 1804 | Maximum Binary String After Change | Swift | Java | 
+|     | 1803 | Average Waiting Time | Swift | Java | 
+|     | 1802 | Number of Students Unable to Eat Lunch | Swift | Java | 
 |     | 1800 | Concatenation of Consecutive Binary Numbers | Swift | Java | 
 |     | 1799 | Minimum Incompatibility | Swift | Java | 
 |     | 1798 | Max Number of K-Sum Pairs | Swift | Java | 
@@ -383,6 +391,7 @@ Update README file only:
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
 |     | 1329 | Minimum Cost to Move Chips to The Same Position | [~~Swift~~](././Swift/minimum-cost-to-move-chips-to-the-same-position.swift) | Java | 
 |     | 1325 | Path with Maximum Probability | Swift | Java | 
+|     | 1324 | Where Will the Ball Fall | Swift | Java | 
 |     | 1322 | Minimum Moves to Reach Target with Rotations | Swift | Java | 
 |     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
 |     | 1320 | Remove All Adjacent Duplicates in String II | Swift | Java | 
