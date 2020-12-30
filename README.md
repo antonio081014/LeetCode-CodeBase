@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-387 | Java-150 |
+| X | # | Question | Swift-388 | Java-150 |
 |---|---|---|---|---|
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
@@ -1293,7 +1293,7 @@ Update README file only:
 |     | 292 | Nim Game | Swift | [~~Java~~](././Java/nim-game.java) | 
 |     | 291 | Word Pattern II | Swift | Java | 
 |  X  | 290 | Word Pattern | [~~Swift~~](././Swift/word-pattern.swift) | [~~Java~~](././Java/word-pattern.java) | 
-|     | 289 | Game of Life | Swift | [~~Java~~](././Java/game-of-life.java) | 
+|  X  | 289 | Game of Life | [~~Swift~~](././Swift/game-of-life.swift) | [~~Java~~](././Java/game-of-life.java) | 
 |     | 288 | Unique Word Abbreviation | Swift | Java | 
 |  X  | 287 | Find the Duplicate Number | [~~Swift~~](././Swift/find-the-duplicate-number.swift) | [~~Java~~](././Java/find-the-duplicate-number.java) | 
 |     | 286 | Walls and Gates | Swift | Java | 
