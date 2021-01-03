@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-388 | Java-150 |
+| X | # | Question | Swift-389 | Java-150 |
 |---|---|---|---|---|
+|     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1826 | Maximum XOR With an Element From Array | Swift | Java | 
@@ -67,7 +68,7 @@ Update README file only:
 |     | 1764 | Maximum Repeating Substring | Swift | Java | 
 |     | 1762 | Furthest Building You Can Reach | Swift | Java | 
 |     | 1761 | Count Sorted Vowel Strings | Swift | Java | 
-|     | 1760 | Check Array Formation Through Concatenation | Swift | Java | 
+|     | 1760 | Check Array Formation Through Concatenation | [~~Swift~~](././Swift/check-array-formation-through-concatenation.swift) | Java | 
 |     | 1758 | Distribute Repeating Integers | Swift | Java | 
 |     | 1757 | Minimum Jumps to Reach Home | Swift | Java | 
 |     | 1756 | Minimum Deletions to Make String Balanced | Swift | Java | 
@@ -1049,7 +1050,7 @@ Update README file only:
 |     | 551 | Student Attendance Record I | Swift | Java | 
 |     | 549 | Binary Tree Longest Consecutive Sequence II | Swift | Java | 
 |     | 548 | Split Array with Equal Sum | Swift | Java | 
-|     | 547 | Friend Circles | Swift | Java | 
+|     | 547 | Number of Provinces | Swift | Java | 
 |     | 546 | Remove Boxes | Swift | Java | 
 |     | 545 | Boundary of Binary Tree | Swift | Java | 
 |     | 544 | Output Contest Matches | Swift | Java | 
