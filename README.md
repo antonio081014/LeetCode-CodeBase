@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-389 | Java-150 |
+| X | # | Question | Swift-390 | Java-150 |
 |---|---|---|---|---|
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
@@ -1069,7 +1069,7 @@ Update README file only:
 |     | 530 | Minimum Absolute Difference in BST | [~~Swift~~](././Swift/minimum-absolute-difference-in-bst.swift) | Java | 
 |     | 529 | Minesweeper | Swift | Java | 
 |     | 527 | Word Abbreviation | Swift | Java | 
-|     | 526 | Beautiful Arrangement | Swift | Java | 
+|     | 526 | Beautiful Arrangement | [~~Swift~~](././Swift/beautiful-arrangement.swift) | Java | 
 |     | 525 | Contiguous Array | [~~Swift~~](././Swift/contiguous-array.swift) | Java | 
 |     | 524 | Longest Word in Dictionary through Deleting | Swift | Java | 
 |     | 523 | Continuous Subarray Sum | Swift | Java | 
