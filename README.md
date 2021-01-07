@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-390 | Java-150 |
+| X | # | Question | Swift-391 | Java-150 |
 |---|---|---|---|---|
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
+|     | 1832 | Minimum Operations to Make a Subsequence | Swift | Java | 
+|     | 1831 | Ways to Split Array Into Three Subarrays | Swift | Java | 
+|     | 1830 | Count Good Meals | Swift | Java | 
+|     | 1829 | Maximum Units on a Truck | Swift | Java | 
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1826 | Maximum XOR With an Element From Array | Swift | Java | 
 |     | 1824 | Maximum Number of Eaten Apples | Swift | Java | 
@@ -165,7 +169,7 @@ Update README file only:
 |     | 1649 | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target | Swift | Java | 
 |     | 1648 | Minimum Insertions to Balance a Parentheses String | Swift | Java | 
 |     | 1647 | Can Convert String in K Moves | Swift | Java | 
-|     | 1646 | Kth Missing Positive Number | Swift | Java | 
+|     | 1646 | Kth Missing Positive Number | [~~Swift~~](././Swift/kth-missing-positive-number.swift) | Java | 
 |     | 1645 | Find a Value of a Mysterious Function Closest to Target | Swift | Java | 
 |     | 1644 | Maximum Number of Non-Overlapping Substrings | Swift | Java | 
 |     | 1643 | Number of Nodes in the Sub-Tree With the Same Label | Swift | Java | 
