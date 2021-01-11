@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-391 | Java-150 |
+| X | # | Question | Swift-392 | Java-150 |
 |---|---|---|---|---|
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
@@ -30,6 +30,7 @@ Update README file only:
 |     | 1813 | Maximum Erasure Value | Swift | Java | 
 |     | 1812 | Reformat Phone Number | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
+|     | 1809 | Sum Of Special Evenly-Spaced Elements In Array | Swift | Java | 
 |     | 1808 | Stone Game VII | Swift | Java | 
 |     | 1807 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Swift | Java | 
 |     | 1806 | Count of Matches in Tournament | Swift | Java | 
@@ -61,7 +62,7 @@ Update README file only:
 |     | 1776 | Minimum Operations to Reduce X to Zero | Swift | Java | 
 |     | 1775 | Design an Ordered Stream | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
-|     | 1772 | Create Sorted Array through Instructions | Swift | Java | 
+|     | 1772 | Create Sorted Array through Instructions | [~~Swift~~](././Swift/create-sorted-array-through-instructions.swift) | Java | 
 |     | 1771 | Sell Diminishing-Valued Colored Balls | Swift | Java | 
 |     | 1770 | Minimum Deletions to Make Character Frequencies Unique | Swift | Java | 
 |     | 1769 | Get Maximum in Generated Array | Swift | Java | 
