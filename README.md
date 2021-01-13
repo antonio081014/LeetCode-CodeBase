@@ -11,9 +11,11 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-392 | Java-150 |
+| X | # | Question | Swift-393 | Java-150 |
 |---|---|---|---|---|
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
+|     | 1840 | Minimize Hamming Distance After Swap Operations | Swift | Java | 
+|     | 1839 | Decode XORed Array | Swift | Java | 
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
 |     | 1832 | Minimum Operations to Make a Subsequence | Swift | Java | 
 |     | 1831 | Ways to Split Array Into Three Subarrays | Swift | Java | 
@@ -21,9 +23,14 @@ Update README file only:
 |     | 1829 | Maximum Units on a Truck | Swift | Java | 
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1826 | Maximum XOR With an Element From Array | Swift | Java | 
+|     | 1825 | Find Minimum Time to Finish All Jobs | Swift | Java | 
 |     | 1824 | Maximum Number of Eaten Apples | Swift | Java | 
 |     | 1823 | Determine if String Halves Are Alike | Swift | Java | 
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
+|     | 1820 | Number Of Ways To Reconstruct A Tree | Swift | Java | 
+|     | 1819 | Construct the Lexicographically Largest Valid Sequence | Swift | Java | 
+|     | 1818 | Maximum Score From Removing Substrings | Swift | Java | 
+|     | 1817 | Calculate Money in Leetcode Bank | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1815 | Checking Existence of Edge Length Limited Paths | Swift | Java | 
 |     | 1814 | Jump Game VI | Swift | Java | 
@@ -739,7 +746,7 @@ Update README file only:
 |     | 920 | Uncommon Words from Two Sentences | Swift | Java | 
 |     | 919 | Projection Area of 3D Shapes | Swift | Java | 
 |     | 918 | Reachable Nodes In Subdivided Graph | Swift | Java | 
-|     | 917 | Boats to Save People | Swift | Java | 
+|     | 917 | Boats to Save People | [~~Swift~~](././Swift/boats-to-save-people.swift) | Java | 
 |     | 916 | Decoded String at Index | Swift | Java | 
 |     | 915 | Generate Random Point in a Circle | Swift | Java | 
 |     | 914 | Random Point in Non-overlapping Rectangles | [~~Swift~~](././Swift/random-point-in-non-overlapping-rectangles.swift) | Java | 
@@ -1073,6 +1080,7 @@ Update README file only:
 |     | 531 | Lonely Pixel I | Swift | Java | 
 |     | 530 | Minimum Absolute Difference in BST | [~~Swift~~](././Swift/minimum-absolute-difference-in-bst.swift) | Java | 
 |     | 529 | Minesweeper | Swift | Java | 
+|     | 528 | Swapping Nodes in a Linked List | Swift | Java | 
 |     | 527 | Word Abbreviation | Swift | Java | 
 |     | 526 | Beautiful Arrangement | [~~Swift~~](././Swift/beautiful-arrangement.swift) | Java | 
 |     | 525 | Contiguous Array | [~~Swift~~](././Swift/contiguous-array.swift) | Java | 
