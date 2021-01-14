@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-393 | Java-150 |
+| X | # | Question | Swift-394 | Java-150 |
 |---|---|---|---|---|
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1840 | Minimize Hamming Distance After Swap Operations | Swift | Java | 
@@ -66,7 +66,7 @@ Update README file only:
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1778 | Maximize Grid Happiness | Swift | Java | 
 |     | 1777 | Determine if Two Strings Are Close | Swift | Java | 
-|     | 1776 | Minimum Operations to Reduce X to Zero | Swift | Java | 
+|     | 1776 | Minimum Operations to Reduce X to Zero | [~~Swift~~](././Swift/minimum-operations-to-reduce-x-to-zero.swift) | Java | 
 |     | 1775 | Design an Ordered Stream | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
 |     | 1772 | Create Sorted Array through Instructions | [~~Swift~~](././Swift/create-sorted-array-through-instructions.swift) | Java | 
