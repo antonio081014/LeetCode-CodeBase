@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-394 | Java-150 |
+| X | # | Question | Swift-395 | Java-150 |
 |---|---|---|---|---|
+|     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1840 | Minimize Hamming Distance After Swap Operations | Swift | Java | 
 |     | 1839 | Decode XORed Array | Swift | Java | 
@@ -72,7 +73,7 @@ Update README file only:
 |     | 1772 | Create Sorted Array through Instructions | [~~Swift~~](././Swift/create-sorted-array-through-instructions.swift) | Java | 
 |     | 1771 | Sell Diminishing-Valued Colored Balls | Swift | Java | 
 |     | 1770 | Minimum Deletions to Make Character Frequencies Unique | Swift | Java | 
-|     | 1769 | Get Maximum in Generated Array | Swift | Java | 
+|     | 1769 | Get Maximum in Generated Array | [~~Swift~~](././Swift/get-maximum-in-generated-array.swift) | Java | 
 |     | 1768 | Design an Expression Tree With Evaluate Function | Swift | Java | 
 |     | 1767 | Design Front Middle Back Queue | Swift | Java | 
 |     | 1766 | Minimum Number of Removals to Make Mountain Array | Swift | Java | 
