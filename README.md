@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-395 | Java-150 |
+| X | # | Question | Swift-396 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
@@ -80,7 +80,7 @@ Update README file only:
 |     | 1765 | Merge In Between Linked Lists | Swift | Java | 
 |     | 1764 | Maximum Repeating Substring | Swift | Java | 
 |     | 1762 | Furthest Building You Can Reach | Swift | Java | 
-|     | 1761 | Count Sorted Vowel Strings | Swift | Java | 
+|     | 1761 | Count Sorted Vowel Strings | [~~Swift~~](././Swift/count-sorted-vowel-strings.swift) | Java | 
 |     | 1760 | Check Array Formation Through Concatenation | [~~Swift~~](././Swift/check-array-formation-through-concatenation.swift) | Java | 
 |     | 1758 | Distribute Repeating Integers | Swift | Java | 
 |     | 1757 | Minimum Jumps to Reach Home | Swift | Java | 
