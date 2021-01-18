@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-396 | Java-150 |
+| X | # | Question | Swift-397 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
@@ -48,7 +48,7 @@ Update README file only:
 |     | 1802 | Number of Students Unable to Eat Lunch | Swift | Java | 
 |     | 1800 | Concatenation of Consecutive Binary Numbers | Swift | Java | 
 |     | 1799 | Minimum Incompatibility | Swift | Java | 
-|     | 1798 | Max Number of K-Sum Pairs | Swift | Java | 
+|     | 1798 | Max Number of K-Sum Pairs | [~~Swift~~](././Swift/max-number-of-k-sum-pairs.swift) | Java | 
 |     | 1797 | Goal Parser Interpretation | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1794 | Minimize Deviation in Array | Swift | Java | 
