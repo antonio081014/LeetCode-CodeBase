@@ -64,4 +64,40 @@ class Solution {
         }
         return String(s[ret.0 ... ret.1])
     }
+}/**
+ * https://leetcode.com/problems/longest-palindromic-substring/
+ * 
+ * 
+ */ 
+// Date: Tue Jan 19 09:47:54 PST 2021
+class Solution {
+    func longestPalindrome(_ s: String) -> String {
+        let list = Array(s)
+        var ret = (0, 0)
+        for center in 0 ..< list.count {
+            var left = center
+            var right = center
+            while left >= 0, right < list.count, list[left] == list[right] {
+                left -= 1
+                right += 1
+            }
+            left += 1
+            right -= 1
+            if right - left > ret.1 - ret.0 {
+                ret = (left, right)
+            }
+            left = center
+            right = center + 1
+            while left >= 0, right < list.count, list[left] == list[right] {
+                left -= 1
+                right += 1
+            }
+            left += 1
+            right -= 1
+            if right - left > ret.1 - ret.0 {
+                ret = (left, right)
+            }
+        }
+        return String(list[ret.0 ... ret.1])
+    }
 }
