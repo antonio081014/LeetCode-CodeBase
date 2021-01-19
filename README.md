@@ -15,6 +15,8 @@ Update README file only:
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
+|     | 1845 | Largest Submatrix With Rearrangements | Swift | Java | 
+|     | 1843 | Number Of Rectangles That Can Form The Largest Square | Swift | Java | 
 |     | 1840 | Minimize Hamming Distance After Swap Operations | Swift | Java | 
 |     | 1839 | Decode XORed Array | Swift | Java | 
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
@@ -109,6 +111,7 @@ Update README file only:
 |     | 1730 | Special Array With X Elements Greater Than or Equal X | Swift | Java | 
 |     | 1729 | Binary Search Tree Iterator II | Swift | Java | 
 |     | 1728 | Fancy Sequence | Swift | Java | 
+|     | 1727 | Cat and Mouse II | Swift | Java | 
 |     | 1726 | Coordinate With Maximum Network Quality | Swift | Java | 
 |     | 1725 | Number of Sets of K Non-Overlapping Line Segments | Swift | Java | 
 |     | 1723 | Maximum Number of Achievable Transfer Requests | Swift | Java | 
@@ -385,6 +388,7 @@ Update README file only:
 |     | 1369 | Minimum Swaps to Make Strings Equal | Swift | Java | 
 |     | 1367 | Maximum Height by Stacking Cuboids  | Swift | Java | 
 |     | 1366 | First Unique Number | Swift | Java | 
+|     | 1364 | Tuple with Same Product | Swift | Java | 
 |     | 1362 | Airplane Seat Assignment Probability | Swift | Java | 
 |     | 1361 | Tiling a Rectangle with the Fewest Squares | Swift | Java | 
 |     | 1360 | Maximum Length of a Concatenated String with Unique Characters | [~~Swift~~](././Swift/maximum-length-of-a-concatenated-string-with-unique-characters.swift) | Java | 
