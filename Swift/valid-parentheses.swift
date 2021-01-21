@@ -71,3 +71,31 @@ class Solution {
         return stack.isEmpty
     }
 }
+/**
+ * https://leetcode.com/problems/valid-parentheses/
+ * 
+ * 
+ */ 
+// Date: Wed Jan 20 18:59:32 PST 2021
+class Solution {
+    func isValid(_ s: String) -> Bool {
+        var stack: [Character] = []
+        for c in s {
+            if c == Character("[") || c == Character("(") || c == Character("{") {
+                stack.append(c)
+            } else {
+                if let last = stack.last {
+                    let text = String(last) + String(c)
+                    if text == "{}" || text == "[]" || text == "()" {
+                        stack.removeLast()
+                    } else {
+                        return false
+                    }
+                } else {
+                    return false
+                }
+            }
+        }
+        return stack.isEmpty
+    }
+}
