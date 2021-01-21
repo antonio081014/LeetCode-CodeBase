@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-397 | Java-150 |
+| X | # | Question | Swift-398 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
@@ -55,7 +55,7 @@ Update README file only:
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
 |     | 1794 | Minimize Deviation in Array | Swift | Java | 
 |     | 1793 | Minimum Moves to Make Array Complementary | Swift | Java | 
-|     | 1792 | Find the Most Competitive Subsequence | Swift | Java | 
+|     | 1792 | Find the Most Competitive Subsequence | [~~Swift~~](././Swift/find-the-most-competitive-subsequence.swift) | Java | 
 |     | 1791 | Richest Customer Wealth | Swift | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
 |     | 1789 | Delivering Boxes from Storage to Ports | Swift | Java | 
