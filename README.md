@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-398 | Java-150 |
+| X | # | Question | Swift-399 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
@@ -68,7 +68,7 @@ Update README file only:
 |     | 1781 | Check If Two String Arrays are Equivalent | Swift | Java | 
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1778 | Maximize Grid Happiness | Swift | Java | 
-|     | 1777 | Determine if Two Strings Are Close | Swift | Java | 
+|     | 1777 | Determine if Two Strings Are Close | [~~Swift~~](././Swift/determine-if-two-strings-are-close.swift) | Java | 
 |     | 1776 | Minimum Operations to Reduce X to Zero | [~~Swift~~](././Swift/minimum-operations-to-reduce-x-to-zero.swift) | Java | 
 |     | 1775 | Design an Ordered Stream | Swift | Java | 
 |     | 1774 | Add Two Polynomials Represented as Linked Lists | Swift | Java | 
@@ -1065,6 +1065,7 @@ Update README file only:
 |     | 553 | Optimal Division | Swift | Java | 
 |     | 552 | Student Attendance Record II | Swift | Java | 
 |     | 551 | Student Attendance Record I | Swift | Java | 
+|     | 550 | Shortest Path to Get Food | Swift | Java | 
 |     | 549 | Binary Tree Longest Consecutive Sequence II | Swift | Java | 
 |     | 548 | Split Array with Equal Sum | Swift | Java | 
 |     | 547 | Number of Provinces | Swift | Java | 
