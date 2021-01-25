@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-399 | Java-150 |
+| X | # | Question | Swift-400 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
@@ -251,7 +251,7 @@ Update README file only:
 |     | 1552 | Build an Array With Stack Operations | Swift | Java | 
 |     | 1550 | Find the Kth Smallest Sum of a Matrix With Sorted Rows | Swift | Java | 
 |     | 1549 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Swift | Java | 
-|     | 1548 | Check If All 1's Are at Least Length K Places Away | Swift | Java | 
+|     | 1548 | Check If All 1's Are at Least Length K Places Away | [~~Swift~~](././Swift/check-if-all-1s-are-at-least-length-k-places-away.swift) | Java | 
 |     | 1547 | Destination City | Swift | Java | 
 |     | 1545 | Form Largest Integer With Digits That Add up to Target | Swift | Java | 
 |     | 1544 | Count Good Nodes in Binary Tree | Swift | Java | 
