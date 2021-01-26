@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-400 | Java-150 |
+| X | # | Question | Swift-401 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
@@ -88,7 +88,7 @@ Update README file only:
 |     | 1757 | Minimum Jumps to Reach Home | Swift | Java | 
 |     | 1756 | Minimum Deletions to Make String Balanced | Swift | Java | 
 |     | 1755 | Defuse the Bomb | Swift | Java | 
-|     | 1753 | Path With Minimum Effort | Swift | Java | 
+|     | 1753 | Path With Minimum Effort | [~~Swift~~](././Swift/path-with-minimum-effort.swift) | Java | 
 |     | 1752 | Arithmetic Subarrays | Swift | Java | 
 |     | 1751 | Slowest Key | Swift | Java | 
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
