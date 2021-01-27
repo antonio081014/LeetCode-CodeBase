@@ -11,15 +11,23 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-401 | Java-150 |
+| X | # | Question | Swift-402 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
+|     | 1861 | Building Boxes | Swift | Java | 
+|     | 1860 | Find Kth Largest XOR Coordinate Value | Swift | Java | 
+|     | 1859 | Change Minimum Characters to Satisfy One of Three Conditions | Swift | Java | 
+|     | 1858 | Latest Time by Replacing Hidden Digits | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1845 | Largest Submatrix With Rearrangements | Swift | Java | 
 |     | 1843 | Number Of Rectangles That Can Form The Largest Square | Swift | Java | 
 |     | 1840 | Minimize Hamming Distance After Swap Operations | Swift | Java | 
 |     | 1839 | Decode XORed Array | Swift | Java | 
 |     | 1838 | Number of Distinct Substrings in a String | Swift | Java | 
+|     | 1836 | Count Ways to Make Array With Product | Swift | Java | 
+|     | 1835 | Decode XORed Permutation | Swift | Java | 
+|     | 1834 | Minimum Number of People to Teach | Swift | Java | 
+|     | 1833 | Find the Highest Altitude | Swift | Java | 
 |     | 1832 | Minimum Operations to Make a Subsequence | Swift | Java | 
 |     | 1831 | Ways to Split Array Into Three Subarrays | Swift | Java | 
 |     | 1830 | Count Good Meals | Swift | Java | 
@@ -48,7 +56,7 @@ Update README file only:
 |     | 1804 | Maximum Binary String After Change | Swift | Java | 
 |     | 1803 | Average Waiting Time | Swift | Java | 
 |     | 1802 | Number of Students Unable to Eat Lunch | Swift | Java | 
-|     | 1800 | Concatenation of Consecutive Binary Numbers | Swift | Java | 
+|     | 1800 | Concatenation of Consecutive Binary Numbers | [~~Swift~~](././Swift/concatenation-of-consecutive-binary-numbers.swift) | Java | 
 |     | 1799 | Minimum Incompatibility | Swift | Java | 
 |     | 1798 | Max Number of K-Sum Pairs | [~~Swift~~](././Swift/max-number-of-k-sum-pairs.swift) | Java | 
 |     | 1797 | Goal Parser Interpretation | Swift | Java | 
