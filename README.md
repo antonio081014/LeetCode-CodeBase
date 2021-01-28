@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-402 | Java-150 |
+| X | # | Question | Swift-403 | Java-150 |
 |---|---|---|---|---|
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1861 | Building Boxes | Swift | Java | 
@@ -72,7 +72,7 @@ Update README file only:
 |     | 1786 | Count the Number of Consistent Strings | Swift | Java | 
 |     | 1784 | Minimum Initial Energy to Finish Tasks | Swift | Java | 
 |     | 1783 | Ways to Make a Fair Array | Swift | Java | 
-|     | 1782 | Smallest String With A Given Numeric Value | Swift | Java | 
+|     | 1782 | Smallest String With A Given Numeric Value | [~~Swift~~](././Swift/smallest-string-with-a-given-numeric-value.swift) | Java | 
 |     | 1781 | Check If Two String Arrays are Equivalent | Swift | Java | 
 |     | 1780 | Lowest Common Ancestor of a Binary Tree II | Swift | Java | 
 |     | 1778 | Maximize Grid Happiness | Swift | Java | 
