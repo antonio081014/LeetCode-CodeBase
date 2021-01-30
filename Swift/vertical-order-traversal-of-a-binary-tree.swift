@@ -58,3 +58,38 @@ class Solution {
     }
 }
 
+/**
+ * https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+ * 
+ * 
+ */ 
+// Date: Fri Jan 29 17:02:41 PST 2021
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init() { self.val = 0; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+ *         self.val = val
+ *         self.left = left
+ *         self.right = right
+ *     }
+ * }
+ */
+class Solution {
+    func verticalTraversal(_ root: TreeNode?) -> [[Int]] {
+        var ranking: [Int : [(Int, Int)]] = [:]
+        func dfs(_ root: TreeNode?, _ rank: Int, _ y: Int) {
+            guard let root = root else { return }
+            ranking[rank, default: []].append((y, root.val))
+            dfs(root.left, rank - 1, y + 1)
+            dfs(root.right, rank + 1, y + 1)
+        }
+        
+        dfs(root, 0, 0)
+        return ranking.sorted { $0.key < $1.key }.map { $0.value.sorted { $0.0 == $1.0 ? ($0.1 < $1.1) : ($0.0 < $1.0) }.map { $0.1 } }
+    }
+}
