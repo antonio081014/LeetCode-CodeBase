@@ -14,6 +14,9 @@ Update README file only:
 | X | # | Question | Swift-403 | Java-150 |
 |---|---|---|---|---|
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
+|     | 1872 | Can You Eat Your Favorite Candy on Your Favorite Day? | Swift | Java | 
+|     | 1871 | Palindrome Partitioning IV | Swift | Java | 
+|     | 1866 | Restore the Array From Adjacent Pairs | Swift | Java | 
 |     | 1865 | Checking Existence of Edge Length Limited Paths II | Swift | Java | 
 |     | 1861 | Building Boxes | Swift | Java | 
 |     | 1860 | Find Kth Largest XOR Coordinate Value | Swift | Java | 
@@ -21,6 +24,7 @@ Update README file only:
 |     | 1858 | Latest Time by Replacing Hidden Digits | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1845 | Largest Submatrix With Rearrangements | Swift | Java | 
+|     | 1844 | Maximum Number of Balls in a Box | Swift | Java | 
 |     | 1843 | Number Of Rectangles That Can Form The Largest Square | Swift | Java | 
 |     | 1840 | Minimize Hamming Distance After Swap Operations | Swift | Java | 
 |     | 1839 | Decode XORed Array | Swift | Java | 

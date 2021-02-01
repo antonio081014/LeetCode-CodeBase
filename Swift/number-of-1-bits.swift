@@ -35,3 +35,14 @@ class Solution {
         return count
     }
 }
+/**
+ * https://leetcode.com/problems/number-of-1-bits/
+ * 
+ * 
+ */ 
+// Date: Mon Feb  1 15:01:21 PST 2021
+class Solution {
+    func hammingWeight(_ n: Int) -> Int {
+        return n.nonzeroBitCount
+    }
+}
