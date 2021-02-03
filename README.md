@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-403 | Java-150 |
+| X | # | Question | Swift-404 | Java-150 |
 |---|---|---|---|---|
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
 |     | 1872 | Can You Eat Your Favorite Candy on Your Favorite Day? | Swift | Java | 
@@ -66,7 +66,7 @@ Update README file only:
 |     | 1798 | Max Number of K-Sum Pairs | [~~Swift~~](././Swift/max-number-of-k-sum-pairs.swift) | Java | 
 |     | 1797 | Goal Parser Interpretation | Swift | Java | 
 |     | 1796 | Correct a Binary Tree | Swift | Java | 
-|     | 1794 | Minimize Deviation in Array | Swift | Java | 
+|     | 1794 | Minimize Deviation in Array | [~~Swift~~](././Swift/minimize-deviation-in-array.swift) | Java | 
 |     | 1793 | Minimum Moves to Make Array Complementary | Swift | Java | 
 |     | 1792 | Find the Most Competitive Subsequence | [~~Swift~~](././Swift/find-the-most-competitive-subsequence.swift) | Java | 
 |     | 1791 | Richest Customer Wealth | Swift | Java | 
