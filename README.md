@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-404 | Java-150 |
+| X | # | Question | Swift-405 | Java-150 |
 |---|---|---|---|---|
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
 |     | 1872 | Can You Eat Your Favorite Candy on Your Favorite Day? | Swift | Java | 
@@ -994,7 +994,7 @@ Update README file only:
 |     | 672 | Bulb Switcher II | Swift | Java | 
 |     | 671 | Second Minimum Node In a Binary Tree | Swift | Java | 
 |     | 670 | Maximum Swap | Swift | Java | 
-|     | 669 | Trim a Binary Search Tree | Swift | Java | 
+|     | 669 | Trim a Binary Search Tree | [~~Swift~~](././Swift/trim-a-binary-search-tree.swift) | Java | 
 |     | 668 | Kth Smallest Number in Multiplication Table | Swift | Java | 
 |     | 667 | Beautiful Arrangement II | Swift | Java | 
 |     | 666 | Path Sum IV | Swift | Java | 
