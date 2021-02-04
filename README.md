@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-405 | Java-150 |
+| X | # | Question | Swift-406 | Java-150 |
 |---|---|---|---|---|
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
 |     | 1872 | Can You Eat Your Favorite Candy on Your Favorite Day? | Swift | Java | 
@@ -1049,7 +1049,7 @@ Update README file only:
 |     | 600 | Non-negative Integers without Consecutive Ones | Swift | Java | 
 |     | 599 | Minimum Index Sum of Two Lists | Swift | Java | 
 |     | 598 | Range Addition II | Swift | Java | 
-|     | 594 | Longest Harmonious Subsequence | Swift | Java | 
+|     | 594 | Longest Harmonious Subsequence | [~~Swift~~](././Swift/longest-harmonious-subsequence.swift) | Java | 
 |     | 593 | Valid Square | [~~Swift~~](././Swift/valid-square.swift) | Java | 
 |     | 592 | Fraction Addition and Subtraction | Swift | Java | 
 |     | 591 | Tag Validator | Swift | Java | 
