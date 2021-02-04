@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-406 | Java-150 |
+| X | # | Question | Swift-407 | Java-150 |
 |---|---|---|---|---|
+|     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
 |     | 1872 | Can You Eat Your Favorite Candy on Your Favorite Day? | Swift | Java | 
 |     | 1871 | Palindrome Partitioning IV | Swift | Java | 
@@ -1315,7 +1316,7 @@ Update README file only:
 |     | 303 | Range Sum Query - Immutable | Swift | Java | 
 |     | 302 | Smallest Rectangle Enclosing Black Pixels | Swift | Java | 
 |     | 301 | Remove Invalid Parentheses | Swift | Java | 
-|     | 300 | Longest Increasing Subsequence | Swift | Java | 
+|     | 300 | Longest Increasing Subsequence | [~~Swift~~](././Swift/longest-increasing-subsequence.swift) | Java | 
 |     | 299 | Bulls and Cows | [~~Swift~~](././Swift/bulls-and-cows.swift) | Java | 
 |     | 298 | Binary Tree Longest Consecutive Sequence | Swift | Java | 
 |     | 297 | Serialize and Deserialize Binary Tree | [~~Swift~~](././Swift/serialize-and-deserialize-binary-tree.swift) | Java | 
