@@ -49,4 +49,35 @@ class Solution {
         }
         return "/" + result.joined(separator: "/")
     }
+}/**
+ * https://leetcode.com/problems/simplify-path/
+ * 
+ * 
+ */ 
+// Date: Fri Feb  5 09:41:26 PST 2021
+class Solution {
+    func simplifyPath(_ path: String) -> String {
+        var text = ""
+        var result : [String] = []
+        for c in path + "/" {
+            let cString = String(c)
+            if c == "/" {
+                if text.count > 0 {
+                    if text == "." {
+                        // do nothing
+                    } else if text == ".." {
+                        if result.isEmpty == false {
+                            result.removeLast()
+                        }
+                    } else {
+                        result.append(text)
+                    }
+                    text = ""
+                }
+            } else {
+                text.append(c)
+            }
+        }
+        return "/" + result.joined(separator: "/")
+    }
 }
