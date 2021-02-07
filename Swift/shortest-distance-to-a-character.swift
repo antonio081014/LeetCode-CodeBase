@@ -32,4 +32,30 @@ class Solution {
         // print(result)
         return result
     }
+}/**
+ * https://leetcode.com/problems/shortest-distance-to-a-character/
+ * 
+ * 
+ */ 
+// Date: Sun Feb  7 09:08:27 PST 2021
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n) where n == s.count
+    ///     - Space: O(n) where n == s.count, we use s to keep the array of each character in string s.
+    func shortestToChar(_ s: String, _ c: Character) -> [Int] {
+        let s = Array(s)
+        var result: [Int] = []
+        var last = -s.count * 3
+        for index in 0 ..< s.count {
+            if s[index] == c { last = index }
+            result.append(index - last)
+        }
+        
+        last = s.count * 3
+        for index in stride(from: result.count - 1, through: 0, by: -1) {
+            if s[index] == c { last = index }
+            result[index] = min(result[index], last - index)
+        }
+        return result
+    }
 }
