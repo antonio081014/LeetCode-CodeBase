@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-407 | Java-150 |
+| X | # | Question | Swift-408 | Java-150 |
 |---|---|---|---|---|
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
@@ -835,7 +835,7 @@ Update README file only:
 |     | 850 | Insert into a Sorted Circular Linked List | Swift | Java | 
 |     | 843 | Binary Trees With Factors | Swift | Java | 
 |     | 842 | Card Flipping Game | Swift | Java | 
-|     | 841 | Shortest Distance to a Character | Swift | Java | 
+|     | 841 | Shortest Distance to a Character | [~~Swift~~](././Swift/shortest-distance-to-a-character.swift) | Java | 
 |     | 839 | Short Encoding of Words | Swift | Java | 
 |     | 838 | Design Linked List | Swift | Java | 
 |     | 837 | Most Common Word | Swift | Java | 
