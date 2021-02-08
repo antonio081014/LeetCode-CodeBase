@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-408 | Java-150 |
+| X | # | Question | Swift-409 | Java-150 |
 |---|---|---|---|---|
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
@@ -1332,7 +1332,7 @@ Update README file only:
 |  X  | 287 | Find the Duplicate Number | [~~Swift~~](././Swift/find-the-duplicate-number.swift) | [~~Java~~](././Java/find-the-duplicate-number.java) | 
 |     | 286 | Walls and Gates | Swift | Java | 
 |     | 285 | Inorder Successor in BST | Swift | Java | 
-|     | 284 | Peeking Iterator | Swift | [~~Java~~](././Java/peeking-iterator.java) | 
+|  X  | 284 | Peeking Iterator | [~~Swift~~](././Swift/peeking-iterator.swift) | [~~Java~~](././Java/peeking-iterator.java) | 
 |  X  | 283 | Move Zeroes | [~~Swift~~](././Swift/move-zeroes.swift) | [~~Java~~](././Java/move-zeroes.java) | 
 |     | 282 | Expression Add Operators | Swift | Java | 
 |     | 281 | Zigzag Iterator | Swift | Java | 
