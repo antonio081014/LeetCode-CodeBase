@@ -11,10 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-409 | Java-150 |
+| X | # | Question | Swift-410 | Java-150 |
 |---|---|---|---|---|
+|     | 1903 | Design Most Recently Used Queue | Swift | Java | 
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
+|     | 1881 | Closest Subsequence Sum | Swift | Java | 
+|     | 1880 | Largest Merge Of Two Strings | Swift | Java | 
+|     | 1879 | Maximum Score From Removing Stones | Swift | Java | 
+|     | 1878 | Check if Array Is Sorted and Rotated | Swift | Java | 
 |     | 1872 | Can You Eat Your Favorite Candy on Your Favorite Day? | Swift | Java | 
 |     | 1871 | Palindrome Partitioning IV | Swift | Java | 
 |     | 1866 | Restore the Array From Adjacent Pairs | Swift | Java | 
@@ -23,6 +28,10 @@ Update README file only:
 |     | 1860 | Find Kth Largest XOR Coordinate Value | Swift | Java | 
 |     | 1859 | Change Minimum Characters to Satisfy One of Three Conditions | Swift | Java | 
 |     | 1858 | Latest Time by Replacing Hidden Digits | Swift | Java | 
+|     | 1851 | Maximum Number of Events That Can Be Attended II | Swift | Java | 
+|     | 1850 | Minimum Length of String After Deleting Similar Ends | Swift | Java | 
+|     | 1849 | Maximum Absolute Sum of Any Subarray | Swift | Java | 
+|     | 1848 | Sum of Unique Elements | Swift | Java | 
 |     | 1847 | Largest Subarray Length K | Swift | Java | 
 |     | 1845 | Largest Submatrix With Rearrangements | Swift | Java | 
 |     | 1844 | Maximum Number of Balls in a Box | Swift | Java | 
@@ -351,7 +360,7 @@ Update README file only:
 |     | 1447 | Jump Game IV | Swift | Java | 
 |     | 1446 | Angle Between Hands of a Clock | [~~Swift~~](././Swift/angle-between-hands-of-a-clock.swift) | Java | 
 |     | 1445 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Swift | Java | 
-|     | 1444 | Number of Steps to Reduce a Number to Zero | Swift | Java | 
+|     | 1444 | Number of Steps to Reduce a Number to Zero | [~~Swift~~](././Swift/number-of-steps-to-reduce-a-number-to-zero.swift) | Java | 
 |     | 1443 | Minimum Distance to Type a Word Using Two Fingers | Swift | Java | 
 |     | 1442 | Number of Operations to Make Network Connected | Swift | Java | 
 |     | 1441 | Minimum Flips to Make a OR b Equal to c | [~~Swift~~](././Swift/minimum-flips-to-make-a-or-b-equal-to-c.swift) | Java | 
