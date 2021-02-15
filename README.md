@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-410 | Java-150 |
+| X | # | Question | Swift-411 | Java-150 |
 |---|---|---|---|---|
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
@@ -344,7 +344,7 @@ Update README file only:
 |     | 1466 | Jump Game V | Swift | Java | 
 |     | 1465 | Maximum Product of Splitted Binary Tree | Swift | Java | 
 |     | 1464 | Reduce Array Size to The Half | Swift | Java | 
-|     | 1463 | The K Weakest Rows in a Matrix | Swift | Java | 
+|     | 1463 | The K Weakest Rows in a Matrix | [~~Swift~~](././Swift/the-k-weakest-rows-in-a-matrix.swift) | Java | 
 |     | 1461 | Count All Valid Pickup and Delivery Options | Swift | Java | 
 |     | 1460 | Number of Substrings Containing All Three Characters | Swift | Java | 
 |     | 1459 | Apply Discount Every n Orders | Swift | Java | 
