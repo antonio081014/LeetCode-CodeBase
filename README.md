@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-411 | Java-150 |
+| X | # | Question | Swift-412 | Java-150 |
 |---|---|---|---|---|
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
+|     | 1887 | Minimum Degree of a Connected Trio in a Graph | Swift | Java | 
+|     | 1886 | Minimum Limit of Balls in a Bag | Swift | Java | 
+|     | 1885 | Count Number of Homogenous Substrings | Swift | Java | 
+|     | 1884 | Minimum Changes To Make Alternating Binary String | Swift | Java | 
 |     | 1883 | Find Distance in a Binary Tree | Swift | Java | 
 |     | 1881 | Closest Subsequence Sum | Swift | Java | 
 |     | 1880 | Largest Merge Of Two Strings | Swift | Java | 
@@ -884,7 +888,7 @@ Update README file only:
 |     | 803 | Cheapest Flights Within K Stops | [~~Swift~~](././Swift/cheapest-flights-within-k-stops.swift) | Java | 
 |     | 802 | K-th Smallest Prime Fraction | Swift | Java | 
 |     | 801 | Is Graph Bipartite? | Swift | Java | 
-|     | 800 | Letter Case Permutation | Swift | Java | 
+|     | 800 | Letter Case Permutation | [~~Swift~~](././Swift/letter-case-permutation.swift) | Java | 
 |     | 799 | Minimum Distance Between BST Nodes | [~~Swift~~](././Swift/minimum-distance-between-bst-nodes.swift) | Java | 
 |     | 798 | Transform to Chessboard | Swift | Java | 
 |     | 797 | Rabbits in Forest | Swift | Java | 
