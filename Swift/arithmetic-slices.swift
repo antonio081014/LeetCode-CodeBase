@@ -60,4 +60,25 @@ class Solution {
         }
         return result
     }
+}/**
+ * https://leetcode.com/problems/arithmetic-slices/
+ * 
+ * 
+ */ 
+// Date: Thu Feb 18 11:54:11 PST 2021
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n)
+    ///     - Space: O(n)
+    func numberOfArithmeticSlices(_ A: [Int]) -> Int {
+        var dp = Array(repeating: 0, count: A.count)
+        var result = 0
+        for end in stride(from: 2, to: A.count, by: 1) {
+            if A[end] - A[end - 1] == A[end - 1] - A[end - 2] {
+                dp[end] = 1 + dp[end - 1]
+                result += dp[end]
+            }
+        }
+        return result
+    }
 }
