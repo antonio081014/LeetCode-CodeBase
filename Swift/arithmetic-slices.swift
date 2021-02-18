@@ -35,3 +35,29 @@ class Solution {
         return s
     }
 }
+/**
+ * https://leetcode.com/problems/arithmetic-slices/
+ * 
+ * 
+ */ 
+// Date: Thu Feb 18 11:38:21 PST 2021
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n^2)
+    ///     - Space: O(1)
+    func numberOfArithmeticSlices(_ A: [Int]) -> Int {
+        guard A.count > 2 else { return 0 }
+        var result = 0
+        for start in 0 ..< A.count - 2 {
+            let diff = A[start + 1] - A[start]
+            for end in start + 2 ..< A.count {
+                if A[end] - A[end - 1] == diff {
+                    result += 1
+                } else {
+                    break
+                }
+            }
+        }
+        return result
+    }
+}
