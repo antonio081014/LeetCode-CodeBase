@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-412 | Java-150 |
+| X | # | Question | Swift-413 | Java-150 |
 |---|---|---|---|---|
+|     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
 |     | 1887 | Minimum Degree of a Connected Trio in a Graph | Swift | Java | 
@@ -410,7 +411,7 @@ Update README file only:
 |     | 1378 | Cells with Odd Values in a Matrix | Swift | Java | 
 |     | 1374 | Leftmost Column with at Least a One | Swift | Java | 
 |     | 1372 | Check If It Is a Good Array | Swift | Java | 
-|     | 1371 | Minimum Remove to Make Valid Parentheses | Swift | Java | 
+|     | 1371 | Minimum Remove to Make Valid Parentheses | [~~Swift~~](././Swift/minimum-remove-to-make-valid-parentheses.swift) | Java | 
 |     | 1370 | Count Number of Nice Subarrays | Swift | Java | 
 |     | 1369 | Minimum Swaps to Make Strings Equal | Swift | Java | 
 |     | 1367 | Maximum Height by Stacking Cuboids  | Swift | Java | 
