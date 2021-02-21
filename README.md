@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-413 | Java-150 |
+| X | # | Question | Swift-414 | Java-150 |
 |---|---|---|---|---|
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
@@ -668,7 +668,7 @@ Update README file only:
 |     | 1036 | Rotting Oranges | [~~Swift~~](././Swift/rotting-oranges.swift) | Java | 
 |     | 1035 | Cousins in Binary Tree | [~~Swift~~](././Swift/cousins-in-binary-tree.swift) | Java | 
 |     | 1034 | Subarrays with K Different Integers | Swift | Java | 
-|     | 1033 | Broken Calculator | Swift | Java | 
+|     | 1033 | Broken Calculator | [~~Swift~~](././Swift/broken-calculator.swift) | Java | 
 |     | 1032 | Satisfiability of Equality Equations | Swift | Java | 
 |     | 1031 | Add to Array-Form of Integer | Swift | Java | 
 |     | 1030 | Smallest String Starting From Leaf | Swift | Java | 
