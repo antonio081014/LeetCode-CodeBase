@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-414 | Java-150 |
+| X | # | Question | Swift-415 | Java-150 |
 |---|---|---|---|---|
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
@@ -1118,7 +1118,7 @@ Update README file only:
 |     | 527 | Word Abbreviation | Swift | Java | 
 |     | 526 | Beautiful Arrangement | [~~Swift~~](././Swift/beautiful-arrangement.swift) | Java | 
 |     | 525 | Contiguous Array | [~~Swift~~](././Swift/contiguous-array.swift) | Java | 
-|     | 524 | Longest Word in Dictionary through Deleting | Swift | Java | 
+|     | 524 | Longest Word in Dictionary through Deleting | [~~Swift~~](././Swift/longest-word-in-dictionary-through-deleting.swift) | Java | 
 |     | 523 | Continuous Subarray Sum | Swift | Java | 
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
 |     | 521 | Longest Uncommon Subsequence I | Swift | Java | 
