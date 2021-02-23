@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-415 | Java-150 |
+| X | # | Question | Swift-416 | Java-150 |
 |---|---|---|---|---|
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
+|     | 1897 | Maximize Palindrome Length From Subsequences | Swift | Java | 
+|     | 1896 | Maximum Score from Performing Multiplication Operations | Swift | Java | 
+|     | 1895 | Minimum Number of Operations to Move All Balls to Each Box | Swift | Java | 
+|     | 1894 | Merge Strings Alternately | Swift | Java | 
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
 |     | 1887 | Minimum Degree of a Connected Trio in a Graph | Swift | Java | 
 |     | 1886 | Minimum Limit of Balls in a Bag | Swift | Java | 
@@ -25,6 +29,10 @@ Update README file only:
 |     | 1880 | Largest Merge Of Two Strings | Swift | Java | 
 |     | 1879 | Maximum Score From Removing Stones | Swift | Java | 
 |     | 1878 | Check if Array Is Sorted and Rotated | Swift | Java | 
+|     | 1876 | Map of Highest Peak | Swift | Java | 
+|     | 1875 | Tree of Coprimes | Swift | Java | 
+|     | 1874 | Form Array by Concatenating Subarrays of Another Array | Swift | Java | 
+|     | 1873 | Longest Nice Substring | Swift | Java | 
 |     | 1872 | Can You Eat Your Favorite Candy on Your Favorite Day? | Swift | Java | 
 |     | 1871 | Palindrome Partitioning IV | Swift | Java | 
 |     | 1866 | Restore the Array From Adjacent Pairs | Swift | Java | 
@@ -1389,7 +1397,7 @@ Update README file only:
 |     | 243 | Shortest Word Distance | Swift | Java | 
 |  X  | 242 | Valid Anagram | [~~Swift~~](././Swift/valid-anagram.swift) | [~~Java~~](././Java/valid-anagram.java) | 
 |     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](././Java/different-ways-to-add-parentheses.java) | 
-|     | 240 | Search a 2D Matrix II | Swift | [~~Java~~](././Java/search-a-2d-matrix-ii.java) | 
+|  X  | 240 | Search a 2D Matrix II | [~~Swift~~](././Swift/search-a-2d-matrix-ii.swift) | [~~Java~~](././Java/search-a-2d-matrix-ii.java) | 
 |  X  | 239 | Sliding Window Maximum | [~~Swift~~](././Swift/sliding-window-maximum.swift) | [~~Java~~](././Java/sliding-window-maximum.java) | 
 |  X  | 238 | Product of Array Except Self | [~~Swift~~](././Swift/product-of-array-except-self.swift) | [~~Java~~](././Java/product-of-array-except-self.java) | 
 |  X  | 237 | Delete Node in a Linked List | [~~Swift~~](././Swift/delete-node-in-a-linked-list.swift) | [~~Java~~](././Java/delete-node-in-a-linked-list.java) | 
