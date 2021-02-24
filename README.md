@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-417 | Java-150 |
+| X | # | Question | Swift-418 | Java-150 |
 |---|---|---|---|---|
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
@@ -818,7 +818,7 @@ Update README file only:
 |     | 889 | Buddy Strings | [~~Swift~~](././Swift/buddy-strings.swift) | Java | 
 |     | 888 | Mirror Reflection | Swift | Java | 
 |     | 887 | Minimum Cost to Hire K Workers | Swift | Java | 
-|     | 886 | Score of Parentheses | Swift | Java | 
+|     | 886 | Score of Parentheses | [~~Swift~~](././Swift/score-of-parentheses.swift) | Java | 
 |     | 885 | Exam Room | Swift | Java | 
 |     | 884 | K-Similar Strings | Swift | Java | 
 |     | 883 | Car Fleet | Swift | Java | 
