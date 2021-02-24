@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-416 | Java-150 |
+| X | # | Question | Swift-417 | Java-150 |
 |---|---|---|---|---|
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
@@ -549,7 +549,7 @@ Update README file only:
 |     | 1177 | Tree Diameter | Swift | Java | 
 |     | 1176 | Design A Leaderboard | Swift | Java | 
 |     | 1175 | Array Transformation | Swift | Java | 
-|     | 1171 | Shortest Path in Binary Matrix | Swift | Java | 
+|     | 1171 | Shortest Path in Binary Matrix | [~~Swift~~](././Swift/shortest-path-in-binary-matrix.swift) | Java | 
 |     | 1170 | Shortest Common Supersequence  | Swift | Java | 
 |     | 1169 | Largest Values From Labels | Swift | Java | 
 |     | 1168 | Duplicate Zeros | Swift | Java | 
