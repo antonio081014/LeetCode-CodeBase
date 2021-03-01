@@ -17,3 +17,26 @@ class Solution {
         return neg ? -ret : min(ret, 2147483647)
     }
 }
+/**
+ * https://leetcode.com/problems/divide-two-integers/
+ * 
+ * 
+ */ 
+// Date: Mon Mar  1 15:43:00 PST 2021
+class Solution {
+    func divide(_ dividend: Int, _ divisor: Int) -> Int {
+        var result = 0
+        let sign = (divisor > 0) != (dividend > 0)
+        var sum = abs(dividend)
+        while sum >= abs(divisor) {
+            var offset = 0
+            while (abs(divisor) << offset) <= sum {
+                offset += 1
+            }
+            offset -= 1
+            sum -= abs(divisor) << offset
+            result += 1 << offset
+        }
+        return sign ? max(-result, -2147483648) : min(result, 2147483647)
+    }
+}
