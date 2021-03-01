@@ -11,11 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-419 | Java-150 |
+| X | # | Question | Swift-420 | Java-150 |
 |---|---|---|---|---|
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
+|     | 1902 | Car Fleet II | Swift | Java | 
+|     | 1901 | Equal Sum Arrays With Minimum Number of Operations | Swift | Java | 
+|     | 1900 | Closest Dessert Cost | Swift | Java | 
+|     | 1899 | Count Items Matching a Rule | Swift | Java | 
 |     | 1897 | Maximize Palindrome Length From Subsequences | Swift | Java | 
 |     | 1896 | Maximum Score from Performing Multiplication Operations | Swift | Java | 
 |     | 1895 | Minimum Number of Operations to Move All Balls to Each Box | Swift | Java | 
@@ -1083,7 +1087,7 @@ Update README file only:
 |     | 582 | Kill Process | Swift | Java | 
 |     | 581 | Shortest Unsorted Continuous Subarray | Swift | Java | 
 |     | 576 | Out of Boundary Paths | Swift | Java | 
-|     | 575 | Distribute Candies | Swift | Java | 
+|     | 575 | Distribute Candies | [~~Swift~~](././Swift/distribute-candies.swift) | Java | 
 |     | 573 | Squirrel Simulation | Swift | Java | 
 |     | 572 | Subtree of Another Tree | Swift | Java | 
 |     | 568 | Maximum Vacation Days | Swift | Java | 
