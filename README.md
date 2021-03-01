@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-418 | Java-150 |
+| X | # | Question | Swift-419 | Java-150 |
 |---|---|---|---|---|
+|     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
 |     | 1897 | Maximize Palindrome Length From Subsequences | Swift | Java | 
@@ -773,7 +774,7 @@ Update README file only:
 |     | 934 | Bitwise ORs of Subarrays | Swift | Java | 
 |     | 933 | Increasing Order Search Tree | [~~Swift~~](././Swift/increasing-order-search-tree.swift) | Java | 
 |     | 932 | Monotonic Array | Swift | Java | 
-|     | 931 | Maximum Frequency Stack | Swift | Java | 
+|     | 931 | Maximum Frequency Stack | [~~Swift~~](././Swift/maximum-frequency-stack.swift) | Java | 
 |     | 930 | All Possible Full Binary Trees | Swift | Java | 
 |     | 929 | Groups of Special-Equivalent Strings | Swift | Java | 
 |     | 928 | Surface Area of 3D Shapes | Swift | Java | 
