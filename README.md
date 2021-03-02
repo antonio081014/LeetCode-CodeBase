@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-421 | Java-150 |
+| X | # | Question | Swift-422 | Java-150 |
 |---|---|---|---|---|
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
@@ -727,7 +727,7 @@ Update README file only:
 |     | 986 | Largest Time for Given Digits | [~~Swift~~](././Swift/largest-time-for-given-digits.swift) | Java | 
 |     | 985 | Bag of Tokens | [~~Swift~~](././Swift/bag-of-tokens.swift) | Java | 
 |     | 984 | Most Stones Removed with Same Row or Column | Swift | Java | 
-|     | 983 | Validate Stack Sequences | Swift | Java | 
+|     | 983 | Validate Stack Sequences | [~~Swift~~](././Swift/validate-stack-sequences.swift) | Java | 
 |     | 982 | Minimum Increment to Make Array Unique | Swift | Java | 
 |     | 981 | Delete Columns to Make Sorted | Swift | Java | 
 |     | 980 | Find the Shortest Superstring | Swift | Java | 
