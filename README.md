@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-422 | Java-150 |
+| X | # | Question | Swift-423 | Java-150 |
 |---|---|---|---|---|
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
@@ -1085,7 +1085,7 @@ Update README file only:
 |     | 587 | Erect the Fence | Swift | Java | 
 |     | 583 | Delete Operation for Two Strings | Swift | Java | 
 |     | 582 | Kill Process | Swift | Java | 
-|     | 581 | Shortest Unsorted Continuous Subarray | Swift | Java | 
+|     | 581 | Shortest Unsorted Continuous Subarray | [~~Swift~~](././Swift/shortest-unsorted-continuous-subarray.swift) | Java | 
 |     | 576 | Out of Boundary Paths | Swift | Java | 
 |     | 575 | Distribute Candies | [~~Swift~~](././Swift/distribute-candies.swift) | Java | 
 |     | 573 | Squirrel Simulation | Swift | Java | 
