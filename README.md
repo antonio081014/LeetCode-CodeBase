@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-424 | Java-150 |
+| X | # | Question | Swift-425 | Java-150 |
 |---|---|---|---|---|
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
@@ -872,7 +872,7 @@ Update README file only:
 |     | 843 | Binary Trees With Factors | Swift | Java | 
 |     | 842 | Card Flipping Game | Swift | Java | 
 |     | 841 | Shortest Distance to a Character | [~~Swift~~](././Swift/shortest-distance-to-a-character.swift) | Java | 
-|     | 839 | Short Encoding of Words | Swift | Java | 
+|     | 839 | Short Encoding of Words | [~~Swift~~](././Swift/short-encoding-of-words.swift) | Java | 
 |     | 838 | Design Linked List | Swift | Java | 
 |     | 837 | Most Common Word | Swift | Java | 
 |     | 836 | Race Car | Swift | Java | 
