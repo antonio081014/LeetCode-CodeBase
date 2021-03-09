@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-425 | Java-150 |
+| X | # | Question | Swift-426 | Java-150 |
 |---|---|---|---|---|
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
@@ -1074,7 +1074,7 @@ Update README file only:
 |     | 628 | Maximum Product of Three Numbers | Swift | Java | 
 |     | 625 | Minimum Factorization | Swift | Java | 
 |     | 624 | Maximum Distance in Arrays | Swift | Java | 
-|     | 623 | Add One Row to Tree | Swift | Java | 
+|     | 623 | Add One Row to Tree | [~~Swift~~](././Swift/add-one-row-to-tree.swift) | Java | 
 |     | 621 | Task Scheduler | [~~Swift~~](././Swift/task-scheduler.swift) | Java | 
 |     | 617 | Merge Two Binary Trees | Swift | Java | 
 |     | 616 | Add Bold Tag in String | Swift | Java | 
