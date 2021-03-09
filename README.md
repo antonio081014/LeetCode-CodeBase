@@ -11,9 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-423 | Java-150 |
+| X | # | Question | Swift-424 | Java-150 |
 |---|---|---|---|---|
+|     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
+|     | 1913 | Make the XOR of All Segments Equal to Zero | Swift | Java | 
+|     | 1912 | Number of Restricted Paths From First to Last Node | Swift | Java | 
+|     | 1911 | Minimum Elements to Add to Form a Given Sum | Swift | Java | 
+|     | 1910 | Check if Binary String Has at Most One Segment of Ones | Swift | Java | 
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
 |     | 1902 | Car Fleet II | Swift | Java | 
@@ -25,6 +30,10 @@ Update README file only:
 |     | 1895 | Minimum Number of Operations to Move All Balls to Each Box | Swift | Java | 
 |     | 1894 | Merge Strings Alternately | Swift | Java | 
 |     | 1893 | Maximum Subarray Sum After One Operation | Swift | Java | 
+|     | 1891 | Count Pairs Of Nodes | Swift | Java | 
+|     | 1890 | Sum of Beauty of All Substrings | Swift | Java | 
+|     | 1889 | Check if Number is a Sum of Powers of Three | Swift | Java | 
+|     | 1888 | Find Nearest Point That Has the Same X or Y Coordinate | Swift | Java | 
 |     | 1887 | Minimum Degree of a Connected Trio in a Graph | Swift | Java | 
 |     | 1886 | Minimum Limit of Balls in a Bag | Swift | Java | 
 |     | 1885 | Count Number of Homogenous Substrings | Swift | Java | 
@@ -885,7 +894,7 @@ Update README file only:
 |     | 820 | Find Eventual Safe States | Swift | Java | 
 |     | 819 | Minimum Swaps To Make Sequences Increasing | Swift | Java | 
 |     | 818 | Similar RGB Color | Swift | Java | 
-|     | 817 | Design HashMap | Swift | Java | 
+|     | 817 | Design HashMap | [~~Swift~~](././Swift/design-hashmap.swift) | Java | 
 |     | 816 | Design HashSet | Swift | Java | 
 |     | 815 | Champagne Tower | [~~Swift~~](././Swift/champagne-tower.swift) | Java | 
 |     | 814 | Smallest Rotation with Highest Score | Swift | Java | 
