@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-426 | Java-150 |
+| X | # | Question | Swift-427 | Java-150 |
 |---|---|---|---|---|
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
@@ -910,7 +910,7 @@ Update README file only:
 |     | 804 | Rotated Digits | Swift | Java | 
 |     | 803 | Cheapest Flights Within K Stops | [~~Swift~~](././Swift/cheapest-flights-within-k-stops.swift) | Java | 
 |     | 802 | K-th Smallest Prime Fraction | Swift | Java | 
-|     | 801 | Is Graph Bipartite? | Swift | Java | 
+|     | 801 | Is Graph Bipartite? | [~~Swift~~](././Swift/is-graph-bipartite.swift) | Java | 
 |     | 800 | Letter Case Permutation | [~~Swift~~](././Swift/letter-case-permutation.swift) | Java | 
 |     | 799 | Minimum Distance Between BST Nodes | [~~Swift~~](././Swift/minimum-distance-between-bst-nodes.swift) | Java | 
 |     | 798 | Transform to Chessboard | Swift | Java | 
