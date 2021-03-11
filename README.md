@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-428 | Java-150 |
 |---|---|---|---|---|
+|     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1913 | Make the XOR of All Segments Equal to Zero | Swift | Java | 
