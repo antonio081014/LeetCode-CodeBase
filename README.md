@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-428 | Java-150 |
+| X | # | Question | Swift-429 | Java-150 |
 |---|---|---|---|---|
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
@@ -294,7 +294,7 @@ Update README file only:
 |     | 1560 | Number of Students Doing Homework at a Given Time | Swift | Java | 
 |     | 1559 | Cherry Pickup II | [~~Swift~~](././Swift/cherry-pickup-ii.swift) | Java | 
 |     | 1558 | Course Schedule IV | Swift | Java | 
-|     | 1557 | Check If a String Contains All Binary Codes of Size K | Swift | Java | 
+|     | 1557 | Check If a String Contains All Binary Codes of Size K | [~~Swift~~](././Swift/check-if-a-string-contains-all-binary-codes-of-size-k.swift) | Java | 
 |     | 1556 | Make Two Arrays Equal by Reversing Sub-arrays | Swift | Java | 
 |     | 1555 | Number of Ways of Cutting a Pizza | Swift | Java | 
 |     | 1554 | Minimum Time to Collect All Apples in a Tree | Swift | Java | 
