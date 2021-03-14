@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-429 | Java-150 |
+| X | # | Question | Swift-430 | Java-150 |
 |---|---|---|---|---|
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
@@ -1137,7 +1137,7 @@ Update README file only:
 |     | 531 | Lonely Pixel I | Swift | Java | 
 |     | 530 | Minimum Absolute Difference in BST | [~~Swift~~](././Swift/minimum-absolute-difference-in-bst.swift) | Java | 
 |     | 529 | Minesweeper | Swift | Java | 
-|     | 528 | Swapping Nodes in a Linked List | Swift | Java | 
+|     | 528 | Swapping Nodes in a Linked List | [~~Swift~~](././Swift/swapping-nodes-in-a-linked-list.swift) | Java | 
 |     | 527 | Word Abbreviation | Swift | Java | 
 |     | 526 | Beautiful Arrangement | [~~Swift~~](././Swift/beautiful-arrangement.swift) | Java | 
 |     | 525 | Contiguous Array | [~~Swift~~](././Swift/contiguous-array.swift) | Java | 
