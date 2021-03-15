@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-430 | Java-150 |
+| X | # | Question | Swift-431 | Java-150 |
 |---|---|---|---|---|
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
@@ -1131,7 +1131,7 @@ Update README file only:
 |     | 538 | Convert BST to Greater Tree | [~~Swift~~](././Swift/convert-bst-to-greater-tree.swift) | Java | 
 |     | 537 | Complex Number Multiplication | Swift | Java | 
 |     | 536 | Construct Binary Tree from String | Swift | Java | 
-|     | 535 | Encode and Decode TinyURL | Swift | Java | 
+|     | 535 | Encode and Decode TinyURL | [~~Swift~~](././Swift/encode-and-decode-tinyurl.swift) | Java | 
 |     | 533 | Lonely Pixel II | Swift | Java | 
 |     | 532 | K-diff Pairs in an Array | [~~Swift~~](././Swift/k-diff-pairs-in-an-array.swift) | Java | 
 |     | 531 | Lonely Pixel I | Swift | Java | 
