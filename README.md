@@ -16,6 +16,10 @@ Update README file only:
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
+|     | 1918 | Maximum Score of a Good Subarray | Swift | Java | 
+|     | 1917 | Maximum Average Pass Ratio | Swift | Java | 
+|     | 1916 | Find Center of Star Graph | Swift | Java | 
+|     | 1915 | Check if One String Swap Can Make Strings Equal | Swift | Java | 
 |     | 1913 | Make the XOR of All Segments Equal to Zero | Swift | Java | 
 |     | 1912 | Number of Restricted Paths From First to Last Node | Swift | Java | 
 |     | 1911 | Minimum Elements to Add to Form a Given Sum | Swift | Java | 
