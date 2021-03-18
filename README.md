@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-431 | Java-150 |
+| X | # | Question | Swift-432 | Java-150 |
 |---|---|---|---|---|
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
@@ -809,7 +809,7 @@ Update README file only:
 |     | 918 | Reachable Nodes In Subdivided Graph | Swift | Java | 
 |     | 917 | Boats to Save People | [~~Swift~~](././Swift/boats-to-save-people.swift) | Java | 
 |     | 916 | Decoded String at Index | Swift | Java | 
-|     | 915 | Generate Random Point in a Circle | Swift | Java | 
+|     | 915 | Generate Random Point in a Circle | [~~Swift~~](././Swift/generate-random-point-in-a-circle.swift) | Java | 
 |     | 914 | Random Point in Non-overlapping Rectangles | [~~Swift~~](././Swift/random-point-in-non-overlapping-rectangles.swift) | Java | 
 |     | 913 | Random Flip Matrix | Swift | Java | 
 |     | 912 | Random Pick with Weight | [~~Swift~~](././Swift/random-pick-with-weight.swift) | Java | 
