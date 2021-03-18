@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-430 | Java-150 |
+| X | # | Question | Swift-431 | Java-150 |
 |---|---|---|---|---|
+|     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
@@ -1281,7 +1282,7 @@ Update README file only:
 |     | 379 | Design Phone Directory | Swift | Java | 
 |     | 378 | Kth Smallest Element in a Sorted Matrix | [~~Swift~~](././Swift/kth-smallest-element-in-a-sorted-matrix.swift) | Java | 
 |     | 377 | Combination Sum IV | [~~Swift~~](././Swift/combination-sum-iv.swift) | Java | 
-|     | 376 | Wiggle Subsequence | Swift | Java | 
+|     | 376 | Wiggle Subsequence | [~~Swift~~](././Swift/wiggle-subsequence.swift) | Java | 
 |     | 375 | Guess Number Higher or Lower II | Swift | Java | 
 |     | 374 | Guess Number Higher or Lower | [~~Swift~~](././Swift/guess-number-higher-or-lower.swift) | Java | 
 |     | 373 | Find K Pairs with Smallest Sums | Swift | Java | 
