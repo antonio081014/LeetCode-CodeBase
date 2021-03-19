@@ -11,8 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-
-| X | # | Question | Swift-432 | Java-150 |
+| X | # | Question | Swift-434 | Java-150 |
 |---|---|---|---|---|
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
@@ -876,7 +875,7 @@ Update README file only:
 |     | 852 | Friends Of Appropriate Ages | Swift | Java | 
 |     | 851 | Goat Latin | [~~Swift~~](././Swift/goat-latin.swift) | Java | 
 |     | 850 | Insert into a Sorted Circular Linked List | Swift | Java | 
-|     | 843 | Binary Trees With Factors | Swift | Java | 
+|     | 843 | Binary Trees With Factors | [~~Swift~~](././Swift/binary-trees-with-factors.swift) | Java | 
 |     | 842 | Card Flipping Game | Swift | Java | 
 |     | 841 | Shortest Distance to a Character | [~~Swift~~](././Swift/shortest-distance-to-a-character.swift) | Java | 
 |     | 839 | Short Encoding of Words | [~~Swift~~](././Swift/short-encoding-of-words.swift) | Java | 
