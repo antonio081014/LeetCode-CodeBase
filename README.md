@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-435 | Java-150 |
+| X | # | Question | Swift-436 | Java-150 |
 |---|---|---|---|---|
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
@@ -336,7 +336,7 @@ Update README file only:
 |     | 1515 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Swift | Java | 
 |     | 1514 | Minimum Value to Get Positive Step by Step Sum | Swift | Java | 
 |     | 1513 | Find All Good Strings | Swift | Java | 
-|     | 1512 | Design Underground System | Swift | Java | 
+|     | 1512 | Design Underground System | [~~Swift~~](././Swift/design-underground-system.swift) | Java | 
 |     | 1511 | Count Number of Teams | Swift | Java | 
 |     | 1510 | Find Lucky Integer in an Array | Swift | Java | 
 |     | 1508 | Longest Happy Prefix | Swift | Java | 
