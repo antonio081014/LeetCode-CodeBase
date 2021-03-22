@@ -11,11 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-436 | Java-150 |
+| X | # | Question | Swift-437 | Java-150 |
 |---|---|---|---|---|
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
+|     | 1930 | Maximum Number of Consecutive Values You Can Make | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1918 | Maximum Score of a Good Subarray | Swift | Java | 
 |     | 1917 | Maximum Average Pass Ratio | Swift | Java | 
@@ -26,6 +27,9 @@ Update README file only:
 |     | 1911 | Minimum Elements to Add to Form a Given Sum | Swift | Java | 
 |     | 1910 | Check if Binary String Has at Most One Segment of Ones | Swift | Java | 
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
+|     | 1906 | Maximize Score After N Operations | Swift | Java | 
+|     | 1905 | Design Authentication Manager | Swift | Java | 
+|     | 1904 | Second Largest Digit in a String | Swift | Java | 
 |     | 1903 | Design Most Recently Used Queue | Swift | Java | 
 |     | 1902 | Car Fleet II | Swift | Java | 
 |     | 1901 | Equal Sum Arrays With Minimum Number of Operations | Swift | Java | 
@@ -1509,7 +1513,7 @@ Update README file only:
 |     | 135 | Candy | Swift | [~~Java~~](././Java/candy.java) | 
 |     | 134 | Gas Station | [~~Swift~~](././Swift/gas-station.swift) | Java | 
 |     | 133 | Clone Graph | [~~Swift~~](././Swift/clone-graph.swift) | Java | 
-|     | 132 | Palindrome Partitioning II | Swift | Java | 
+|     | 132 | Palindrome Partitioning II | [~~Swift~~](././Swift/palindrome-partitioning-ii.swift) | Java | 
 |     | 131 | Palindrome Partitioning | [~~Swift~~](././Swift/palindrome-partitioning.swift) | Java | 
 |  X  | 130 | Surrounded Regions | [~~Swift~~](././Swift/surrounded-regions.swift) | [~~Java~~](././Java/surrounded-regions.java) | 
 |  X  | 129 | Sum Root to Leaf Numbers | [~~Swift~~](././Swift/sum-root-to-leaf-numbers.swift) | [~~Java~~](././Java/sum-root-to-leaf-numbers.java) | 
