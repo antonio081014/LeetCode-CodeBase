@@ -11,12 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-437 | Java-150 |
+| X | # | Question | Swift-438 | Java-150 |
 |---|---|---|---|---|
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1930 | Maximum Number of Consecutive Values You Can Make | Swift | Java | 
+|     | 1929 | Maximum Value at a Given Index in a Bounded Array | Swift | Java | 
+|     | 1928 | Number of Orders in the Backlog | Swift | Java | 
+|     | 1927 | Maximum Ascending Subarray Sum | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1918 | Maximum Score of a Good Subarray | Swift | Java | 
 |     | 1917 | Maximum Average Pass Ratio | Swift | Java | 
@@ -27,6 +30,7 @@ Update README file only:
 |     | 1911 | Minimum Elements to Add to Form a Given Sum | Swift | Java | 
 |     | 1910 | Check if Binary String Has at Most One Segment of Ones | Swift | Java | 
 |     | 1909 | Buildings With an Ocean View | Swift | Java | 
+|     | 1907 | Count Pairs With XOR in a Range | Swift | Java | 
 |     | 1906 | Maximize Score After N Operations | Swift | Java | 
 |     | 1905 | Design Authentication Manager | Swift | Java | 
 |     | 1904 | Second Largest Digit in a String | Swift | Java | 
@@ -726,7 +730,7 @@ Update README file only:
 |     | 1009 | Pancake Sorting | [~~Swift~~](././Swift/pancake-sorting.swift) | Java | 
 |     | 1008 | Binary Tree Cameras | Swift | Java | 
 |     | 1007 | Numbers With Same Consecutive Differences | [~~Swift~~](././Swift/numbers-with-same-consecutive-differences.swift) | Java | 
-|     | 1006 | Vowel Spellchecker | Swift | Java | 
+|     | 1006 | Vowel Spellchecker | [~~Swift~~](././Swift/vowel-spellchecker.swift) | Java | 
 |     | 1005 | Univalued Binary Tree | Swift | Java | 
 |     | 1004 | Least Operators to Express Number | Swift | Java | 
 |     | 1003 | Minimum Area Rectangle II | Swift | Java | 
