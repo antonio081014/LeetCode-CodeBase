@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-438 | Java-150 |
+| X | # | Question | Swift-439 | Java-150 |
 |---|---|---|---|---|
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
@@ -831,7 +831,7 @@ Update README file only:
 |     | 904 | Leaf-Similar Trees | Swift | Java | 
 |     | 903 | Implement Rand10() Using Rand7() | [~~Swift~~](././Swift/implement-rand10-using-rand7.swift) | Java | 
 |     | 902 | Minimum Number of Refueling Stops | Swift | Java | 
-|     | 901 | Advantage Shuffle | Swift | Java | 
+|     | 901 | Advantage Shuffle | [~~Swift~~](././Swift/advantage-shuffle.swift) | Java | 
 |     | 900 | Reordered Power of 2 | [~~Swift~~](././Swift/reordered-power-of-2.swift) | Java | 
 |     | 899 | Binary Gap | Swift | Java | 
 |     | 898 | Transpose Matrix | Swift | Java | 
