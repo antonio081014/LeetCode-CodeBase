@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-440 | Java-150 |
+| X | # | Question | Swift-441 | Java-150 |
 |---|---|---|---|---|
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
@@ -781,7 +781,7 @@ Update README file only:
 |     | 955 | Complete Binary Tree Inserter | Swift | Java | 
 |     | 954 | Maximum Sum Circular Subarray | [~~Swift~~](././Swift/maximum-sum-circular-subarray.swift) | Java | 
 |     | 953 | Reverse Only Letters | Swift | Java | 
-|     | 952 | Word Subsets | Swift | Java | 
+|     | 952 | Word Subsets | [~~Swift~~](././Swift/word-subsets.swift) | Java | 
 |     | 951 | Partition Array into Disjoint Intervals | Swift | Java | 
 |     | 950 | X of a Kind in a Deck of Cards | Swift | Java | 
 |     | 949 | Cat and Mouse | Swift | Java | 
