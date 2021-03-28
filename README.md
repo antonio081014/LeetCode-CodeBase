@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-441 | Java-150 |
+| X | # | Question | Swift-442 | Java-150 |
 |---|---|---|---|---|
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
@@ -1244,7 +1244,7 @@ Update README file only:
 |     | 432 | All O`one Data Structure | Swift | Java | 
 |     | 425 | Word Squares | Swift | Java | 
 |     | 424 | Longest Repeating Character Replacement | Swift | Java | 
-|     | 423 | Reconstruct Original Digits from English | Swift | Java | 
+|     | 423 | Reconstruct Original Digits from English | [~~Swift~~](././Swift/reconstruct-original-digits-from-english.swift) | Java | 
 |     | 422 | Valid Word Square | Swift | Java | 
 |     | 421 | Maximum XOR of Two Numbers in an Array | [~~Swift~~](././Swift/maximum-xor-of-two-numbers-in-an-array.swift) | Java | 
 |     | 420 | Strong Password Checker | Swift | Java | 
