@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-442 | Java-150 |
+| X | # | Question | Swift-443 | Java-150 |
 |---|---|---|---|---|
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
@@ -726,7 +726,7 @@ Update README file only:
 |     | 1014 | K Closest Points to Origin | [~~Swift~~](././Swift/k-closest-points-to-origin.swift) | Java | 
 |     | 1013 | Fibonacci Number | Swift | Java | 
 |     | 1012 | Equal Rational Numbers | Swift | Java | 
-|     | 1011 | Flip Binary Tree To Match Preorder Traversal | Swift | Java | 
+|     | 1011 | Flip Binary Tree To Match Preorder Traversal | [~~Swift~~](././Swift/flip-binary-tree-to-match-preorder-traversal.swift) | Java | 
 |     | 1010 | Powerful Integers | Swift | Java | 
 |     | 1009 | Pancake Sorting | [~~Swift~~](././Swift/pancake-sorting.swift) | Java | 
 |     | 1008 | Binary Tree Cameras | Swift | Java | 
