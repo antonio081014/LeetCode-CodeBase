@@ -11,11 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-443 | Java-150 |
+| X | # | Question | Swift-444 | Java-150 |
 |---|---|---|---|---|
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
+|     | 1936 | Maximize Number of Nice Divisors | Swift | Java | 
+|     | 1935 | Minimum Number of Operations to Reinitialize a Permutation | Swift | Java | 
+|     | 1934 | Evaluate the Bracket Pairs of a String | Swift | Java | 
+|     | 1933 | Number of Different Integers in a String | Swift | Java | 
 |     | 1931 | Shortest Path in a Hidden Grid | Swift | Java | 
 |     | 1930 | Maximum Number of Consecutive Values You Can Make | Swift | Java | 
 |     | 1929 | Maximum Value at a Given Index in a Bounded Array | Swift | Java | 
@@ -1313,7 +1317,7 @@ Update README file only:
 |     | 357 | Count Numbers with Unique Digits | Swift | Java | 
 |     | 356 | Line Reflection | Swift | Java | 
 |     | 355 | Design Twitter | Swift | Java | 
-|     | 354 | Russian Doll Envelopes | Swift | Java | 
+|     | 354 | Russian Doll Envelopes | [~~Swift~~](././Swift/russian-doll-envelopes.swift) | Java | 
 |     | 353 | Design Snake Game | Swift | Java | 
 |     | 352 | Data Stream as Disjoint Intervals | Swift | Java | 
 |     | 351 | Android Unlock Patterns | Swift | Java | 
