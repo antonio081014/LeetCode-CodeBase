@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-444 | Java-150 |
+| X | # | Question | Swift-445 | Java-150 |
 |---|---|---|---|---|
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
@@ -765,7 +765,7 @@ Update README file only:
 |     | 976 | Minimum Area Rectangle | Swift | Java | 
 |     | 975 | Range Sum of BST | [~~Swift~~](././Swift/range-sum-of-bst.swift) | Java | 
 |     | 974 | Reorder Data in Log Files | Swift | Java | 
-|     | 973 | Stamping The Sequence | Swift | Java | 
+|     | 973 | Stamping The Sequence | [~~Swift~~](././Swift/stamping-the-sequence.swift) | Java | 
 |     | 972 | Knight Dialer | Swift | Java | 
 |     | 971 | Shortest Bridge | Swift | Java | 
 |     | 969 | Number of Recent Calls | [~~Swift~~](././Swift/number-of-recent-calls.swift) | Java | 
