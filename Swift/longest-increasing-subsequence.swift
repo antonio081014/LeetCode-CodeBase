@@ -21,4 +21,39 @@ class Solution {
         }
         return result
     }
+}/**
+ * https://leetcode.com/problems/longest-increasing-subsequence/
+ * 
+ * 
+ */ 
+// Date: Thu Apr  1 11:13:56 PDT 2021
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(nlgn)
+    ///     - Space: O(n)
+    func lengthOfLIS(_ nums: [Int]) -> Int {
+        let n = nums.count
+        var listOfLIS = Array(repeating: 0, count: n)
+        var end = 0
+        
+        for n in nums {
+            var left = 0
+            var right = end
+            while left < right {
+                let mid = left + (right - left) / 2
+                if listOfLIS[mid] < n {
+                    left = mid + 1
+                } else {
+                    right = mid
+                }
+            }
+            listOfLIS[left] = n
+            if left == end {
+                end += 1
+            }
+            // print("\(n) - \(listOfLIS)")
+        }
+        
+        return end
+    }
 }

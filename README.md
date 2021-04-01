@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-445 | Java-150 |
 |---|---|---|---|---|
+|     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
