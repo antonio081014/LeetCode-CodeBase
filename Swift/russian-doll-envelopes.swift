@@ -25,4 +25,38 @@ class Solution {
         }
         return result + 1
     }
+}/**
+ * https://leetcode.com/problems/russian-doll-envelopes/
+ * 
+ * 
+ */ 
+// Date: Thu Apr  1 11:24:26 PDT 2021
+class Solution {
+    /// - Complexity: 
+    ///     - Time: O(nlgn)
+    ///     - Space: O(n)
+    func maxEnvelopes(_ envelopes: [[Int]]) -> Int {
+        let n = envelopes.count
+        var dolls = Array(repeating: 0, count: n)
+        var end = 0
+        let env = envelopes.sorted { $0[0] == $1[0] ? $0[1] > $1[1] : $0[0] < $1[0] }
+        // print(env)
+        
+        for e in env {
+            var left = 0
+            var right = end
+            while left < right {
+                let mid = left + (right - left) / 2
+                if dolls[mid] < e[1] {
+                    left = mid + 1
+                } else {
+                    right = mid
+                }
+            }
+            dolls[left] = e[1]
+            if left == end { end += 1 }
+        }
+        
+        return end
+    }
 }
