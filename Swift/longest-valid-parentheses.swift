@@ -25,3 +25,64 @@ class Solution {
         return maxL
     }
 }
+/**
+ * https://leetcode.com/problems/longest-valid-parentheses/
+ * 
+ * 
+ */ 
+// Date: Sun Apr  4 09:04:24 PDT 2021
+class Solution {
+    func longestValidParentheses(_ s: String) -> Int {
+        var invalidIndices = [Int]()
+        let s = Array(s)
+        for index in 0 ..< s.count {
+            if String(s[index]) == "(" {
+                invalidIndices.append(index)
+            } else {
+                if let last = invalidIndices.last, s[last] == Character("(") {
+                    invalidIndices.removeLast()
+                } else {
+                    invalidIndices.append(index)
+                }
+            }
+        }
+        if invalidIndices.isEmpty { return s.count }
+        var end = s.count
+        var result = 0
+        while let last = invalidIndices.last {
+            result = max(result, end - last - 1)
+            end = last
+            invalidIndices.removeLast()
+        }
+        result = max(result, end)
+        return result
+    }
+}
+
+class Solution {
+    func longestValidParentheses(_ s: String) -> Int {
+        var invalidIndices = [Int]()
+        let s = Array(s)
+        for index in 0 ..< s.count {
+            if String(s[index]) == "(" {
+                invalidIndices.append(index)
+            } else {
+                if let last = invalidIndices.last, s[last] == Character("(") {
+                    invalidIndices.removeLast()
+                } else {
+                    invalidIndices.append(index)
+                }
+            }
+        }
+        if invalidIndices.isEmpty { return s.count }
+        var end = s.count
+        var result = 0
+        invalidIndices = [-1] + invalidIndices
+        while let last = invalidIndices.last {
+            result = max(result, end - last - 1)
+            end = last
+            invalidIndices.removeLast()
+        }
+        return result
+    }
+}
