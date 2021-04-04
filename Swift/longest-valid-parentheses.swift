@@ -85,4 +85,29 @@ class Solution {
         }
         return result
     }
+}/**
+ * https://leetcode.com/problems/longest-valid-parentheses/
+ * 
+ * 
+ */ 
+// Date: Sun Apr  4 09:20:50 PDT 2021
+class Solution {
+    func longestValidParentheses(_ s: String) -> Int {
+        let left = Character("(")
+        let right = Character(")")
+        let s = Array(s)
+        var dp = Array(repeating: 0, count: s.count)
+        var result = 0
+        for index in stride(from: 1, to: s.count, by: 1) {
+            if s[index] == right {
+                if s[index - 1] == left {
+                    dp[index] = 2 + (index > 1 ? dp[index - 2] : 0)
+                } else if index - dp[index - 1] > 0, s[index - dp[index - 1] - 1] == left {
+                    dp[index] = 2 + dp[index - 1] + (index - dp[index - 1] > 1 ? dp[index - dp[index - 1] - 2] : 0)
+                }
+                result = max(result, dp[index])
+            }
+        }
+        return result
+    }
 }
