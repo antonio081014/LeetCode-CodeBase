@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-445 | Java-150 |
+| X | # | Question | Swift-446 | Java-150 |
 |---|---|---|---|---|
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
@@ -878,7 +878,7 @@ Update README file only:
 |     | 863 | Sum of Distances in Tree | Swift | Java | 
 |     | 862 | Find And Replace in String | Swift | Java | 
 |     | 861 | Flipping an Image | [~~Swift~~](././Swift/flipping-an-image.swift) | Java | 
-|     | 860 | Design Circular Queue | Swift | Java | 
+|     | 860 | Design Circular Queue | [~~Swift~~](././Swift/design-circular-queue.swift) | Java | 
 |     | 859 | Design Circular Deque | Swift | Java | 
 |     | 858 | Masking Personal Information | Swift | Java | 
 |     | 857 | Positions of Large Groups | Swift | Java | 
