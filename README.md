@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-446 | Java-150 |
+| X | # | Question | Swift-447 | Java-150 |
 |---|---|---|---|---|
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
+|     | 1947 | Number of Different Subsequences GCDs | Swift | Java | 
+|     | 1946 | Minimum Absolute Sum Difference | Swift | Java | 
+|     | 1945 | Finding the Users Active Minutes | Swift | Java | 
+|     | 1944 | Truncate Sentence | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1936 | Maximize Number of Nice Divisors | Swift | Java | 
@@ -26,6 +30,10 @@ Update README file only:
 |     | 1929 | Maximum Value at a Given Index in a Bounded Array | Swift | Java | 
 |     | 1928 | Number of Orders in the Backlog | Swift | Java | 
 |     | 1927 | Maximum Ascending Subarray Sum | Swift | Java | 
+|     | 1925 | Count Nice Pairs in an Array | Swift | Java | 
+|     | 1924 | Maximum Number of Groups Getting Fresh Donuts | Swift | Java | 
+|     | 1923 | Sentence Similarity III | Swift | Java | 
+|     | 1920 | Determine Color of a Chessboard Square | Swift | Java | 
 |     | 1919 | Sort Features by Popularity | Swift | Java | 
 |     | 1918 | Maximum Score of a Good Subarray | Swift | Java | 
 |     | 1917 | Maximum Average Pass Ratio | Swift | Java | 
@@ -228,7 +236,7 @@ Update README file only:
 |     | 1677 | Matrix Diagonal Sum | Swift | Java | 
 |     | 1676 | Minimum Number of Days to Eat N Oranges | Swift | Java | 
 |     | 1675 | Magnetic Force Between Two Balls | Swift | Java | 
-|     | 1674 | Minimum Operations to Make Array Equal | Swift | Java | 
+|     | 1674 | Minimum Operations to Make Array Equal | [~~Swift~~](././Swift/minimum-operations-to-make-array-equal.swift) | Java | 
 |     | 1672 | Find the Index of the Large Integer | Swift | Java | 
 |     | 1669 | Minimum Cost to Cut a Stick | Swift | Java | 
 |     | 1668 | Find Longest Awesome Substring | Swift | Java | 
