@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-447 | Java-150 |
+| X | # | Question | Swift-448 | Java-150 |
 |---|---|---|---|---|
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
@@ -106,7 +106,7 @@ Update README file only:
 |     | 1826 | Maximum XOR With an Element From Array | Swift | Java | 
 |     | 1825 | Find Minimum Time to Finish All Jobs | Swift | Java | 
 |     | 1824 | Maximum Number of Eaten Apples | Swift | Java | 
-|     | 1823 | Determine if String Halves Are Alike | Swift | Java | 
+|     | 1823 | Determine if String Halves Are Alike | [~~Swift~~](././Swift/determine-if-string-halves-are-alike.swift) | Java | 
 |     | 1822 | Longest Palindromic Subsequence II | Swift | Java | 
 |     | 1820 | Number Of Ways To Reconstruct A Tree | Swift | Java | 
 |     | 1819 | Construct the Lexicographically Largest Valid Sequence | Swift | Java | 
