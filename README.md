@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-448 | Java-150 |
+| X | # | Question | Swift-449 | Java-150 |
 |---|---|---|---|---|
+|     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1947 | Number of Different Subsequences GCDs | Swift | Java | 
@@ -757,7 +758,7 @@ Update README file only:
 |     | 993 | Tallest Billboard | Swift | Java | 
 |     | 992 | Delete Columns to Make Sorted II | Swift | Java | 
 |     | 991 | Array of Doubled Pairs | Swift | Java | 
-|     | 990 | Verifying an Alien Dictionary | Swift | Java | 
+|     | 990 | Verifying an Alien Dictionary | [~~Swift~~](././Swift/verifying-an-alien-dictionary.swift) | Java | 
 |     | 989 | Largest Component Size by Common Factor | [~~Swift~~](././Swift/largest-component-size-by-common-factor.swift) | Java | 
 |     | 988 | Flip Equivalent Binary Trees | [~~Swift~~](././Swift/flip-equivalent-binary-trees.swift) | Java | 
 |     | 987 | Reveal Cards In Increasing Order | Swift | Java | 
