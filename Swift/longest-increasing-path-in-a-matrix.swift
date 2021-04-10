@@ -56,3 +56,41 @@ class Solution {
         return result
     }
 }
+/**
+ * https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+ * 
+ * 
+ */ 
+// Date: Sat Apr 10 07:57:04 PDT 2021
+class Solution {
+    func longestIncreasingPath(_ matrix: [[Int]]) -> Int {
+        let n = matrix.count
+        guard let m = matrix.first?.count else { return 0 }
+        var longestPath = Array(repeating: Array(repeating: 0, count: m), count: n)
+        
+        let dx = [0, 1, 0, -1]
+        let dy = [1, 0, -1, 0]
+        
+        func dfs(_ x: Int, _ y: Int) {
+            if longestPath[x][y] > 0 { return }
+            longestPath[x][y] = 1
+            for index in 0 ..< dx.count {
+                let xx = x + dx[index]
+                let yy = y + dy[index]
+                if xx >= 0, xx < n, yy >= 0, yy < m, matrix[xx][yy] < matrix[x][y]{
+                    dfs(xx, yy)
+                    longestPath[x][y] = max(longestPath[x][y], 1 + longestPath[xx][yy])
+                }
+            }
+        }
+        
+        var result = 0
+        for x in 0 ..< n {
+            for y in 0 ..< m {
+                dfs(x, y)
+                result = max(result, longestPath[x][y])
+            }
+        }
+        return result
+    }
+}
