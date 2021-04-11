@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-449 | Java-150 |
+| X | # | Question | Swift-450 | Java-150 |
 |---|---|---|---|---|
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
+|     | 1953 | Finding MK Average | Swift | Java | 
+|     | 1952 | Minimum Sideway Jumps | Swift | Java | 
+|     | 1951 | Find the Winner of the Circular Game | Swift | Java | 
+|     | 1950 | Sign of the Product of an Array | Swift | Java | 
 |     | 1949 | Implement Trie II (Prefix Tree) | Swift | Java | 
 |     | 1947 | Number of Different Subsequences GCDs | Swift | Java | 
 |     | 1946 | Minimum Absolute Sum Difference | Swift | Java | 
@@ -532,7 +536,7 @@ Update README file only:
 |     | 1257 | Rank Transform of a Matrix | Swift | Java | 
 |     | 1256 | Rank Transform of an Array | Swift | Java | 
 |     | 1255 | Reverse Subarray To Maximize Array Value | Swift | Java | 
-|     | 1254 | Deepest Leaves Sum | Swift | Java | 
+|     | 1254 | Deepest Leaves Sum | [~~Swift~~](././Swift/deepest-leaves-sum.swift) | Java | 
 |     | 1253 | Sort the Matrix Diagonally | Swift | Java | 
 |     | 1252 | Break a Palindrome | Swift | Java | 
 |     | 1251 | Longest Chunked Palindrome Decomposition | Swift | Java | 
