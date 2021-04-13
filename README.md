@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-450 | Java-150 |
+| X | # | Question | Swift-451 | Java-150 |
 |---|---|---|---|---|
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
@@ -1066,7 +1066,7 @@ Update README file only:
 |     | 670 | Maximum Swap | Swift | Java | 
 |     | 669 | Trim a Binary Search Tree | [~~Swift~~](././Swift/trim-a-binary-search-tree.swift) | Java | 
 |     | 668 | Kth Smallest Number in Multiplication Table | Swift | Java | 
-|     | 667 | Beautiful Arrangement II | Swift | Java | 
+|     | 667 | Beautiful Arrangement II | [~~Swift~~](././Swift/beautiful-arrangement-ii.swift) | Java | 
 |     | 666 | Path Sum IV | Swift | Java | 
 |     | 665 | Non-decreasing Array | Swift | Java | 
 |     | 664 | Strange Printer | Swift | Java | 
