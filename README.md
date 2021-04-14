@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-451 | Java-150 |
+| X | # | Question | Swift-452 | Java-150 |
 |---|---|---|---|---|
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
@@ -1344,7 +1344,7 @@ Update README file only:
 |     | 344 | Reverse String | [~~Swift~~](././Swift/reverse-string.swift) | Java | 
 |     | 343 | Integer Break | Swift | Java | 
 |     | 342 | Power of Four | [~~Swift~~](././Swift/power-of-four.swift) | Java | 
-|     | 341 | Flatten Nested List Iterator | Swift | Java | 
+|     | 341 | Flatten Nested List Iterator | [~~Swift~~](././Swift/flatten-nested-list-iterator.swift) | Java | 
 |     | 340 | Longest Substring with At Most K Distinct Characters | Swift | Java | 
 |     | 339 | Nested List Weight Sum | Swift | Java | 
 |     | 338 | Counting Bits | [~~Swift~~](././Swift/counting-bits.swift) | Java | 
