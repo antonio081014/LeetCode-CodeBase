@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-454 | Java-150 |
+| X | # | Question | Swift-455 | Java-150 |
 |---|---|---|---|---|
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
@@ -630,7 +630,7 @@ Update README file only:
 |     | 1131 | Count Substrings with Only One Distinct Letter | Swift | Java | 
 |     | 1130 | Last Stone Weight II | Swift | Java | 
 |     | 1129 | Longest String Chain | Swift | Java | 
-|     | 1128 | Remove All Adjacent Duplicates In String | Swift | Java | 
+|     | 1128 | Remove All Adjacent Duplicates In String | [~~Swift~~](././Swift/remove-all-adjacent-duplicates-in-string.swift) | Java | 
 |     | 1127 | Last Stone Weight | [~~Swift~~](././Swift/last-stone-weight.swift) | Java | 
 |     | 1126 | Minimum Cost to Connect Sticks | Swift | Java | 
 |     | 1125 | Design File System | Swift | Java | 
