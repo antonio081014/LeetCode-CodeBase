@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-453 | Java-150 |
+| X | # | Question | Swift-454 | Java-150 |
 |---|---|---|---|---|
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
@@ -495,7 +495,7 @@ Update README file only:
 |     | 1324 | Where Will the Ball Fall | Swift | Java | 
 |     | 1322 | Minimum Moves to Reach Target with Rotations | Swift | Java | 
 |     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
-|     | 1320 | Remove All Adjacent Duplicates in String II | Swift | Java | 
+|     | 1320 | Remove All Adjacent Duplicates in String II | [~~Swift~~](././Swift/remove-all-adjacent-duplicates-in-string-ii.swift) | Java | 
 |     | 1319 | Unique Number of Occurrences | Swift | Java | 
 |     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 
 |     | 1308 | Smallest String With Swaps | Swift | Java | 
