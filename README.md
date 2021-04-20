@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-456 | Java-150 |
+| X | # | Question | Swift-457 | Java-150 |
 |---|---|---|---|---|
 |     | 1980 | Faulty Sensor | Swift | Java | 
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
@@ -973,7 +973,7 @@ Update README file only:
 |     | 779 | Max Chunks To Make Sorted II | Swift | Java | 
 |     | 778 | Reorganize String | Swift | Java | 
 |     | 777 | Toeplitz Matrix | Swift | Java | 
-|     | 776 | N-ary Tree Postorder Traversal | Swift | Java | 
+|     | 776 | N-ary Tree Postorder Traversal | [~~Swift~~](././Swift/n-ary-tree-postorder-traversal.swift) | Java | 
 |     | 775 | N-ary Tree Preorder Traversal | [~~Swift~~](././Swift/n-ary-tree-preorder-traversal.swift) | Java | 
 |     | 774 | Maximum Depth of N-ary Tree | [~~Swift~~](././Swift/maximum-depth-of-n-ary-tree.swift) | Java | 
 |     | 773 | Logical OR of Two Binary Grids Represented as Quad-Trees | Swift | Java | 
