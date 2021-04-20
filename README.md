@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-455 | Java-150 |
+| X | # | Question | Swift-456 | Java-150 |
 |---|---|---|---|---|
+|     | 1980 | Faulty Sensor | Swift | Java | 
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
 |     | 1953 | Finding MK Average | Swift | Java | 
@@ -25,6 +26,10 @@ Update README file only:
 |     | 1945 | Finding the Users Active Minutes | Swift | Java | 
 |     | 1944 | Truncate Sentence | Swift | Java | 
 |     | 1943 | Count Pairs of Equal Substrings With Minimum Difference | Swift | Java | 
+|     | 1941 | Minimum Number of Operations to Make String Sorted | Swift | Java | 
+|     | 1940 | Maximum XOR for Each Query | Swift | Java | 
+|     | 1939 | Queries on Number of Points Inside a Circle | Swift | Java | 
+|     | 1938 | Minimum Operations to Make the Array Increasing | Swift | Java | 
 |     | 1937 | Maximize the Beauty of the Garden | Swift | Java | 
 |     | 1936 | Maximize Number of Nice Divisors | Swift | Java | 
 |     | 1935 | Minimum Number of Operations to Reinitialize a Permutation | Swift | Java | 
@@ -969,7 +974,7 @@ Update README file only:
 |     | 778 | Reorganize String | Swift | Java | 
 |     | 777 | Toeplitz Matrix | Swift | Java | 
 |     | 776 | N-ary Tree Postorder Traversal | Swift | Java | 
-|     | 775 | N-ary Tree Preorder Traversal | Swift | Java | 
+|     | 775 | N-ary Tree Preorder Traversal | [~~Swift~~](././Swift/n-ary-tree-preorder-traversal.swift) | Java | 
 |     | 774 | Maximum Depth of N-ary Tree | [~~Swift~~](././Swift/maximum-depth-of-n-ary-tree.swift) | Java | 
 |     | 773 | Logical OR of Two Binary Grids Represented as Quad-Trees | Swift | Java | 
 |     | 772 | Construct Quad Tree | Swift | Java | 
