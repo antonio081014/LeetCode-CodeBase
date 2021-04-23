@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-458 | Java-150 |
+| X | # | Question | Swift-459 | Java-150 |
 |---|---|---|---|---|
+|     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
 |     | 1980 | Faulty Sensor | Swift | Java | 
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1963 | Find XOR Sum of All Pairs Bitwise AND | Swift | Java | 
@@ -1046,7 +1047,7 @@ Update README file only:
 |     | 699 | Falling Squares | Swift | Java | 
 |     | 698 | Partition to K Equal Sum Subsets | Swift | Java | 
 |     | 697 | Degree of an Array | Swift | Java | 
-|     | 696 | Count Binary Substrings | Swift | Java | 
+|     | 696 | Count Binary Substrings | [~~Swift~~](././Swift/count-binary-substrings.swift) | Java | 
 |     | 695 | Max Area of Island | Swift | Java | 
 |     | 694 | Number of Distinct Islands | Swift | Java | 
 |     | 693 | Binary Number with Alternating Bits | Swift | Java | 
