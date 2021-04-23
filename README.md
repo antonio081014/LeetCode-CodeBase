@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-457 | Java-150 |
+| X | # | Question | Swift-458 | Java-150 |
 |---|---|---|---|---|
 |     | 1980 | Faulty Sensor | Swift | Java | 
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
+|     | 1963 | Find XOR Sum of All Pairs Bitwise AND | Swift | Java | 
+|     | 1962 | Single-Threaded CPU | Swift | Java | 
+|     | 1961 | Maximum Ice Cream Bars | Swift | Java | 
+|     | 1960 | Check if the Sentence Is Pangram | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
 |     | 1953 | Finding MK Average | Swift | Java | 
 |     | 1952 | Minimum Sideway Jumps | Swift | Java | 
@@ -1149,7 +1153,7 @@ Update README file only:
 |     | 557 | Reverse Words in a String III | Swift | Java | 
 |     | 556 | Next Greater Element III | [~~Swift~~](././Swift/next-greater-element-iii.swift) | Java | 
 |     | 555 | Split Concatenated Strings | Swift | Java | 
-|     | 554 | Brick Wall | Swift | Java | 
+|     | 554 | Brick Wall | [~~Swift~~](././Swift/brick-wall.swift) | Java | 
 |     | 553 | Optimal Division | Swift | Java | 
 |     | 552 | Student Attendance Record II | Swift | Java | 
 |     | 551 | Student Attendance Record I | Swift | Java | 
