@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-459 | Java-150 |
+| X | # | Question | Swift-460 | Java-150 |
 |---|---|---|---|---|
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
 |     | 1980 | Faulty Sensor | Swift | Java | 
@@ -174,7 +174,7 @@ Update README file only:
 |     | 1766 | Minimum Number of Removals to Make Mountain Array | Swift | Java | 
 |     | 1765 | Merge In Between Linked Lists | Swift | Java | 
 |     | 1764 | Maximum Repeating Substring | Swift | Java | 
-|     | 1762 | Furthest Building You Can Reach | Swift | Java | 
+|     | 1762 | Furthest Building You Can Reach | [~~Swift~~](././Swift/furthest-building-you-can-reach.swift) | Java | 
 |     | 1761 | Count Sorted Vowel Strings | [~~Swift~~](././Swift/count-sorted-vowel-strings.swift) | Java | 
 |     | 1760 | Check Array Formation Through Concatenation | [~~Swift~~](././Swift/check-array-formation-through-concatenation.swift) | Java | 
 |     | 1758 | Distribute Repeating Integers | Swift | Java | 
