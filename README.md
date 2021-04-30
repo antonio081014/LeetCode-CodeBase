@@ -11,11 +11,16 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-460 | Java-150 |
+| X | # | Question | Swift-461 | Java-150 |
 |---|---|---|---|---|
+|     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
 |     | 1980 | Faulty Sensor | Swift | Java | 
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
+|     | 1968 | Maximum Building Height | Swift | Java | 
+|     | 1967 | Longest Substring Of All Vowels in Order | Swift | Java | 
+|     | 1966 | Frequency of the Most Frequent Element | Swift | Java | 
+|     | 1965 | Sum of Digits in Base K | Swift | Java | 
 |     | 1963 | Find XOR Sum of All Pairs Bitwise AND | Swift | Java | 
 |     | 1962 | Single-Threaded CPU | Swift | Java | 
 |     | 1961 | Maximum Ice Cream Bars | Swift | Java | 
@@ -755,7 +760,7 @@ Update README file only:
 |     | 1013 | Fibonacci Number | [~~Swift~~](././Swift/fibonacci-number.swift) | Java | 
 |     | 1012 | Equal Rational Numbers | Swift | Java | 
 |     | 1011 | Flip Binary Tree To Match Preorder Traversal | [~~Swift~~](././Swift/flip-binary-tree-to-match-preorder-traversal.swift) | Java | 
-|     | 1010 | Powerful Integers | Swift | Java | 
+|     | 1010 | Powerful Integers | [~~Swift~~](././Swift/powerful-integers.swift) | Java | 
 |     | 1009 | Pancake Sorting | [~~Swift~~](././Swift/pancake-sorting.swift) | Java | 
 |     | 1008 | Binary Tree Cameras | Swift | Java | 
 |     | 1007 | Numbers With Same Consecutive Differences | [~~Swift~~](././Swift/numbers-with-same-consecutive-differences.swift) | Java | 
