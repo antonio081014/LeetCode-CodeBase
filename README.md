@@ -11,11 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-461 | Java-150 |
+| X | # | Question | Swift-462 | Java-150 |
 |---|---|---|---|---|
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
 |     | 1980 | Faulty Sensor | Swift | Java | 
+|     | 1978 | Minimum Adjacent Swaps to Reach the Kth Smallest Number | Swift | Java | 
+|     | 1977 | Minimum Interval to Include Each Query | Swift | Java | 
+|     | 1976 | Splitting a String Into Descending Consecutive Values | Swift | Java | 
+|     | 1975 | Minimum Distance to the Target Element | Swift | Java | 
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1968 | Maximum Building Height | Swift | Java | 
 |     | 1967 | Longest Substring Of All Vowels in Order | Swift | Java | 
@@ -26,6 +30,10 @@ Update README file only:
 |     | 1961 | Maximum Ice Cream Bars | Swift | Java | 
 |     | 1960 | Check if the Sentence Is Pangram | Swift | Java | 
 |     | 1959 | Minimum Path Cost in a Hidden Grid | Swift | Java | 
+|     | 1957 | Closest Room | Swift | Java | 
+|     | 1956 | Maximum Element After Decreasing and Rearranging | Swift | Java | 
+|     | 1955 | Seat Reservation Manager | Swift | Java | 
+|     | 1954 | Replace All Digits with Characters | Swift | Java | 
 |     | 1953 | Finding MK Average | Swift | Java | 
 |     | 1952 | Minimum Sideway Jumps | Swift | Java | 
 |     | 1951 | Find the Winner of the Circular Game | Swift | Java | 
@@ -314,7 +322,7 @@ Update README file only:
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1605 | Minimum Number of Days to Make m Bouquets | Swift | Java | 
 |     | 1604 | Least Number of Unique Integers after K Removals | Swift | Java | 
-|     | 1603 | Running Sum of 1d Array | Swift | Java | 
+|     | 1603 | Running Sum of 1d Array | [~~Swift~~](././Swift/running-sum-of-1d-array.swift) | Java | 
 |     | 1587 | Parallel Courses II | Swift | Java | 
 |     | 1586 | Longest Subarray of 1's After Deleting One Element | Swift | Java | 
 |     | 1585 | The kth Factor of n | [~~Swift~~](././Swift/the-kth-factor-of-n.swift) | Java | 
