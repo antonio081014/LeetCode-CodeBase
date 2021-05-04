@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-463 | Java-150 |
+| X | # | Question | Swift-464 | Java-150 |
 |---|---|---|---|---|
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
@@ -1241,7 +1241,7 @@ Update README file only:
 |     | 477 | Total Hamming Distance | [~~Swift~~](././Swift/total-hamming-distance.swift) | Java | 
 |     | 476 | Number Complement | [~~Swift~~](././Swift/number-complement.swift) | Java | 
 |     | 475 | Heaters | [~~Swift~~](././Swift/heaters.swift) | Java | 
-|     | 474 | Ones and Zeroes | Swift | Java | 
+|     | 474 | Ones and Zeroes | [~~Swift~~](././Swift/ones-and-zeroes.swift) | Java | 
 |     | 473 | Matchsticks to Square | [~~Swift~~](././Swift/matchsticks-to-square.swift) | Java | 
 |     | 472 | Concatenated Words | [~~Swift~~](././Swift/concatenated-words.swift) | Java | 
 |     | 471 | Encode String with Shortest Length | Swift | Java | 
