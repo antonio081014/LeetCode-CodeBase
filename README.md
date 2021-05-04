@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-462 | Java-150 |
+| X | # | Question | Swift-463 | Java-150 |
 |---|---|---|---|---|
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
@@ -1091,7 +1091,7 @@ Update README file only:
 |     | 668 | Kth Smallest Number in Multiplication Table | Swift | Java | 
 |     | 667 | Beautiful Arrangement II | [~~Swift~~](././Swift/beautiful-arrangement-ii.swift) | Java | 
 |     | 666 | Path Sum IV | Swift | Java | 
-|     | 665 | Non-decreasing Array | Swift | Java | 
+|     | 665 | Non-decreasing Array | [~~Swift~~](././Swift/non-decreasing-array.swift) | Java | 
 |     | 664 | Strange Printer | Swift | Java | 
 |     | 663 | Equal Tree Partition | Swift | Java | 
 |     | 662 | Maximum Width of Binary Tree | [~~Swift~~](././Swift/maximum-width-of-binary-tree.swift) | Java | 
