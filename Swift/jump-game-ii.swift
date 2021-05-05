@@ -51,3 +51,24 @@ class Solution {
         return steps
     }
 }
+/**
+ * https://leetcode.com/problems/jump-game-ii/
+ * 
+ * 
+ */ 
+// Date: Wed May  5 13:24:34 PDT 2021
+class Solution {
+    func jump(_ nums: [Int]) -> Int {
+        var farthestDist = 0
+        var steps = 0
+        var rangeEnd = 0
+        for index in stride(from: 0, to: nums.count - 1, by: 1) {
+            farthestDist = max(farthestDist, index + nums[index])
+            if rangeEnd == index {
+                rangeEnd = farthestDist
+                steps += 1
+            }
+        }
+        return steps
+    }
+}
