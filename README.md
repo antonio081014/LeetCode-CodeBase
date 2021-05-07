@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-464 | Java-150 |
+| X | # | Question | Swift-465 | Java-150 |
 |---|---|---|---|---|
+|     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
 |     | 1980 | Faulty Sensor | Swift | Java | 
@@ -1148,7 +1149,7 @@ Update README file only:
 |     | 591 | Tag Validator | Swift | Java | 
 |     | 588 | Design In-Memory File System | Swift | Java | 
 |     | 587 | Erect the Fence | Swift | Java | 
-|     | 583 | Delete Operation for Two Strings | Swift | Java | 
+|     | 583 | Delete Operation for Two Strings | [~~Swift~~](././Swift/delete-operation-for-two-strings.swift) | Java | 
 |     | 582 | Kill Process | Swift | Java | 
 |     | 581 | Shortest Unsorted Continuous Subarray | [~~Swift~~](././Swift/shortest-unsorted-continuous-subarray.swift) | Java | 
 |     | 576 | Out of Boundary Paths | Swift | Java | 
