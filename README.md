@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-465 | Java-150 |
+| X | # | Question | Swift-466 | Java-150 |
 |---|---|---|---|---|
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
@@ -365,7 +365,7 @@ Update README file only:
 |     | 1543 | Simplified Fractions | Swift | Java | 
 |     | 1542 | Consecutive Characters | [~~Swift~~](././Swift/consecutive-characters.swift) | Java | 
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
-|     | 1538 | Maximum Points You Can Obtain from Cards | Swift | Java | 
+|     | 1538 | Maximum Points You Can Obtain from Cards | [~~Swift~~](././Swift/maximum-points-you-can-obtain-from-cards.swift) | Java | 
 |     | 1537 | Maximum Score After Splitting a String | [~~Swift~~](././Swift/maximum-score-after-splitting-a-string.swift) | Java | 
 |     | 1535 | Build Array Where You Can Find The Maximum Exactly K Comparisons | Swift | Java | 
 |     | 1534 | Minimum Number of Frogs Croaking | Swift | Java | 
