@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-466 | Java-150 |
+| X | # | Question | Swift-467 | Java-150 |
 |---|---|---|---|---|
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
@@ -1405,7 +1405,7 @@ Update README file only:
 |     | 307 | Range Sum Query - Mutable | Swift | Java | 
 |     | 306 | Additive Number | Swift | Java | 
 |     | 305 | Number of Islands II | Swift | Java | 
-|     | 304 | Range Sum Query 2D - Immutable | Swift | Java | 
+|     | 304 | Range Sum Query 2D - Immutable | [~~Swift~~](././Swift/range-sum-query-2d-immutable.swift) | Java | 
 |     | 303 | Range Sum Query - Immutable | Swift | Java | 
 |     | 302 | Smallest Rectangle Enclosing Black Pixels | Swift | Java | 
 |     | 301 | Remove Invalid Parentheses | Swift | Java | 
