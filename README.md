@@ -11,10 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-467 | Java-150 |
+| X | # | Question | Swift-468 | Java-150 |
 |---|---|---|---|---|
+|     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
+|     | 1986 | Largest Color Value in a Directed Graph | Swift | Java | 
+|     | 1985 | Maximum Subarray Min-Product | Swift | Java | 
+|     | 1984 | Maximum Distance Between a Pair of Values | Swift | Java | 
+|     | 1983 | Maximum Population Year | Swift | Java | 
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
 |     | 1980 | Faulty Sensor | Swift | Java | 
 |     | 1978 | Minimum Adjacent Swaps to Reach the Kth Smallest Number | Swift | Java | 
@@ -771,7 +776,7 @@ Update README file only:
 |     | 1011 | Flip Binary Tree To Match Preorder Traversal | [~~Swift~~](././Swift/flip-binary-tree-to-match-preorder-traversal.swift) | Java | 
 |     | 1010 | Powerful Integers | [~~Swift~~](././Swift/powerful-integers.swift) | Java | 
 |     | 1009 | Pancake Sorting | [~~Swift~~](././Swift/pancake-sorting.swift) | Java | 
-|     | 1008 | Binary Tree Cameras | Swift | Java | 
+|     | 1008 | Binary Tree Cameras | [~~Swift~~](././Swift/binary-tree-cameras.swift) | Java | 
 |     | 1007 | Numbers With Same Consecutive Differences | [~~Swift~~](././Swift/numbers-with-same-consecutive-differences.swift) | Java | 
 |     | 1006 | Vowel Spellchecker | [~~Swift~~](././Swift/vowel-spellchecker.swift) | Java | 
 |     | 1005 | Univalued Binary Tree | Swift | Java | 
