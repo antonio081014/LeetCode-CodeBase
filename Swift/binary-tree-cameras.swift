@@ -19,6 +19,19 @@
  *     }
  * }
  */
+
+/**
+ Let solve(node) be some information about how many cameras it takes to cover the subtree at this node in various states. There are essentially 3 states:
+
+ [State 0] Strict subtree: All the nodes below this node are covered, but not this node.
+ [State 1] Normal subtree: All the nodes below and including this node are covered, but there is no camera here.
+ [State 2] Placed camera: All the nodes below and including this node are covered, and there is a camera here (which may cover nodes above this node).
+ Once we frame the problem in this way, the answer falls out:
+
+ To cover a strict subtree, the children of this node must be in state 1.
+ To cover a normal subtree without placing a camera here, the children of this node must be in states 1 or 2, and at least one of those children must be in state 2.
+ To cover the subtree when placing a camera here, the children can be in any state.
+ */
 class Solution {
     func minCameraCover(_ root: TreeNode?) -> Int {
         func calc(_ node: TreeNode?) -> (Int, Int, Int) {
