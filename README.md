@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-468 | Java-150 |
+| X | # | Question | Swift-469 | Java-150 |
 |---|---|---|---|---|
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
@@ -658,7 +658,7 @@ Update README file only:
 |     | 1132 | Before and After Puzzle | Swift | Java | 
 |     | 1131 | Count Substrings with Only One Distinct Letter | Swift | Java | 
 |     | 1130 | Last Stone Weight II | Swift | Java | 
-|     | 1129 | Longest String Chain | Swift | Java | 
+|     | 1129 | Longest String Chain | [~~Swift~~](././Swift/longest-string-chain.swift) | Java | 
 |     | 1128 | Remove All Adjacent Duplicates In String | [~~Swift~~](././Swift/remove-all-adjacent-duplicates-in-string.swift) | Java | 
 |     | 1127 | Last Stone Weight | [~~Swift~~](././Swift/last-stone-weight.swift) | Java | 
 |     | 1126 | Minimum Cost to Connect Sticks | Swift | Java | 
