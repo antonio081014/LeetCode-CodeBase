@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-469 | Java-150 |
+| X | # | Question | Swift-470 | Java-150 |
 |---|---|---|---|---|
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
@@ -1141,7 +1141,7 @@ Update README file only:
 |     | 617 | Merge Two Binary Trees | Swift | Java | 
 |     | 616 | Add Bold Tag in String | Swift | Java | 
 |     | 611 | Valid Triangle Number | Swift | Java | 
-|     | 609 | Find Duplicate File in System | Swift | Java | 
+|     | 609 | Find Duplicate File in System | [~~Swift~~](././Swift/find-duplicate-file-in-system.swift) | Java | 
 |     | 606 | Construct String from Binary Tree | Swift | Java | 
 |     | 605 | Can Place Flowers | [~~Swift~~](././Swift/can-place-flowers.swift) | Java | 
 |     | 604 | Design Compressed String Iterator | Swift | Java | 
