@@ -11,11 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-470 | Java-150 |
+| X | # | Question | Swift-471 | Java-150 |
 |---|---|---|---|---|
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
+|     | 1996 | Number of Ways to Rearrange Sticks With K Sticks Visible | Swift | Java | 
+|     | 1995 | Finding Pairs With a Certain Sum | Swift | Java | 
+|     | 1994 | Minimum Number of Swaps to Make the Binary String Alternating | Swift | Java | 
+|     | 1993 | Sum of All Subset XOR Totals | Swift | Java | 
 |     | 1986 | Largest Color Value in a Directed Graph | Swift | Java | 
 |     | 1985 | Maximum Subarray Min-Product | Swift | Java | 
 |     | 1984 | Maximum Distance Between a Pair of Values | Swift | Java | 
@@ -26,6 +30,9 @@ Update README file only:
 |     | 1977 | Minimum Interval to Include Each Query | Swift | Java | 
 |     | 1976 | Splitting a String Into Descending Consecutive Values | Swift | Java | 
 |     | 1975 | Minimum Distance to the Target Element | Swift | Java | 
+|     | 1972 | Rotating the Box | Swift | Java | 
+|     | 1971 | Incremental Memory Leak | Swift | Java | 
+|     | 1970 | Sorting the Sentence | Swift | Java | 
 |     | 1969 | Maximum Number of Accepted Invitations | Swift | Java | 
 |     | 1968 | Maximum Building Height | Swift | Java | 
 |     | 1967 | Longest Substring Of All Vowels in Order | Swift | Java | 
@@ -520,6 +527,7 @@ Update README file only:
 |     | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
 |     | 1329 | Minimum Cost to Move Chips to The Same Position | [~~Swift~~](././Swift/minimum-cost-to-move-chips-to-the-same-position.swift) | Java | 
+|     | 1326 | Sum of Floored Pairs | Swift | Java | 
 |     | 1325 | Path with Maximum Probability | Swift | Java | 
 |     | 1324 | Where Will the Ball Fall | Swift | Java | 
 |     | 1322 | Minimum Moves to Reach Target with Rotations | Swift | Java | 
