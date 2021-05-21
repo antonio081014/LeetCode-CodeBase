@@ -862,7 +862,7 @@ Update README file only:
 |     | 929 | Groups of Special-Equivalent Strings | Swift | Java | 
 |     | 928 | Surface Area of 3D Shapes | Swift | Java | 
 |     | 927 | Sum of Subsequence Widths | Swift | Java | 
-|     | 926 | Find and Replace Pattern | Swift | Java | 
+|     | 926 | Find and Replace Pattern | [~~Swift~~](././Swift/find-and-replace-pattern.swift) | Java | 
 |     | 925 | Construct Binary Tree from Preorder and Postorder Traversal | [~~Swift~~](././Swift/construct-binary-tree-from-preorder-and-postorder-traversal.swift) | Java | 
 |     | 924 | Fair Candy Swap | Swift | Java | 
 |     | 923 | Super Egg Drop | Swift | Java | 
