@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-472 | Java-150 |
+| X | # | Question | Swift-473 | Java-150 |
 |---|---|---|---|---|
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
@@ -166,7 +166,7 @@ Update README file only:
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1809 | Sum Of Special Evenly-Spaced Elements In Array | Swift | Java | 
 |     | 1808 | Stone Game VII | Swift | Java | 
-|     | 1807 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Swift | Java | 
+|     | 1807 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [~~Swift~~](././Swift/partitioning-into-minimum-number-of-deci-binary-numbers.swift) | Java | 
 |     | 1806 | Count of Matches in Tournament | Swift | Java | 
 |     | 1805 | Minimum Adjacent Swaps for K Consecutive Ones | Swift | Java | 
 |     | 1804 | Maximum Binary String After Change | Swift | Java | 
