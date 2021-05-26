@@ -11,10 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-471 | Java-150 |
+| X | # | Question | Swift-472 | Java-150 |
 |---|---|---|---|---|
+|     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
+|     | 2002 | Stone Game VIII | Swift | Java | 
+|     | 2001 | Jump Game VII | Swift | Java | 
+|     | 2000 | Minimum Speed to Arrive on Time | Swift | Java | 
+|     | 1999 | Longer Contiguous Segments of Ones than Zeros | Swift | Java | 
 |     | 1997 | Next Palindrome Using Same Digits | Swift | Java | 
 |     | 1996 | Number of Ways to Rearrange Sticks With K Sticks Visible | Swift | Java | 
 |     | 1995 | Finding Pairs With a Certain Sum | Swift | Java | 
@@ -1555,7 +1560,7 @@ Update README file only:
 |  X  | 153 | Find Minimum in Rotated Sorted Array | [~~Swift~~](././Swift/find-minimum-in-rotated-sorted-array.swift) | [~~Java~~](././Java/find-minimum-in-rotated-sorted-array.java) | 
 |     | 152 | Maximum Product Subarray | [~~Swift~~](././Swift/maximum-product-subarray.swift) | Java | 
 |     | 151 | Reverse Words in a String | Swift | [~~Java~~](././Java/reverse-words-in-a-string.java) | 
-|     | 150 | Evaluate Reverse Polish Notation | Swift | Java | 
+|     | 150 | Evaluate Reverse Polish Notation | [~~Swift~~](././Swift/evaluate-reverse-polish-notation.swift) | Java | 
 |     | 149 | Max Points on a Line | Swift | [~~Java~~](././Java/max-points-on-a-line.java) | 
 |     | 148 | Sort List | [~~Swift~~](././Swift/sort-list.swift) | Java | 
 |     | 147 | Insertion Sort List | [~~Swift~~](././Swift/insertion-sort-list.swift) | Java | 
