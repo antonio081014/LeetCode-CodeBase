@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-473 | Java-150 |
+| X | # | Question | Swift-474 | Java-150 |
 |---|---|---|---|---|
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
@@ -1409,7 +1409,7 @@ Update README file only:
 |     | 321 | Create Maximum Number | Swift | Java | 
 |     | 320 | Generalized Abbreviation | Swift | Java | 
 |     | 319 | Bulb Switcher | Swift | Java | 
-|     | 318 | Maximum Product of Word Lengths | Swift | Java | 
+|     | 318 | Maximum Product of Word Lengths | [~~Swift~~](././Swift/maximum-product-of-word-lengths.swift) | Java | 
 |     | 317 | Shortest Distance from All Buildings | Swift | Java | 
 |     | 316 | Remove Duplicate Letters | [~~Swift~~](././Swift/remove-duplicate-letters.swift) | Java | 
 |     | 315 | Count of Smaller Numbers After Self | [~~Swift~~](././Swift/count-of-smaller-numbers-after-self.swift) | Java | 
