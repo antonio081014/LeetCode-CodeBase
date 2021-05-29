@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-474 | Java-150 |
+| X | # | Question | Swift-475 | Java-150 |
 |---|---|---|---|---|
+|     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
@@ -161,7 +162,7 @@ Update README file only:
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1815 | Checking Existence of Edge Length Limited Paths | Swift | Java | 
 |     | 1814 | Jump Game VI | Swift | Java | 
-|     | 1813 | Maximum Erasure Value | Swift | Java | 
+|     | 1813 | Maximum Erasure Value | [~~Swift~~](././Swift/maximum-erasure-value.swift) | Java | 
 |     | 1812 | Reformat Phone Number | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
 |     | 1809 | Sum Of Special Evenly-Spaced Elements In Array | Swift | Java | 
