@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-475 | Java-150 |
+| X | # | Question | Swift-476 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
@@ -1547,7 +1547,7 @@ Update README file only:
 |     | 167 | Two Sum II - Input array is sorted | [~~Swift~~](././Swift/two-sum-ii-input-array-is-sorted.swift) | Java | 
 |     | 166 | Fraction to Recurring Decimal | Swift | Java | 
 |     | 165 | Compare Version Numbers | [~~Swift~~](././Swift/compare-version-numbers.swift) | Java | 
-|     | 164 | Maximum Gap | Swift | Java | 
+|     | 164 | Maximum Gap | [~~Swift~~](././Swift/maximum-gap.swift) | Java | 
 |     | 163 | Missing Ranges | Swift | Java | 
 |  X  | 162 | Find Peak Element | [~~Swift~~](././Swift/find-peak-element.swift) | [~~Java~~](././Java/find-peak-element.java) | 
 |     | 161 | One Edit Distance | Swift | Java | 
