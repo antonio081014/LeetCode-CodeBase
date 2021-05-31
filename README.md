@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-476 | Java-150 |
+| X | # | Question | Swift-477 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
@@ -493,7 +493,7 @@ Update README file only:
 |     | 1401 | Number of Burgers with No Waste of Ingredients | Swift | Java | 
 |     | 1400 | Find Winner on a Tic Tac Toe Game | Swift | Java | 
 |     | 1398 | Number of Ways to Stay in the Same Place After Some Steps | Swift | Java | 
-|     | 1397 | Search Suggestions System | Swift | Java | 
+|     | 1397 | Search Suggestions System | [~~Swift~~](././Swift/search-suggestions-system.swift) | Java | 
 |     | 1396 | Count Servers that Communicate | Swift | Java | 
 |     | 1395 | Minimum Time Visiting All Points | Swift | Java | 
 |     | 1391 | Counting Elements | Swift | Java | 
