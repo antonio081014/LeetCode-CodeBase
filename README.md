@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-477 | Java-150 |
+| X | # | Question | Swift-478 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
+|     | 2013 | Minimum Skips to Arrive at Meeting On Time | Swift | Java | 
+|     | 2012 | Process Tasks Using Servers | Swift | Java | 
+|     | 2011 | Maximum Value after Insertion | Swift | Java | 
+|     | 2010 | Check if Word Equals Summation of Two Words | Swift | Java | 
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
 |     | 2002 | Stone Game VIII | Swift | Java | 
@@ -26,6 +30,10 @@ Update README file only:
 |     | 1995 | Finding Pairs With a Certain Sum | Swift | Java | 
 |     | 1994 | Minimum Number of Swaps to Make the Binary String Alternating | Swift | Java | 
 |     | 1993 | Sum of All Subset XOR Totals | Swift | Java | 
+|     | 1990 | Get Biggest Three Rhombus Sums in a Grid | Swift | Java | 
+|     | 1989 | Minimum XOR Sum of Two Arrays | Swift | Java | 
+|     | 1988 | Minimize Maximum Pair Sum in Array | Swift | Java | 
+|     | 1987 | Substrings of Size Three with Distinct Characters | Swift | Java | 
 |     | 1986 | Largest Color Value in a Directed Graph | Swift | Java | 
 |     | 1985 | Maximum Subarray Min-Product | Swift | Java | 
 |     | 1984 | Maximum Distance Between a Pair of Values | Swift | Java | 
@@ -1081,7 +1089,7 @@ Update README file only:
 |     | 698 | Partition to K Equal Sum Subsets | Swift | Java | 
 |     | 697 | Degree of an Array | Swift | Java | 
 |     | 696 | Count Binary Substrings | [~~Swift~~](././Swift/count-binary-substrings.swift) | Java | 
-|     | 695 | Max Area of Island | Swift | Java | 
+|     | 695 | Max Area of Island | [~~Swift~~](././Swift/max-area-of-island.swift) | Java | 
 |     | 694 | Number of Distinct Islands | Swift | Java | 
 |     | 693 | Binary Number with Alternating Bits | Swift | Java | 
 |     | 692 | Top K Frequent Words | Swift | Java | 
