@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-479 | Java-150 |
+| X | # | Question | Swift-480 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
@@ -360,7 +360,7 @@ Update README file only:
 |     | 1580 | Shuffle the Array | Swift | Java | 
 |     | 1577 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Swift | Java | 
 |     | 1576 | Reorder Routes to Make All Paths Lead to the City Zero | Swift | Java | 
-|     | 1575 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Swift | Java | 
+|     | 1575 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | [~~Swift~~](././Swift/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.swift) | Java | 
 |     | 1574 | Maximum Product of Two Elements in an Array | Swift | Java | 
 |     | 1573 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Swift | Java | 
 |     | 1572 | Subrectangle Queries | Swift | Java | 
