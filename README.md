@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-480 | Java-150 |
+| X | # | Question | Swift-481 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
@@ -439,7 +439,7 @@ Update README file only:
 |     | 1484 | Linked List in Binary Tree | Swift | Java | 
 |     | 1483 | Rank Teams by Votes | Swift | Java | 
 |     | 1482 | How Many Numbers Are Smaller Than the Current Number | Swift | Java | 
-|     | 1479 | Construct Target Array With Multiple Sums | Swift | Java | 
+|     | 1479 | Construct Target Array With Multiple Sums | [~~Swift~~](././Swift/construct-target-array-with-multiple-sums.swift) | Java | 
 |     | 1478 | Maximum Number of Events That Can Be Attended | Swift | Java | 
 |     | 1477 | Product of the Last K Numbers | Swift | Java | 
 |     | 1476 | Count Negative Numbers in a Sorted Matrix | Swift | Java | 
