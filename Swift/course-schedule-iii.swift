@@ -27,4 +27,39 @@ class Solution {
         
         return schedule(from: 0, at: 0)
     }
+}/**
+ * https://leetcode.com/problems/course-schedule-iii/
+ * 
+ * 
+ */ 
+// Date: Fri Jun  4 16:52:25 PDT 2021
+class Solution {
+    /// TLE
+    /// - Complexity:
+    ///     - Time: O(n^2)
+    ///     - Space: O(n)
+    /// n = courses.count
+    func scheduleCourse(_ courses: [[Int]]) -> Int {
+        var courses = courses.sorted { $0[1] < $1[1] }
+        var start = 0
+        var resultCount = 0
+        for index in 0 ..< courses.count {
+            if start + courses[index][0] <= courses[index][1] {
+                start += courses[index][0]
+                resultCount += 1
+            } else {
+                var maxIndex = index
+                for j in stride(from: 0, to: index, by: 1) {
+                    if courses[j][0] > courses[maxIndex][0] {
+                        maxIndex = j
+                    }
+                }
+                if courses[maxIndex][0] > courses[index][0] {
+                    start = start - courses[maxIndex][0] + courses[index][0]
+                }
+                courses[maxIndex][0] = -1
+            }
+        }
+        return resultCount
+    }
 }
