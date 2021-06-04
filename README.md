@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-483 | Java-150 |
+| X | # | Question | Swift-484 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
@@ -1153,7 +1153,7 @@ Update README file only:
 |     | 633 | Sum of Square Numbers | Swift | Java | 
 |     | 632 | Smallest Range Covering Elements from K Lists | Swift | Java | 
 |     | 631 | Design Excel Sum Formula | Swift | Java | 
-|     | 630 | Course Schedule III | Swift | Java | 
+|     | 630 | Course Schedule III | [~~Swift~~](././Swift/course-schedule-iii.swift) | Java | 
 |     | 629 | K Inverse Pairs Array | Swift | Java | 
 |     | 628 | Maximum Product of Three Numbers | Swift | Java | 
 |     | 625 | Minimum Factorization | Swift | Java | 
