@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-482 | Java-150 |
+| X | # | Question | Swift-483 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
@@ -1042,7 +1042,7 @@ Update README file only:
 |     | 756 | Pour Water | Swift | Java | 
 |     | 755 | Reach a Number | Swift | Java | 
 |     | 754 | Cracking the Safe | Swift | Java | 
-|     | 753 | Open the Lock | Swift | Java | 
+|     | 753 | Open the Lock | [~~Swift~~](././Swift/open-the-lock.swift) | Java | 
 |     | 752 | IP to CIDR | Swift | Java | 
 |     | 751 | Number Of Corner Rectangles | Swift | Java | 
 |     | 750 | Contain Virus | Swift | Java | 
