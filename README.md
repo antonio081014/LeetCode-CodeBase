@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-481 | Java-150 |
+| X | # | Question | Swift-482 | Java-150 |
 |---|---|---|---|---|
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
@@ -961,7 +961,7 @@ Update README file only:
 |     | 837 | Most Common Word | Swift | Java | 
 |     | 836 | Race Car | Swift | Java | 
 |     | 835 | Linked List Components | Swift | Java | 
-|     | 834 | Ambiguous Coordinates | Swift | Java | 
+|     | 834 | Ambiguous Coordinates | [~~Swift~~](././Swift/ambiguous-coordinates.swift) | Java | 
 |     | 833 | Bus Routes | Swift | Java | 
 |     | 832 | Binary Tree Pruning | Swift | Java | 
 |     | 831 | Largest Sum of Averages | Swift | Java | 
