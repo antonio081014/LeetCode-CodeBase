@@ -11,10 +11,16 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-484 | Java-150 |
+| X | # | Question | Swift-485 | Java-150 |
 |---|---|---|---|---|
+|     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
+|     | 2031 | Egg Drop With 2 Eggs and N Floors | Swift | Java | 
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
+|     | 2018 | Minimum Space Wasted From Packaging | Swift | Java | 
+|     | 2017 | Minimum Number of Flips to Make the Binary String Alternating | Swift | Java | 
+|     | 2016 | Reduction Operations to Make the Array Elements Equal | Swift | Java | 
+|     | 2015 | Determine Whether Matrix Can Be Obtained By Rotation | Swift | Java | 
 |     | 2013 | Minimum Skips to Arrive at Meeting On Time | Swift | Java | 
 |     | 2012 | Process Tasks Using Servers | Swift | Java | 
 |     | 2011 | Maximum Value after Insertion | Swift | Java | 
@@ -1048,7 +1054,7 @@ Update README file only:
 |     | 750 | Contain Virus | Swift | Java | 
 |     | 749 | Shortest Completing Word | Swift | Java | 
 |     | 748 | Largest Number At Least Twice of Others | Swift | Java | 
-|     | 747 | Min Cost Climbing Stairs | Swift | Java | 
+|     | 747 | Min Cost Climbing Stairs | [~~Swift~~](././Swift/min-cost-climbing-stairs.swift) | Java | 
 |     | 746 | Prefix and Suffix Search | Swift | Java | 
 |     | 745 | Find Smallest Letter Greater Than Target | [~~Swift~~](././Swift/find-smallest-letter-greater-than-target.swift) | Java | 
 |     | 744 | Network Delay Time | Swift | Java | 
