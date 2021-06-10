@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-485 | Java-150 |
+| X | # | Question | Swift-486 | Java-150 |
 |---|---|---|---|---|
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
 |     | 2031 | Egg Drop With 2 Eggs and N Floors | Swift | Java | 
@@ -175,7 +175,7 @@ Update README file only:
 |     | 1817 | Calculate Money in Leetcode Bank | Swift | Java | 
 |     | 1816 | Lowest Common Ancestor of a Binary Tree IV | Swift | Java | 
 |     | 1815 | Checking Existence of Edge Length Limited Paths | Swift | Java | 
-|     | 1814 | Jump Game VI | Swift | Java | 
+|     | 1814 | Jump Game VI | [~~Swift~~](././Swift/jump-game-vi.swift) | Java | 
 |     | 1813 | Maximum Erasure Value | [~~Swift~~](././Swift/maximum-erasure-value.swift) | Java | 
 |     | 1812 | Reformat Phone Number | Swift | Java | 
 |     | 1810 | Change the Root of a Binary Tree | Swift | Java | 
