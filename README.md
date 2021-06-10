@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-486 | Java-150 |
+| X | # | Question | Swift-487 | Java-150 |
 |---|---|---|---|---|
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
 |     | 2031 | Egg Drop With 2 Eggs and N Floors | Swift | Java | 
@@ -1072,7 +1072,7 @@ Update README file only:
 |     | 732 | My Calendar III | Swift | Java | 
 |     | 731 | My Calendar II | Swift | Java | 
 |     | 730 | Count Different Palindromic Subsequences | Swift | Java | 
-|     | 729 | My Calendar I | Swift | Java | 
+|     | 729 | My Calendar I | [~~Swift~~](././Swift/my-calendar-i.swift) | Java | 
 |     | 728 | Self Dividing Numbers | Swift | Java | 
 |     | 727 | Minimum Window Subsequence | Swift | Java | 
 |     | 726 | Number of Atoms | Swift | Java | 
