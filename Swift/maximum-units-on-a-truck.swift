@@ -5,6 +5,12 @@
  */ 
 // Date: Mon Jun 14 11:02:41 PDT 2021
 class Solution {
+    /// Sort + Greedy
+    /// 1. Sort reversely to find the boxType with larger unit count.
+    /// 2. Count the number of units could be put in the truck.
+    /// - Complexity:
+    ///     - Time: (nlogn), where `n = boxTypes.count`
+    ///     - Space: O(n), where `n = boxTypes.count`
     func maximumUnits(_ boxTypes: [[Int]], _ truckSize: Int) -> Int {
         let sorted = boxTypes.sorted { $0[1] > $1[1] }
         var result = 0
