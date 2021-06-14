@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-487 | Java-150 |
+| X | # | Question | Swift-488 | Java-150 |
 |---|---|---|---|---|
+|     | 2045 | Cutting Ribbons | Swift | Java | 
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
 |     | 2031 | Egg Drop With 2 Eggs and N Floors | Swift | Java | 
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
@@ -162,7 +163,7 @@ Update README file only:
 |     | 1832 | Minimum Operations to Make a Subsequence | Swift | Java | 
 |     | 1831 | Ways to Split Array Into Three Subarrays | Swift | Java | 
 |     | 1830 | Count Good Meals | Swift | Java | 
-|     | 1829 | Maximum Units on a Truck | Swift | Java | 
+|     | 1829 | Maximum Units on a Truck | [~~Swift~~](././Swift/maximum-units-on-a-truck.swift) | Java | 
 |     | 1828 | Count Ways to Distribute Candies | Swift | Java | 
 |     | 1826 | Maximum XOR With an Element From Array | Swift | Java | 
 |     | 1825 | Find Minimum Time to Finish All Jobs | Swift | Java | 
