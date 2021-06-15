@@ -13,10 +13,15 @@ Update README file only:
 
 | X | # | Question | Swift-488 | Java-150 |
 |---|---|---|---|---|
+|     | 2047 | Find a Peak Element II | Swift | Java | 
 |     | 2045 | Cutting Ribbons | Swift | Java | 
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
 |     | 2031 | Egg Drop With 2 Eggs and N Floors | Swift | Java | 
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
+|     | 2028 | The Earliest and Latest Rounds Where Players Compete | Swift | Java | 
+|     | 2027 | Maximum Number of Removable Characters | Swift | Java | 
+|     | 2026 | Merge Triplets to Form Target Triplet | Swift | Java | 
+|     | 2025 | Redistribute Characters to Make All Strings Equal | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
 |     | 2018 | Minimum Space Wasted From Packaging | Swift | Java | 
 |     | 2017 | Minimum Number of Flips to Make the Binary String Alternating | Swift | Java | 
@@ -27,6 +32,9 @@ Update README file only:
 |     | 2011 | Maximum Value after Insertion | Swift | Java | 
 |     | 2010 | Check if Word Equals Summation of Two Words | Swift | Java | 
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
+|     | 2008 | Minimum Cost to Change the Final Value of Expression | Swift | Java | 
+|     | 2006 | Find the Student that Will Replace the Chalk | Swift | Java | 
+|     | 2005 | Check if All the Integers in a Range Are Covered | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
 |     | 2002 | Stone Game VIII | Swift | Java | 
 |     | 2001 | Jump Game VII | Swift | Java | 
@@ -555,6 +563,7 @@ Update README file only:
 |     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
 |     | 1320 | Remove All Adjacent Duplicates in String II | [~~Swift~~](././Swift/remove-all-adjacent-duplicates-in-string-ii.swift) | Java | 
 |     | 1319 | Unique Number of Occurrences | Swift | Java | 
+|     | 1311 | Largest Magic Square | Swift | Java | 
 |     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 
 |     | 1308 | Smallest String With Swaps | Swift | Java | 
 |     | 1307 | Ugly Number III | [~~Swift~~](././Swift/ugly-number-iii.swift) | Java | 

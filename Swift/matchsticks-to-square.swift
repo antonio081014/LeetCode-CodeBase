@@ -44,3 +44,37 @@ class Solution {
 }
 print("\(makesquare([1,1,2,2,2]))")
 print("\(makesquare([5969561,8742425,2513572,3352059,9084275,2194427,1017540,2324577,6810719,8936380,7868365,2755770,9954463,9912280,4713511]))")
+/**
+ * https://leetcode.com/problems/matchsticks-to-square/
+ * 
+ * 
+ */ 
+// Date: Tue Jun 15 16:22:11 PDT 2021
+class Solution {
+    func makesquare(_ matchsticks: [Int]) -> Bool {
+        let matchsticks = matchsticks.sorted { $0 > $1 }
+        let sum = matchsticks.reduce(0) { $0 + $1 }
+        if sum % 4 != 0 { return false }
+        let sizeLength = sum / 4
+        let n = matchsticks.count
+        var sides = Array(repeating: 0, count: 4)
+
+        func dfs(_ index: Int) -> Bool {
+            if index >= n {
+                return Set(sides).count == 1
+            }
+
+            for sideIndex in 0 ..< 4 {
+                if sides[sideIndex] + matchsticks[index] <= sizeLength {
+                    sides[sideIndex] += matchsticks[index]
+                    if dfs(index + 1) { return true }
+                    sides[sideIndex] -= matchsticks[index]
+                }
+            }
+            return false
+        }
+
+        return dfs(0)
+    }
+}
+
