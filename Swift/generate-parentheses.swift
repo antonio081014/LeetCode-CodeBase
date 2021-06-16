@@ -26,3 +26,33 @@ class Solution {
         }
     }
 }
+/**
+ * https://leetcode.com/problems/generate-parentheses/
+ * 
+ * 
+ */ 
+// Date: Wed Jun 16 09:55:42 PDT 2021
+class Solution {
+    func generateParenthesis(_ n: Int) -> [String] {
+        var result = Set<String>()
+        
+        func dfs(_ left: Int, _ right: Int, _ combine: String) {
+            if left == n, right == n {
+                result.insert(combine)
+                return
+            }
+            
+            if left < n {
+                dfs(left + 1, right, combine + "(")
+            }
+            
+            if right < n, right < left {
+                dfs(left, right + 1, combine + ")")
+            }
+        }
+        
+        dfs(0, 0, "")
+        
+        return Array(result)
+    }
+}
