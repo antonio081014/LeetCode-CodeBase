@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-488 | Java-150 |
+| X | # | Question | Swift-489 | Java-150 |
 |---|---|---|---|---|
+|     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
 |     | 2045 | Cutting Ribbons | Swift | Java | 
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
@@ -1000,7 +1001,7 @@ Update README file only:
 |     | 814 | Smallest Rotation with Highest Score | Swift | Java | 
 |     | 813 | All Paths From Source to Target | [~~Swift~~](././Swift/all-paths-from-source-to-target.swift) | Java | 
 |     | 812 | Rotate String | Swift | Java | 
-|     | 811 | Number of Subarrays with Bounded Maximum | Swift | Java | 
+|     | 811 | Number of Subarrays with Bounded Maximum | [~~Swift~~](././Swift/number-of-subarrays-with-bounded-maximum.swift) | Java | 
 |     | 810 | Valid Tic-Tac-Toe State | Swift | Java | 
 |     | 809 | Preimage Size of Factorial Zeroes Function | Swift | Java | 
 |     | 808 | Number of Matching Subsequences | Swift | Java | 
