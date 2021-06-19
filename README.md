@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-489 | Java-150 |
+| X | # | Question | Swift-490 | Java-150 |
 |---|---|---|---|---|
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
@@ -1446,7 +1446,7 @@ Update README file only:
 |     | 310 | Minimum Height Trees | [~~Swift~~](././Swift/minimum-height-trees.swift) | Java | 
 |     | 309 | Best Time to Buy and Sell Stock with Cooldown | [~~Swift~~](././Swift/best-time-to-buy-and-sell-stock-with-cooldown.swift) | Java | 
 |     | 308 | Range Sum Query 2D - Mutable | Swift | Java | 
-|     | 307 | Range Sum Query - Mutable | Swift | Java | 
+|     | 307 | Range Sum Query - Mutable | [~~Swift~~](././Swift/range-sum-query-mutable.swift) | Java | 
 |     | 306 | Additive Number | Swift | Java | 
 |     | 305 | Number of Islands II | Swift | Java | 
 |     | 304 | Range Sum Query 2D - Immutable | [~~Swift~~](././Swift/range-sum-query-2d-immutable.swift) | Java | 
