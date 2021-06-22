@@ -11,12 +11,16 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-490 | Java-150 |
+| X | # | Question | Swift-491 | Java-150 |
 |---|---|---|---|---|
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
 |     | 2045 | Cutting Ribbons | Swift | Java | 
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
+|     | 2035 | Count Sub Islands | Swift | Java | 
+|     | 2034 | Minimum Absolute Difference Queries | Swift | Java | 
+|     | 2033 | The Number of Full Rounds You Have Played | Swift | Java | 
+|     | 2032 | Largest Odd Number in String | Swift | Java | 
 |     | 2031 | Egg Drop With 2 Eggs and N Floors | Swift | Java | 
 |     | 2029 | Minimize Product Sum of Two Arrays | Swift | Java | 
 |     | 2028 | The Earliest and Latest Rounds Where Players Compete | Swift | Java | 
@@ -1004,7 +1008,7 @@ Update README file only:
 |     | 811 | Number of Subarrays with Bounded Maximum | [~~Swift~~](././Swift/number-of-subarrays-with-bounded-maximum.swift) | Java | 
 |     | 810 | Valid Tic-Tac-Toe State | Swift | Java | 
 |     | 809 | Preimage Size of Factorial Zeroes Function | Swift | Java | 
-|     | 808 | Number of Matching Subsequences | Swift | Java | 
+|     | 808 | Number of Matching Subsequences | [~~Swift~~](././Swift/number-of-matching-subsequences.swift) | Java | 
 |     | 807 | Custom Sort String | Swift | Java | 
 |     | 806 | Domino and Tromino Tiling | Swift | Java | 
 |     | 805 | Escape The Ghosts | Swift | Java | 
