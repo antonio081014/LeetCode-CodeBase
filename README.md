@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-491 | Java-150 |
+| X | # | Question | Swift-492 | Java-150 |
 |---|---|---|---|---|
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
@@ -1648,7 +1648,7 @@ Update README file only:
 |     | 95 | Unique Binary Search Trees II | [~~Swift~~](././Swift/unique-binary-search-trees-ii.swift) | Java | 
 |  X  | 94 | Binary Tree Inorder Traversal | [~~Swift~~](././Swift/binary-tree-inorder-traversal.swift) | [~~Java~~](././Java/binary-tree-inorder-traversal.java) | 
 |  X  | 93 | Restore IP Addresses | [~~Swift~~](././Swift/restore-ip-addresses.swift) | [~~Java~~](././Java/restore-ip-addresses.java) | 
-|     | 92 | Reverse Linked List II | Swift | Java | 
+|     | 92 | Reverse Linked List II | [~~Swift~~](././Swift/reverse-linked-list-ii.swift) | Java | 
 |     | 91 | Decode Ways | [~~Swift~~](././Swift/decode-ways.swift) | Java | 
 |  X  | 90 | Subsets II | [~~Swift~~](././Swift/subsets-ii.swift) | [~~Java~~](././Java/subsets-ii.java) | 
 |     | 89 | Gray Code | Swift | [~~Java~~](././Java/gray-code.java) | 
