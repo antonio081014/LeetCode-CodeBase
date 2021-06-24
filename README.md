@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-492 | Java-150 |
+| X | # | Question | Swift-493 | Java-150 |
 |---|---|---|---|---|
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
@@ -1200,7 +1200,7 @@ Update README file only:
 |     | 583 | Delete Operation for Two Strings | [~~Swift~~](././Swift/delete-operation-for-two-strings.swift) | Java | 
 |     | 582 | Kill Process | Swift | Java | 
 |     | 581 | Shortest Unsorted Continuous Subarray | [~~Swift~~](././Swift/shortest-unsorted-continuous-subarray.swift) | Java | 
-|     | 576 | Out of Boundary Paths | Swift | Java | 
+|     | 576 | Out of Boundary Paths | [~~Swift~~](././Swift/out-of-boundary-paths.swift) | Java | 
 |     | 575 | Distribute Candies | [~~Swift~~](././Swift/distribute-candies.swift) | Java | 
 |     | 573 | Squirrel Simulation | Swift | Java | 
 |     | 572 | Subtree of Another Tree | Swift | Java | 
