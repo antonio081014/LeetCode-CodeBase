@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-493 | Java-150 |
+| X | # | Question | Swift-494 | Java-150 |
 |---|---|---|---|---|
+|     | 2062 | Game of Nim | Swift | Java | 
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
 |     | 2045 | Cutting Ribbons | Swift | Java | 
@@ -1121,7 +1122,7 @@ Update README file only:
 |     | 687 | Longest Univalue Path | Swift | Java | 
 |     | 686 | Repeated String Match | Swift | Java | 
 |     | 685 | Redundant Connection II | Swift | Java | 
-|     | 684 | Redundant Connection | Swift | Java | 
+|     | 684 | Redundant Connection | [~~Swift~~](././Swift/redundant-connection.swift) | Java | 
 |     | 683 | K Empty Slots | Swift | Java | 
 |     | 682 | Baseball Game | Swift | Java | 
 |     | 681 | Next Closest Time | Swift | Java | 
