@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-494 | Java-150 |
+| X | # | Question | Swift-495 | Java-150 |
 |---|---|---|---|---|
 |     | 2062 | Game of Nim | Swift | Java | 
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
@@ -1606,7 +1606,7 @@ Update README file only:
 |     | 138 | Copy List with Random Pointer | [~~Swift~~](././Swift/copy-list-with-random-pointer.swift) | Java | 
 |  X  | 137 | Single Number II | [~~Swift~~](././Swift/single-number-ii.swift) | [~~Java~~](././Java/single-number-ii.java) | 
 |  X  | 136 | Single Number | [~~Swift~~](././Swift/single-number.swift) | [~~Java~~](././Java/single-number.java) | 
-|     | 135 | Candy | Swift | [~~Java~~](././Java/candy.java) | 
+|  X  | 135 | Candy | [~~Swift~~](././Swift/candy.swift) | [~~Java~~](././Java/candy.java) | 
 |     | 134 | Gas Station | [~~Swift~~](././Swift/gas-station.swift) | Java | 
 |     | 133 | Clone Graph | [~~Swift~~](././Swift/clone-graph.swift) | Java | 
 |     | 132 | Palindrome Partitioning II | [~~Swift~~](././Swift/palindrome-partitioning-ii.swift) | Java | 
