@@ -11,12 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-495 | Java-150 |
+| X | # | Question | Swift-496 | Java-150 |
 |---|---|---|---|---|
 |     | 2062 | Game of Nim | Swift | Java | 
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
 |     | 2045 | Cutting Ribbons | Swift | Java | 
+|     | 2044 | Number of Wonderful Substrings | Swift | Java | 
+|     | 2043 | Cyclically Rotating a Grid | Swift | Java | 
+|     | 2042 | Maximum Product Difference Between Two Pairs | Swift | Java | 
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
 |     | 2035 | Count Sub Islands | Swift | Java | 
 |     | 2034 | Minimum Absolute Difference Queries | Swift | Java | 
@@ -28,6 +31,10 @@ Update README file only:
 |     | 2027 | Maximum Number of Removable Characters | Swift | Java | 
 |     | 2026 | Merge Triplets to Form Target Triplet | Swift | Java | 
 |     | 2025 | Redistribute Characters to Make All Strings Equal | Swift | Java | 
+|     | 2023 | Design Movie Rental System | Swift | Java | 
+|     | 2022 | Maximum Alternating Subsequence Sum | Swift | Java | 
+|     | 2021 | Remove All Occurrences of a Substring | Swift | Java | 
+|     | 2020 | Remove One Element to Make the Array Strictly Increasing | Swift | Java | 
 |     | 2019 | Product of Two Run-Length Encoded Arrays | Swift | Java | 
 |     | 2018 | Minimum Space Wasted From Packaging | Swift | Java | 
 |     | 2017 | Minimum Number of Flips to Make the Binary String Alternating | Swift | Java | 
@@ -569,6 +576,7 @@ Update README file only:
 |     | 1321 | Get Equal Substrings Within Budget | Swift | Java | 
 |     | 1320 | Remove All Adjacent Duplicates in String II | [~~Swift~~](././Swift/remove-all-adjacent-duplicates-in-string-ii.swift) | Java | 
 |     | 1319 | Unique Number of Occurrences | Swift | Java | 
+|     | 1313 | Count Ways to Build Rooms in an Ant Colony | Swift | Java | 
 |     | 1311 | Largest Magic Square | Swift | Java | 
 |     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 
 |     | 1308 | Smallest String With Swaps | Swift | Java | 
@@ -783,7 +791,7 @@ Update README file only:
 |     | 1049 | Minimum Domino Rotations For Equal Row | [~~Swift~~](././Swift/minimum-domino-rotations-for-equal-row.swift) | Java | 
 |     | 1048 | Clumsy Factorial | Swift | Java | 
 |     | 1047 | Maximize Sum Of Array After K Negations | Swift | Java | 
-|     | 1046 | Max Consecutive Ones III | Swift | Java | 
+|     | 1046 | Max Consecutive Ones III | [~~Swift~~](././Swift/max-consecutive-ones-iii.swift) | Java | 
 |     | 1045 | Check If Word Is Valid After Substitutions | Swift | Java | 
 |     | 1044 | Find Common Characters | Swift | Java | 
 |     | 1043 | Grid Illumination | Swift | Java | 
