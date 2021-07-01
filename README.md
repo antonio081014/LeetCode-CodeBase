@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-496 | Java-150 |
+| X | # | Question | Swift-497 | Java-150 |
 |---|---|---|---|---|
+|     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
@@ -1660,7 +1661,7 @@ Update README file only:
 |     | 92 | Reverse Linked List II | [~~Swift~~](././Swift/reverse-linked-list-ii.swift) | Java | 
 |     | 91 | Decode Ways | [~~Swift~~](././Swift/decode-ways.swift) | Java | 
 |  X  | 90 | Subsets II | [~~Swift~~](././Swift/subsets-ii.swift) | [~~Java~~](././Java/subsets-ii.java) | 
-|     | 89 | Gray Code | Swift | [~~Java~~](././Java/gray-code.java) | 
+|  X  | 89 | Gray Code | [~~Swift~~](././Swift/gray-code.swift) | [~~Java~~](././Java/gray-code.java) | 
 |     | 88 | Merge Sorted Array | Swift | [~~Java~~](././Java/merge-sorted-array.java) | 
 |     | 87 | Scramble String | Swift | Java | 
 |     | 86 | Partition List | [~~Swift~~](././Swift/partition-list.swift) | Java | 
