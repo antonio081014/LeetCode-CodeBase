@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-497 | Java-150 |
+| X | # | Question | Swift-498 | Java-150 |
 |---|---|---|---|---|
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
@@ -566,7 +566,7 @@ Update README file only:
 |     | 1342 | Queens That Can Attack the King | Swift | Java | 
 |     | 1341 | Split a String in Balanced Strings | Swift | Java | 
 |     | 1337 | Design Skiplist | Swift | Java | 
-|     | 1332 | Count Vowels Permutation | Swift | Java | 
+|     | 1332 | Count Vowels Permutation | [~~Swift~~](././Swift/count-vowels-permutation.swift) | Java | 
 |     | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
 |     | 1329 | Minimum Cost to Move Chips to The Same Position | [~~Swift~~](././Swift/minimum-cost-to-move-chips-to-the-same-position.swift) | Java | 
