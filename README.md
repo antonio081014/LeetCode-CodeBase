@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-499 | Java-150 |
+| X | # | Question | Swift-500 | Java-150 |
 |---|---|---|---|---|
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
@@ -486,7 +486,7 @@ Update README file only:
 |     | 1468 | Check If N and Its Double Exist | Swift | Java | 
 |     | 1466 | Jump Game V | Swift | Java | 
 |     | 1465 | Maximum Product of Splitted Binary Tree | Swift | Java | 
-|     | 1464 | Reduce Array Size to The Half | Swift | Java | 
+|     | 1464 | Reduce Array Size to The Half | [~~Swift~~](././Swift/reduce-array-size-to-the-half.swift) | Java | 
 |     | 1463 | The K Weakest Rows in a Matrix | [~~Swift~~](././Swift/the-k-weakest-rows-in-a-matrix.swift) | Java | 
 |     | 1461 | Count All Valid Pickup and Delivery Options | Swift | Java | 
 |     | 1460 | Number of Substrings Containing All Three Characters | Swift | Java | 
