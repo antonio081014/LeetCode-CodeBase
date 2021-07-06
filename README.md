@@ -11,11 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-498 | Java-150 |
+| X | # | Question | Swift-499 | Java-150 |
 |---|---|---|---|---|
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
+|     | 2051 | Longest Common Subpath | Swift | Java | 
+|     | 2050 | Count Good Numbers | Swift | Java | 
+|     | 2049 | Eliminate Maximum Number of Monsters | Swift | Java | 
+|     | 2048 | Build Array from Permutation | Swift | Java | 
 |     | 2047 | Find a Peak Element II | Swift | Java | 
 |     | 2045 | Cutting Ribbons | Swift | Java | 
 |     | 2044 | Number of Wonderful Substrings | Swift | Java | 
@@ -1216,7 +1220,7 @@ Update README file only:
 |     | 572 | Subtree of Another Tree | Swift | Java | 
 |     | 568 | Maximum Vacation Days | Swift | Java | 
 |     | 567 | Permutation in String | [~~Swift~~](././Swift/permutation-in-string.swift) | Java | 
-|     | 566 | Reshape the Matrix | Swift | Java | 
+|     | 566 | Reshape the Matrix | [~~Swift~~](././Swift/reshape-the-matrix.swift) | Java | 
 |     | 565 | Array Nesting | Swift | Java | 
 |     | 564 | Find the Closest Palindrome | Swift | Java | 
 |     | 563 | Binary Tree Tilt | [~~Swift~~](././Swift/binary-tree-tilt.swift) | Java | 
