@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-500 | Java-150 |
+| X | # | Question | Swift-501 | Java-150 |
 |---|---|---|---|---|
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
@@ -1112,7 +1112,7 @@ Update README file only:
 |     | 721 | Accounts Merge | Swift | Java | 
 |     | 720 | Longest Word in Dictionary | Swift | Java | 
 |     | 719 | Find K-th Smallest Pair Distance | [~~Swift~~](././Swift/find-k-th-smallest-pair-distance.swift) | Java | 
-|     | 718 | Maximum Length of Repeated Subarray | Swift | Java | 
+|     | 718 | Maximum Length of Repeated Subarray | [~~Swift~~](././Swift/maximum-length-of-repeated-subarray.swift) | Java | 
 |     | 717 | 1-bit and 2-bit Characters | Swift | Java | 
 |     | 716 | Max Stack | Swift | Java | 
 |     | 715 | Range Module | Swift | Java | 
