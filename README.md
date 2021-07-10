@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-501 | Java-150 |
+| X | # | Question | Swift-502 | Java-150 |
 |---|---|---|---|---|
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
@@ -1179,7 +1179,7 @@ Update README file only:
 |     | 643 | Maximum Average Subarray I | Swift | Java | 
 |     | 642 | Design Search Autocomplete System | Swift | Java | 
 |     | 640 | Solve the Equation | Swift | Java | 
-|     | 639 | Decode Ways II | Swift | Java | 
+|     | 639 | Decode Ways II | [~~Swift~~](././Swift/decode-ways-ii.swift) | Java | 
 |     | 638 | Shopping Offers | Swift | Java | 
 |     | 637 | Average of Levels in Binary Tree | Swift | Java | 
 |     | 636 | Exclusive Time of Functions | Swift | Java | 
