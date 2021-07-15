@@ -1485,7 +1485,7 @@ Update README file only:
 |     | 298 | Binary Tree Longest Consecutive Sequence | Swift | Java | 
 |     | 297 | Serialize and Deserialize Binary Tree | [~~Swift~~](././Swift/serialize-and-deserialize-binary-tree.swift) | Java | 
 |     | 296 | Best Meeting Point | Swift | Java | 
-|     | 295 | Find Median from Data Stream | Swift | [~~Java~~](././Java/find-median-from-data-stream.java) | 
+|  X  | 295 | Find Median from Data Stream | [~~Swift~~](././Swift/find-median-from-data-stream.swift) | [~~Java~~](././Java/find-median-from-data-stream.java) | 
 |     | 294 | Flip Game II | Swift | Java | 
 |     | 293 | Flip Game | Swift | Java | 
 |     | 292 | Nim Game | Swift | [~~Java~~](././Java/nim-game.java) | 
