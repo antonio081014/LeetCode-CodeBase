@@ -11,10 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-503 | Java-150 |
+| X | # | Question | Swift-504 | Java-150 |
 |---|---|---|---|---|
+|     | 2074 | Erect the Fence II | Swift | Java | 
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
+|     | 2061 | Painting a Grid With Three Different Colors | Swift | Java | 
+|     | 2060 | Merge BSTs to Create Single BST | Swift | Java | 
+|     | 2059 | Unique Length-3 Palindromic Subsequences | Swift | Java | 
+|     | 2058 | Concatenation of Array | Swift | Java | 
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2051 | Longest Common Subpath | Swift | Java | 
 |     | 2050 | Count Good Numbers | Swift | Java | 
@@ -25,6 +30,10 @@ Update README file only:
 |     | 2044 | Number of Wonderful Substrings | Swift | Java | 
 |     | 2043 | Cyclically Rotating a Grid | Swift | Java | 
 |     | 2042 | Maximum Product Difference Between Two Pairs | Swift | Java | 
+|     | 2040 | Minimum Cost to Reach Destination in Time | Swift | Java | 
+|     | 2039 | Sum Game | Swift | Java | 
+|     | 2038 | Nearest Exit from Entrance in Maze | Swift | Java | 
+|     | 2037 | Count Square Sum Triples | Swift | Java | 
 |     | 2036 | Count Pairs in Two Arrays | Swift | Java | 
 |     | 2035 | Count Sub Islands | Swift | Java | 
 |     | 2034 | Minimum Absolute Difference Queries | Swift | Java | 
@@ -874,7 +883,7 @@ Update README file only:
 |     | 966 | Binary Subarrays With Sum | Swift | Java | 
 |     | 965 | Unique Email Addresses | Swift | Java | 
 |     | 964 | Minimize Malware Spread II | Swift | Java | 
-|     | 963 | Three Equal Parts | Swift | Java | 
+|     | 963 | Three Equal Parts | [~~Swift~~](././Swift/three-equal-parts.swift) | Java | 
 |     | 962 | Flip String to Monotone Increasing | Swift | Java | 
 |     | 961 | Long Pressed Name | Swift | Java | 
 |     | 960 | Minimize Malware Spread | Swift | Java | 
