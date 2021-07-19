@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-504 | Java-150 |
+| X | # | Question | Swift-506 | Java-150 |
 |---|---|---|---|---|
 |     | 2074 | Erect the Fence II | Swift | Java | 
+|     | 2070 | Check if String Is Decomposable Into Value-Equal Substrings | Swift | Java | 
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
+|     | 2068 | Maximum Genetic Difference Query | Swift | Java | 
+|     | 2067 | Maximum Number of Points with Cost | Swift | Java | 
+|     | 2066 | Add Minimum Number of Rungs | Swift | Java | 
 |     | 2062 | Game of Nim | Swift | Java | 
 |     | 2061 | Painting a Grid With Three Different Colors | Swift | Java | 
 |     | 2060 | Merge BSTs to Create Single BST | Swift | Java | 
@@ -624,6 +628,7 @@ Update README file only:
 |     | 1271 | Web Crawler | Swift | Java | 
 |     | 1270 | Dinner Plate Stacks | Swift | Java | 
 |     | 1267 | Remove Zero Sum Consecutive Nodes from Linked List | Swift | Java | 
+|     | 1264 | Maximum Number of Words You Can Type | Swift | Java | 
 |     | 1263 | Number of Dice Rolls With Target Sum | Swift | Java | 
 |     | 1262 | Online Majority Element In Subarray | Swift | Java | 
 |     | 1261 | Swap For Longest Repeated Character Substring | Swift | Java | 
@@ -1544,7 +1549,7 @@ Update README file only:
 |  X  | 238 | Product of Array Except Self | [~~Swift~~](././Swift/product-of-array-except-self.swift) | [~~Java~~](././Java/product-of-array-except-self.java) | 
 |  X  | 237 | Delete Node in a Linked List | [~~Swift~~](././Swift/delete-node-in-a-linked-list.swift) | [~~Java~~](././Java/delete-node-in-a-linked-list.java) | 
 |  X  | 236 | Lowest Common Ancestor of a Binary Tree | [~~Swift~~](././Swift/lowest-common-ancestor-of-a-binary-tree.swift) | [~~Java~~](././Java/lowest-common-ancestor-of-a-binary-tree.java) | 
-|     | 235 | Lowest Common Ancestor of a Binary Search Tree | Swift | [~~Java~~](././Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
+|  X  | 235 | Lowest Common Ancestor of a Binary Search Tree | [~~Swift~~](././Swift/lowest-common-ancestor-of-a-binary-search-tree.swift) | [~~Java~~](././Java/lowest-common-ancestor-of-a-binary-search-tree.java) | 
 |  X  | 234 | Palindrome Linked List | [~~Swift~~](././Swift/palindrome-linked-list.swift) | [~~Java~~](././Java/palindrome-linked-list.java) | 
 |     | 233 | Number of Digit One | Swift | Java | 
 |     | 232 | Implement Queue using Stacks | Swift | [~~Java~~](././Java/implement-queue-using-stacks.java) | 
