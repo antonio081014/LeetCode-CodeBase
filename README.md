@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-503 | Java-150 |
+| X | # | Question | Swift-504 | Java-150 |
 |---|---|---|---|---|
 |     | 2074 | Erect the Fence II | Swift | Java | 
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
@@ -883,7 +883,7 @@ Update README file only:
 |     | 966 | Binary Subarrays With Sum | Swift | Java | 
 |     | 965 | Unique Email Addresses | Swift | Java | 
 |     | 964 | Minimize Malware Spread II | Swift | Java | 
-|     | 963 | Three Equal Parts | Swift | Java | 
+|     | 963 | Three Equal Parts | [~~Swift~~](././Swift/three-equal-parts.swift) | Java | 
 |     | 962 | Flip String to Monotone Increasing | Swift | Java | 
 |     | 961 | Long Pressed Name | Swift | Java | 
 |     | 960 | Minimize Malware Spread | Swift | Java | 
