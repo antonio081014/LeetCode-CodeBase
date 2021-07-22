@@ -11,9 +11,10 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-506 | Java-150 |
+| X | # | Question | Swift-507 | Java-150 |
 |---|---|---|---|---|
 |     | 2074 | Erect the Fence II | Swift | Java | 
+|     | 2071 | Longest Common Subsequence Between Sorted Arrays | Swift | Java | 
 |     | 2070 | Check if String Is Decomposable Into Value-Equal Substrings | Swift | Java | 
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
 |     | 2068 | Maximum Genetic Difference Query | Swift | Java | 
@@ -900,7 +901,7 @@ Update README file only:
 |     | 954 | Maximum Sum Circular Subarray | [~~Swift~~](././Swift/maximum-sum-circular-subarray.swift) | Java | 
 |     | 953 | Reverse Only Letters | Swift | Java | 
 |     | 952 | Word Subsets | [~~Swift~~](././Swift/word-subsets.swift) | Java | 
-|     | 951 | Partition Array into Disjoint Intervals | Swift | Java | 
+|     | 951 | Partition Array into Disjoint Intervals | [~~Swift~~](././Swift/partition-array-into-disjoint-intervals.swift) | Java | 
 |     | 950 | X of a Kind in a Deck of Cards | Swift | Java | 
 |     | 949 | Cat and Mouse | Swift | Java | 
 |     | 948 | Sort an Array | Swift | Java | 
