@@ -30,4 +30,31 @@ class Solution {
         //print(minList)
         return -1
     }
+}/**
+ * https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+ * 
+ * 
+ */ 
+// Date: Thu Jul 22 10:45:45 PDT 2021
+class Solution {
+    func partitionDisjoint(_ nums: [Int]) -> Int {
+        let n = nums.count
+        var minList = Array(repeating: Int.max, count: n)
+        
+        var minV = Int.max
+        for index in stride(from: n - 1, to: 0, by: -1) {
+            minV = min(minV, nums[index])
+            minList[index] = minV
+        }
+        
+        var maxV = Int.min
+        for index in 0 ..< n {
+            if index > 0, maxV <= minList[index] {
+                return index
+            }
+            maxV = max(maxV, nums[index])
+        }
+        //print(minList)
+        return -1
+    }
 }
