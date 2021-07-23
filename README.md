@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-507 | Java-150 |
+| X | # | Question | Swift-508 | Java-150 |
 |---|---|---|---|---|
 |     | 2074 | Erect the Fence II | Swift | Java | 
 |     | 2071 | Longest Common Subsequence Between Sorted Arrays | Swift | Java | 
@@ -1013,7 +1013,7 @@ Update README file only:
 |     | 835 | Linked List Components | Swift | Java | 
 |     | 834 | Ambiguous Coordinates | [~~Swift~~](././Swift/ambiguous-coordinates.swift) | Java | 
 |     | 833 | Bus Routes | Swift | Java | 
-|     | 832 | Binary Tree Pruning | Swift | Java | 
+|     | 832 | Binary Tree Pruning | [~~Swift~~](././Swift/binary-tree-pruning.swift) | Java | 
 |     | 831 | Largest Sum of Averages | Swift | Java | 
 |     | 830 | Largest Triangle Area | Swift | Java | 
 |     | 829 | Subdomain Visit Count | Swift | Java | 
