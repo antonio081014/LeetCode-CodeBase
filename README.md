@@ -11,9 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-508 | Java-150 |
+| X | # | Question | Swift-509 | Java-150 |
 |---|---|---|---|---|
+|     | 2079 | Delete Duplicate Folders in System | Swift | Java | 
+|     | 2078 | Maximum Compatibility Score Sum | Swift | Java | 
+|     | 2077 | Largest Number After Mutating Substring | Swift | Java | 
+|     | 2076 | Sum of Digits of String After Convert | Swift | Java | 
 |     | 2074 | Erect the Fence II | Swift | Java | 
+|     | 2072 | Maximum of Minimum Values in All Subarrays | Swift | Java | 
 |     | 2071 | Longest Common Subsequence Between Sorted Arrays | Swift | Java | 
 |     | 2070 | Check if String Is Decomposable Into Value-Equal Substrings | Swift | Java | 
 |     | 2069 | Kth Smallest Subarray Sum | Swift | Java | 
@@ -25,6 +30,9 @@ Update README file only:
 |     | 2060 | Merge BSTs to Create Single BST | Swift | Java | 
 |     | 2059 | Unique Length-3 Palindromic Subsequences | Swift | Java | 
 |     | 2058 | Concatenation of Array | Swift | Java | 
+|     | 2055 | Describe the Painting | Swift | Java | 
+|     | 2054 | The Number of the Smallest Unoccupied Chair | Swift | Java | 
+|     | 2053 | Check if All Characters Have Equal Number of Occurrences | Swift | Java | 
 |     | 2052 | Depth of BST Given Insertion Order | Swift | Java | 
 |     | 2051 | Longest Common Subpath | Swift | Java | 
 |     | 2050 | Count Good Numbers | Swift | Java | 
@@ -601,6 +609,7 @@ Update README file only:
 |     | 1308 | Smallest String With Swaps | Swift | Java | 
 |     | 1307 | Ugly Number III | [~~Swift~~](././Swift/ugly-number-iii.swift) | Java | 
 |     | 1306 | Minimum Absolute Difference | Swift | Java | 
+|     | 1305 | Number of Visible People in a Queue | Swift | Java | 
 |     | 1304 | Longest Happy String | Swift | Java | 
 |     | 1300 | Critical Connections in a Network | Swift | Java | 
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
@@ -1257,7 +1266,7 @@ Update README file only:
 |     | 545 | Boundary of Binary Tree | Swift | Java | 
 |     | 544 | Output Contest Matches | Swift | Java | 
 |     | 543 | Diameter of Binary Tree | [~~Swift~~](././Swift/diameter-of-binary-tree.swift) | Java | 
-|     | 542 | 01 Matrix | Swift | Java | 
+|     | 542 | 01 Matrix | [~~Swift~~](././Swift/01-matrix.swift) | Java | 
 |     | 541 | Reverse String II | Swift | Java | 
 |     | 540 | Single Element in a Sorted Array | [~~Swift~~](././Swift/single-element-in-a-sorted-array.swift) | Java | 
 |     | 539 | Minimum Time Difference | Swift | Java | 
