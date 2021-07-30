@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-509 | Java-150 |
+| X | # | Question | Swift-510 | Java-150 |
 |---|---|---|---|---|
 |     | 2079 | Delete Duplicate Folders in System | Swift | Java | 
 |     | 2078 | Maximum Compatibility Score Sum | Swift | Java | 
@@ -1166,7 +1166,7 @@ Update README file only:
 |     | 680 | Valid Palindrome II | [~~Swift~~](././Swift/valid-palindrome-ii.swift) | Java | 
 |     | 679 | 24 Game | Swift | Java | 
 |     | 678 | Valid Parenthesis String | [~~Swift~~](././Swift/valid-parenthesis-string.swift) | Java | 
-|     | 677 | Map Sum Pairs | Swift | Java | 
+|     | 677 | Map Sum Pairs | [~~Swift~~](././Swift/map-sum-pairs.swift) | Java | 
 |     | 676 | Implement Magic Dictionary | Swift | Java | 
 |     | 675 | Cut Off Trees for Golf Event | Swift | Java | 
 |     | 674 | Longest Continuous Increasing Subsequence | [~~Swift~~](././Swift/longest-continuous-increasing-subsequence.swift) | Java | 
