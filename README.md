@@ -11,8 +11,11 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-510 | Java-150 |
+| X | # | Question | Swift-511 | Java-150 |
 |---|---|---|---|---|
+|     | 2086 | Count Number of Special Subsequences | Swift | Java | 
+|     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
+|     | 2083 | Three Divisors | Swift | Java | 
 |     | 2079 | Delete Duplicate Folders in System | Swift | Java | 
 |     | 2078 | Maximum Compatibility Score Sum | Swift | Java | 
 |     | 2077 | Largest Number After Mutating Substring | Swift | Java | 
@@ -616,6 +619,7 @@ Update README file only:
 |     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
 |     | 1297 | Maximum Number of Balloons | Swift | Java | 
 |     | 1296 | Kth Ancestor of a Tree Node | Swift | Java | 
+|     | 1295 | Minimum Garden Perimeter to Collect Enough Apples | Swift | Java | 
 |     | 1293 | Three Consecutive Odds | Swift | Java | 
 |     | 1290 | Make Array Strictly Increasing | Swift | Java | 
 |     | 1289 | Day of the Week | Swift | Java | 
@@ -1007,7 +1011,7 @@ Update README file only:
 |     | 857 | Positions of Large Groups | Swift | Java | 
 |     | 856 | Consecutive Numbers Sum | Swift | Java | 
 |     | 855 | Count Unique Characters of All Substrings of a Given String | Swift | Java | 
-|     | 854 | Making A Large Island | Swift | Java | 
+|     | 854 | Making A Large Island | [~~Swift~~](././Swift/making-a-large-island.swift) | Java | 
 |     | 853 | Most Profit Assigning Work | Swift | Java | 
 |     | 852 | Friends Of Appropriate Ages | Swift | Java | 
 |     | 851 | Goat Latin | [~~Swift~~](././Swift/goat-latin.swift) | Java | 
