@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-511 | Java-150 |
+| X | # | Question | Swift-512 | Java-150 |
 |---|---|---|---|---|
 |     | 2086 | Count Number of Special Subsequences | Swift | Java | 
 |     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
@@ -21,6 +21,7 @@ Update README file only:
 |     | 2077 | Largest Number After Mutating Substring | Swift | Java | 
 |     | 2076 | Sum of Digits of String After Convert | Swift | Java | 
 |     | 2074 | Erect the Fence II | Swift | Java | 
+|     | 2073 | Minimum Time For K Virus Variants to Spread | Swift | Java | 
 |     | 2072 | Maximum of Minimum Values in All Subarrays | Swift | Java | 
 |     | 2071 | Longest Common Subsequence Between Sorted Arrays | Swift | Java | 
 |     | 2070 | Check if String Is Decomposable Into Value-Equal Substrings | Swift | Java | 
@@ -956,7 +957,7 @@ Update README file only:
 |     | 912 | Random Pick with Weight | [~~Swift~~](././Swift/random-pick-with-weight.swift) | Java | 
 |     | 911 | Profitable Schemes | Swift | Java | 
 |     | 910 | Nth Magical Number | Swift | Java | 
-|     | 909 | Stone Game | Swift | Java | 
+|     | 909 | Stone Game | [~~Swift~~](././Swift/stone-game.swift) | Java | 
 |     | 908 | Middle of the Linked List | [~~Swift~~](././Swift/middle-of-the-linked-list.swift) | Java | 
 |     | 907 | Koko Eating Bananas | Swift | Java | 
 |     | 906 | Walking Robot Simulation | Swift | Java | 
