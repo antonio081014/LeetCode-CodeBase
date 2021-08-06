@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-512 | Java-150 |
+| X | # | Question | Swift-513 | Java-150 |
 |---|---|---|---|---|
 |     | 2086 | Count Number of Special Subsequences | Swift | Java | 
 |     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
@@ -1095,7 +1095,7 @@ Update README file only:
 |     | 767 | Prime Number of Set Bits in Binary Representation | Swift | Java | 
 |     | 766 | Flatten a Multilevel Doubly Linked List | [~~Swift~~](././Swift/flatten-a-multilevel-doubly-linked-list.swift) | Java | 
 |     | 765 | Serialize and Deserialize N-ary Tree | Swift | Java | 
-|     | 764 | N-ary Tree Level Order Traversal | Swift | Java | 
+|     | 764 | N-ary Tree Level Order Traversal | [~~Swift~~](././Swift/n-ary-tree-level-order-traversal.swift) | Java | 
 |     | 763 | Special Binary String | Swift | Java | 
 |     | 762 | Find Anagram Mappings | Swift | Java | 
 |     | 761 | Employee Free Time | Swift | Java | 
