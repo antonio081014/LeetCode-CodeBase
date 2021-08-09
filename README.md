@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-513 | Java-150 |
+| X | # | Question | Swift-514 | Java-150 |
 |---|---|---|---|---|
 |     | 2086 | Count Number of Special Subsequences | Swift | Java | 
 |     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
@@ -649,7 +649,7 @@ Update README file only:
 |     | 1261 | Swap For Longest Repeated Character Substring | Swift | Java | 
 |     | 1260 | Day of the Year | Swift | Java | 
 |     | 1257 | Rank Transform of a Matrix | Swift | Java | 
-|     | 1256 | Rank Transform of an Array | Swift | Java | 
+|     | 1256 | Rank Transform of an Array | [~~Swift~~](././Swift/rank-transform-of-an-array.swift) | Java | 
 |     | 1255 | Reverse Subarray To Maximize Array Value | Swift | Java | 
 |     | 1254 | Deepest Leaves Sum | [~~Swift~~](././Swift/deepest-leaves-sum.swift) | Java | 
 |     | 1253 | Sort the Matrix Diagonally | Swift | Java | 
