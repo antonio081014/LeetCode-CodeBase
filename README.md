@@ -11,11 +11,18 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-514 | Java-150 |
+| X | # | Question | Swift-515 | Java-150 |
 |---|---|---|---|---|
+|     | 2111 | Binary Searchable Numbers in an Unsorted Array | Swift | Java | 
+|     | 2096 | Find the Longest Valid Obstacle Course at Each Position | Swift | Java | 
+|     | 2095 | Minimum Number of Swaps to Make the String Balanced | Swift | Java | 
+|     | 2094 | Remove Stones to Minimize the Total | Swift | Java | 
+|     | 2093 | Check If String Is a Prefix of Array | Swift | Java | 
 |     | 2086 | Count Number of Special Subsequences | Swift | Java | 
 |     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
 |     | 2083 | Three Divisors | Swift | Java | 
+|     | 2081 | Minimum Total Space Wasted With K Resizing Operations | Swift | Java | 
+|     | 2080 | Check if Move is Legal | Swift | Java | 
 |     | 2079 | Delete Duplicate Folders in System | Swift | Java | 
 |     | 2078 | Maximum Compatibility Score Sum | Swift | Java | 
 |     | 2077 | Largest Number After Mutating Substring | Swift | Java | 
@@ -596,6 +603,7 @@ Update README file only:
 |     | 1342 | Queens That Can Attack the King | Swift | Java | 
 |     | 1341 | Split a String in Balanced Strings | Swift | Java | 
 |     | 1337 | Design Skiplist | Swift | Java | 
+|     | 1336 | Maximum Product of the Length of Two Palindromic Substrings | Swift | Java | 
 |     | 1332 | Count Vowels Permutation | [~~Swift~~](././Swift/count-vowels-permutation.swift) | Java | 
 |     | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
@@ -615,6 +623,7 @@ Update README file only:
 |     | 1306 | Minimum Absolute Difference | Swift | Java | 
 |     | 1305 | Number of Visible People in a Queue | Swift | Java | 
 |     | 1304 | Longest Happy String | Swift | Java | 
+|     | 1302 | Delete Characters to Make Fancy String | Swift | Java | 
 |     | 1300 | Critical Connections in a Network | Swift | Java | 
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
 |     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
@@ -876,7 +885,7 @@ Update README file only:
 |     | 994 | Prison Cells After N Days | Swift | Java | 
 |     | 993 | Tallest Billboard | Swift | Java | 
 |     | 992 | Delete Columns to Make Sorted II | Swift | Java | 
-|     | 991 | Array of Doubled Pairs | Swift | Java | 
+|     | 991 | Array of Doubled Pairs | [~~Swift~~](././Swift/array-of-doubled-pairs.swift) | Java | 
 |     | 990 | Verifying an Alien Dictionary | [~~Swift~~](././Swift/verifying-an-alien-dictionary.swift) | Java | 
 |     | 989 | Largest Component Size by Common Factor | [~~Swift~~](././Swift/largest-component-size-by-common-factor.swift) | Java | 
 |     | 988 | Flip Equivalent Binary Trees | [~~Swift~~](././Swift/flip-equivalent-binary-trees.swift) | Java | 
