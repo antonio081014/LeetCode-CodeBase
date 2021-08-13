@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-516 | Java-150 |
+| X | # | Question | Swift-517 | Java-150 |
 |---|---|---|---|---|
 |     | 2111 | Binary Searchable Numbers in an Unsorted Array | Swift | Java | 
 |     | 2096 | Find the Longest Valid Obstacle Course at Each Position | Swift | Java | 
@@ -1719,7 +1719,7 @@ Update README file only:
 |     | 76 | Minimum Window Substring | Swift | Java | 
 |     | 75 | Sort Colors | [~~Swift~~](././Swift/sort-colors.swift) | Java | 
 |  X  | 74 | Search a 2D Matrix | [~~Swift~~](././Swift/search-a-2d-matrix.swift) | [~~Java~~](././Java/search-a-2d-matrix.java) | 
-|     | 73 | Set Matrix Zeroes | Swift | Java | 
+|     | 73 | Set Matrix Zeroes | [~~Swift~~](././Swift/set-matrix-zeroes.swift) | Java | 
 |  X  | 72 | Edit Distance | [~~Swift~~](././Swift/edit-distance.swift) | [~~Java~~](././Java/edit-distance.java) | 
 |     | 71 | Simplify Path | [~~Swift~~](././Swift/simplify-path.swift) | Java | 
 |  X  | 70 | Climbing Stairs | [~~Swift~~](././Swift/climbing-stairs.swift) | [~~Java~~](././Java/climbing-stairs.java) | 
