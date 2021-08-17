@@ -11,14 +11,19 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-517 | Java-150 |
+| X | # | Question | Swift-518 | Java-150 |
 |---|---|---|---|---|
+|     | 2121 | Find if Path Exists in Graph | Swift | Java | 
 |     | 2111 | Binary Searchable Numbers in an Unsorted Array | Swift | Java | 
+|     | 2101 | Last Day Where You Can Still Cross | Swift | Java | 
+|     | 2100 | Minimum Non-Zero Product of the Array Elements | Swift | Java | 
+|     | 2099 | Number of Strings That Appear as Substrings in Word | Swift | Java | 
 |     | 2096 | Find the Longest Valid Obstacle Course at Each Position | Swift | Java | 
 |     | 2095 | Minimum Number of Swaps to Make the String Balanced | Swift | Java | 
 |     | 2094 | Remove Stones to Minimize the Total | Swift | Java | 
 |     | 2093 | Check If String Is a Prefix of Array | Swift | Java | 
 |     | 2086 | Count Number of Special Subsequences | Swift | Java | 
+|     | 2085 | Array With Elements Not Equal to Average of Neighbors | Swift | Java | 
 |     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
 |     | 2083 | Three Divisors | Swift | Java | 
 |     | 2081 | Minimum Total Space Wasted With K Resizing Operations | Swift | Java | 
@@ -453,7 +458,7 @@ Update README file only:
 |     | 1548 | Check If All 1's Are at Least Length K Places Away | [~~Swift~~](././Swift/check-if-all-1s-are-at-least-length-k-places-away.swift) | Java | 
 |     | 1547 | Destination City | Swift | Java | 
 |     | 1545 | Form Largest Integer With Digits That Add up to Target | Swift | Java | 
-|     | 1544 | Count Good Nodes in Binary Tree | Swift | Java | 
+|     | 1544 | Count Good Nodes in Binary Tree | [~~Swift~~](././Swift/count-good-nodes-in-binary-tree.swift) | Java | 
 |     | 1543 | Simplified Fractions | Swift | Java | 
 |     | 1542 | Consecutive Characters | [~~Swift~~](././Swift/consecutive-characters.swift) | Java | 
 |     | 1539 | Diagonal Traverse II | Swift | Java | 
