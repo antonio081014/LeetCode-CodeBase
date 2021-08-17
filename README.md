@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-518 | Java-150 |
+| X | # | Question | Swift-519 | Java-150 |
 |---|---|---|---|---|
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
 |     | 2111 | Binary Searchable Numbers in an Unsorted Array | Swift | Java | 
@@ -1721,7 +1721,7 @@ Update README file only:
 |     | 79 | Word Search | [~~Swift~~](././Swift/word-search.swift) | Java | 
 |  X  | 78 | Subsets | [~~Swift~~](././Swift/subsets.swift) | [~~Java~~](././Java/subsets.java) | 
 |  X  | 77 | Combinations | [~~Swift~~](././Swift/combinations.swift) | [~~Java~~](././Java/combinations.java) | 
-|     | 76 | Minimum Window Substring | Swift | Java | 
+|     | 76 | Minimum Window Substring | [~~Swift~~](././Swift/minimum-window-substring.swift) | Java | 
 |     | 75 | Sort Colors | [~~Swift~~](././Swift/sort-colors.swift) | Java | 
 |  X  | 74 | Search a 2D Matrix | [~~Swift~~](././Swift/search-a-2d-matrix.swift) | [~~Java~~](././Java/search-a-2d-matrix.java) | 
 |     | 73 | Set Matrix Zeroes | [~~Swift~~](././Swift/set-matrix-zeroes.swift) | Java | 
