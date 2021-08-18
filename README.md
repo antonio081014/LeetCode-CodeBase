@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-519 | Java-150 |
+| X | # | Question | Swift-520 | Java-150 |
 |---|---|---|---|---|
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
 |     | 2111 | Binary Searchable Numbers in an Unsorted Array | Swift | Java | 
@@ -901,7 +901,7 @@ Update README file only:
 |     | 983 | Validate Stack Sequences | [~~Swift~~](././Swift/validate-stack-sequences.swift) | Java | 
 |     | 982 | Minimum Increment to Make Array Unique | Swift | Java | 
 |     | 981 | Delete Columns to Make Sorted | Swift | Java | 
-|     | 980 | Find the Shortest Superstring | Swift | Java | 
+|     | 980 | Find the Shortest Superstring | [~~Swift~~](././Swift/find-the-shortest-superstring.swift) | Java | 
 |     | 979 | DI String Match | Swift | Java | 
 |     | 978 | Valid Mountain Array | [~~Swift~~](././Swift/valid-mountain-array.swift) | Java | 
 |     | 977 | Distinct Subsequences II | Swift | Java | 
