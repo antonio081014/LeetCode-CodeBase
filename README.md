@@ -11,10 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-521 | Java-150 |
+| X | # | Question | Swift-522 | Java-150 |
 |---|---|---|---|---|
+|     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
 |     | 2111 | Binary Searchable Numbers in an Unsorted Array | Swift | Java | 
+|     | 2109 | Find Array Given Subset Sums | Swift | Java | 
+|     | 2108 | Minimize the Difference Between Target and Chosen Elements | Swift | Java | 
+|     | 2107 | Find Unique Binary String | Swift | Java | 
+|     | 2106 | Find Greatest Common Divisor of Array | Swift | Java | 
 |     | 2101 | Last Day Where You Can Still Cross | Swift | Java | 
 |     | 2100 | Minimum Non-Zero Product of the Array Elements | Swift | Java | 
 |     | 2099 | Number of Strings That Appear as Substrings in Word | Swift | Java | 
@@ -22,6 +27,10 @@ Update README file only:
 |     | 2095 | Minimum Number of Swaps to Make the String Balanced | Swift | Java | 
 |     | 2094 | Remove Stones to Minimize the Total | Swift | Java | 
 |     | 2093 | Check If String Is a Prefix of Array | Swift | Java | 
+|     | 2091 | Number of Ways to Separate Numbers | Swift | Java | 
+|     | 2090 | Number of Ways to Arrive at Destination | Swift | Java | 
+|     | 2089 | Maximum Matrix Sum | Swift | Java | 
+|     | 2088 | Minimum Time to Type Word Using Special Typewriter | Swift | Java | 
 |     | 2086 | Count Number of Special Subsequences | Swift | Java | 
 |     | 2085 | Array With Elements Not Equal to Average of Neighbors | Swift | Java | 
 |     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
@@ -1209,7 +1218,7 @@ Update README file only:
 |     | 656 | Coin Path | Swift | Java | 
 |     | 655 | Print Binary Tree | Swift | Java | 
 |     | 654 | Maximum Binary Tree | Swift | Java | 
-|     | 653 | Two Sum IV - Input is a BST | Swift | Java | 
+|     | 653 | Two Sum IV - Input is a BST | [~~Swift~~](././Swift/two-sum-iv-input-is-a-bst.swift) | Java | 
 |     | 652 | Find Duplicate Subtrees | Swift | Java | 
 |     | 651 | 4 Keys Keyboard | Swift | Java | 
 |     | 650 | 2 Keys Keyboard | Swift | Java | 
