@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-523 | Java-150 |
+| X | # | Question | Swift-524 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -1237,7 +1237,7 @@ Update README file only:
 |     | 636 | Exclusive Time of Functions | Swift | Java | 
 |     | 635 | Design Log Storage System | Swift | Java | 
 |     | 634 | Find the Derangement of An Array | Swift | Java | 
-|     | 633 | Sum of Square Numbers | Swift | Java | 
+|     | 633 | Sum of Square Numbers | [~~Swift~~](././Swift/sum-of-square-numbers.swift) | Java | 
 |     | 632 | Smallest Range Covering Elements from K Lists | Swift | Java | 
 |     | 631 | Design Excel Sum Formula | Swift | Java | 
 |     | 630 | Course Schedule III | [~~Swift~~](././Swift/course-schedule-iii.swift) | Java | 
