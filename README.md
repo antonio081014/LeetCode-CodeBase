@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-524 | Java-150 |
+| X | # | Question | Swift-525 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -1290,7 +1290,7 @@ Update README file only:
 |     | 549 | Binary Tree Longest Consecutive Sequence II | Swift | Java | 
 |     | 548 | Split Array with Equal Sum | Swift | Java | 
 |     | 547 | Number of Provinces | Swift | Java | 
-|     | 546 | Remove Boxes | Swift | Java | 
+|     | 546 | Remove Boxes | [~~Swift~~](././Swift/remove-boxes.swift) | Java | 
 |     | 545 | Boundary of Binary Tree | Swift | Java | 
 |     | 544 | Output Contest Matches | Swift | Java | 
 |     | 543 | Diameter of Binary Tree | [~~Swift~~](././Swift/diameter-of-binary-tree.swift) | Java | 
