@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-525 | Java-150 |
+| X | # | Question | Swift-526 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -1316,6 +1316,7 @@ Update README file only:
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
 |     | 521 | Longest Uncommon Subsequence I | Swift | Java | 
 |     | 520 | Detect Capital | [~~Swift~~](././Swift/detect-capital.swift) | Java | 
+|     | 519 | Widest Pair of Indices With Equal Range Sum | Swift | Java | 
 |     | 518 | Coin Change 2 | [~~Swift~~](././Swift/coin-change-2.swift) | Java | 
 |     | 517 | Super Washing Machines | Swift | Java | 
 |     | 516 | Longest Palindromic Subsequence | [~~Swift~~](././Swift/longest-palindromic-subsequence.swift) | Java | 
@@ -1493,7 +1494,7 @@ Update README file only:
 |     | 333 | Largest BST Subtree | Swift | Java | 
 |     | 332 | Reconstruct Itinerary | [~~Swift~~](././Swift/reconstruct-itinerary.swift) | Java | 
 |     | 331 | Verify Preorder Serialization of a Binary Tree | [~~Swift~~](././Swift/verify-preorder-serialization-of-a-binary-tree.swift) | Java | 
-|     | 330 | Patching Array | Swift | Java | 
+|     | 330 | Patching Array | [~~Swift~~](././Swift/patching-array.swift) | Java | 
 |     | 329 | Longest Increasing Path in a Matrix | [~~Swift~~](././Swift/longest-increasing-path-in-a-matrix.swift) | Java | 
 |     | 328 | Odd Even Linked List | [~~Swift~~](././Swift/odd-even-linked-list.swift) | Java | 
 |     | 327 | Count of Range Sum | Swift | Java | 
