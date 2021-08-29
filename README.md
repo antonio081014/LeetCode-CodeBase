@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-526 | Java-150 |
+| X | # | Question | Swift-527 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -1314,7 +1314,7 @@ Update README file only:
 |     | 524 | Longest Word in Dictionary through Deleting | [~~Swift~~](././Swift/longest-word-in-dictionary-through-deleting.swift) | Java | 
 |     | 523 | Continuous Subarray Sum | Swift | Java | 
 |     | 522 | Longest Uncommon Subsequence II | Swift | Java | 
-|     | 521 | Longest Uncommon Subsequence I | Swift | Java | 
+|     | 521 | Longest Uncommon Subsequence I | [~~Swift~~](././Swift/longest-uncommon-subsequence-i.swift) | Java | 
 |     | 520 | Detect Capital | [~~Swift~~](././Swift/detect-capital.swift) | Java | 
 |     | 519 | Widest Pair of Indices With Equal Range Sum | Swift | Java | 
 |     | 518 | Coin Change 2 | [~~Swift~~](././Swift/coin-change-2.swift) | Java | 
