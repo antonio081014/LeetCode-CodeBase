@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-528 | Java-150 |
+| X | # | Question | Swift-529 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -101,7 +101,7 @@ Update README file only:
 |     | 2006 | Find the Student that Will Replace the Chalk | Swift | Java | 
 |     | 2005 | Check if All the Integers in a Range Are Covered | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
-|     | 2002 | Stone Game VIII | Swift | Java | 
+|     | 2002 | Stone Game VIII | [~~Swift~~](././Swift/stone-game-viii.swift) | Java | 
 |     | 2001 | Jump Game VII | Swift | Java | 
 |     | 2000 | Minimum Speed to Arrive on Time | Swift | Java | 
 |     | 1999 | Longer Contiguous Segments of Ones than Zeros | Swift | Java | 
