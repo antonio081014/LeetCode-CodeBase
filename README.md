@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-527 | Java-150 |
+| X | # | Question | Swift-528 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -607,7 +607,7 @@ Update README file only:
 |     | 1360 | Maximum Length of a Concatenated String with Unique Characters | [~~Swift~~](././Swift/maximum-length-of-a-concatenated-string-with-unique-characters.swift) | Java | 
 |     | 1359 | Circular Permutation in Binary Representation | Swift | Java | 
 |     | 1358 | Find Positive Integer Solution for a Given Equation | Swift | Java | 
-|     | 1352 | Maximum Profit in Job Scheduling | Swift | Java | 
+|     | 1352 | Maximum Profit in Job Scheduling | [~~Swift~~](././Swift/maximum-profit-in-job-scheduling.swift) | Java | 
 |     | 1351 | Replace the Substring for Balanced String | Swift | Java | 
 |     | 1350 | Remove Sub-Folders from the Filesystem | Swift | Java | 
 |     | 1349 | Check If It Is a Straight Line | Swift | Java | 
