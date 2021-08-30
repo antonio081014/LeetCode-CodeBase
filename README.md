@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-530 | Java-150 |
+| X | # | Question | Swift-531 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -1770,7 +1770,7 @@ Update README file only:
 |     | 40 | Combination Sum II | Swift | [~~Java~~](././Java/combination-sum-ii.java) | 
 |  X  | 39 | Combination Sum | [~~Swift~~](././Swift/combination-sum.swift) | [~~Java~~](././Java/combination-sum.java) | 
 |     | 38 | Count and Say | Swift | Java | 
-|     | 37 | Sudoku Solver | Swift | [~~Java~~](././Java/sudoku-solver.java) | 
+|  X  | 37 | Sudoku Solver | [~~Swift~~](././Swift/sudoku-solver.swift) | [~~Java~~](././Java/sudoku-solver.java) | 
 |     | 36 | Valid Sudoku | [~~Swift~~](././Swift/valid-sudoku.swift) | Java | 
 |  X  | 35 | Search Insert Position | [~~Swift~~](././Swift/search-insert-position.swift) | [~~Java~~](././Java/search-insert-position.java) | 
 |     | 34 | Find First and Last Position of Element in Sorted Array | [~~Swift~~](././Swift/find-first-and-last-position-of-element-in-sorted-array.swift) | Java | 
