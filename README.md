@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-529 | Java-150 |
+| X | # | Question | Swift-530 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
@@ -1256,7 +1256,7 @@ Update README file only:
 |     | 604 | Design Compressed String Iterator | Swift | Java | 
 |     | 600 | Non-negative Integers without Consecutive Ones | Swift | Java | 
 |     | 599 | Minimum Index Sum of Two Lists | Swift | Java | 
-|     | 598 | Range Addition II | Swift | Java | 
+|     | 598 | Range Addition II | [~~Swift~~](././Swift/range-addition-ii.swift) | Java | 
 |     | 594 | Longest Harmonious Subsequence | [~~Swift~~](././Swift/longest-harmonious-subsequence.swift) | Java | 
 |     | 593 | Valid Square | [~~Swift~~](././Swift/valid-square.swift) | Java | 
 |     | 592 | Fraction Addition and Subtraction | Swift | Java | 
