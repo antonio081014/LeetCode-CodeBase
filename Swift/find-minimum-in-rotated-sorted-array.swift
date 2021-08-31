@@ -41,3 +41,24 @@ class Solution {
         return nums[left]
     }
 }
+/**
+ * https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+ * 
+ * 
+ */ 
+// Date: Tue Aug 31 10:51:19 PDT 2021
+class Solution {
+    func findMin(_ nums: [Int]) -> Int {
+        var left = 0
+        var right = nums.count
+        while left < right {
+            let mid = left + (right - left) / 2
+            if nums[mid] >= nums[0] {
+                left = mid + 1
+            } else {
+                right = mid
+            }
+        }
+        return left == nums.count ? nums[0] : nums[left]
+    }
+}
