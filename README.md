@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-531 | Java-150 |
+| X | # | Question | Swift-532 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
+|     | 2115 | Number of Unique Good Subsequences | Swift | Java | 
+|     | 2114 | Minimum Number of Work Sessions to Finish the Tasks | Swift | Java | 
+|     | 2113 | Find the Kth Largest Integer in the Array | Swift | Java | 
+|     | 2112 | Minimum Difference Between Highest and Lowest of K Scores | Swift | Java | 
 |     | 2111 | Binary Searchable Numbers in an Unsorted Array | Swift | Java | 
 |     | 2109 | Find Array Given Subset Sums | Swift | Java | 
 |     | 2108 | Minimize the Difference Between Target and Chosen Elements | Swift | Java | 
@@ -1273,7 +1277,7 @@ Update README file only:
 |     | 568 | Maximum Vacation Days | Swift | Java | 
 |     | 567 | Permutation in String | [~~Swift~~](././Swift/permutation-in-string.swift) | Java | 
 |     | 566 | Reshape the Matrix | [~~Swift~~](././Swift/reshape-the-matrix.swift) | Java | 
-|     | 565 | Array Nesting | Swift | Java | 
+|     | 565 | Array Nesting | [~~Swift~~](././Swift/array-nesting.swift) | Java | 
 |     | 564 | Find the Closest Palindrome | Swift | Java | 
 |     | 563 | Binary Tree Tilt | [~~Swift~~](././Swift/binary-tree-tilt.swift) | Java | 
 |     | 562 | Longest Line of Consecutive One in Matrix | Swift | Java | 
