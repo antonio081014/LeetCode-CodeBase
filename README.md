@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-534 | Java-150 |
+| X | # | Question | Swift-535 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2125 | GCD Sort of an Array | Swift | Java | 
@@ -1275,7 +1275,7 @@ Update README file only:
 |     | 592 | Fraction Addition and Subtraction | Swift | Java | 
 |     | 591 | Tag Validator | Swift | Java | 
 |     | 588 | Design In-Memory File System | Swift | Java | 
-|     | 587 | Erect the Fence | Swift | Java | 
+|     | 587 | Erect the Fence | [~~Swift~~](././Swift/erect-the-fence.swift) | Java | 
 |     | 583 | Delete Operation for Two Strings | [~~Swift~~](././Swift/delete-operation-for-two-strings.swift) | Java | 
 |     | 582 | Kill Process | Swift | Java | 
 |     | 581 | Shortest Unsorted Continuous Subarray | [~~Swift~~](././Swift/shortest-unsorted-continuous-subarray.swift) | Java | 
