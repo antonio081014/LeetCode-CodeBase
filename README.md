@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-533 | Java-150 |
+| X | # | Question | Swift-534 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2125 | GCD Sort of an Array | Swift | Java | 
@@ -967,7 +967,7 @@ Update README file only:
 |     | 938 | Numbers At Most N Given Digit Set | [~~Swift~~](././Swift/numbers-at-most-n-given-digit-set.swift) | Java | 
 |     | 937 | Online Stock Span | [~~Swift~~](././Swift/online-stock-span.swift) | Java | 
 |     | 936 | RLE Iterator | Swift | Java | 
-|     | 935 | Orderly Queue | Swift | Java | 
+|     | 935 | Orderly Queue | [~~Swift~~](././Swift/orderly-queue.swift) | Java | 
 |     | 934 | Bitwise ORs of Subarrays | Swift | Java | 
 |     | 933 | Increasing Order Search Tree | [~~Swift~~](././Swift/increasing-order-search-tree.swift) | Java | 
 |     | 932 | Monotonic Array | Swift | Java | 
