@@ -11,9 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-532 | Java-150 |
+| X | # | Question | Swift-533 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
+|     | 2125 | GCD Sort of an Array | Swift | Java | 
+|     | 2124 | First Day Where You Have Been in All the Rooms | Swift | Java | 
+|     | 2123 | The Number of Weak Characters in the Game | Swift | Java | 
+|     | 2122 | Count Special Quadruplets | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
 |     | 2115 | Number of Unique Good Subsequences | Swift | Java | 
 |     | 2114 | Minimum Number of Work Sessions to Finish the Tasks | Swift | Java | 
@@ -24,6 +28,10 @@ Update README file only:
 |     | 2108 | Minimize the Difference Between Target and Chosen Elements | Swift | Java | 
 |     | 2107 | Find Unique Binary String | Swift | Java | 
 |     | 2106 | Find Greatest Common Divisor of Array | Swift | Java | 
+|     | 2105 | The Number of Good Subsets | Swift | Java | 
+|     | 2104 | Operations on Tree | Swift | Java | 
+|     | 2103 | Find All Groups of Farmland | Swift | Java | 
+|     | 2102 | Find the Middle Index in Array | Swift | Java | 
 |     | 2101 | Last Day Where You Can Still Cross | Swift | Java | 
 |     | 2100 | Minimum Non-Zero Product of the Array Elements | Swift | Java | 
 |     | 2099 | Number of Strings That Appear as Substrings in Word | Swift | Java | 
@@ -124,6 +132,7 @@ Update README file only:
 |     | 1983 | Maximum Population Year | Swift | Java | 
 |     | 1982 | Remove Duplicates From an Unsorted Linked List | Swift | Java | 
 |     | 1980 | Faulty Sensor | Swift | Java | 
+|     | 1979 | Maximum Number of People That Can Be Caught in Tag | Swift | Java | 
 |     | 1978 | Minimum Adjacent Swaps to Reach the Kth Smallest Number | Swift | Java | 
 |     | 1977 | Minimum Interval to Include Each Query | Swift | Java | 
 |     | 1976 | Splitting a String Into Descending Consecutive Values | Swift | Java | 
@@ -307,7 +316,7 @@ Update README file only:
 |     | 1755 | Defuse the Bomb | Swift | Java | 
 |     | 1753 | Path With Minimum Effort | [~~Swift~~](././Swift/path-with-minimum-effort.swift) | Java | 
 |     | 1752 | Arithmetic Subarrays | Swift | Java | 
-|     | 1751 | Slowest Key | Swift | Java | 
+|     | 1751 | Slowest Key | [~~Swift~~](././Swift/slowest-key.swift) | Java | 
 |     | 1750 | Check If Two Expression Trees are Equivalent | Swift | Java | 
 |     | 1748 | Best Team With No Conflicts | Swift | Java | 
 |     | 1747 | Lexicographically Smallest String After Applying Operations | Swift | Java | 
