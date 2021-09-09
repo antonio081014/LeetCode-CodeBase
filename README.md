@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-535 | Java-150 |
+| X | # | Question | Swift-536 | Java-150 |
 |---|---|---|---|---|
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2125 | GCD Sort of an Array | Swift | Java | 
@@ -1024,7 +1024,7 @@ Update README file only:
 |     | 881 | Loud and Rich | Swift | Java | 
 |     | 880 | Rectangle Area II | Swift | Java | 
 |     | 879 | Maximize Distance to Closest Person | [~~Swift~~](././Swift/maximize-distance-to-closest-person.swift) | Java | 
-|     | 878 | Shifting Letters | Swift | Java | 
+|     | 878 | Shifting Letters | [~~Swift~~](././Swift/shifting-letters.swift) | Java | 
 |     | 877 | Shortest Path Visiting All Nodes | Swift | Java | 
 |     | 876 | Hand of Straights | Swift | Java | 
 |     | 875 | Longest Mountain in Array | [~~Swift~~](././Swift/longest-mountain-in-array.swift) | Java | 
