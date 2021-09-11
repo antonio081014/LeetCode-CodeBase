@@ -42,3 +42,27 @@ class Solution {
 print("\(numberOfArithmeticSlices([2,2,3,4]))")
 //print("\(numberOfArithmeticSlices([1,2,3,4]))")
 //print("\(numberOfArithmeticSlices([2,4,6,8,10]))")
+/**
+ * https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+ * 
+ * 
+ */ 
+// Date: Sat Sep 11 01:10:39 PDT 2021
+class Solution {
+    func numberOfArithmeticSlices(_ nums: [Int]) -> Int {
+        let n = nums.count
+        var dp = Array(repeating: [Int : Int](), count: n)
+        var result = 0
+        for end in stride(from: 1, to: n, by: 1) {
+            for start in stride(from: 0, to: end, by: 1) {
+                let diff = nums[end] - nums[start]
+                if let x = dp[start][diff] {
+                    result += x
+                }
+                dp[end][diff, default: 0] += dp[start][diff, default: 0] + 1
+            }
+        }
+        
+        return result
+    }
+}

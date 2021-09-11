@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-536 | Java-150 |
 |---|---|---|---|---|
+|     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2125 | GCD Sort of an Array | Swift | Java | 
 |     | 2124 | First Day Where You Have Been in All the Rooms | Swift | Java | 
