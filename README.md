@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-536 | Java-150 |
+| X | # | Question | Swift-537 | Java-150 |
 |---|---|---|---|---|
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
@@ -655,7 +655,7 @@ Update README file only:
 |     | 1300 | Critical Connections in a Network | Swift | Java | 
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
 |     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
-|     | 1297 | Maximum Number of Balloons | Swift | Java | 
+|     | 1297 | Maximum Number of Balloons | [~~Swift~~](././Swift/maximum-number-of-balloons.swift) | Java | 
 |     | 1296 | Kth Ancestor of a Tree Node | Swift | Java | 
 |     | 1295 | Minimum Garden Perimeter to Collect Enough Apples | Swift | Java | 
 |     | 1293 | Three Consecutive Odds | Swift | Java | 
