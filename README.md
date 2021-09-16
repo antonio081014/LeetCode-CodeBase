@@ -11,9 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-537 | Java-150 |
+| X | # | Question | Swift-538 | Java-150 |
 |---|---|---|---|---|
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
+|     | 2131 | Smallest Missing Genetic Value in Each Subtree | Swift | Java | 
+|     | 2130 | Maximum Product of the Length of Two Palindromic Subsequences | Swift | Java | 
+|     | 2129 | Number of Pairs of Interchangeable Rectangles | Swift | Java | 
+|     | 2128 | Reverse Prefix of Word | Swift | Java | 
 |     | 2126 | Count Nodes Equal to Sum of Descendants | Swift | Java | 
 |     | 2125 | GCD Sort of an Array | Swift | Java | 
 |     | 2124 | First Day Where You Have Been in All the Rooms | Swift | Java | 
@@ -888,7 +892,7 @@ Update README file only:
 |     | 1023 | Time Based Key-Value Store | Swift | Java | 
 |     | 1022 | Unique Paths III | [~~Swift~~](././Swift/unique-paths-iii.swift) | Java | 
 |     | 1021 | Distribute Coins in Binary Tree | Swift | Java | 
-|     | 1020 | Longest Turbulent Subarray | Swift | Java | 
+|     | 1020 | Longest Turbulent Subarray | [~~Swift~~](././Swift/longest-turbulent-subarray.swift) | Java | 
 |     | 1019 | Squares of a Sorted Array | [~~Swift~~](././Swift/squares-of-a-sorted-array.swift) | Java | 
 |     | 1018 | Largest Perimeter Triangle | Swift | Java | 
 |     | 1017 | Odd Even Jump | Swift | Java | 
