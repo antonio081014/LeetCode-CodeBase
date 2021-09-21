@@ -11,9 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-539 | Java-150 |
+| X | # | Question | Swift-540 | Java-150 |
 |---|---|---|---|---|
+|     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
+|     | 2140 | Longest Subsequence Repeated k Times | Swift | Java | 
+|     | 2139 | Detect Squares | Swift | Java | 
+|     | 2138 | Sum of Beauty in the Array | Swift | Java | 
+|     | 2137 | Final Value of Variable After Performing Operations | Swift | Java | 
 |     | 2131 | Smallest Missing Genetic Value in Each Subtree | Swift | Java | 
 |     | 2130 | Maximum Product of the Length of Two Palindromic Subsequences | Swift | Java | 
 |     | 2129 | Number of Pairs of Interchangeable Rectangles | Swift | Java | 
@@ -24,6 +29,10 @@ Update README file only:
 |     | 2123 | The Number of Weak Characters in the Game | Swift | Java | 
 |     | 2122 | Count Special Quadruplets | Swift | Java | 
 |     | 2121 | Find if Path Exists in Graph | Swift | Java | 
+|     | 2119 | Minimum Number of Operations to Make Array Continuous | Swift | Java | 
+|     | 2118 | Maximum Earnings From Taxi | Swift | Java | 
+|     | 2117 | Find Original Array From Doubled Array | Swift | Java | 
+|     | 2116 | Count Number of Pairs With Absolute Difference K | Swift | Java | 
 |     | 2115 | Number of Unique Good Subsequences | Swift | Java | 
 |     | 2114 | Minimum Number of Work Sessions to Finish the Tasks | Swift | Java | 
 |     | 2113 | Find the Kth Largest Integer in the Array | Swift | Java | 
@@ -597,7 +606,7 @@ Update README file only:
 |     | 1403 | Palindrome Partitioning III | Swift | Java | 
 |     | 1402 | Count Square Submatrices with All Ones | [~~Swift~~](././Swift/count-square-submatrices-with-all-ones.swift) | Java | 
 |     | 1401 | Number of Burgers with No Waste of Ingredients | Swift | Java | 
-|     | 1400 | Find Winner on a Tic Tac Toe Game | Swift | Java | 
+|     | 1400 | Find Winner on a Tic Tac Toe Game | [~~Swift~~](././Swift/find-winner-on-a-tic-tac-toe-game.swift) | Java | 
 |     | 1398 | Number of Ways to Stay in the Same Place After Some Steps | Swift | Java | 
 |     | 1397 | Search Suggestions System | [~~Swift~~](././Swift/search-suggestions-system.swift) | Java | 
 |     | 1396 | Count Servers that Communicate | Swift | Java | 
