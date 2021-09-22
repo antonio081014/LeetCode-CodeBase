@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-540 | Java-150 |
+| X | # | Question | Swift-541 | Java-150 |
 |---|---|---|---|---|
 |     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
@@ -1374,7 +1374,7 @@ Update README file only:
 |     | 488 | Zuma Game | Swift | Java | 
 |     | 487 | Max Consecutive Ones II | Swift | Java | 
 |     | 486 | Predict the Winner | Swift | Java | 
-|     | 485 | Max Consecutive Ones | Swift | Java | 
+|     | 485 | Max Consecutive Ones | [~~Swift~~](././Swift/max-consecutive-ones.swift) | Java | 
 |     | 484 | Find Permutation | Swift | Java | 
 |     | 483 | Smallest Good Base | Swift | Java | 
 |     | 482 | License Key Formatting | Swift | Java | 
