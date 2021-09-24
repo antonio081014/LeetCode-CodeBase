@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-542 | Java-150 |
+| X | # | Question | Swift-543 | Java-150 |
 |---|---|---|---|---|
 |     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
@@ -716,7 +716,7 @@ Update README file only:
 |     | 1240 | Stone Game II | Swift | Java | 
 |     | 1239 | Largest 1-Bordered Square | Swift | Java | 
 |     | 1238 | Alphabet Board Path | Swift | Java | 
-|     | 1236 | N-th Tribonacci Number | Swift | Java | 
+|     | 1236 | N-th Tribonacci Number | [~~Swift~~](././Swift/n-th-tribonacci-number.swift) | Java | 
 |     | 1234 | Number of Paths with Max Score | Swift | Java | 
 |     | 1233 | Number of Ships in a Rectangle | Swift | Java | 
 |     | 1232 | Sum of Mutated Array Closest to Target | Swift | Java | 
