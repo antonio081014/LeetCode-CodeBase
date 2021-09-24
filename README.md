@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-541 | Java-150 |
+| X | # | Question | Swift-542 | Java-150 |
 |---|---|---|---|---|
 |     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
@@ -703,7 +703,7 @@ Update README file only:
 |     | 1255 | Reverse Subarray To Maximize Array Value | Swift | Java | 
 |     | 1254 | Deepest Leaves Sum | [~~Swift~~](././Swift/deepest-leaves-sum.swift) | Java | 
 |     | 1253 | Sort the Matrix Diagonally | Swift | Java | 
-|     | 1252 | Break a Palindrome | Swift | Java | 
+|     | 1252 | Break a Palindrome | [~~Swift~~](././Swift/break-a-palindrome.swift) | Java | 
 |     | 1251 | Longest Chunked Palindrome Decomposition | Swift | Java | 
 |     | 1250 | Longest Common Subsequence | [~~Swift~~](././Swift/longest-common-subsequence.swift) | Java | 
 |     | 1249 | Snapshot Array | Swift | Java | 
