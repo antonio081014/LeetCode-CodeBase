@@ -11,9 +11,10 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-543 | Java-150 |
+| X | # | Question | Swift-544 | Java-150 |
 |---|---|---|---|---|
 |     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
+|     | 2142 | Average Height of Buildings in Each Segment | Swift | Java | 
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
 |     | 2140 | Longest Subsequence Repeated k Times | Swift | Java | 
 |     | 2139 | Detect Squares | Swift | Java | 
@@ -595,7 +596,7 @@ Update README file only:
 |     | 1423 | Maximum Number of Occurrences of a Substring | Swift | Java | 
 |     | 1422 | Divide Array in Sets of K Consecutive Numbers | Swift | Java | 
 |     | 1421 | Find Numbers with Even Number of Digits | Swift | Java | 
-|     | 1414 | Shortest Path in a Grid with Obstacles Elimination | Swift | Java | 
+|     | 1414 | Shortest Path in a Grid with Obstacles Elimination | [~~Swift~~](././Swift/shortest-path-in-a-grid-with-obstacles-elimination.swift) | Java | 
 |     | 1413 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Swift | Java | 
 |     | 1411 | Convert Binary Number in a Linked List to Integer | [~~Swift~~](././Swift/convert-binary-number-in-a-linked-list-to-integer.swift) | Java | 
 |     | 1409 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix | Swift | Java | 
