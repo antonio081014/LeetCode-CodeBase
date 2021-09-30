@@ -11,9 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-545 | Java-150 |
+| X | # | Question | Swift-546 | Java-150 |
 |---|---|---|---|---|
 |     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
+|     | 2147 | The Score of Students Solving Math Expression | Swift | Java | 
+|     | 2146 | Check if Word Can Be Placed In Crossword | Swift | Java | 
+|     | 2145 | Grid Game | Swift | Java | 
+|     | 2144 | Maximum Difference Between Increasing Elements | Swift | Java | 
 |     | 2142 | Average Height of Buildings in Each Segment | Swift | Java | 
 |     | 2141 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
 |     | 2140 | Longest Subsequence Repeated k Times | Swift | Java | 
@@ -68,6 +72,7 @@ Update README file only:
 |     | 2078 | Maximum Compatibility Score Sum | Swift | Java | 
 |     | 2077 | Largest Number After Mutating Substring | Swift | Java | 
 |     | 2076 | Sum of Digits of String After Convert | Swift | Java | 
+|     | 2075 | Brightest Position on Street | Swift | Java | 
 |     | 2074 | Erect the Fence II | Swift | Java | 
 |     | 2073 | Minimum Time For K Virus Variants to Spread | Swift | Java | 
 |     | 2072 | Maximum of Minimum Values in All Subarrays | Swift | Java | 
@@ -1185,7 +1190,7 @@ Update README file only:
 |     | 728 | Self Dividing Numbers | Swift | Java | 
 |     | 727 | Minimum Window Subsequence | Swift | Java | 
 |     | 726 | Number of Atoms | Swift | Java | 
-|     | 725 | Split Linked List in Parts | Swift | Java | 
+|     | 725 | Split Linked List in Parts | [~~Swift~~](././Swift/split-linked-list-in-parts.swift) | Java | 
 |     | 724 | Find Pivot Index | Swift | Java | 
 |     | 723 | Candy Crush | Swift | Java | 
 |     | 722 | Remove Comments | Swift | Java | 
