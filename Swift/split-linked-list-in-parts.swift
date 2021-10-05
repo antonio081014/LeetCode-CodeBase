@@ -64,4 +64,33 @@ class Solution {
         }
         return result
     }
+}/**
+ * https://leetcode.com/problems/split-linked-list-in-parts/
+ * 
+ * 
+ */ 
+// Date: Mon Oct  4 19:13:19 PDT 2021
+class Solution {
+    func canPartitionKSubsets(_ nums: [Int], _ k: Int) -> Bool {
+        let sum = nums.reduce(0) { $0 + $1 }
+        guard sum % k == 0 else { return false }
+        let target = sum / k
+        func dfs(_ candidates: inout [Bool], _ start: Int, _ cSum: Int, _ group: Int) -> Bool {
+            if group == 1 { return true }
+            if cSum == target {
+                return dfs(&candidates, 0, 0, group - 1)
+            }
+            for index in start ..< nums.count {
+                if candidates[index] == true || cSum + nums[index] > target { continue }
+                candidates[index] = true
+                if dfs(&candidates, index + 1, cSum + nums[index], group) { return true }
+                candidates[index] = false
+            }
+            return false
+        }
+        
+        var cand = Array(repeating: false, count: nums.count)
+        return dfs(&cand, 0, 0, k)
+    }
+    
 }

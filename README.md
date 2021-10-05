@@ -13,6 +13,10 @@ Update README file only:
 
 | X | # | Question | Swift-546 | Java-150 |
 |---|---|---|---|---|
+|     | 2157 | Smallest K-Length Subsequence With Occurrences of a Letter | Swift | Java | 
+|     | 2156 | Stone Game IX | Swift | Java | 
+|     | 2155 | Find Missing Observations | Swift | Java | 
+|     | 2154 | Minimum Moves to Convert String | Swift | Java | 
 |     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
 |     | 2147 | The Score of Students Solving Math Expression | Swift | Java | 
 |     | 2146 | Check if Word Can Be Placed In Crossword | Swift | Java | 
@@ -24,6 +28,10 @@ Update README file only:
 |     | 2139 | Detect Squares | Swift | Java | 
 |     | 2138 | Sum of Beauty in the Array | Swift | Java | 
 |     | 2137 | Final Value of Variable After Performing Operations | Swift | Java | 
+|     | 2135 | Maximum Number of Ways to Partition an Array | Swift | Java | 
+|     | 2134 | Maximize the Confusion of an Exam | Swift | Java | 
+|     | 2133 | Number of Pairs of Strings With Concatenation Equal to Target | Swift | Java | 
+|     | 2132 | Convert 1D Array Into 2D Array | Swift | Java | 
 |     | 2131 | Smallest Missing Genetic Value in Each Subtree | Swift | Java | 
 |     | 2130 | Maximum Product of the Length of Two Palindromic Subsequences | Swift | Java | 
 |     | 2129 | Number of Pairs of Interchangeable Rectangles | Swift | Java | 
