@@ -69,3 +69,27 @@ class Solution {
         return ways[n]
     }
 }
+/**
+ * https://leetcode.com/problems/climbing-stairs/
+ * 
+ * 
+ */ 
+// Date: Mon Oct  4 19:13:45 PDT 2021
+class Solution {
+    func climbStairs(_ n: Int) -> Int {
+        var ways0 = 0
+        var ways1 = 1
+        for x in 1 ... n {
+            var sum = 0
+            if x >= 1 {
+                sum += ways1
+            }
+            if x >= 2 {
+                sum += ways0
+            }
+            ways0 = ways1
+            ways1 = sum
+        }
+        return ways1
+    }
+}
