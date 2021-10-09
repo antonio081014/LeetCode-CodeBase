@@ -1365,6 +1365,7 @@ Update README file only:
 |     | 514 | Freedom Trail | Swift | Java | 
 |     | 513 | Find Bottom Left Tree Value | Swift | Java | 
 |     | 511 | All Paths from Source Lead to Destination | Swift | Java | 
+|     | 510 | Count Subarrays With More Ones Than Zeros | Swift | Java | 
 |     | 509 | Inorder Successor in BST II | Swift | Java | 
 |     | 508 | Most Frequent Subtree Sum | Swift | Java | 
 |     | 507 | Perfect Number | Swift | Java | 

@@ -242,3 +242,106 @@ class Solution {
         return Array(result)
     }
 }
+/**
+ * https://leetcode.com/problems/word-search-ii/
+ * 
+ * 
+ */ 
+// Date: Fri Oct  8 23:45:10 PDT 2021
+class Solution {
+    class TrieNode {
+        var isWord: Bool 
+        var children: [Character: TrieNode]
+        
+        convenience init() {
+            self.init(isWord: false)
+        }
+        
+        init(isWord: Bool) {
+            self.isWord = isWord
+            self.children = [:]
+        }
+    }
+    
+    class Trie {
+        let root: TrieNode
+        init() {
+            self.root = TrieNode()
+        }
+        
+        func insert(_ word: String) {
+            var node = self.root
+            for w in word {
+                if let child = node.children[w] {
+                    node = child
+                } else {
+                    node.children[w] = TrieNode()
+                    node = node.children[w]!
+                }
+            }
+            node.isWord = true
+        }
+        
+        func start(with word: String) -> Bool {
+            var node = self.root
+            for c in word {
+                if let child = node.children[c] {
+                    node = child
+                } else {
+                    return false
+                }
+            }
+            return true
+        }
+        
+        func search(_ word: String) -> Bool {
+            var node = self.root
+            for c in word {
+                if let child = node.children[c] {
+                    node = child
+                } else {
+                    return false
+                }
+            }
+            return node.isWord
+        }
+    }
+    
+    func findWords(_ board: [[Character]], _ words: [String]) -> [String] {
+        let trie = Trie()
+        for word in words {
+            trie.insert(word)
+        }
+        
+        var result: Set<String> = []
+        
+        let n = board.count
+        guard let m = board.first?.count else { return [] }
+        
+        func visit(_ x: Int, _ y: Int, _ prefix: String, _ node: TrieNode, _ visited: inout [[Bool]]) {
+            let word = prefix + String(board[x][y])
+            guard let cNode = node.children[board[x][y]] else { return }
+            if cNode.isWord { result.insert(word) }
+            visited[x][y] = true
+            let dt = [0, 1, 0, -1, 0]
+            
+            for index in 1 ..< dt.count {
+                let xx = x + dt[index - 1]
+                let yy = y + dt[index]
+                if xx >= 0, xx < n, yy >= 0, yy < m, visited[xx][yy] == false {
+                    visit(xx, yy, word, cNode, &visited)
+                }
+            }
+            visited[x][y] = false
+        }
+        
+        for x in 0 ..< n {
+            for y in 0 ..< m {
+                var visited = Array(repeating: Array(repeating: false, count: m), count: n)
+                visit(x, y, "", trie.root, &visited)
+            }
+        }
+        
+        return Array(result)
+    }
+}
