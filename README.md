@@ -13,6 +13,10 @@ Update README file only:
 
 | X | # | Question | Swift-546 | Java-150 |
 |---|---|---|---|---|
+|     | 2162 | Partition Array Into Two Arrays to Minimize Sum Difference | Swift | Java | 
+|     | 2161 | Stock Price Fluctuation  | Swift | Java | 
+|     | 2160 | Minimum Operations to Make a Uni-Value Grid | Swift | Java | 
+|     | 2159 | Two Out of Three | Swift | Java | 
 |     | 2157 | Smallest K-Length Subsequence With Occurrences of a Letter | Swift | Java | 
 |     | 2156 | Stone Game IX | Swift | Java | 
 |     | 2155 | Find Missing Observations | Swift | Java | 
