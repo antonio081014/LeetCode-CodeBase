@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-546 | Java-150 |
+| X | # | Question | Swift-547 | Java-150 |
 |---|---|---|---|---|
+|     | 2171 | Second Minimum Time to Reach Destination | Swift | Java | 
+|     | 2170 | Count Number of Maximum Bitwise-OR Subsets | Swift | Java | 
+|     | 2169 | Simple Bank System | Swift | Java | 
+|     | 2168 | Check if Numbers Are Ascending in a Sentence | Swift | Java | 
 |     | 2162 | Partition Array Into Two Arrays to Minimize Sum Difference | Swift | Java | 
 |     | 2161 | Stock Price Fluctuation  | Swift | Java | 
 |     | 2160 | Minimum Operations to Make a Uni-Value Grid | Swift | Java | 
@@ -22,6 +26,10 @@ Update README file only:
 |     | 2155 | Find Missing Observations | Swift | Java | 
 |     | 2154 | Minimum Moves to Convert String | Swift | Java | 
 |     | 2153 | Subtree Removal Game with Fibonacci Tree | Swift | Java | 
+|     | 2151 | The Time When the Network Becomes Idle | Swift | Java | 
+|     | 2150 | Kth Smallest Product of Two Sorted Arrays | Swift | Java | 
+|     | 2149 | Remove Colored Pieces if Both Neighbors are the Same Color | Swift | Java | 
+|     | 2148 | Minimum Number of Moves to Seat Everyone | Swift | Java | 
 |     | 2147 | The Score of Students Solving Math Expression | Swift | Java | 
 |     | 2146 | Check if Word Can Be Placed In Crossword | Swift | Java | 
 |     | 2145 | Grid Game | Swift | Java | 
@@ -154,6 +162,7 @@ Update README file only:
 |     | 1995 | Finding Pairs With a Certain Sum | Swift | Java | 
 |     | 1994 | Minimum Number of Swaps to Make the Binary String Alternating | Swift | Java | 
 |     | 1993 | Sum of All Subset XOR Totals | Swift | Java | 
+|     | 1992 | Sort Linked List Already Sorted Using Absolute Values | Swift | Java | 
 |     | 1990 | Get Biggest Three Rhombus Sums in a Grid | Swift | Java | 
 |     | 1989 | Minimum XOR Sum of Two Arrays | Swift | Java | 
 |     | 1988 | Minimize Maximum Pair Sum in Array | Swift | Java | 
@@ -1368,6 +1377,7 @@ Update README file only:
 |     | 515 | Find Largest Value in Each Tree Row | Swift | Java | 
 |     | 514 | Freedom Trail | Swift | Java | 
 |     | 513 | Find Bottom Left Tree Value | Swift | Java | 
+|     | 512 | Maximum Alternating Subarray Sum | Swift | Java | 
 |     | 511 | All Paths from Source Lead to Destination | Swift | Java | 
 |     | 510 | Count Subarrays With More Ones Than Zeros | Swift | Java | 
 |     | 509 | Inorder Successor in BST II | Swift | Java | 
@@ -1647,7 +1657,7 @@ Update README file only:
 |     | 225 | Implement Stack using Queues | Swift | [~~Java~~](././Java/implement-stack-using-queues.java) | 
 |     | 224 | Basic Calculator | Swift | Java | 
 |     | 223 | Rectangle Area | Swift | [~~Java~~](././Java/rectangle-area.java) | 
-|     | 222 | Count Complete Tree Nodes | Swift | [~~Java~~](././Java/count-complete-tree-nodes.java) | 
+|  X  | 222 | Count Complete Tree Nodes | [~~Swift~~](././Swift/count-complete-tree-nodes.swift) | [~~Java~~](././Java/count-complete-tree-nodes.java) | 
 |     | 221 | Maximal Square | [~~Swift~~](././Swift/maximal-square.swift) | Java | 
 |     | 220 | Contains Duplicate III | [~~Swift~~](././Swift/contains-duplicate-iii.swift) | Java | 
 |     | 219 | Contains Duplicate II | [~~Swift~~](././Swift/contains-duplicate-ii.swift) | Java | 
