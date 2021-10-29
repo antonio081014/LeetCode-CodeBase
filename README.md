@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-547 | Java-150 |
+| X | # | Question | Swift-548 | Java-150 |
 |---|---|---|---|---|
+|     | 2176 | Parallel Courses III | Swift | Java | 
+|     | 2175 | Count Nodes With the Highest Score | Swift | Java | 
+|     | 2174 | Next Greater Numerically Balanced Number | Swift | Java | 
+|     | 2173 | Number of Valid Words in a Sentence | Swift | Java | 
 |     | 2171 | Second Minimum Time to Reach Destination | Swift | Java | 
 |     | 2170 | Count Number of Maximum Bitwise-OR Subsets | Swift | Java | 
 |     | 2169 | Simple Bank System | Swift | Java | 
@@ -86,6 +90,7 @@ Update README file only:
 |     | 2085 | Array With Elements Not Equal to Average of Neighbors | Swift | Java | 
 |     | 2084 | Maximum Number of Weeks for Which You Can Work | Swift | Java | 
 |     | 2083 | Three Divisors | Swift | Java | 
+|     | 2082 | Minimum Cost to Separate Sentence Into Rows | Swift | Java | 
 |     | 2081 | Minimum Total Space Wasted With K Resizing Operations | Swift | Java | 
 |     | 2080 | Check if Move is Legal | Swift | Java | 
 |     | 2079 | Delete Duplicate Folders in System | Swift | Java | 
@@ -1696,7 +1701,7 @@ Update README file only:
 |     | 170 | Two Sum III - Data structure design | Swift | Java | 
 |  X  | 169 | Majority Element | [~~Swift~~](././Swift/majority-element.swift) | [~~Java~~](././Java/majority-element.java) | 
 |     | 168 | Excel Sheet Column Title | [~~Swift~~](././Swift/excel-sheet-column-title.swift) | Java | 
-|     | 167 | Two Sum II - Input array is sorted | [~~Swift~~](././Swift/two-sum-ii-input-array-is-sorted.swift) | Java | 
+|     | 167 | Two Sum II - Input Array Is Sorted | [~~Swift~~](././Swift/two-sum-ii-input-array-is-sorted.swift) | Java | 
 |     | 166 | Fraction to Recurring Decimal | Swift | Java | 
 |     | 165 | Compare Version Numbers | [~~Swift~~](././Swift/compare-version-numbers.swift) | Java | 
 |     | 164 | Maximum Gap | [~~Swift~~](././Swift/maximum-gap.swift) | Java | 
@@ -1705,7 +1710,7 @@ Update README file only:
 |     | 161 | One Edit Distance | Swift | Java | 
 |     | 160 | Intersection of Two Linked Lists | [~~Swift~~](././Swift/intersection-of-two-linked-lists.swift) | Java | 
 |     | 159 | Longest Substring with At Most Two Distinct Characters | Swift | Java | 
-|     | 158 | Read N Characters Given Read4 II - Call multiple times | Swift | Java | 
+|     | 158 | Read N Characters Given read4 II - Call Multiple Times | Swift | Java | 
 |     | 157 | Read N Characters Given Read4 | Swift | Java | 
 |     | 156 | Binary Tree Upside Down | Swift | Java | 
 |     | 155 | Min Stack | [~~Swift~~](././Swift/min-stack.swift) | Java | 
@@ -1857,7 +1862,7 @@ Update README file only:
 |     | 9 | Palindrome Number | [~~Swift~~](././Swift/palindrome-number.swift) | Java | 
 |     | 8 | String to Integer (atoi) | Swift | Java | 
 |  X  | 7 | Reverse Integer | [~~Swift~~](././Swift/reverse-integer.swift) | [~~Java~~](././Java/reverse-integer.java) | 
-|     | 6 | ZigZag Conversion | [~~Swift~~](././Swift/zigzag-conversion.swift) | Java | 
+|     | 6 | Zigzag Conversion | [~~Swift~~](././Swift/zigzag-conversion.swift) | Java | 
 |     | 5 | Longest Palindromic Substring | [~~Swift~~](././Swift/longest-palindromic-substring.swift) | Java | 
 |  X  | 4 | Median of Two Sorted Arrays | [~~Swift~~](././Swift/median-of-two-sorted-arrays.swift) | [~~Java~~](././Java/median-of-two-sorted-arrays.java) | 
 |     | 3 | Longest Substring Without Repeating Characters | [~~Swift~~](././Swift/longest-substring-without-repeating-characters.swift) | Java | 
