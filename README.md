@@ -11,8 +11,26 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-548 | Java-150 |
+| X | # | Question | Swift-547 | Java-150 |
 |---|---|---|---|---|
+|     | 2209 | Number of Equal Count Substrings | Swift | Java | 
+|     | 2203 | Number of Spaces Cleaning Robot Cleaned | Swift | Java | 
+|     | 2198 | Process Restricted Friend Requests | Swift | Java | 
+|     | 2197 | Decode the Slanted Ciphertext | Swift | Java | 
+|     | 2196 | Reverse Nodes in Even Length Groups | Swift | Java | 
+|     | 2195 | Time Needed to Buy Tickets | Swift | Java | 
+|     | 2189 | Maximum Path Quality of a Graph | Swift | Java | 
+|     | 2188 | Minimized Maximum of Products Distributed to Any Store | Swift | Java | 
+|     | 2187 | Vowels of All Substrings | Swift | Java | 
+|     | 2186 | Count Vowel Substrings of a String | Swift | Java | 
+|     | 2184 | Check if an Original String Exists Given Two Encoded Strings | Swift | Java | 
+|     | 2183 | Minimum Operations to Convert Number | Swift | Java | 
+|     | 2182 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Swift | Java | 
+|     | 2181 | Smallest Index With Equal Value | Swift | Java | 
+|     | 2180 | Maximum Number of Tasks You Can Assign | Swift | Java | 
+|     | 2179 | Most Beautiful Item for Each Query | Swift | Java | 
+|     | 2178 | Walking Robot Simulation II | Swift | Java | 
+|     | 2177 | Check Whether Two Strings are Almost Equivalent | Swift | Java | 
 |     | 2176 | Parallel Courses III | Swift | Java | 
 |     | 2175 | Count Nodes With the Highest Score | Swift | Java | 
 |     | 2174 | Next Greater Numerically Balanced Number | Swift | Java | 
@@ -21,6 +39,10 @@ Update README file only:
 |     | 2170 | Count Number of Maximum Bitwise-OR Subsets | Swift | Java | 
 |     | 2169 | Simple Bank System | Swift | Java | 
 |     | 2168 | Check if Numbers Are Ascending in a Sentence | Swift | Java | 
+|     | 2166 | Number of Valid Move Combinations On Chessboard | Swift | Java | 
+|     | 2165 | Plates Between Candles | Swift | Java | 
+|     | 2164 | Two Best Non-Overlapping Events | Swift | Java | 
+|     | 2163 | Kth Distinct String in an Array | Swift | Java | 
 |     | 2162 | Partition Array Into Two Arrays to Minimize Sum Difference | Swift | Java | 
 |     | 2161 | Stock Price Fluctuation  | Swift | Java | 
 |     | 2160 | Minimum Operations to Make a Uni-Value Grid | Swift | Java | 
