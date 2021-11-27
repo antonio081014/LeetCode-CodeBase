@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-547 | Java-150 |
+| X | # | Question | Swift-548 | Java-150 |
 |---|---|---|---|---|
+|     | 2225 | Substrings That Begin and End With the Same Letter | Swift | Java | 
+|     | 2218 | Paths in Maze That Lead to Same Room | Swift | Java | 
 |     | 2209 | Number of Equal Count Substrings | Swift | Java | 
 |     | 2203 | Number of Spaces Cleaning Robot Cleaned | Swift | Java | 
+|     | 2202 | Sum of k-Mirror Numbers | Swift | Java | 
+|     | 2199 | Two Furthest Houses With Different Colors | Swift | Java | 
 |     | 2198 | Process Restricted Friend Requests | Swift | Java | 
 |     | 2197 | Decode the Slanted Ciphertext | Swift | Java | 
 |     | 2196 | Reverse Nodes in Even Length Groups | Swift | Java | 
@@ -572,7 +576,7 @@ Update README file only:
 |     | 1517 | Restore The Array | Swift | Java | 
 |     | 1516 | The k-th Lexicographical String of All Happy Strings of Length n | Swift | Java | 
 |     | 1515 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Swift | Java | 
-|     | 1514 | Minimum Value to Get Positive Step by Step Sum | Swift | Java | 
+|     | 1514 | Minimum Value to Get Positive Step by Step Sum | [~~Swift~~](././Swift/minimum-value-to-get-positive-step-by-step-sum.swift) | Java | 
 |     | 1513 | Find All Good Strings | Swift | Java | 
 |     | 1512 | Design Underground System | [~~Swift~~](././Swift/design-underground-system.swift) | Java | 
 |     | 1511 | Count Number of Teams | Swift | Java | 
@@ -712,6 +716,7 @@ Update README file only:
 |     | 1319 | Unique Number of Occurrences | Swift | Java | 
 |     | 1313 | Count Ways to Build Rooms in an Ant Colony | Swift | Java | 
 |     | 1311 | Largest Magic Square | Swift | Java | 
+|     | 1310 | Watering Plants | Swift | Java | 
 |     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 
 |     | 1308 | Smallest String With Swaps | Swift | Java | 
 |     | 1307 | Ugly Number III | [~~Swift~~](././Swift/ugly-number-iii.swift) | Java | 
@@ -725,6 +730,7 @@ Update README file only:
 |     | 1297 | Maximum Number of Balloons | [~~Swift~~](././Swift/maximum-number-of-balloons.swift) | Java | 
 |     | 1296 | Kth Ancestor of a Tree Node | Swift | Java | 
 |     | 1295 | Minimum Garden Perimeter to Collect Enough Apples | Swift | Java | 
+|     | 1294 | Range Frequency Queries | Swift | Java | 
 |     | 1293 | Three Consecutive Odds | Swift | Java | 
 |     | 1290 | Make Array Strictly Increasing | Swift | Java | 
 |     | 1289 | Day of the Week | Swift | Java | 
