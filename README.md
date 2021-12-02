@@ -15,6 +15,10 @@ Update README file only:
 |---|---|---|---|---|
 |     | 2225 | Substrings That Begin and End With the Same Letter | Swift | Java | 
 |     | 2218 | Paths in Maze That Lead to Same Room | Swift | Java | 
+|     | 2213 | Find All People With Secret | Swift | Java | 
+|     | 2212 | Removing Minimum and Maximum From Array | Swift | Java | 
+|     | 2211 | K Radius Subarray Averages | Swift | Java | 
+|     | 2210 | Find Target Indices After Sorting Array | Swift | Java | 
 |     | 2209 | Number of Equal Count Substrings | Swift | Java | 
 |     | 2203 | Number of Spaces Cleaning Robot Cleaned | Swift | Java | 
 |     | 2202 | Sum of k-Mirror Numbers | Swift | Java | 
@@ -23,6 +27,10 @@ Update README file only:
 |     | 2197 | Decode the Slanted Ciphertext | Swift | Java | 
 |     | 2196 | Reverse Nodes in Even Length Groups | Swift | Java | 
 |     | 2195 | Time Needed to Buy Tickets | Swift | Java | 
+|     | 2193 | Count Fertile Pyramids in a Land | Swift | Java | 
+|     | 2192 | Minimum Cost Homecoming of a Robot in a Grid | Swift | Java | 
+|     | 2191 | Minimum Number of Buckets Required to Collect Rainwater from Houses | Swift | Java | 
+|     | 2190 | Count Common Words With One Occurrence | Swift | Java | 
 |     | 2189 | Maximum Path Quality of a Graph | Swift | Java | 
 |     | 2188 | Minimized Maximum of Products Distributed to Any Store | Swift | Java | 
 |     | 2187 | Vowels of All Substrings | Swift | Java | 
