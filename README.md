@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-548 | Java-150 |
 |---|---|---|---|---|
+|     | 2230 | Minimum Cost to Reach City With Discounts | Swift | Java | 
 |     | 2225 | Substrings That Begin and End With the Same Letter | Swift | Java | 
 |     | 2218 | Paths in Maze That Lead to Same Room | Swift | Java | 
 |     | 2213 | Find All People With Secret | Swift | Java | 

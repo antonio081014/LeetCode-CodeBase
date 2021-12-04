@@ -41,4 +41,23 @@ class Solution {
         }
         return result
     }
+}/**
+ * https://leetcode.com/problems/maximum-product-subarray/
+ * 
+ * 
+ */ 
+// Date: Sat Dec  4 00:38:01 PST 2021
+class Solution {
+    func maxProduct(_ nums: [Int]) -> Int {
+        var cmax = 1
+        var cmin = 1
+        var result = Int.min
+        for n in nums {
+            let list = [cmax * n, n, cmin * n].sorted()
+            cmax = list[2]
+            cmin = list[0]
+            result = max(result, cmax)
+        }
+        return result
+    }
 }
