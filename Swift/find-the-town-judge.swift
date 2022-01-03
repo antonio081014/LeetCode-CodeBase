@@ -40,3 +40,26 @@ class Solution {
         return ret.count == 1 ? ret[0] : -1
     }
 }
+/**
+ * https://leetcode.com/problems/find-the-town-judge/
+ * 
+ * 
+ */ 
+// Date: Sun Jan  2 23:19:50 PST 2022
+class Solution {
+    func findJudge(_ n: Int, _ trust: [[Int]]) -> Int {
+        var trusting = Array(repeating: 0, count: n + 1)
+        var trusted = Array(repeating: 0, count: n + 1)
+        for t in trust {
+            trusting[t[0]] += 1
+            trusted[t[1]] += 1
+        }
+        
+        for x in 1 ... n {
+            if trusting[x] == 0, trusted[x] == n - 1 {
+                return x
+            }
+        }
+        return -1
+    }
+}

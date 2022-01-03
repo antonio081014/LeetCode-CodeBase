@@ -13,16 +13,48 @@ Update README file only:
 
 | X | # | Question | Swift-548 | Java-150 |
 |---|---|---|---|---|
+|     | 2259 | Minimum Operations to Remove Adjacent Ones in Matrix | Swift | Java | 
+|     | 2258 | Elements in Array After Removing and Replacing Elements | Swift | Java | 
+|     | 2247 | Number of Unique Flavors After Sharing K Candies | Swift | Java | 
+|     | 2246 | Maximum Employees to Be Invited to a Meeting | Swift | Java | 
+|     | 2245 | Destroying Asteroids | Swift | Java | 
+|     | 2244 | Number of Laser Beams in a Bank | Swift | Java | 
+|     | 2243 | Check if All A's Appears Before All B's | Swift | Java | 
+|     | 2242 | Subsequence of Size K With the Largest Even Sum | Swift | Java | 
+|     | 2241 | Recover the Original Array | Swift | Java | 
+|     | 2240 | Intervals Between Identical Elements | Swift | Java | 
+|     | 2239 | Execution of All Suffix Instructions Staying in a Grid | Swift | Java | 
+|     | 2238 | A Number After a Double Reversal | Swift | Java | 
+|     | 2234 | Minimum Operations to Make the Array K-Increasing | Swift | Java | 
+|     | 2233 | Number of Smooth Descent Periods of a Stock | Swift | Java | 
+|     | 2232 | Adding Spaces to a String | Swift | Java | 
+|     | 2231 | Find First Palindromic String in the Array | Swift | Java | 
 |     | 2230 | Minimum Cost to Reach City With Discounts | Swift | Java | 
+|     | 2229 | Maximum Fruits Harvested After at Most K Steps | Swift | Java | 
+|     | 2228 | Watering Plants II | Swift | Java | 
+|     | 2227 | Sum of Subarray Ranges | Swift | Java | 
+|     | 2226 | Rings and Rods | Swift | Java | 
 |     | 2225 | Substrings That Begin and End With the Same Letter | Swift | Java | 
+|     | 2222 | Abbreviating the Product of a Range | Swift | Java | 
+|     | 2221 | Check if a Parentheses String Can Be Valid | Swift | Java | 
+|     | 2220 | Find All Possible Recipes from Given Supplies | Swift | Java | 
+|     | 2219 | Maximum Number of Words Found in Sentences | Swift | Java | 
 |     | 2218 | Paths in Maze That Lead to Same Room | Swift | Java | 
+|     | 2217 | Step-By-Step Directions From a Binary Tree Node to Another | Swift | Java | 
+|     | 2216 | Delete the Middle Node of a Linked List | Swift | Java | 
+|     | 2215 | Finding 3-Digit Even Numbers | Swift | Java | 
 |     | 2213 | Find All People With Secret | Swift | Java | 
 |     | 2212 | Removing Minimum and Maximum From Array | Swift | Java | 
 |     | 2211 | K Radius Subarray Averages | Swift | Java | 
 |     | 2210 | Find Target Indices After Sorting Array | Swift | Java | 
 |     | 2209 | Number of Equal Count Substrings | Swift | Java | 
+|     | 2207 | Sequentially Ordinal Rank Tracker | Swift | Java | 
+|     | 2206 | Detonate the Maximum Bombs | Swift | Java | 
+|     | 2205 | Find Good Days to Rob the Bank | Swift | Java | 
+|     | 2204 | Find Subsequence of Length K With the Largest Sum | Swift | Java | 
 |     | 2203 | Number of Spaces Cleaning Robot Cleaned | Swift | Java | 
 |     | 2202 | Sum of k-Mirror Numbers | Swift | Java | 
+|     | 2201 | Valid Arrangement of Pairs | Swift | Java | 
 |     | 2199 | Two Furthest Houses With Different Colors | Swift | Java | 
 |     | 2198 | Process Restricted Friend Requests | Swift | Java | 
 |     | 2197 | Decode the Slanted Ciphertext | Swift | Java | 
@@ -441,7 +473,7 @@ Update README file only:
 |     | 1704 | Special Positions in a Binary Matrix | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
 |     | 1701 | Remove Max Number of Edges to Keep Graph Fully Traversable | Swift | Java | 
-|     | 1700 | Minimum Deletion Cost to Avoid Repeating Letters | Swift | Java | 
+|     | 1700 | Minimum Time to Make Rope Colorful | Swift | Java | 
 |     | 1699 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | Swift | Java | 
 |     | 1698 | Replace All ?'s to Avoid Consecutive Repeating Characters | Swift | Java | 
 |     | 1697 | Strings Differ by One Character | Swift | Java | 
@@ -482,7 +514,7 @@ Update README file only:
 |     | 1656 | Count Good Triplets | Swift | Java | 
 |     | 1655 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1653 | Number of Good Leaf Nodes Pairs | Swift | Java | 
-|     | 1652 | Bulb Switcher IV | Swift | Java | 
+|     | 1652 | Minimum Suffix Flips | Swift | Java | 
 |     | 1651 | Shuffle String | Swift | Java | 
 |     | 1650 | Find Root of N-Ary Tree | Swift | Java | 
 |     | 1649 | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target | Swift | Java | 
@@ -603,7 +635,7 @@ Update README file only:
 |     | 1496 | Lucky Numbers in a Matrix | Swift | Java | 
 |     | 1493 | Frog Position After T Seconds | Swift | Java | 
 |     | 1492 | Time Needed to Inform All Employees | Swift | Java | 
-|     | 1491 | Bulb Switcher III | Swift | Java | 
+|     | 1491 | Number of Times Binary String Is Prefix-Aligned | Swift | Java | 
 |     | 1490 | Generate a String With Characters That Have Odd Counts | Swift | Java | 
 |     | 1489 | Pizza With 3n Slices | Swift | Java | 
 |     | 1488 | Sort Integers by The Power Value | Swift | Java | 
