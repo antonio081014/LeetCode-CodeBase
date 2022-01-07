@@ -63,4 +63,43 @@ class Solution {
         }
         return true
     }
+}/**
+ * https://leetcode.com/problems/car-pooling/
+ * 
+ * 
+ */ 
+// Date: Thu Jan  6 19:07:37 PST 2022
+class Solution {
+    
+    private struct Trip: Comparable {
+        let stop: Int
+        let numPassengers: Int
+        
+        init(stop: Int, num: Int) {
+            self.stop = stop
+            self.numPassengers = num
+        }
+        
+        static func < (lhs: Solution.Trip, rhs: Solution.Trip) -> Bool {
+            if lhs.stop != rhs.stop { return lhs.stop < rhs.stop }
+            return lhs.numPassengers < rhs.numPassengers
+        }
+    }
+    /// - Complexity:
+    ///    - Time: O(nlogn), n = trips.count * 2
+    ///    - Space: O(n), n = trips.count * 2 + 1
+    func carPooling(_ trips: [[Int]], _ capacity: Int) -> Bool {
+        var list = [Trip]()
+        for t in trips {
+            list.append(Trip(stop: t[2], num: -t[0]))
+            list.append(Trip(stop: t[1], num: t[0]))
+        }
+        list = list.sorted()
+        var count = 0
+        for trip in list {
+            count += trip.numPassengers
+            if count > capacity { return false }
+        }
+        return true
+    }
 }
