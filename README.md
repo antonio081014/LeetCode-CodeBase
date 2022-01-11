@@ -16,6 +16,10 @@ Update README file only:
 |     | 2268 | Remove All Ones With Row and Column Flips | Swift | Java | 
 |     | 2259 | Minimum Operations to Remove Adjacent Ones in Matrix | Swift | Java | 
 |     | 2258 | Elements in Array After Removing and Replacing Elements | Swift | Java | 
+|     | 2257 | Earliest Possible Day of Full Bloom | Swift | Java | 
+|     | 2256 | Count Words Obtained After Adding a Letter | Swift | Java | 
+|     | 2255 | Minimum Swaps to Group All 1's Together II | Swift | Java | 
+|     | 2254 | Check if Every Row and Column Contains All Numbers | Swift | Java | 
 |     | 2247 | Number of Unique Flavors After Sharing K Candies | Swift | Java | 
 |     | 2246 | Maximum Employees to Be Invited to a Meeting | Swift | Java | 
 |     | 2245 | Destroying Asteroids | Swift | Java | 
@@ -26,6 +30,9 @@ Update README file only:
 |     | 2240 | Intervals Between Identical Elements | Swift | Java | 
 |     | 2239 | Execution of All Suffix Instructions Staying in a Grid | Swift | Java | 
 |     | 2238 | A Number After a Double Reversal | Swift | Java | 
+|     | 2237 | Longest Palindrome by Concatenating Two Letter Words | Swift | Java | 
+|     | 2236 | Maximum Twin Sum of a Linked List | Swift | Java | 
+|     | 2235 | Capitalize the Title | Swift | Java | 
 |     | 2234 | Minimum Operations to Make the Array K-Increasing | Swift | Java | 
 |     | 2233 | Number of Smooth Descent Periods of a Stock | Swift | Java | 
 |     | 2232 | Adding Spaces to a String | Swift | Java | 
@@ -56,6 +63,7 @@ Update README file only:
 |     | 2203 | Number of Spaces Cleaning Robot Cleaned | Swift | Java | 
 |     | 2202 | Sum of k-Mirror Numbers | Swift | Java | 
 |     | 2201 | Valid Arrangement of Pairs | Swift | Java | 
+|     | 2200 | Stamping the Grid | Swift | Java | 
 |     | 2199 | Two Furthest Houses With Different Colors | Swift | Java | 
 |     | 2198 | Process Restricted Friend Requests | Swift | Java | 
 |     | 2197 | Decode the Slanted Ciphertext | Swift | Java | 
