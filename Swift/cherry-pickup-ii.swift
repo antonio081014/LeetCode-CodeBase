@@ -76,3 +76,50 @@ class Solution {
         return calc(0, 0, m - 1)
     }
 }
+/**
+ * https://leetcode.com/problems/cherry-pickup-ii/
+ * 
+ * 
+ */ 
+// Date: Mon Jan 10 18:45:16 PST 2022
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n * m * m)
+    ///     - Space: O(n * m * m)
+    func cherryPickup(_ grid: [[Int]]) -> Int {
+        let n = grid.count
+        guard let m = grid.first?.count else { return 0 }
+        var dp = Array(repeating:
+                        Array(repeating:
+                                Array(repeating: -1,
+                                      count: m),
+                              count: m),
+                       count: n)
+        
+        for row in stride(from: n - 1, through: 0, by: -1) {
+            for col1 in 0 ..< m {
+                for col2 in 0 ..< m {
+                    var result = grid[row][col1]
+                    if col1 != col2 {
+                        result += grid[row][col2]
+                    }
+
+                    if row + 1 < n {
+                        var bestChoice = 0
+                        for nxtCol1 in col1 - 1 ... col1 + 1 {
+                            for nxtCol2 in col2 - 1 ... col2 + 1 {
+                                if nxtCol1 >= 0, nxtCol1 < m, nxtCol2 >= 0, nxtCol2 < m {
+                                    bestChoice = max(bestChoice, dp[row + 1][nxtCol1][nxtCol2])
+                                }
+                            }
+                        }
+                        result += bestChoice
+                    }
+                    dp[row][col1][col2] = result
+                }
+            }
+        }
+        
+        return dp[0][0][m - 1]
+    }
+}
