@@ -89,4 +89,50 @@ class Solution {
         getSum(root, root.val)
         return result
     }
+}/**
+ * https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+ * 
+ * 
+ */ 
+// Date: Thu Jan 13 21:16:09 PST 2022
+/// Iterative solution.
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public var val: Int
+ *     public var left: TreeNode?
+ *     public var right: TreeNode?
+ *     public init() { self.val = 0; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+ *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+ *         self.val = val
+ *         self.left = left
+ *         self.right = right
+ *     }
+ * }
+ */
+class Solution {
+    func sumRootToLeaf(_ root: TreeNode?) -> Int {
+        guard let root = root else { return 0 }
+        var result = 0
+        var queue = [(root, root.val)]
+        while queue.isEmpty == false {
+            var sz = queue.count
+            while sz > 0 {
+                let (node, val) = queue.removeFirst()
+                if node.left == nil, node.right == nil {
+                    result += val
+                } else {
+                    if let left = node.left {
+                        queue.append((left, (val << 1) + left.val))
+                    }
+                    if let right = node.right {
+                        queue.append((right, (val << 1) + right.val))
+                    }
+                }
+                sz -= 1
+            }
+        }
+        return result
+    }
 }
