@@ -22,4 +22,50 @@ class Solution {
         }
         return shots
     }
+}/**
+ * https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+ * 
+ * 
+ */ 
+// Date: Thu Jan 13 21:16:33 PST 2022
+class Solution {
+    struct Balloon: Comparable {
+        let start: Int
+        let end: Int
+        init(_ s: Int, _ e: Int) {
+            self.start = s
+            self.end = e
+        }
+        static func < (lhs: Solution.Balloon, rhs: Solution.Balloon) -> Bool {
+            if lhs.start != rhs.start { return lhs.start < rhs.start }
+            return lhs.end < rhs.end
+        }
+        
+        func overlap(with other: Balloon) -> Balloon? {
+            if self.start <= other.start, other.start <= self.end {
+                return Balloon(other.start, min(other.end, self.end))
+            } else if other.start <= self.start, self.start <= other.end {
+                return Balloon(self.start, min(self.end, other.end))
+            }
+            return nil
+        }
+    }
+    
+    /// - Complexity:
+    ///     - Time: O(nlogn), where n = points.count, since sorting takes O(nlogn), then uses linear time to count shots.
+    ///     - Space: O(n), where n = points.count, construct new array of Balloon.
+    func findMinArrowShots(_ points: [[Int]]) -> Int {
+        let balloons = points.map { Balloon.init($0[0], $0[1]) }.sorted()
+        guard var last = balloons.first else { return 0 }
+        var result = 1
+        for index in stride(from: 1, to: balloons.count, by: 1) {
+            if let overlapBalloon = last.overlap(with: balloons[index]) {
+                last = overlapBalloon
+            } else {
+                result += 1
+                last = balloons[index]
+            }
+        }
+        return result
+    }
 }
