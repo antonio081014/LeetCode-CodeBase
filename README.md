@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-548 | Java-150 |
+| X | # | Question | Swift-549 | Java-150 |
 |---|---|---|---|---|
+|     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
 |     | 2268 | Remove All Ones With Row and Column Flips | Swift | Java | 
+|     | 2263 | Maximum Running Time of N Computers | Swift | Java | 
+|     | 2262 | Solving Questions With Brainpower | Swift | Java | 
+|     | 2260 | Divide a String Into Groups of Size k | Swift | Java | 
 |     | 2259 | Minimum Operations to Remove Adjacent Ones in Matrix | Swift | Java | 
 |     | 2258 | Elements in Array After Removing and Replacing Elements | Swift | Java | 
 |     | 2257 | Earliest Possible Day of Full Bloom | Swift | Java | 
@@ -774,6 +778,7 @@ Update README file only:
 |     | 1306 | Minimum Absolute Difference | Swift | Java | 
 |     | 1305 | Number of Visible People in a Queue | Swift | Java | 
 |     | 1304 | Longest Happy String | Swift | Java | 
+|     | 1303 | Minimum Moves to Reach Target Score | Swift | Java | 
 |     | 1302 | Delete Characters to Make Fancy String | Swift | Java | 
 |     | 1300 | Critical Connections in a Network | Swift | Java | 
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
@@ -1120,7 +1125,7 @@ Update README file only:
 |     | 910 | Nth Magical Number | Swift | Java | 
 |     | 909 | Stone Game | [~~Swift~~](././Swift/stone-game.swift) | Java | 
 |     | 908 | Middle of the Linked List | [~~Swift~~](././Swift/middle-of-the-linked-list.swift) | Java | 
-|     | 907 | Koko Eating Bananas | Swift | Java | 
+|     | 907 | Koko Eating Bananas | [~~Swift~~](././Swift/koko-eating-bananas.swift) | Java | 
 |     | 906 | Walking Robot Simulation | Swift | Java | 
 |     | 905 | Length of Longest Fibonacci Subsequence | Swift | Java | 
 |     | 904 | Leaf-Similar Trees | Swift | Java | 
