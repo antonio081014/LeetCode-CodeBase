@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-549 | Java-150 |
+| X | # | Question | Swift-550 | Java-150 |
 |---|---|---|---|---|
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
@@ -34,7 +34,7 @@ Update README file only:
 |     | 2241 | Recover the Original Array | Swift | Java | 
 |     | 2240 | Intervals Between Identical Elements | Swift | Java | 
 |     | 2239 | Execution of All Suffix Instructions Staying in a Grid | Swift | Java | 
-|     | 2238 | A Number After a Double Reversal | Swift | Java | 
+|     | 2238 | A Number After a Double Reversal | [~~Swift~~](././Swift/a-number-after-a-double-reversal.swift) | Java | 
 |     | 2237 | Longest Palindrome by Concatenating Two Letter Words | Swift | Java | 
 |     | 2236 | Maximum Twin Sum of a Linked List | Swift | Java | 
 |     | 2235 | Capitalize the Title | Swift | Java | 
