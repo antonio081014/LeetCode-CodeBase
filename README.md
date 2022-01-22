@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-551 | Java-150 |
+| X | # | Question | Swift-552 | Java-150 |
 |---|---|---|---|---|
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
@@ -24,7 +24,7 @@ Update README file only:
 |     | 2257 | Earliest Possible Day of Full Bloom | Swift | Java | 
 |     | 2256 | Count Words Obtained After Adding a Letter | Swift | Java | 
 |     | 2255 | Minimum Swaps to Group All 1's Together II | Swift | Java | 
-|     | 2254 | Check if Every Row and Column Contains All Numbers | Swift | Java | 
+|     | 2254 | Check if Every Row and Column Contains All Numbers | [~~Swift~~](././Swift/check-if-every-row-and-column-contains-all-numbers.swift) | Java | 
 |     | 2247 | Number of Unique Flavors After Sharing K Candies | Swift | Java | 
 |     | 2246 | Maximum Employees to Be Invited to a Meeting | Swift | Java | 
 |     | 2245 | Destroying Asteroids | Swift | Java | 
