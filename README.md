@@ -11,14 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-550 | Java-150 |
+| X | # | Question | Swift-551 | Java-150 |
 |---|---|---|---|---|
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
 |     | 2268 | Remove All Ones With Row and Column Flips | Swift | Java | 
 |     | 2263 | Maximum Running Time of N Computers | Swift | Java | 
 |     | 2262 | Solving Questions With Brainpower | Swift | Java | 
-|     | 2260 | Divide a String Into Groups of Size k | Swift | Java | 
+|     | 2260 | Divide a String Into Groups of Size k | [~~Swift~~](././Swift/divide-a-string-into-groups-of-size-k.swift) | Java | 
 |     | 2259 | Minimum Operations to Remove Adjacent Ones in Matrix | Swift | Java | 
 |     | 2258 | Elements in Array After Removing and Replacing Elements | Swift | Java | 
 |     | 2257 | Earliest Possible Day of Full Bloom | Swift | Java | 
