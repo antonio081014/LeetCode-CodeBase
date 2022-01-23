@@ -23,4 +23,29 @@ class Solution {
         }
         return result
     }
+}/**
+ * https://leetcode.com/problems/sequential-digits/
+ * 
+ * 
+ */ 
+// Date: Sat Jan 22 23:12:40 PST 2022
+class Solution {
+    func sequentialDigits(_ low: Int, _ high: Int) -> [Int] {
+        var queue = Array(1 ... 9)
+        var result = [Int]()
+        while queue.isEmpty == false {
+            let num = queue.removeFirst()
+            if num >= low, num <= high {
+                result.append(num)
+            }
+            let lastDigit = num % 10
+            if lastDigit < 9 {
+                let nextNum = num * 10 + lastDigit + 1
+                if nextNum <= high {
+                    queue.append(nextNum)
+                }
+            }
+        }
+        return result
+    }
 }

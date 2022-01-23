@@ -25,6 +25,10 @@ Update README file only:
 |     | 2256 | Count Words Obtained After Adding a Letter | Swift | Java | 
 |     | 2255 | Minimum Swaps to Group All 1's Together II | Swift | Java | 
 |     | 2254 | Check if Every Row and Column Contains All Numbers | [~~Swift~~](././Swift/check-if-every-row-and-column-contains-all-numbers.swift) | Java | 
+|     | 2251 | Number of Ways to Divide a Long Corridor | Swift | Java | 
+|     | 2250 | K Highest Ranked Items Within a Price Range | Swift | Java | 
+|     | 2249 | Count the Hidden Sequences | Swift | Java | 
+|     | 2248 | Minimum Cost of Buying Candies With Discount | Swift | Java | 
 |     | 2247 | Number of Unique Flavors After Sharing K Candies | Swift | Java | 
 |     | 2246 | Maximum Employees to Be Invited to a Meeting | Swift | Java | 
 |     | 2245 | Destroying Asteroids | Swift | Java | 
