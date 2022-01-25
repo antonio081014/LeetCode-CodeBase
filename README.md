@@ -11,10 +11,14 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-552 | Java-150 |
+| X | # | Question | Swift-553 | Java-150 |
 |---|---|---|---|---|
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
+|     | 2272 | Maximum Good People Based on Statements | Swift | Java | 
+|     | 2271 | Rearrange Array Elements by Sign | Swift | Java | 
+|     | 2270 | Find All Lonely Numbers in the Array | Swift | Java | 
+|     | 2269 | Count Elements With Strictly Smaller and Greater Elements  | [~~Swift~~](././Swift/count-elements-with-strictly-smaller-and-greater-elements.swift) | Java | 
 |     | 2268 | Remove All Ones With Row and Column Flips | Swift | Java | 
 |     | 2263 | Maximum Running Time of N Computers | Swift | Java | 
 |     | 2262 | Solving Questions With Brainpower | Swift | Java | 
