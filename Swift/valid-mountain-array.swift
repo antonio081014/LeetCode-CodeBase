@@ -18,3 +18,22 @@ class Solution {
         return start == arr.count
     }
 }
+
+class Solution {
+    /// - Complexity:
+    ///     - Time: O(n), n = arr.count.
+    ///     - Space: O(1), constant space.
+    func validMountainArray(_ arr: [Int]) -> Bool {
+        guard arr.count >= 3 else { return false }
+        var left = 0
+        while left + 1 < arr.count, arr[left] < arr[left + 1] {
+            left += 1
+        }
+        
+        var right = arr.count - 1
+        while right - 1 >= 0, arr[right] < arr[right - 1] {
+            right -= 1
+        }
+        return left == right && left > 0 && right < arr.count - 1
+    }
+}
