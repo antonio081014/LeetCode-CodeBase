@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-553 | Java-150 |
+| X | # | Question | Swift-554 | Java-150 |
 |---|---|---|---|---|
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
@@ -1255,7 +1255,7 @@ Update README file only:
 |     | 781 | Basic Calculator IV | Swift | Java | 
 |     | 780 | Max Chunks To Make Sorted | Swift | Java | 
 |     | 779 | Max Chunks To Make Sorted II | Swift | Java | 
-|     | 778 | Reorganize String | Swift | Java | 
+|     | 778 | Reorganize String | [~~Swift~~](././Swift/reorganize-string.swift) | Java | 
 |     | 777 | Toeplitz Matrix | Swift | Java | 
 |     | 776 | N-ary Tree Postorder Traversal | [~~Swift~~](././Swift/n-ary-tree-postorder-traversal.swift) | Java | 
 |     | 775 | N-ary Tree Preorder Traversal | [~~Swift~~](././Swift/n-ary-tree-preorder-traversal.swift) | Java | 
