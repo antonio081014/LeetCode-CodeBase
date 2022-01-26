@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-555 | Java-150 |
+| X | # | Question | Swift-556 | Java-150 |
 |---|---|---|---|---|
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
@@ -1771,7 +1771,7 @@ Update README file only:
 |     | 208 | Implement Trie (Prefix Tree) | [~~Swift~~](././Swift/implement-trie-prefix-tree.swift) | Java | 
 |  X  | 207 | Course Schedule | [~~Swift~~](././Swift/course-schedule.swift) | [~~Java~~](././Java/course-schedule.java) | 
 |  X  | 206 | Reverse Linked List | [~~Swift~~](././Swift/reverse-linked-list.swift) | [~~Java~~](././Java/reverse-linked-list.java) | 
-|     | 205 | Isomorphic Strings | Swift | Java | 
+|     | 205 | Isomorphic Strings | [~~Swift~~](././Swift/isomorphic-strings.swift) | Java | 
 |     | 204 | Count Primes | Swift | [~~Java~~](././Java/count-primes.java) | 
 |     | 203 | Remove Linked List Elements | Swift | [~~Java~~](././Java/remove-linked-list-elements.java) | 
 |  X  | 202 | Happy Number | [~~Swift~~](././Swift/happy-number.swift) | [~~Java~~](././Java/happy-number.java) | 
