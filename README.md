@@ -1,6 +1,6 @@
-# LeeCode-CodeBase
+# LeetCode-CodeBase
 
-This repo presents all the solution I passed on LeeCode, should be used AS a Reference for study purpose.
+This repo presents all the solution I passed on LeetCode, should be used AS a Reference for study purpose.
 
 
 Usage: 
