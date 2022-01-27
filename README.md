@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-557 | Java-150 |
 |---|---|---|---|---|
+|     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
 |     | 2272 | Maximum Good People Based on Statements | Swift | Java | 
