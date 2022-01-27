@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-557 | Java-150 |
+| X | # | Question | Swift-558 | Java-150 |
 |---|---|---|---|---|
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
@@ -574,7 +574,7 @@ Update README file only:
 |     | 1613 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Swift | Java | 
 |     | 1612 | Avoid Flood in The City | Swift | Java | 
 |     | 1611 | Making File Names Unique | Swift | Java | 
-|     | 1610 | XOR Operation in an Array | Swift | Java | 
+|     | 1610 | XOR Operation in an Array | [~~Swift~~](././Swift/xor-operation-in-an-array.swift) | Java | 
 |     | 1609 | Find All The Lonely Nodes | Swift | Java | 
 |     | 1605 | Minimum Number of Days to Make m Bouquets | Swift | Java | 
 |     | 1604 | Least Number of Unique Integers after K Removals | Swift | Java | 
