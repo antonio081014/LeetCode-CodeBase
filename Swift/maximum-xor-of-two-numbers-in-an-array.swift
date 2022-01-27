@@ -100,3 +100,31 @@ class Solution {
         return stride(from: 31, through: 0, by: -1).map { (num >> $0) & 1 }
     }
 }
+
+
+
+/// - Solution 2:
+class Solution {
+    func findMaximumXOR(_ nums: [Int]) -> Int {
+        var maxResult = 0
+        var mask = 0
+        for bit in stride(from: 31, through: 0, by: -1) {
+            mask |= 1 << bit
+            var prefixCandidate = Set<Int>()
+            for n in nums {
+                prefixCandidate.insert(n & mask)
+            }
+            let potentialMaxResult = maxResult | (1 << bit)
+            // Try to find two prefix that they could xor to `potentialMaxResult`
+            // a ^ b = c, a ^ c = b, b ^ c = a
+            for prefix1 in prefixCandidate {
+                let prefix2 = potentialMaxResult ^ prefix1
+                if prefixCandidate.contains(prefix2) {
+                    maxResult = potentialMaxResult
+                    break
+                }
+            }
+        }
+        return maxResult
+    }
+}
