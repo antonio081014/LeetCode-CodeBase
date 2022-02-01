@@ -11,10 +11,13 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-558 | Java-150 |
+| X | # | Question | Swift-559 | Java-150 |
 |---|---|---|---|---|
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
+|     | 2276 | Groups of Strings | Swift | Java | 
+|     | 2275 | Find Substring With Given Hash Value | Swift | Java | 
+|     | 2274 | Keep Multiplying Found Values by Two | Swift | Java | 
 |     | 2273 | Pour Water Between Buckets to Make Water Levels Equal | Swift | Java | 
 |     | 2272 | Maximum Good People Based on Statements | Swift | Java | 
 |     | 2271 | Rearrange Array Elements by Sign | Swift | Java | 
@@ -23,6 +26,7 @@ Update README file only:
 |     | 2268 | Remove All Ones With Row and Column Flips | Swift | Java | 
 |     | 2263 | Maximum Running Time of N Computers | Swift | Java | 
 |     | 2262 | Solving Questions With Brainpower | Swift | Java | 
+|     | 2261 | All Divisions With the Highest Score of a Binary Array | Swift | Java | 
 |     | 2260 | Divide a String Into Groups of Size k | [~~Swift~~](././Swift/divide-a-string-into-groups-of-size-k.swift) | Java | 
 |     | 2259 | Minimum Operations to Remove Adjacent Ones in Matrix | Swift | Java | 
 |     | 2258 | Elements in Array After Removing and Replacing Elements | Swift | Java | 
@@ -418,7 +422,7 @@ Update README file only:
 |     | 1794 | Minimize Deviation in Array | [~~Swift~~](././Swift/minimize-deviation-in-array.swift) | Java | 
 |     | 1793 | Minimum Moves to Make Array Complementary | Swift | Java | 
 |     | 1792 | Find the Most Competitive Subsequence | [~~Swift~~](././Swift/find-the-most-competitive-subsequence.swift) | Java | 
-|     | 1791 | Richest Customer Wealth | Swift | Java | 
+|     | 1791 | Richest Customer Wealth | [~~Swift~~](././Swift/richest-customer-wealth.swift) | Java | 
 |     | 1790 | Lowest Common Ancestor of a Binary Tree III | Swift | Java | 
 |     | 1789 | Delivering Boxes from Storage to Ports | Swift | Java | 
 |     | 1788 | Stone Game VI | Swift | Java | 
