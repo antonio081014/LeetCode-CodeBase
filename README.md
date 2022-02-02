@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-559 | Java-150 |
+| X | # | Question | Swift-560 | Java-150 |
 |---|---|---|---|---|
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
@@ -1740,7 +1740,7 @@ Update README file only:
 |     | 244 | Shortest Word Distance II | Swift | Java | 
 |     | 243 | Shortest Word Distance | Swift | Java | 
 |  X  | 242 | Valid Anagram | [~~Swift~~](././Swift/valid-anagram.swift) | [~~Java~~](././Java/valid-anagram.java) | 
-|     | 241 | Different Ways to Add Parentheses | Swift | [~~Java~~](././Java/different-ways-to-add-parentheses.java) | 
+|  X  | 241 | Different Ways to Add Parentheses | [~~Swift~~](././Swift/different-ways-to-add-parentheses.swift) | [~~Java~~](././Java/different-ways-to-add-parentheses.java) | 
 |  X  | 240 | Search a 2D Matrix II | [~~Swift~~](././Swift/search-a-2d-matrix-ii.swift) | [~~Java~~](././Java/search-a-2d-matrix-ii.java) | 
 |  X  | 239 | Sliding Window Maximum | [~~Swift~~](././Swift/sliding-window-maximum.swift) | [~~Java~~](././Java/sliding-window-maximum.java) | 
 |  X  | 238 | Product of Array Except Self | [~~Swift~~](././Swift/product-of-array-except-self.swift) | [~~Java~~](././Java/product-of-array-except-self.java) | 
