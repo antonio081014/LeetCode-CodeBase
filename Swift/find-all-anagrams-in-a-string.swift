@@ -95,3 +95,39 @@ class Solution {
         return true
     }
 }
+
+/// Figured out the key point to make this code work from TLE to AC.
+/// String.count function actually takes O(n) time to count the length of string,
+/// So using p.count in the loop will make this algorithm O(m * n), m, n are lengths of two strings.
+class Solution {
+    func findAnagrams(_ s: String, _ p: String) -> [Int] {
+        let sLen = s.count
+        let pLen = p.count
+        if sLen < pLen { return [] }
+        
+        var pattern = [Character : Int]()
+        for c in p {
+            pattern[c, default: 0] += 1
+        }
+        
+        var result = [Int]()
+        var match = [Character : Int]()
+        
+        let s = Array(s)
+        for index in 0 ..< sLen {
+            match[s[index], default: 0] += 1
+            
+            if index >= pLen {
+                match[s[index - pLen], default: 0] -= 1
+                if match[s[index - pLen], default: 0] == 0 {
+                    match[s[index - pLen]] = nil
+                }
+            }
+            
+            if pattern == match {
+                result.append(index - pLen + 1)
+            }
+        }
+        return result
+    }
+}
