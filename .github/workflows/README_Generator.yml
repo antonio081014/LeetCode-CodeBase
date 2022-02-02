@@ -1,4 +1,4 @@
-name: Swift
+name: README Generator
 
 on:
   push:
