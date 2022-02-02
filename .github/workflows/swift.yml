@@ -15,7 +15,11 @@ jobs:
     - uses: actions/checkout@v2
     - name: Regenerate README.md
       run: swift readme_gen.swift > README.md
+    - name: Check if README updated
+      run: |
+        ! git diff --quiet
     - name: Push and Save
+      if: ${{ success() }}
       run: |
         git add README.md
         git commit -m "Regenerate README file."
