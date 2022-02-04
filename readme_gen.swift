@@ -71,7 +71,12 @@ func printout(for problemList: [Problem]) {
     for problem in problemList {
         let swift = ifFileExists(problem.qSlug, in: .Swift) ? "[~~Swift~~](\(absolutePath)\(filesPath(in: .Swift))\(problem.qSlug).swift)" : "Swift"
         let java = ifFileExists(problem.qSlug, in: .Java) ? "[~~Java~~](\(absolutePath)\(filesPath(in: .Java))\(problem.qSlug).java)" : "Java"
-        let x = swift.count > 5 && java.count > 4 ? " X " : "   "
+        let x = swift.count > 5 
+        //&& java.count > 4 
+        ? 
+        " X " 
+        : 
+        "   "
         print("| \(x) | \(problem.seq) | \(problem.qTitle) | \(swift) | \(java) | ")
     }
 }
