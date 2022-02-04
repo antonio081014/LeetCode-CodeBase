@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-560 | Java-150 |
+| X | # | Question | Swift-561 | Java-150 |
 |---|---|---|---|---|
+|     | 2297 | Amount of New Area Painted Each Day | Swift | Java | 
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2276 | Groups of Strings | Swift | Java | 
@@ -1957,7 +1958,7 @@ Update README file only:
 |     | 11 | Container With Most Water | [~~Swift~~](././Swift/container-with-most-water.swift) | Java | 
 |     | 10 | Regular Expression Matching | Swift | Java | 
 |     | 9 | Palindrome Number | [~~Swift~~](././Swift/palindrome-number.swift) | Java | 
-|     | 8 | String to Integer (atoi) | Swift | Java | 
+|     | 8 | String to Integer (atoi) | [~~Swift~~](././Swift/string-to-integer-atoi.swift) | Java | 
 |  X  | 7 | Reverse Integer | [~~Swift~~](././Swift/reverse-integer.swift) | [~~Java~~](././Java/reverse-integer.java) | 
 |     | 6 | Zigzag Conversion | [~~Swift~~](././Swift/zigzag-conversion.swift) | Java | 
 |     | 5 | Longest Palindromic Substring | [~~Swift~~](././Swift/longest-palindromic-substring.swift) | Java | 
