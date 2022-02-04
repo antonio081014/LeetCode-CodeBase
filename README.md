@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-562 | Java-150 |
+| X | # | Question | Swift-563 | Java-150 |
 |---|---|---|---|---|
 |     | 2297 | Amount of New Area Painted Each Day | Swift | Java | 
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
@@ -1950,7 +1950,7 @@ Update README file only:
 |  X  | 19 | Remove Nth Node From End of List | [~~Swift~~](././Swift/remove-nth-node-from-end-of-list.swift) | Java | 
 |     | 18 | 4Sum | Swift | Java | 
 |  X  | 17 | Letter Combinations of a Phone Number | [~~Swift~~](././Swift/letter-combinations-of-a-phone-number.swift) | [~~Java~~](././Java/letter-combinations-of-a-phone-number.java) | 
-|     | 16 | 3Sum Closest | Swift | Java | 
+|  X  | 16 | 3Sum Closest | [~~Swift~~](././Swift/3sum-closest.swift) | Java | 
 |  X  | 15 | 3Sum | [~~Swift~~](././Swift/3sum.swift) | [~~Java~~](././Java/3sum.java) | 
 |  X  | 14 | Longest Common Prefix | [~~Swift~~](././Swift/longest-common-prefix.swift) | [~~Java~~](././Java/longest-common-prefix.java) | 
 |  X  | 13 | Roman to Integer | [~~Swift~~](././Swift/roman-to-integer.swift) | [~~Java~~](././Java/roman-to-integer.java) | 
