@@ -15,6 +15,10 @@ Update README file only:
 |---|---|---|---|---|
 |     | 2297 | Amount of New Area Painted Each Day | Swift | Java | 
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
+|     | 2286 | Minimum Time to Remove All Cars Containing Illegal Goods | Swift | Java | 
+|     | 2285 | Design Bitset | Swift | Java | 
+|     | 2284 | Smallest Value of the Rearranged Number | Swift | Java | 
+|     | 2283 | Sort Even and Odd Indices Independently | Swift | Java | 
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
 |     | 2276 | Groups of Strings | Swift | Java | 
 |     | 2275 | Find Substring With Given Hash Value | Swift | Java | 
@@ -25,6 +29,10 @@ Update README file only:
 |     | 2270 | Find All Lonely Numbers in the Array | Swift | Java | 
 |  X  | 2269 | Count Elements With Strictly Smaller and Greater Elements  | [~~Swift~~](././Swift/count-elements-with-strictly-smaller-and-greater-elements.swift) | Java | 
 |     | 2268 | Remove All Ones With Row and Column Flips | Swift | Java | 
+|     | 2267 | Minimum Difference in Sums After Removal of Elements | Swift | Java | 
+|     | 2266 | Minimum Cost to Set Cooking Time | Swift | Java | 
+|     | 2265 | Partition Array According to Given Pivot | Swift | Java | 
+|     | 2264 | Minimum Sum of Four Digit Number After Splitting Digits | Swift | Java | 
 |     | 2263 | Maximum Running Time of N Computers | Swift | Java | 
 |     | 2262 | Solving Questions With Brainpower | Swift | Java | 
 |     | 2261 | All Divisions With the Highest Score of a Binary Array | Swift | Java | 
