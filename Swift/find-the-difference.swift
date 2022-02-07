@@ -54,3 +54,11 @@ class Solution {
         return Character(UnicodeScalar(result)!)
     }
 }
+
+// Date: Sun Feb  6 19:14:49 PST 2022
+class Solution {
+    func findTheDifference(_ s: String, _ t: String) -> Character {
+        let ret = (s + t).reduce(0, { $0 ^ $1.asciiValue! })
+        return Character(Unicode.Scalar(ret))
+    }
+}
