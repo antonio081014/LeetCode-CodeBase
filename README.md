@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-563 | Java-150 |
 |---|---|---|---|---|
+|     | 2303 | Unique Substrings With Equal Digit Frequency | Swift | Java | 
 |     | 2297 | Amount of New Area Painted Each Day | Swift | Java | 
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
 |     | 2286 | Minimum Time to Remove All Cars Containing Illegal Goods | Swift | Java | 
