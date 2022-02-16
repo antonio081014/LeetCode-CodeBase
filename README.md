@@ -15,6 +15,10 @@ Update README file only:
 |---|---|---|---|---|
 |     | 2303 | Unique Substrings With Equal Digit Frequency | Swift | Java | 
 |     | 2297 | Amount of New Area Painted Each Day | Swift | Java | 
+|     | 2291 | Maximum AND Sum of Array | Swift | Java | 
+|     | 2290 | Removing Minimum Number of Magic Beans | Swift | Java | 
+|     | 2289 | Minimum Operations to Make the Array Alternating | Swift | Java | 
+|     | 2288 | Count Operations to Obtain Zero | Swift | Java | 
 |     | 2287 | Minimum Number of Lines to Cover Points | Swift | Java | 
 |     | 2286 | Minimum Time to Remove All Cars Containing Illegal Goods | Swift | Java | 
 |     | 2285 | Design Bitset | Swift | Java | 
