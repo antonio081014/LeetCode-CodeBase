@@ -28,3 +28,14 @@ class Solution {
         return root.next
     }
 }
+
+class Solution {
+    func swapPairs(_ head: ListNode?) -> ListNode? {
+        guard head != nil && head?.next != nil else { return head }
+        let next = swapPairs(head?.next?.next)
+        let first = head?.next
+        head?.next = next
+        first?.next = head
+        return first
+    }
+}
