@@ -27,3 +27,21 @@ class Solution {
         return true
     }
 }
+
+// Tue Mar  1 16:53:35 PST 2022
+class Solution {
+    func isSubsequence(_ s: String, _ t: String) -> Bool {
+        let s = Array(s)
+        let t = Array(t)
+        let slen = s.count
+        let tlen = t.count
+        var start = 0
+        for c in t {
+            if start == slen { return true }
+            if c == s[start] {
+                start += 1
+            }
+        }
+        return start == slen
+    }
+}
