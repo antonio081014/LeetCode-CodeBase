@@ -13,8 +13,18 @@ Update README file only:
 
 | X | # | Question | Swift-563 | Java-150 |
 |---|---|---|---|---|
+|     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
+|     | 2314 | Remove All Ones With Row and Column Flips II | Swift | Java | 
 |     | 2303 | Unique Substrings With Equal Digit Frequency | Swift | Java | 
+|     | 2301 | Count Array Pairs Divisible by K | Swift | Java | 
+|     | 2300 | Construct String With Repeat Limit | Swift | Java | 
+|     | 2299 | Merge Nodes in Between Zeros | Swift | Java | 
+|     | 2298 | Count Integers With Even Digit Sum | Swift | Java | 
 |     | 2297 | Amount of New Area Painted Each Day | Swift | Java | 
+|     | 2295 | Minimum Time to Finish the Race | Swift | Java | 
+|     | 2294 | Minimum Time to Complete Trips | Swift | Java | 
+|     | 2293 | Minimum Number of Steps to Make Two Strings Anagram II | Swift | Java | 
+|     | 2292 | Counting Words With a Given Prefix | Swift | Java | 
 |     | 2291 | Maximum AND Sum of Array | Swift | Java | 
 |     | 2290 | Removing Minimum Number of Magic Beans | Swift | Java | 
 |     | 2289 | Minimum Operations to Make the Array Alternating | Swift | Java | 
@@ -25,6 +35,10 @@ Update README file only:
 |     | 2284 | Smallest Value of the Rearranged Number | Swift | Java | 
 |     | 2283 | Sort Even and Odd Indices Independently | Swift | Java | 
 |     | 2282 | Choose Numbers From Two Arrays in Range | Swift | Java | 
+|     | 2280 | Count Good Triplets in an Array | Swift | Java | 
+|     | 2279 | Maximum Split of Positive Even Integers | Swift | Java | 
+|     | 2278 | Find Three Consecutive Integers That Sum to a Given Number | Swift | Java | 
+|     | 2277 | Count Equal and Divisible Pairs in an Array | Swift | Java | 
 |     | 2276 | Groups of Strings | Swift | Java | 
 |     | 2275 | Find Substring With Given Hash Value | Swift | Java | 
 |     | 2274 | Keep Multiplying Found Values by Two | Swift | Java | 
