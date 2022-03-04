@@ -770,6 +770,7 @@ Update README file only:
 |     | 1388 | Greatest Sum Divisible by Three | Swift | Java | 
 |     | 1387 | Find Elements in a Contaminated Binary Tree | Swift | Java | 
 |     | 1386 | Shift 2D Grid | Swift | Java | 
+|     | 1385 | Number of Ways to Build House of Cards | Swift | Java | 
 |     | 1384 | Maximum Font to Fit a Sentence in a Screen | Swift | Java | 
 |     | 1381 | Maximum Score Words Formed by Letters | Swift | Java | 
 |     | 1380 | Number of Closed Islands | Swift | Java | 
