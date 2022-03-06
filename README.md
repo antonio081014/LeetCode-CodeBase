@@ -15,6 +15,7 @@ Update README file only:
 |---|---|---|---|---|
 |     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
 |     | 2314 | Remove All Ones With Row and Column Flips II | Swift | Java | 
+|     | 2312 | Most Frequent Number Following Key In an Array | Swift | Java | 
 |     | 2303 | Unique Substrings With Equal Digit Frequency | Swift | Java | 
 |     | 2301 | Count Array Pairs Divisible by K | Swift | Java | 
 |     | 2300 | Construct String With Repeat Limit | Swift | Java | 
@@ -741,6 +742,7 @@ Update README file only:
 |     | 1435 | XOR Queries of a Subarray | Swift | Java | 
 |     | 1434 | Decrypt String from Alphabet to Integer Mapping | Swift | Java | 
 |     | 1432 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Swift | Java | 
+|     | 1431 | All Ancestors of a Node in a Directed Acyclic Graph | Swift | Java | 
 |     | 1429 | Verbal Arithmetic Puzzle | Swift | Java | 
 |  X  | 1428 | Jump Game III | [~~Swift~~](././Swift/jump-game-iii.swift) | Java | 
 |  X  | 1427 | All Elements in Two Binary Search Trees | [~~Swift~~](././Swift/all-elements-in-two-binary-search-trees.swift) | Java | 
@@ -789,6 +791,7 @@ Update README file only:
 |  X  | 1360 | Maximum Length of a Concatenated String with Unique Characters | [~~Swift~~](././Swift/maximum-length-of-a-concatenated-string-with-unique-characters.swift) | Java | 
 |     | 1359 | Circular Permutation in Binary Representation | Swift | Java | 
 |     | 1358 | Find Positive Integer Solution for a Given Equation | Swift | Java | 
+|     | 1356 | Minimum Number of Moves to Make Palindrome | Swift | Java | 
 |  X  | 1352 | Maximum Profit in Job Scheduling | [~~Swift~~](././Swift/maximum-profit-in-job-scheduling.swift) | Java | 
 |     | 1351 | Replace the Substring for Balanced String | Swift | Java | 
 |     | 1350 | Remove Sub-Folders from the Filesystem | Swift | Java | 
@@ -800,6 +803,7 @@ Update README file only:
 |     | 1341 | Split a String in Balanced Strings | Swift | Java | 
 |     | 1337 | Design Skiplist | Swift | Java | 
 |     | 1336 | Maximum Product of the Length of Two Palindromic Substrings | Swift | Java | 
+|     | 1333 | Sort the Jumbled Numbers | Swift | Java | 
 |  X  | 1332 | Count Vowels Permutation | [~~Swift~~](././Swift/count-vowels-permutation.swift) | Java | 
 |  X  | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
 |     | 1330 | Longest Arithmetic Subsequence of Given Difference | Swift | Java | 
