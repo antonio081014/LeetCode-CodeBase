@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-565 | Java-150 |
+| X | # | Question | Swift-566 | Java-150 |
 |---|---|---|---|---|
 |     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
 |     | 2314 | Remove All Ones With Row and Column Flips II | Swift | Java | 
@@ -1354,7 +1354,7 @@ Update README file only:
 |     | 724 | Find Pivot Index | Swift | Java | 
 |     | 723 | Candy Crush | Swift | Java | 
 |     | 722 | Remove Comments | Swift | Java | 
-|     | 721 | Accounts Merge | Swift | Java | 
+|  X  | 721 | Accounts Merge | [~~Swift~~](././Swift/accounts-merge.swift) | Java | 
 |     | 720 | Longest Word in Dictionary | Swift | Java | 
 |  X  | 719 | Find K-th Smallest Pair Distance | [~~Swift~~](././Swift/find-k-th-smallest-pair-distance.swift) | Java | 
 |  X  | 718 | Maximum Length of Repeated Subarray | [~~Swift~~](././Swift/maximum-length-of-repeated-subarray.swift) | Java | 
