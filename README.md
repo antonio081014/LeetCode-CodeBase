@@ -11,11 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-564 | Java-150 |
+| X | # | Question | Swift-565 | Java-150 |
 |---|---|---|---|---|
 |     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
 |     | 2314 | Remove All Ones With Row and Column Flips II | Swift | Java | 
 |     | 2312 | Most Frequent Number Following Key In an Array | Swift | Java | 
+|     | 2307 | Replace Non-Coprime Numbers in Array | Swift | Java | 
+|     | 2306 | Create Binary Tree From Descriptions | Swift | Java | 
+|     | 2305 | Append K Integers With Minimal Sum | Swift | Java | 
+|     | 2304 | Cells in a Range on an Excel Sheet | Swift | Java | 
 |     | 2303 | Unique Substrings With Equal Digit Frequency | Swift | Java | 
 |     | 2301 | Count Array Pairs Divisible by K | Swift | Java | 
 |     | 2300 | Construct String With Repeat Limit | Swift | Java | 
@@ -717,7 +721,7 @@ Update README file only:
 |  X  | 1465 | Maximum Product of Splitted Binary Tree | [~~Swift~~](././Swift/maximum-product-of-splitted-binary-tree.swift) | Java | 
 |  X  | 1464 | Reduce Array Size to The Half | [~~Swift~~](././Swift/reduce-array-size-to-the-half.swift) | Java | 
 |  X  | 1463 | The K Weakest Rows in a Matrix | [~~Swift~~](././Swift/the-k-weakest-rows-in-a-matrix.swift) | Java | 
-|     | 1461 | Count All Valid Pickup and Delivery Options | Swift | Java | 
+|  X  | 1461 | Count All Valid Pickup and Delivery Options | [~~Swift~~](././Swift/count-all-valid-pickup-and-delivery-options.swift) | Java | 
 |     | 1460 | Number of Substrings Containing All Three Characters | Swift | Java | 
 |     | 1459 | Apply Discount Every n Orders | Swift | Java | 
 |     | 1458 | Sort Integers by The Number of 1 Bits | Swift | Java | 
