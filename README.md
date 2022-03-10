@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-566 | Java-150 |
+| X | # | Question | Swift-567 | Java-150 |
 |---|---|---|---|---|
 |     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
 |     | 2314 | Remove All Ones With Row and Column Flips II | Swift | Java | 
@@ -946,7 +946,7 @@ Update README file only:
 |     | 1148 | Adding Two Negabinary Numbers | Swift | Java | 
 |     | 1147 | Flip Columns For Maximum Number of Equal Rows | Swift | Java | 
 |     | 1146 | Greatest Common Divisor of Strings | Swift | Java | 
-|     | 1145 | Number of Submatrices That Sum to Target | Swift | Java | 
+|  X  | 1145 | Number of Submatrices That Sum to Target | [~~Swift~~](././Swift/number-of-submatrices-that-sum-to-target.swift) | Java | 
 |     | 1144 | Optimize Water Distribution in a Village | Swift | Java | 
 |     | 1143 | Find Smallest Common Element in All Rows | Swift | Java | 
 |     | 1142 | Minimum Knight Moves | Swift | Java | 
