@@ -778,6 +778,7 @@ Update README file only:
 |     | 1386 | Shift 2D Grid | Swift | Java | 
 |     | 1385 | Number of Ways to Build House of Cards | Swift | Java | 
 |     | 1384 | Maximum Font to Fit a Sentence in a Screen | Swift | Java | 
+|     | 1383 | Number of Single Divisor Triplets | Swift | Java | 
 |     | 1381 | Maximum Score Words Formed by Letters | Swift | Java | 
 |     | 1380 | Number of Closed Islands | Swift | Java | 
 |     | 1379 | Reconstruct a 2-Row Binary Matrix | Swift | Java | 
