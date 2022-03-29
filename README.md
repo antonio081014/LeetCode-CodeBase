@@ -13,9 +13,20 @@ Update README file only:
 
 | X | # | Question | Swift-567 | Java-150 |
 |---|---|---|---|---|
+|     | 2354 | Minimum Health to Beat Game | Swift | Java | 
 |     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
+|     | 2321 | Minimum Weighted Subgraph With the Required Paths | Swift | Java | 
+|     | 2320 | Find All K-Distant Indices in an Array | Swift | Java | 
+|     | 2319 | Longest Substring of One Repeating Character | Swift | Java | 
+|     | 2318 | Maximum Points in an Archery Competition | Swift | Java | 
+|     | 2317 | Count Collisions on a Road | Swift | Java | 
+|     | 2316 | Count Hills and Valleys in an Array | Swift | Java | 
 |     | 2314 | Remove All Ones With Row and Column Flips II | Swift | Java | 
 |     | 2312 | Most Frequent Number Following Key In an Array | Swift | Java | 
+|     | 2311 | Minimum White Tiles After Covering With Carpets | Swift | Java | 
+|     | 2310 | Minimum Operations to Halve Array Sum | Swift | Java | 
+|     | 2309 | Maximize Number of Subsequences in a String | Swift | Java | 
+|     | 2308 | Divide Array Into Equal Pairs | Swift | Java | 
 |     | 2307 | Replace Non-Coprime Numbers in Array | Swift | Java | 
 |     | 2306 | Create Binary Tree From Descriptions | Swift | Java | 
 |     | 2305 | Append K Integers With Minimal Sum | Swift | Java | 
@@ -771,6 +782,8 @@ Update README file only:
 |  X  | 1397 | Search Suggestions System | [~~Swift~~](././Swift/search-suggestions-system.swift) | Java | 
 |     | 1396 | Count Servers that Communicate | Swift | Java | 
 |     | 1395 | Minimum Time Visiting All Points | Swift | Java | 
+|     | 1393 | Maximum Value of K Coins From Piles | Swift | Java | 
+|     | 1392 | Find the Difference of Two Arrays | Swift | Java | 
 |     | 1391 | Counting Elements | Swift | Java | 
 |     | 1389 | Minimum Moves to Move a Box to Their Target Location | Swift | Java | 
 |     | 1388 | Greatest Sum Divisible by Three | Swift | Java | 
@@ -783,6 +796,7 @@ Update README file only:
 |     | 1380 | Number of Closed Islands | Swift | Java | 
 |     | 1379 | Reconstruct a 2-Row Binary Matrix | Swift | Java | 
 |     | 1378 | Cells with Odd Values in a Matrix | Swift | Java | 
+|     | 1375 | Find Palindrome With Fixed Length | Swift | Java | 
 |     | 1374 | Leftmost Column with at Least a One | Swift | Java | 
 |     | 1372 | Check If It Is a Good Array | Swift | Java | 
 |  X  | 1371 | Minimum Remove to Make Valid Parentheses | [~~Swift~~](././Swift/minimum-remove-to-make-valid-parentheses.swift) | Java | 
@@ -797,10 +811,13 @@ Update README file only:
 |     | 1359 | Circular Permutation in Binary Representation | Swift | Java | 
 |     | 1358 | Find Positive Integer Solution for a Given Equation | Swift | Java | 
 |     | 1356 | Minimum Number of Moves to Make Palindrome | Swift | Java | 
+|     | 1355 | Minimum Deletions to Make Array Beautiful | Swift | Java | 
 |  X  | 1352 | Maximum Profit in Job Scheduling | [~~Swift~~](././Swift/maximum-profit-in-job-scheduling.swift) | Java | 
 |     | 1351 | Replace the Substring for Balanced String | Swift | Java | 
 |     | 1350 | Remove Sub-Folders from the Filesystem | Swift | Java | 
 |     | 1349 | Check If It Is a Straight Line | Swift | Java | 
+|     | 1347 | Distance to a Cycle in Undirected Graph | Swift | Java | 
+|     | 1346 | Maximize the Topmost Element After K Moves | Swift | Java | 
 |     | 1345 | Perform String Shifts | Swift | Java | 
 |     | 1344 | Maximum Equal Frequency | Swift | Java | 
 |     | 1343 | Dice Roll Simulation | Swift | Java | 
@@ -821,6 +838,7 @@ Update README file only:
 |  X  | 1320 | Remove All Adjacent Duplicates in String II | [~~Swift~~](././Swift/remove-all-adjacent-duplicates-in-string-ii.swift) | Java | 
 |     | 1319 | Unique Number of Occurrences | Swift | Java | 
 |     | 1313 | Count Ways to Build Rooms in an Ant Colony | Swift | Java | 
+|     | 1312 | Count Artifacts That Can Be Extracted | Swift | Java | 
 |     | 1311 | Largest Magic Square | Swift | Java | 
 |     | 1310 | Watering Plants | Swift | Java | 
 |     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 

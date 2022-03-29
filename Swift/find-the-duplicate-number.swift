@@ -32,3 +32,27 @@ class Solution {
         return left
     }
 }
+/**
+ * https://leetcode.com/problems/find-the-duplicate-number/
+ * 
+ * 
+ */ 
+// Date: Mon Mar 28 22:20:21 PDT 2022
+class Solution {
+    func findDuplicate(_ nums: [Int]) -> Int {
+        guard nums.count > 1 else { return -1 }
+        
+        var slow = nums[0]
+        var fast = nums[nums[0]]
+        while fast != slow {
+            slow = nums[slow]
+            fast = nums[nums[fast]]
+        }
+        fast = 0
+        while fast != slow {
+            slow = nums[slow]
+            fast = nums[fast]
+        }
+        return fast
+    }
+}
