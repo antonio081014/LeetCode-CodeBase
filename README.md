@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-567 | Java-150 |
+| X | # | Question | Swift-568 | Java-150 |
 |---|---|---|---|---|
 |     | 2354 | Minimum Health to Beat Game | Swift | Java | 
 |     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
@@ -1199,7 +1199,7 @@ Update README file only:
 |     | 905 | Length of Longest Fibonacci Subsequence | Swift | Java | 
 |     | 904 | Leaf-Similar Trees | Swift | Java | 
 |  X  | 903 | Implement Rand10() Using Rand7() | [~~Swift~~](././Swift/implement-rand10-using-rand7.swift) | Java | 
-|     | 902 | Minimum Number of Refueling Stops | Swift | Java | 
+|  X  | 902 | Minimum Number of Refueling Stops | [~~Swift~~](././Swift/minimum-number-of-refueling-stops.swift) | Java | 
 |  X  | 901 | Advantage Shuffle | [~~Swift~~](././Swift/advantage-shuffle.swift) | Java | 
 |  X  | 900 | Reordered Power of 2 | [~~Swift~~](././Swift/reordered-power-of-2.swift) | Java | 
 |     | 899 | Binary Gap | Swift | Java | 
