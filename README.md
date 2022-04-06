@@ -11,9 +11,15 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-568 | Java-150 |
+| X | # | Question | Swift-569 | Java-150 |
 |---|---|---|---|---|
+|     | 2369 | Maximum Sum Score of Array | Swift | Java | 
 |     | 2354 | Minimum Health to Beat Game | Swift | Java | 
+|     | 2345 | Minimum Number of Operations to Convert Time | Swift | Java | 
+|     | 2326 | Sum of Scores of Built Strings | Swift | Java | 
+|     | 2325 | Number of Ways to Select Buildings | Swift | Java | 
+|     | 2324 | Find Triangular Sum of an Array | Swift | Java | 
+|     | 2323 | Minimum Bit Flips to Convert Number | Swift | Java | 
 |     | 2322 | Number of Ways to Build Sturdy Brick Wall | Swift | Java | 
 |     | 2321 | Minimum Weighted Subgraph With the Required Paths | Swift | Java | 
 |     | 2320 | Find All K-Distant Indices in an Array | Swift | Java | 
@@ -756,6 +762,7 @@ Update README file only:
 |     | 1436 | Get Watched Videos by Your Friends | Swift | Java | 
 |     | 1435 | XOR Queries of a Subarray | Swift | Java | 
 |     | 1434 | Decrypt String from Alphabet to Integer Mapping | Swift | Java | 
+|     | 1433 | Encrypt and Decrypt Strings | Swift | Java | 
 |     | 1432 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Swift | Java | 
 |     | 1431 | All Ancestors of a Node in a Directed Acyclic Graph | Swift | Java | 
 |     | 1429 | Verbal Arithmetic Puzzle | Swift | Java | 
@@ -812,6 +819,7 @@ Update README file only:
 |     | 1358 | Find Positive Integer Solution for a Given Equation | Swift | Java | 
 |     | 1356 | Minimum Number of Moves to Make Palindrome | Swift | Java | 
 |     | 1355 | Minimum Deletions to Make Array Beautiful | Swift | Java | 
+|     | 1354 | Find Players With Zero or One Losses | Swift | Java | 
 |  X  | 1352 | Maximum Profit in Job Scheduling | [~~Swift~~](././Swift/maximum-profit-in-job-scheduling.swift) | Java | 
 |     | 1351 | Replace the Substring for Balanced String | Swift | Java | 
 |     | 1350 | Remove Sub-Folders from the Filesystem | Swift | Java | 
@@ -825,6 +833,7 @@ Update README file only:
 |     | 1341 | Split a String in Balanced Strings | Swift | Java | 
 |     | 1337 | Design Skiplist | Swift | Java | 
 |     | 1336 | Maximum Product of the Length of Two Palindromic Substrings | Swift | Java | 
+|     | 1335 | Maximum Candies Allocated to K Children | Swift | Java | 
 |     | 1333 | Sort the Jumbled Numbers | Swift | Java | 
 |  X  | 1332 | Count Vowels Permutation | [~~Swift~~](././Swift/count-vowels-permutation.swift) | Java | 
 |  X  | 1331 | Path with Maximum Gold | [~~Swift~~](././Swift/path-with-maximum-gold.swift) | Java | 
@@ -1142,7 +1151,7 @@ Update README file only:
 |  X  | 962 | Flip String to Monotone Increasing | [~~Swift~~](././Swift/flip-string-to-monotone-increasing.swift) | Java | 
 |     | 961 | Long Pressed Name | Swift | Java | 
 |     | 960 | Minimize Malware Spread | Swift | Java | 
-|     | 959 | 3Sum With Multiplicity | Swift | Java | 
+|  X  | 959 | 3Sum With Multiplicity | [~~Swift~~](././Swift/3sum-with-multiplicity.swift) | Java | 
 |  X  | 958 | Sort Array By Parity II | [~~Swift~~](././Swift/sort-array-by-parity-ii.swift) | Java | 
 |     | 957 | Minimum Add to Make Parentheses Valid | Swift | Java | 
 |     | 956 | Number of Music Playlists | Swift | Java | 
