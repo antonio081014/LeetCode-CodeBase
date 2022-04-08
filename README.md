@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-570 | Java-150 |
+| X | # | Question | Swift-571 | Java-150 |
 |---|---|---|---|---|
 |     | 2369 | Maximum Sum Score of Array | Swift | Java | 
 |     | 2354 | Minimum Health to Beat Game | Swift | Java | 
@@ -1141,7 +1141,7 @@ Update README file only:
 |     | 974 | Reorder Data in Log Files | Swift | Java | 
 |  X  | 973 | Stamping The Sequence | [~~Swift~~](././Swift/stamping-the-sequence.swift) | Java | 
 |     | 972 | Knight Dialer | Swift | Java | 
-|     | 971 | Shortest Bridge | Swift | Java | 
+|  X  | 971 | Shortest Bridge | [~~Swift~~](././Swift/shortest-bridge.swift) | Java | 
 |  X  | 969 | Number of Recent Calls | [~~Swift~~](././Swift/number-of-recent-calls.swift) | Java | 
 |     | 968 | Beautiful Array | Swift | Java | 
 |     | 967 | Minimum Falling Path Sum | Swift | Java | 
