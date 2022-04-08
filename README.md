@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-569 | Java-150 |
+| X | # | Question | Swift-570 | Java-150 |
 |---|---|---|---|---|
 |     | 2369 | Maximum Sum Score of Array | Swift | Java | 
 |     | 2354 | Minimum Health to Beat Game | Swift | Java | 
@@ -773,6 +773,7 @@ Update README file only:
 |     | 1423 | Maximum Number of Occurrences of a Substring | Swift | Java | 
 |     | 1422 | Divide Array in Sets of K Consecutive Numbers | Swift | Java | 
 |     | 1421 | Find Numbers with Even Number of Digits | Swift | Java | 
+|     | 1416 | Check if an Array Is Consecutive | Swift | Java | 
 |  X  | 1414 | Shortest Path in a Grid with Obstacles Elimination | [~~Swift~~](././Swift/shortest-path-in-a-grid-with-obstacles-elimination.swift) | Java | 
 |     | 1413 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Swift | Java | 
 |  X  | 1411 | Convert Binary Number in a Linked List to Integer | [~~Swift~~](././Swift/convert-binary-number-in-a-linked-list-to-integer.swift) | Java | 
@@ -1354,7 +1355,7 @@ Update README file only:
 |     | 752 | IP to CIDR | Swift | Java | 
 |     | 751 | Number Of Corner Rectangles | Swift | Java | 
 |     | 750 | Contain Virus | Swift | Java | 
-|     | 749 | Shortest Completing Word | Swift | Java | 
+|  X  | 749 | Shortest Completing Word | [~~Swift~~](././Swift/shortest-completing-word.swift) | Java | 
 |     | 748 | Largest Number At Least Twice of Others | Swift | Java | 
 |  X  | 747 | Min Cost Climbing Stairs | [~~Swift~~](././Swift/min-cost-climbing-stairs.swift) | Java | 
 |     | 746 | Prefix and Suffix Search | Swift | Java | 
