@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-571 | Java-150 |
+| X | # | Question | Swift-572 | Java-150 |
 |---|---|---|---|---|
 |     | 2369 | Maximum Sum Score of Array | Swift | Java | 
 |     | 2354 | Minimum Health to Beat Game | Swift | Java | 
@@ -1411,7 +1411,7 @@ Update README file only:
 |     | 685 | Redundant Connection II | Swift | Java | 
 |  X  | 684 | Redundant Connection | [~~Swift~~](././Swift/redundant-connection.swift) | Java | 
 |     | 683 | K Empty Slots | Swift | Java | 
-|     | 682 | Baseball Game | Swift | Java | 
+|  X  | 682 | Baseball Game | [~~Swift~~](././Swift/baseball-game.swift) | Java | 
 |     | 681 | Next Closest Time | Swift | Java | 
 |  X  | 680 | Valid Palindrome II | [~~Swift~~](././Swift/valid-palindrome-ii.swift) | Java | 
 |     | 679 | 24 Game | Swift | Java | 
