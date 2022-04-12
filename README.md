@@ -11,11 +11,17 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-572 | Java-150 |
+| X | # | Question | Swift-573 | Java-150 |
 |---|---|---|---|---|
+|     | 2384 | Root Equals Sum of Children | Swift | Java | 
+|     | 2383 | Add Two Integers | Swift | Java | 
 |     | 2369 | Maximum Sum Score of Array | Swift | Java | 
 |     | 2354 | Minimum Health to Beat Game | Swift | Java | 
 |     | 2345 | Minimum Number of Operations to Convert Time | Swift | Java | 
+|     | 2330 | Maximum Total Beauty of the Gardens | Swift | Java | 
+|     | 2329 | Maximum Product After K Increments | Swift | Java | 
+|     | 2328 | Minimize Result by Adding Parentheses to Expression | Swift | Java | 
+|     | 2327 | Largest Number After Digit Swaps by Parity | Swift | Java | 
 |     | 2326 | Sum of Scores of Built Strings | Swift | Java | 
 |     | 2325 | Number of Ways to Select Buildings | Swift | Java | 
 |     | 2324 | Find Triangular Sum of an Array | Swift | Java | 
@@ -1234,7 +1240,7 @@ Update README file only:
 |     | 880 | Rectangle Area II | Swift | Java | 
 |  X  | 879 | Maximize Distance to Closest Person | [~~Swift~~](././Swift/maximize-distance-to-closest-person.swift) | Java | 
 |  X  | 878 | Shifting Letters | [~~Swift~~](././Swift/shifting-letters.swift) | Java | 
-|     | 877 | Shortest Path Visiting All Nodes | Swift | Java | 
+|  X  | 877 | Shortest Path Visiting All Nodes | [~~Swift~~](././Swift/shortest-path-visiting-all-nodes.swift) | Java | 
 |     | 876 | Hand of Straights | Swift | Java | 
 |  X  | 875 | Longest Mountain in Array | [~~Swift~~](././Swift/longest-mountain-in-array.swift) | Java | 
 |  X  | 874 | Backspace String Compare | [~~Swift~~](././Swift/backspace-string-compare.swift) | Java | 
