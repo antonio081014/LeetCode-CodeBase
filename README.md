@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-574 | Java-150 |
+| X | # | Question | Swift-575 | Java-150 |
 |---|---|---|---|---|
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
 |     | 2383 | Add Two Integers | Swift | Java | 
@@ -1304,7 +1304,7 @@ Update README file only:
 |     | 809 | Preimage Size of Factorial Zeroes Function | Swift | Java | 
 |  X  | 808 | Number of Matching Subsequences | [~~Swift~~](././Swift/number-of-matching-subsequences.swift) | Java | 
 |     | 807 | Custom Sort String | Swift | Java | 
-|     | 806 | Domino and Tromino Tiling | Swift | Java | 
+|  X  | 806 | Domino and Tromino Tiling | [~~Swift~~](././Swift/domino-and-tromino-tiling.swift) | Java | 
 |     | 805 | Escape The Ghosts | Swift | Java | 
 |     | 804 | Rotated Digits | Swift | Java | 
 |  X  | 803 | Cheapest Flights Within K Stops | [~~Swift~~](././Swift/cheapest-flights-within-k-stops.swift) | Java | 
