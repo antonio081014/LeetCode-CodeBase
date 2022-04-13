@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-576 | Java-150 |
+| X | # | Question | Swift-577 | Java-150 |
 |---|---|---|---|---|
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
 |     | 2383 | Add Two Integers | Swift | Java | 
@@ -1653,7 +1653,7 @@ Update README file only:
 |  X  | 404 | Sum of Left Leaves | [~~Swift~~](././Swift/sum-of-left-leaves.swift) | Java | 
 |     | 403 | Frog Jump | Swift | Java | 
 |  X  | 402 | Remove K Digits | [~~Swift~~](././Swift/remove-k-digits.swift) | Java | 
-|     | 401 | Binary Watch | Swift | Java | 
+|  X  | 401 | Binary Watch | [~~Swift~~](././Swift/binary-watch.swift) | Java | 
 |     | 400 | Nth Digit | Swift | Java | 
 |  X  | 399 | Evaluate Division | [~~Swift~~](././Swift/evaluate-division.swift) | Java | 
 |     | 398 | Random Pick Index | Swift | Java | 
