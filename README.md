@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-573 | Java-150 |
+| X | # | Question | Swift-574 | Java-150 |
 |---|---|---|---|---|
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
 |     | 2383 | Add Two Integers | Swift | Java | 
@@ -925,7 +925,7 @@ Update README file only:
 |     | 1230 | Maximum of Absolute Value Expression | Swift | Java | 
 |     | 1229 | Shortest Path with Alternating Colors | Swift | Java | 
 |     | 1228 | Minimum Cost Tree From Leaf Values | Swift | Java | 
-|     | 1227 | Number of Equivalent Domino Pairs | Swift | Java | 
+|  X  | 1227 | Number of Equivalent Domino Pairs | [~~Swift~~](././Swift/number-of-equivalent-domino-pairs.swift) | Java | 
 |     | 1224 | Minimum Falling Path Sum II | Swift | Java | 
 |     | 1223 | Graph Connectivity With Threshold | Swift | Java | 
 |  X  | 1222 | Remove Covered Intervals | [~~Swift~~](././Swift/remove-covered-intervals.swift) | Java | 
