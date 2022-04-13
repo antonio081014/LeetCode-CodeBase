@@ -39,3 +39,46 @@ class Solution {
     }
 }
 
+
+class Solution {
+    func generateMatrix(_ n: Int) -> [[Int]] {
+        var grid = Array(repeating: Array(repeating: 0, count: n), count: n)
+        
+        var num = 1
+        func fill(_ layer: Int, _ size: Int) {
+            for y in 0 ..< size {
+                grid[layer][layer + y] = num
+                num += 1
+            }
+            
+            
+            if size > 2 {
+                for x in stride(from: 1, through: size - 2, by: 1) {
+                    grid[layer + x][n - 1 - layer] = num
+                    num += 1
+                }
+            }
+            
+            if size > 1 {
+                for y in 0 ..< size {
+                    grid[n - 1 - layer][n - 1 - layer - y] = num
+                    num += 1
+                }
+            }
+            
+            if size > 2 {
+                for x in stride(from: 1, through: size - 2, by: 1) {
+                    grid[n - 1 - layer - x][layer] = num
+                    num += 1
+                }
+            }
+            
+        }
+        
+        for layer in 0 ..< ((n + 1) / 2) {
+            fill(layer, n - layer * 2)
+        }
+        
+        return grid
+    }
+}
