@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-575 | Java-150 |
+| X | # | Question | Swift-576 | Java-150 |
 |---|---|---|---|---|
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
 |     | 2383 | Add Two Integers | Swift | Java | 
@@ -1249,7 +1249,7 @@ Update README file only:
 |  X  | 871 | Keys and Rooms | [~~Swift~~](././Swift/keys-and-rooms.swift) | Java | 
 |     | 870 | Magic Squares In Grid | Swift | Java | 
 |     | 869 | Similar String Groups | Swift | Java | 
-|     | 868 | Push Dominoes | Swift | Java | 
+|  X  | 868 | Push Dominoes | [~~Swift~~](././Swift/push-dominoes.swift) | Java | 
 |     | 867 | New 21 Game | Swift | Java | 
 |     | 866 | Rectangle Overlap | Swift | Java | 
 |     | 865 | Robot Room Cleaner | Swift | Java | 
