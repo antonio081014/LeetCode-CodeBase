@@ -34,3 +34,40 @@ class Solution {
         return result
     }
 }
+
+class Solution {
+    /// BFS.
+    func shortestPathLength(_ graph: [[Int]]) -> Int {
+        if graph.count <= 1 { return 0 }
+        let n = graph.count
+        let endingMask = (1 << n) - 1
+        var visited = Array(repeating: Array(repeating: false, count: 1 << n), count: n)
+        var queue = [(Int, Int)]()
+        for node in 0 ..< n {
+            queue.append((node, 1 << node))
+            visited[node][1 << node] = true
+        }
+        
+        var steps = 0
+        
+        while queue.isEmpty == false {
+            var sz = queue.count
+            while sz > 0 {
+                sz -= 1
+                let (node, mask) = queue.removeFirst()
+                for neighbor in graph[node] {
+                    let nextmask = mask | (1 << neighbor)
+                    if nextmask == endingMask { return steps + 1 }
+                    if visited[neighbor][nextmask] == false {
+                        visited[neighbor][nextmask] = true
+                        queue.append((neighbor, nextmask))
+                    }
+                }
+            }
+            steps += 1
+        }
+        
+        return -1
+        
+    }
+}
