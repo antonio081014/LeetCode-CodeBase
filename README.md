@@ -11,12 +11,21 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-578 | Java-150 |
+| X | # | Question | Swift-579 | Java-150 |
 |---|---|---|---|---|
+|     | 2385 | Count Positions on Street With Required Brightness | Swift | Java | 
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
 |     | 2383 | Add Two Integers | Swift | Java | 
 |     | 2369 | Maximum Sum Score of Array | Swift | Java | 
+|     | 2364 | Longest Path With Different Adjacent Characters | Swift | Java | 
+|     | 2363 | Maximum Trailing Zeros in a Cornered Path | Swift | Java | 
+|     | 2362 | Minimum Rounds to Complete All Tasks | Swift | Java | 
+|     | 2361 | Calculate Digit Sum of a String | Swift | Java | 
 |     | 2354 | Minimum Health to Beat Game | Swift | Java | 
+|     | 2353 | Maximum Score of a Node Sequence | Swift | Java | 
+|     | 2352 | Design an ATM Machine | Swift | Java | 
+|     | 2351 | Number of Ways to Buy Pens and Pencils | Swift | Java | 
+|     | 2350 | Find Closest Number to Zero | Swift | Java | 
 |     | 2345 | Minimum Number of Operations to Convert Time | Swift | Java | 
 |     | 2330 | Maximum Total Beauty of the Gardens | Swift | Java | 
 |     | 2329 | Maximum Product After K Increments | Swift | Java | 
@@ -305,6 +314,7 @@ Update README file only:
 |     | 2010 | Check if Word Equals Summation of Two Words | Swift | Java | 
 |     | 2009 | Longest Word With All Prefixes | Swift | Java | 
 |     | 2008 | Minimum Cost to Change the Final Value of Expression | Swift | Java | 
+|     | 2007 | Maximum Cost of Trip With K Highways | Swift | Java | 
 |     | 2006 | Find the Student that Will Replace the Chalk | Swift | Java | 
 |     | 2005 | Check if All the Integers in a Range Are Covered | Swift | Java | 
 |     | 2003 | Distinct Numbers in Each Subarray | Swift | Java | 
@@ -1294,7 +1304,7 @@ Update README file only:
 |     | 819 | Minimum Swaps To Make Sequences Increasing | Swift | Java | 
 |     | 818 | Similar RGB Color | Swift | Java | 
 |  X  | 817 | Design HashMap | [~~Swift~~](././Swift/design-hashmap.swift) | Java | 
-|     | 816 | Design HashSet | Swift | Java | 
+|  X  | 816 | Design HashSet | [~~Swift~~](././Swift/design-hashset.swift) | Java | 
 |  X  | 815 | Champagne Tower | [~~Swift~~](././Swift/champagne-tower.swift) | Java | 
 |     | 814 | Smallest Rotation with Highest Score | Swift | Java | 
 |  X  | 813 | All Paths From Source to Target | [~~Swift~~](././Swift/all-paths-from-source-to-target.swift) | Java | 
