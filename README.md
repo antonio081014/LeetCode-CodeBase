@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-579 | Java-150 |
+| X | # | Question | Swift-580 | Java-150 |
 |---|---|---|---|---|
 |     | 2385 | Count Positions on Street With Required Brightness | Swift | Java | 
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
@@ -27,6 +27,10 @@ Update README file only:
 |     | 2351 | Number of Ways to Buy Pens and Pencils | Swift | Java | 
 |     | 2350 | Find Closest Number to Zero | Swift | Java | 
 |     | 2345 | Minimum Number of Operations to Convert Time | Swift | Java | 
+|     | 2334 | Number of Flowers in Full Bloom | Swift | Java | 
+|     | 2333 | Count Number of Rectangles Containing Each Point | Swift | Java | 
+|     | 2332 | Count Lattice Points Inside a Circle | Swift | Java | 
+|     | 2331 | Intersection of Multiple Arrays | Swift | Java | 
 |     | 2330 | Maximum Total Beauty of the Gardens | Swift | Java | 
 |     | 2329 | Maximum Product After K Increments | Swift | Java | 
 |     | 2328 | Minimize Result by Adding Parentheses to Expression | Swift | Java | 
@@ -1217,7 +1221,7 @@ Update README file only:
 |     | 913 | Random Flip Matrix | Swift | Java | 
 |  X  | 912 | Random Pick with Weight | [~~Swift~~](././Swift/random-pick-with-weight.swift) | Java | 
 |     | 911 | Profitable Schemes | Swift | Java | 
-|     | 910 | Nth Magical Number | Swift | Java | 
+|  X  | 910 | Nth Magical Number | [~~Swift~~](././Swift/nth-magical-number.swift) | Java | 
 |  X  | 909 | Stone Game | [~~Swift~~](././Swift/stone-game.swift) | Java | 
 |  X  | 908 | Middle of the Linked List | [~~Swift~~](././Swift/middle-of-the-linked-list.swift) | Java | 
 |  X  | 907 | Koko Eating Bananas | [~~Swift~~](././Swift/koko-eating-bananas.swift) | Java | 
