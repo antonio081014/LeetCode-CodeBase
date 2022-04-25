@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-580 | Java-150 |
+| X | # | Question | Swift-581 | Java-150 |
 |---|---|---|---|---|
 |     | 2385 | Count Positions on Street With Required Brightness | Swift | Java | 
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
@@ -879,7 +879,7 @@ Update README file only:
 |     | 1304 | Longest Happy String | Swift | Java | 
 |     | 1303 | Minimum Moves to Reach Target Score | Swift | Java | 
 |     | 1302 | Delete Characters to Make Fancy String | Swift | Java | 
-|     | 1300 | Critical Connections in a Network | Swift | Java | 
+|  X  | 1300 | Critical Connections in a Network | [~~Swift~~](././Swift/critical-connections-in-a-network.swift) | Java | 
 |     | 1299 | K-Concatenation Maximum Sum | Swift | Java | 
 |     | 1298 | Reverse Substrings Between Each Pair of Parentheses | Swift | Java | 
 |  X  | 1297 | Maximum Number of Balloons | [~~Swift~~](././Swift/maximum-number-of-balloons.swift) | Java | 
