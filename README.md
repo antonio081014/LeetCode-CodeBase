@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-581 | Java-150 |
+| X | # | Question | Swift-582 | Java-150 |
 |---|---|---|---|---|
 |     | 2385 | Count Positions on Street With Required Brightness | Swift | Java | 
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
@@ -565,7 +565,7 @@ Update README file only:
 |     | 1709 | Alert Using Same Key-Card Three or More Times in a One Hour Period | Swift | Java | 
 |     | 1708 | Design Parking System | Swift | Java | 
 |     | 1707 | Check If String Is Transformable With Substring Sort Operations | Swift | Java | 
-|     | 1706 | Min Cost to Connect All Points | Swift | Java | 
+|  X  | 1706 | Min Cost to Connect All Points | [~~Swift~~](././Swift/min-cost-to-connect-all-points.swift) | Java | 
 |     | 1705 | Count Unhappy Friends | Swift | Java | 
 |     | 1704 | Special Positions in a Binary Matrix | Swift | Java | 
 |     | 1703 | Put Boxes Into the Warehouse I | Swift | Java | 
