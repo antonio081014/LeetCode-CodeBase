@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-582 | Java-150 |
+| X | # | Question | Swift-583 | Java-150 |
 |---|---|---|---|---|
 |     | 2385 | Count Positions on Street With Required Brightness | Swift | Java | 
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
@@ -872,7 +872,7 @@ Update README file only:
 |     | 1311 | Largest Magic Square | Swift | Java | 
 |     | 1310 | Watering Plants | Swift | Java | 
 |     | 1309 | Sort Items by Groups Respecting Dependencies | Swift | Java | 
-|     | 1308 | Smallest String With Swaps | Swift | Java | 
+|  X  | 1308 | Smallest String With Swaps | [~~Swift~~](././Swift/smallest-string-with-swaps.swift) | Java | 
 |  X  | 1307 | Ugly Number III | [~~Swift~~](././Swift/ugly-number-iii.swift) | Java | 
 |     | 1306 | Minimum Absolute Difference | Swift | Java | 
 |     | 1305 | Number of Visible People in a Queue | Swift | Java | 
