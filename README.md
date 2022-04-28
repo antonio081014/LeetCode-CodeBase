@@ -11,11 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-583 | Java-150 |
+| X | # | Question | Swift-584 | Java-150 |
 |---|---|---|---|---|
+|     | 2396 | Design Video Sharing Platform | Swift | Java | 
 |     | 2385 | Count Positions on Street With Required Brightness | Swift | Java | 
 |     | 2384 | Root Equals Sum of Children | Swift | Java | 
-|     | 2383 | Add Two Integers | Swift | Java | 
+|  X  | 2383 | Add Two Integers | [~~Swift~~](././Swift/add-two-integers.swift) | Java | 
 |     | 2369 | Maximum Sum Score of Array | Swift | Java | 
 |     | 2364 | Longest Path With Different Adjacent Characters | Swift | Java | 
 |     | 2363 | Maximum Trailing Zeros in a Cornered Path | Swift | Java | 
