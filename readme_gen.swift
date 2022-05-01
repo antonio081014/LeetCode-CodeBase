@@ -24,7 +24,7 @@ extension Problem: Hashable {
 
 extension Problem {
     init?(json: [String: Any]) {
-        guard let seq = json["question_id"] as? Int,
+        guard let seq = json["frontend_question_id"] as? Int,
             let qTitle = json["question__title"] as? String,
             let qSlug = json["question__title_slug"]  as? String
             else {
