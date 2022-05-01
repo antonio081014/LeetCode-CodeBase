@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-584 | Java-150 |
+| X | # | Question | Swift-585 | Java-150 |
 |---|---|---|---|---|
 |     | 2396 | Design Video Sharing Platform | Swift | Java | 
 |     | 2385 | Count Positions on Street With Required Brightness | Swift | Java | 
@@ -28,6 +28,14 @@ Update README file only:
 |     | 2351 | Number of Ways to Buy Pens and Pencils | Swift | Java | 
 |     | 2350 | Find Closest Number to Zero | Swift | Java | 
 |     | 2345 | Minimum Number of Operations to Convert Time | Swift | Java | 
+|     | 2344 | Escape the Spreading Fire | Swift | Java | 
+|     | 2343 | Count Unguarded Cells in the Grid | Swift | Java | 
+|     | 2342 | Minimum Average Difference | Swift | Java | 
+|     | 2341 | Count Prefixes of a Given String | Swift | Java | 
+|     | 2340 | Total Appeal of A String | Swift | Java | 
+|     | 2339 | K Divisible Elements Subarrays | Swift | Java | 
+|     | 2338 | Minimum Consecutive Cards to Pick Up | Swift | Java | 
+|  X  | 2337 | Remove Digit From Number to Maximize Result | [~~Swift~~](././Swift/remove-digit-from-number-to-maximize-result.swift) | Java | 
 |     | 2334 | Number of Flowers in Full Bloom | Swift | Java | 
 |     | 2333 | Count Number of Rectangles Containing Each Point | Swift | Java | 
 |     | 2332 | Count Lattice Points Inside a Circle | Swift | Java | 
