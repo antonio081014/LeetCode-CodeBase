@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-587 | Java-150 |
+| X | # | Question | Swift-588 | Java-150 |
 |---|---|---|---|---|
+|     | 2263 | Make Array Non-decreasing or Non-increasing | Swift | Java | 
 |     | 2262 | Total Appeal of A String | Swift | Java | 
 |     | 2261 | K Divisible Elements Subarrays | Swift | Java | 
 |  X  | 2260 | Minimum Consecutive Cards to Pick Up | [~~Swift~~](././Swift/minimum-consecutive-cards-to-pick-up.swift) | Java | 
@@ -327,7 +328,7 @@ Update README file only:
 |     | 1916 | Count Ways to Build Rooms in an Ant Colony | Swift | Java | 
 |     | 1915 | Number of Wonderful Substrings | Swift | Java | 
 |     | 1914 | Cyclically Rotating a Grid | Swift | Java | 
-|     | 1913 | Maximum Product Difference Between Two Pairs | Swift | Java | 
+|  X  | 1913 | Maximum Product Difference Between Two Pairs | [~~Swift~~](././Swift/maximum-product-difference-between-two-pairs.swift) | Java | 
 |     | 1912 | Design Movie Rental System | Swift | Java | 
 |     | 1911 | Maximum Alternating Subsequence Sum | Swift | Java | 
 |     | 1910 | Remove All Occurrences of a Substring | Swift | Java | 
