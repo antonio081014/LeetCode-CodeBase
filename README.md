@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-586 | Java-150 |
+| X | # | Question | Swift-587 | Java-150 |
 |---|---|---|---|---|
 |     | 2262 | Total Appeal of A String | Swift | Java | 
 |     | 2261 | K Divisible Elements Subarrays | Swift | Java | 
@@ -1851,7 +1851,7 @@ Update README file only:
 |  X  | 228 | Summary Ranges | [~~Swift~~](././Swift/summary-ranges.swift) | [~~Java~~](././Java/summary-ranges.java) | 
 |  X  | 227 | Basic Calculator II | [~~Swift~~](././Swift/basic-calculator-ii.swift) | Java | 
 |  X  | 226 | Invert Binary Tree | [~~Swift~~](././Swift/invert-binary-tree.swift) | [~~Java~~](././Java/invert-binary-tree.java) | 
-|     | 225 | Implement Stack using Queues | Swift | [~~Java~~](././Java/implement-stack-using-queues.java) | 
+|  X  | 225 | Implement Stack using Queues | [~~Swift~~](././Swift/implement-stack-using-queues.swift) | [~~Java~~](././Java/implement-stack-using-queues.java) | 
 |     | 224 | Basic Calculator | Swift | Java | 
 |     | 223 | Rectangle Area | Swift | [~~Java~~](././Java/rectangle-area.java) | 
 |  X  | 222 | Count Complete Tree Nodes | [~~Swift~~](././Swift/count-complete-tree-nodes.swift) | [~~Java~~](././Java/count-complete-tree-nodes.java) | 
