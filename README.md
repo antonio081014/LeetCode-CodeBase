@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-588 | Java-150 |
+| X | # | Question | Swift-589 | Java-150 |
 |---|---|---|---|---|
+|     | 2267 |  Check if There Is a Valid Parentheses String Path | Swift | Java | 
+|     | 2266 | Count Number of Texts | Swift | Java | 
+|     | 2265 | Count Nodes Equal to Average of Subtree | Swift | Java | 
+|     | 2264 | Largest 3-Same-Digit Number in String | Swift | Java | 
 |     | 2263 | Make Array Non-decreasing or Non-increasing | Swift | Java | 
 |     | 2262 | Total Appeal of A String | Swift | Java | 
 |     | 2261 | K Divisible Elements Subarrays | Swift | Java | 
@@ -675,7 +679,7 @@ Update README file only:
 |     | 1521 | Find a Value of a Mysterious Function Closest to Target | Swift | Java | 
 |     | 1520 | Maximum Number of Non-Overlapping Substrings | Swift | Java | 
 |     | 1519 | Number of Nodes in the Sub-Tree With the Same Label | Swift | Java | 
-|     | 1518 | Water Bottles | Swift | Java | 
+|  X  | 1518 | Water Bottles | [~~Swift~~](././Swift/water-bottles.swift) | Java | 
 |     | 1516 | Move Sub-Tree of N-Ary Tree | Swift | Java | 
 |     | 1515 | Best Position for a Service Centre | Swift | Java | 
 |     | 1514 | Path with Maximum Probability | Swift | Java | 
