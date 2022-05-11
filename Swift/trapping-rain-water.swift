@@ -25,3 +25,22 @@ class Solution {
         return total
     }
 }
+
+class Solution {
+    func trap(_ height: [Int]) -> Int {
+        var result = 0
+        var stack = [Int]()
+        for index in 0 ..< height.count {
+            while let top = stack.last, height[index] > height[top] {
+                stack.removeLast()
+                if let last = stack.last {
+                    let dist = index - last - 1
+                    let bounded_height = min(height[index], height[last]) - height[top]
+                    result += dist * bounded_height
+                }
+            }
+            stack.append(index)
+        }
+        return result
+    }
+}
