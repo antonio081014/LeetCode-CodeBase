@@ -13,6 +13,7 @@ Update README file only:
 
 | X | # | Question | Swift-589 | Java-150 |
 |---|---|---|---|---|
+|     | 2268 | Minimum Number of Keypresses | Swift | Java | 
 |     | 2267 |  Check if There Is a Valid Parentheses String Path | Swift | Java | 
 |     | 2266 | Count Number of Texts | Swift | Java | 
 |     | 2265 | Count Nodes Equal to Average of Subtree | Swift | Java | 
