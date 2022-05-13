@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-589 | Java-150 |
+| X | # | Question | Swift-590 | Java-150 |
 |---|---|---|---|---|
 |     | 2268 | Minimum Number of Keypresses | Swift | Java | 
 |     | 2267 |  Check if There Is a Valid Parentheses String Path | Swift | Java | 
@@ -1801,7 +1801,7 @@ Update README file only:
 |     | 285 | Inorder Successor in BST | Swift | Java | 
 |  X  | 284 | Peeking Iterator | [~~Swift~~](././Swift/peeking-iterator.swift) | [~~Java~~](././Java/peeking-iterator.java) | 
 |  X  | 283 | Move Zeroes | [~~Swift~~](././Swift/move-zeroes.swift) | [~~Java~~](././Java/move-zeroes.java) | 
-|     | 282 | Expression Add Operators | Swift | Java | 
+|  X  | 282 | Expression Add Operators | [~~Swift~~](././Swift/expression-add-operators.swift) | Java | 
 |     | 281 | Zigzag Iterator | Swift | Java | 
 |     | 280 | Wiggle Sort | Swift | Java | 
 |  X  | 279 | Perfect Squares | [~~Swift~~](././Swift/perfect-squares.swift) | [~~Java~~](././Java/perfect-squares.java) | 
