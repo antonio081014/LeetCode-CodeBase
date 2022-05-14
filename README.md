@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-590 | Java-150 |
+| X | # | Question | Swift-591 | Java-150 |
 |---|---|---|---|---|
 |     | 2268 | Minimum Number of Keypresses | Swift | Java | 
 |     | 2267 |  Check if There Is a Valid Parentheses String Path | Swift | Java | 
@@ -1373,7 +1373,7 @@ Update README file only:
 |  X  | 746 | Min Cost Climbing Stairs | [~~Swift~~](././Swift/min-cost-climbing-stairs.swift) | Java | 
 |     | 745 | Prefix and Suffix Search | Swift | Java | 
 |  X  | 744 | Find Smallest Letter Greater Than Target | [~~Swift~~](././Swift/find-smallest-letter-greater-than-target.swift) | Java | 
-|     | 743 | Network Delay Time | Swift | Java | 
+|  X  | 743 | Network Delay Time | [~~Swift~~](././Swift/network-delay-time.swift) | Java | 
 |     | 742 | Closest Leaf in a Binary Tree | Swift | Java | 
 |     | 741 | Cherry Pickup | Swift | Java | 
 |  X  | 740 | Delete and Earn | [~~Swift~~](././Swift/delete-and-earn.swift) | Java | 
