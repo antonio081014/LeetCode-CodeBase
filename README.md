@@ -11,8 +11,16 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-591 | Java-150 |
+| X | # | Question | Swift-592 | Java-150 |
 |---|---|---|---|---|
+|     | 2276 | Count Integers in Intervals | Swift | Java | 
+|     | 2275 | Largest Combination With Bitwise AND Greater Than Zero | Swift | Java | 
+|     | 2274 | Maximum Consecutive Floors Without Special Floors | Swift | Java | 
+|     | 2273 | Find Resultant Array After Removing Anagrams | Swift | Java | 
+|     | 2272 | Substring With Largest Variance | Swift | Java | 
+|     | 2271 | Maximum White Tiles Covered by a Carpet | Swift | Java | 
+|     | 2270 | Number of Ways to Split Array | Swift | Java | 
+|     | 2269 | Find the K-Beauty of a Number | Swift | Java | 
 |     | 2268 | Minimum Number of Keypresses | Swift | Java | 
 |     | 2267 |  Check if There Is a Valid Parentheses String Path | Swift | Java | 
 |     | 2266 | Count Number of Texts | Swift | Java | 
@@ -2023,7 +2031,7 @@ Update README file only:
 |  X  | 46 | Permutations | [~~Swift~~](././Swift/permutations.swift) | [~~Java~~](././Java/permutations.java) | 
 |  X  | 45 | Jump Game II | [~~Swift~~](././Swift/jump-game-ii.swift) | [~~Java~~](././Java/jump-game-ii.java) | 
 |     | 44 | Wildcard Matching | Swift | [~~Java~~](././Java/wildcard-matching.java) | 
-|     | 43 | Multiply Strings | Swift | [~~Java~~](././Java/multiply-strings.java) | 
+|  X  | 43 | Multiply Strings | [~~Swift~~](././Swift/multiply-strings.swift) | [~~Java~~](././Java/multiply-strings.java) | 
 |  X  | 42 | Trapping Rain Water | [~~Swift~~](././Swift/trapping-rain-water.swift) | [~~Java~~](././Java/trapping-rain-water.java) | 
 |  X  | 41 | First Missing Positive | [~~Swift~~](././Swift/first-missing-positive.swift) | Java | 
 |     | 40 | Combination Sum II | Swift | [~~Java~~](././Java/combination-sum-ii.java) | 
