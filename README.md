@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-592 | Java-150 |
+| X | # | Question | Swift-593 | Java-150 |
 |---|---|---|---|---|
 |     | 2276 | Count Integers in Intervals | Swift | Java | 
 |     | 2275 | Largest Combination With Bitwise AND Greater Than Zero | Swift | Java | 
@@ -1866,7 +1866,7 @@ Update README file only:
 |  X  | 227 | Basic Calculator II | [~~Swift~~](././Swift/basic-calculator-ii.swift) | Java | 
 |  X  | 226 | Invert Binary Tree | [~~Swift~~](././Swift/invert-binary-tree.swift) | [~~Java~~](././Java/invert-binary-tree.java) | 
 |  X  | 225 | Implement Stack using Queues | [~~Swift~~](././Swift/implement-stack-using-queues.swift) | [~~Java~~](././Java/implement-stack-using-queues.java) | 
-|     | 224 | Basic Calculator | Swift | Java | 
+|  X  | 224 | Basic Calculator | [~~Swift~~](././Swift/basic-calculator.swift) | Java | 
 |     | 223 | Rectangle Area | Swift | [~~Java~~](././Java/rectangle-area.java) | 
 |  X  | 222 | Count Complete Tree Nodes | [~~Swift~~](././Swift/count-complete-tree-nodes.swift) | [~~Java~~](././Java/count-complete-tree-nodes.java) | 
 |  X  | 221 | Maximal Square | [~~Swift~~](././Swift/maximal-square.swift) | Java | 
