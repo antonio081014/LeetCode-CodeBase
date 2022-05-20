@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-594 | Java-150 |
+| X | # | Question | Swift-595 | Java-150 |
 |---|---|---|---|---|
 |     | 2276 | Count Integers in Intervals | Swift | Java | 
 |     | 2275 | Largest Combination With Bitwise AND Greater Than Zero | Swift | Java | 
@@ -1360,7 +1360,7 @@ Update README file only:
 |  X  | 767 | Reorganize String | [~~Swift~~](././Swift/reorganize-string.swift) | Java | 
 |     | 766 | Toeplitz Matrix | Swift | Java | 
 |     | 765 | Couples Holding Hands | Swift | Java | 
-|     | 764 | Largest Plus Sign | Swift | Java | 
+|  X  | 764 | Largest Plus Sign | [~~Swift~~](././Swift/largest-plus-sign.swift) | Java | 
 |  X  | 763 | Partition Labels | [~~Swift~~](././Swift/partition-labels.swift) | Java | 
 |     | 762 | Prime Number of Set Bits in Binary Representation | Swift | Java | 
 |     | 761 | Special Binary String | Swift | Java | 
