@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-595 | Java-150 |
+| X | # | Question | Swift-596 | Java-150 |
 |---|---|---|---|---|
 |     | 2276 | Count Integers in Intervals | Swift | Java | 
 |     | 2275 | Largest Combination With Bitwise AND Greater Than Zero | Swift | Java | 
@@ -1377,7 +1377,7 @@ Update README file only:
 |     | 750 | Number Of Corner Rectangles | Swift | Java | 
 |     | 749 | Contain Virus | Swift | Java | 
 |  X  | 748 | Shortest Completing Word | [~~Swift~~](././Swift/shortest-completing-word.swift) | Java | 
-|     | 747 | Largest Number At Least Twice of Others | Swift | Java | 
+|  X  | 747 | Largest Number At Least Twice of Others | [~~Swift~~](././Swift/largest-number-at-least-twice-of-others.swift) | Java | 
 |  X  | 746 | Min Cost Climbing Stairs | [~~Swift~~](././Swift/min-cost-climbing-stairs.swift) | Java | 
 |     | 745 | Prefix and Suffix Search | Swift | Java | 
 |  X  | 744 | Find Smallest Letter Greater Than Target | [~~Swift~~](././Swift/find-smallest-letter-greater-than-target.swift) | Java | 
