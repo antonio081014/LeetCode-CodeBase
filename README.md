@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-593 | Java-150 |
+| X | # | Question | Swift-594 | Java-150 |
 |---|---|---|---|---|
 |     | 2276 | Count Integers in Intervals | Swift | Java | 
 |     | 2275 | Largest Combination With Bitwise AND Greater Than Zero | Swift | Java | 
@@ -1262,7 +1262,7 @@ Update README file only:
 |  X  | 865 | Smallest Subtree with all the Deepest Nodes | [~~Swift~~](././Swift/smallest-subtree-with-all-the-deepest-nodes.swift) | Java | 
 |     | 864 | Shortest Path to Get All Keys | Swift | Java | 
 |     | 863 | All Nodes Distance K in Binary Tree | Swift | Java | 
-|     | 862 | Shortest Subarray with Sum at Least K | Swift | Java | 
+|  X  | 862 | Shortest Subarray with Sum at Least K | [~~Swift~~](././Swift/shortest-subarray-with-sum-at-least-k.swift) | Java | 
 |     | 861 | Score After Flipping Matrix | Swift | Java | 
 |     | 860 | Lemonade Change | Swift | Java | 
 |  X  | 859 | Buddy Strings | [~~Swift~~](././Swift/buddy-strings.swift) | Java | 
