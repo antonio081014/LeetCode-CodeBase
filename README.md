@@ -13,6 +13,11 @@ Update README file only:
 
 | X | # | Question | Swift-596 | Java-150 |
 |---|---|---|---|---|
+|     | 2281 | Sum of Total Strength of Wizards | Swift | Java | 
+|     | 2280 | Minimum Lines to Represent a Line Chart | Swift | Java | 
+|     | 2279 | Maximum Bags With Full Capacity of Rocks | Swift | Java | 
+|     | 2278 | Percentage of Letter in String | Swift | Java | 
+|     | 2277 | Closest Node to Path in Tree | Swift | Java | 
 |     | 2276 | Count Integers in Intervals | Swift | Java | 
 |     | 2275 | Largest Combination With Bitwise AND Greater Than Zero | Swift | Java | 
 |     | 2274 | Maximum Consecutive Floors Without Special Floors | Swift | Java | 
