@@ -33,3 +33,27 @@ class Solution {
         return ret
     }
 }
+
+class Solution {
+    func countSubstrings(_ s: String) -> Int {
+        let s = Array(s)
+        var count = 0
+        for index in 0 ..< s.count {
+            count += palindromicCount(s, index, index)
+            count += palindromicCount(s, index, index + 1)
+        }
+        return count
+    }
+    
+    private func palindromicCount(_ s: [Character], _ left: Int, _ right: Int) -> Int {
+        var left = left
+        var right = right
+        var result = 0
+        while left >= 0, right < s.count, s[left] == s[right] {
+            result += 1
+            left -= 1
+            right += 1
+        }
+        return result
+    }
+}
