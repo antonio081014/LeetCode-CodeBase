@@ -11,8 +11,22 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-596 | Java-150 |
+| X | # | Question | Swift-597 | Java-150 |
 |---|---|---|---|---|
+|     | 2296 | Design a Text Editor | Swift | Java | 
+|     | 2295 | Replace Elements in an Array | Swift | Java | 
+|     | 2294 | Partition Array Such That Maximum Difference Is K | Swift | Java | 
+|     | 2293 | Min Max Game | Swift | Java | 
+|     | 2291 | Maximum Profit From Trading Stocks | Swift | Java | 
+|     | 2290 | Minimum Obstacle Removal to Reach Corner | Swift | Java | 
+|     | 2289 | Steps to Make Array Non-decreasing | Swift | Java | 
+|     | 2288 | Apply Discount to Prices | Swift | Java | 
+|     | 2287 | Rearrange Characters to Make Target String | Swift | Java | 
+|     | 2286 | Booking Concert Tickets in Groups | Swift | Java | 
+|     | 2285 | Maximum Total Importance of Roads | Swift | Java | 
+|     | 2284 | Sender With Largest Word Count | Swift | Java | 
+|     | 2283 | Check if Number Has Equal Digit Count and Digit Value | Swift | Java | 
+|     | 2282 | Number of People That Can Be Seen in a Grid | Swift | Java | 
 |     | 2281 | Sum of Total Strength of Wizards | Swift | Java | 
 |     | 2280 | Minimum Lines to Represent a Line Chart | Swift | Java | 
 |     | 2279 | Maximum Bags With Full Capacity of Rocks | Swift | Java | 
@@ -1262,7 +1276,7 @@ Update README file only:
 |  X  | 870 | Advantage Shuffle | [~~Swift~~](././Swift/advantage-shuffle.swift) | Java | 
 |  X  | 869 | Reordered Power of 2 | [~~Swift~~](././Swift/reordered-power-of-2.swift) | Java | 
 |     | 868 | Binary Gap | Swift | Java | 
-|     | 867 | Transpose Matrix | Swift | Java | 
+|  X  | 867 | Transpose Matrix | [~~Swift~~](././Swift/transpose-matrix.swift) | Java | 
 |     | 866 | Prime Palindrome | Swift | Java | 
 |  X  | 865 | Smallest Subtree with all the Deepest Nodes | [~~Swift~~](././Swift/smallest-subtree-with-all-the-deepest-nodes.swift) | Java | 
 |     | 864 | Shortest Path to Get All Keys | Swift | Java | 
