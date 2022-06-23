@@ -13,6 +13,21 @@ Update README file only:
 
 | X | # | Question | Swift-597 | Java-150 |
 |---|---|---|---|---|
+|     | 2313 | Minimum Flips in Binary Tree to Get Result | Swift | Java | 
+|     | 2312 | Selling Pieces of Wood | Swift | Java | 
+|     | 2311 | Longest Binary Subsequence Less Than or Equal to K | Swift | Java | 
+|     | 2310 | Sum of Numbers With Units Digit K | Swift | Java | 
+|     | 2309 | Greatest English Letter in Upper and Lower Case | Swift | Java | 
+|     | 2307 | Check for Contradictions in Equations | Swift | Java | 
+|     | 2306 | Naming a Company | Swift | Java | 
+|     | 2305 | Fair Distribution of Cookies | Swift | Java | 
+|     | 2304 | Minimum Path Cost in a Grid | Swift | Java | 
+|     | 2303 | Calculate Amount Paid in Taxes | Swift | Java | 
+|     | 2302 | Count Subarrays With Score Less Than K | Swift | Java | 
+|     | 2301 | Match Substring After Replacement | Swift | Java | 
+|     | 2300 | Successful Pairs of Spells and Potions | Swift | Java | 
+|     | 2299 | Strong Password Checker II | Swift | Java | 
+|     | 2297 | Jump Game VIII | Swift | Java | 
 |     | 2296 | Design a Text Editor | Swift | Java | 
 |     | 2295 | Replace Elements in an Array | Swift | Java | 
 |     | 2294 | Partition Array Such That Maximum Difference Is K | Swift | Java | 
