@@ -63,3 +63,30 @@ class Solution {
         return resultCount
     }
 }
+
+class Solution {
+    func scheduleCourse(_ courses: [[Int]]) -> Int {
+        var courses = courses.sorted { $0[1] < $1[1] }
+        var start = 0
+        var selectedCourseDuration = [Int]()
+        for index in 0 ..< courses.count {
+            if start + courses[index][0] <= courses[index][1] {
+                start += courses[index][0]
+                selectedCourseDuration.append(courses[index][0])
+            } else {
+                if selectedCourseDuration.isEmpty { continue }
+                var maxDurationIndex = 0
+                for j in 0 ..< selectedCourseDuration.count {
+                    if selectedCourseDuration[maxDurationIndex] < selectedCourseDuration[j] {
+                        maxDurationIndex = j
+                    }
+                }
+                if selectedCourseDuration[maxDurationIndex] > courses[index][0] {
+                    start += courses[index][0] - selectedCourseDuration[maxDurationIndex]
+                    selectedCourseDuration[maxDurationIndex] = courses[index][0]
+                }
+            }
+        }
+        return selectedCourseDuration.count
+    }
+}
