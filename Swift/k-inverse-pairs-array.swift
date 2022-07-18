@@ -17,20 +17,23 @@ class Solution {
 // Mon Jul 18 09:26:15 PDT 2022
 class Solution {
     func kInversePairs(_ n: Int, _ k: Int) -> Int {
+        let mod = 1000000007
         var dp = Array(repeating: Array(repeating: 0, count: k + 1), count: n + 1)
         for x in 1 ... n {
             for y in 0 ... k {
                 if y == 0 {
                     dp[x][y] = 1
                 } else {
-                    for p in 0 ... min(x - 1, y) {
-                        dp[x][y] = (dp[x][y] + dp[x - 1][y - p]) % 1000000007
+                    var val = 0
+                    for step in 0 ... min(x - 1, y) {
+                        val = (val + dp[x - 1][y - step]) % mod
                     }
+                    
+                    dp[x][y] = (dp[x][y] + val) % mod
                 }
             }
         }
+        print(dp)
         return dp[n][k]
     }
 }
-
-
