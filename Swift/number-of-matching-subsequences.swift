@@ -55,3 +55,33 @@ class Solution {
         return -1
     }
 }
+
+// Wed Jul 20 10:16:54 PDT 2022
+class Solution {
+    func numMatchingSubseq(_ s: String, _ words: [String]) -> Int {
+        var counter = [String : Int]()
+        for w in words {
+            counter[w, default: 0] += 1
+        }
+        let s = Array(s)
+        var result = 0
+        for (w, num) in counter {
+            if isSubstring(s, Array(w)) {
+                result += num
+            }
+        }
+        return result
+    }
+    /// - Time: O(max(s.count, a.count))
+    private func isSubstring(_ s: [Character], _ a: [Character]) -> Bool {
+        var sIndex = 0
+        var aIndex = 0
+        while sIndex < s.count, aIndex < a.count {
+            if s[sIndex] == a[aIndex] {
+                aIndex += 1
+            }
+            sIndex += 1
+        }
+        return aIndex >= a.count
+    }
+}
