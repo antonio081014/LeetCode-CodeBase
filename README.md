@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-599 | Java-150 |
+| X | # | Question | Swift-600 | Java-150 |
 |---|---|---|---|---|
 |     | 2387 | Median of a Row Wise Sorted Matrix | Swift | Java | 
 |     | 2386 | Find the K-Sum of an Array | Swift | Java | 
@@ -1747,7 +1747,7 @@ Update README file only:
 |  X  | 446 | Arithmetic Slices II - Subsequence | [~~Swift~~](././Swift/arithmetic-slices-ii-subsequence.swift) | Java | 
 |  X  | 445 | Add Two Numbers II | [~~Swift~~](././Swift/add-two-numbers-ii.swift) | Java | 
 |     | 444 | Sequence Reconstruction | Swift | Java | 
-|     | 443 | String Compression | Swift | Java | 
+|  X  | 443 | String Compression | [~~Swift~~](././Swift/string-compression.swift) | Java | 
 |  X  | 442 | Find All Duplicates in an Array | [~~Swift~~](././Swift/find-all-duplicates-in-an-array.swift) | Java | 
 |  X  | 441 | Arranging Coins | [~~Swift~~](././Swift/arranging-coins.swift) | Java | 
 |     | 440 | K-th Smallest in Lexicographical Order | Swift | Java | 
