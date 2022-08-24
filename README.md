@@ -11,8 +11,46 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-598 | Java-150 |
+| X | # | Question | Swift-599 | Java-150 |
 |---|---|---|---|---|
+|     | 2387 | Median of a Row Wise Sorted Matrix | Swift | Java | 
+|     | 2386 | Find the K-Sum of an Array | Swift | Java | 
+|     | 2385 | Amount of Time for Binary Tree to Be Infected | Swift | Java | 
+|     | 2384 | Largest Palindromic Number | Swift | Java | 
+|     | 2383 | Minimum Hours of Training to Win a Competition | Swift | Java | 
+|     | 2382 | Maximum Segment Sum After Removals | Swift | Java | 
+|     | 2381 | Shifting Letters II | Swift | Java | 
+|     | 2380 | Time Needed to Rearrange a Binary String | Swift | Java | 
+|     | 2379 | Minimum Recolors to Get K Consecutive Black Blocks | Swift | Java | 
+|     | 2378 | Choose Edges to Maximize Score in a Tree | Swift | Java | 
+|     | 2376 | Count Special Integers | Swift | Java | 
+|     | 2375 | Construct Smallest Number From DI String | Swift | Java | 
+|     | 2374 | Node With Highest Edge Score | Swift | Java | 
+|     | 2373 | Largest Local Values in a Matrix | Swift | Java | 
+|     | 2371 | Minimize Maximum Value in a Grid | Swift | Java | 
+|     | 2370 | Longest Ideal Subsequence | Swift | Java | 
+|     | 2369 | Check if There is a Valid Partition For The Array | Swift | Java | 
+|     | 2368 | Reachable Nodes With Restrictions | Swift | Java | 
+|     | 2367 | Number of Arithmetic Triplets | Swift | Java | 
+|     | 2366 | Minimum Replacements to Sort the Array | Swift | Java | 
+|     | 2365 | Task Scheduler II | Swift | Java | 
+|     | 2364 | Count Number of Bad Pairs | Swift | Java | 
+|     | 2363 | Merge Similar Items | Swift | Java | 
+|     | 2361 | Minimum Costs Using the Train Line | Swift | Java | 
+|     | 2360 | Longest Cycle in a Graph | Swift | Java | 
+|     | 2359 | Find Closest Node to Given Two Nodes | Swift | Java | 
+|     | 2358 | Maximum Number of Groups Entering a Competition | Swift | Java | 
+|     | 2357 | Make Array Zero by Subtracting Equal Amounts | Swift | Java | 
+|     | 2355 | Maximum Number of Books You Can Take | Swift | Java | 
+|     | 2354 | Number of Excellent Pairs | Swift | Java | 
+|     | 2353 | Design a Food Rating System | Swift | Java | 
+|     | 2352 | Equal Row and Column Pairs | Swift | Java | 
+|     | 2351 | First Letter to Appear Twice | Swift | Java | 
+|     | 2350 | Shortest Impossible Sequence of Rolls | Swift | Java | 
+|     | 2349 | Design a Number Container System | Swift | Java | 
+|     | 2348 | Number of Zero-Filled Subarrays | Swift | Java | 
+|     | 2347 | Best Poker Hand | Swift | Java | 
+|     | 2345 | Finding the Number of Visible Mountains | Swift | Java | 
 |     | 2344 | Minimum Deletions to Make Array Divisible | Swift | Java | 
 |     | 2343 | Query Kth Smallest Trimmed Number | Swift | Java | 
 |     | 2342 | Max Sum of a Pair With Equal Sum of Digits | Swift | Java | 
@@ -330,7 +368,7 @@ Update README file only:
 |     | 1999 | Smallest Greater Multiple Made of Two Digits | Swift | Java | 
 |     | 1998 | GCD Sort of an Array | Swift | Java | 
 |     | 1997 | First Day Where You Have Been in All the Rooms | Swift | Java | 
-|     | 1996 | The Number of Weak Characters in the Game | Swift | Java | 
+|  X  | 1996 | The Number of Weak Characters in the Game | [~~Swift~~](././Swift/the-number-of-weak-characters-in-the-game.swift) | Java | 
 |     | 1995 | Count Special Quadruplets | Swift | Java | 
 |     | 1994 | The Number of Good Subsets | Swift | Java | 
 |     | 1993 | Operations on Tree | Swift | Java | 
