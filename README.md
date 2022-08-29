@@ -11,8 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-600 | Java-150 |
+| X | # | Question | Swift-601 | Java-150 |
 |---|---|---|---|---|
+|     | 2392 | Build a Matrix With Conditions | Swift | Java | 
+|     | 2391 | Minimum Amount of Time to Collect Garbage | Swift | Java | 
+|     | 2390 | Removing Stars From a String | Swift | Java | 
+|     | 2389 | Longest Subsequence With Limited Sum | Swift | Java | 
 |     | 2387 | Median of a Row Wise Sorted Matrix | Swift | Java | 
 |     | 2386 | Find the K-Sum of an Array | Swift | Java | 
 |     | 2385 | Amount of Time for Binary Tree to Be Infected | Swift | Java | 
@@ -1827,7 +1831,7 @@ Update README file only:
 |     | 366 | Find Leaves of Binary Tree | Swift | Java | 
 |     | 365 | Water and Jug Problem | Swift | Java | 
 |     | 364 | Nested List Weight Sum II | Swift | Java | 
-|     | 363 | Max Sum of Rectangle No Larger Than K | Swift | Java | 
+|  X  | 363 | Max Sum of Rectangle No Larger Than K | [~~Swift~~](././Swift/max-sum-of-rectangle-no-larger-than-k.swift) | Java | 
 |     | 362 | Design Hit Counter | Swift | Java | 
 |     | 361 | Bomb Enemy | Swift | Java | 
 |     | 360 | Sort Transformed Array | Swift | Java | 
