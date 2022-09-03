@@ -11,8 +11,9 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-601 | Java-150 |
+| X | # | Question | Swift-602 | Java-150 |
 |---|---|---|---|---|
+|     | 2393 | Count Strictly Increasing Subarrays | Swift | Java | 
 |     | 2392 | Build a Matrix With Conditions | Swift | Java | 
 |     | 2391 | Minimum Amount of Time to Collect Garbage | Swift | Java | 
 |     | 2390 | Removing Stars From a String | Swift | Java | 
@@ -282,7 +283,7 @@ Update README file only:
 |     | 2099 | Find Subsequence of Length K With the Largest Sum | Swift | Java | 
 |     | 2098 | Subsequence of Size K With the Largest Even Sum | Swift | Java | 
 |     | 2097 | Valid Arrangement of Pairs | Swift | Java | 
-|     | 2096 | Step-By-Step Directions From a Binary Tree Node to Another | Swift | Java | 
+|  X  | 2096 | Step-By-Step Directions From a Binary Tree Node to Another | [~~Swift~~](././Swift/step-by-step-directions-from-a-binary-tree-node-to-another.swift) | Java | 
 |     | 2095 | Delete the Middle Node of a Linked List | Swift | Java | 
 |     | 2094 | Finding 3-Digit Even Numbers | Swift | Java | 
 |     | 2093 | Minimum Cost to Reach City With Discounts | Swift | Java | 
@@ -2149,7 +2150,7 @@ Update README file only:
 |  X  | 31 | Next Permutation | [~~Swift~~](././Swift/next-permutation.swift) | [~~Java~~](././Java/next-permutation.java) | 
 |     | 30 | Substring with Concatenation of All Words | Swift | Java | 
 |  X  | 29 | Divide Two Integers | [~~Swift~~](././Swift/divide-two-integers.swift) | [~~Java~~](././Java/divide-two-integers.java) | 
-|  X  | 28 | Implement strStr() | [~~Swift~~](././Swift/implement-strstr.swift) | Java | 
+|     | 28 | Find the Index of the First Occurrence in a String | Swift | Java | 
 |     | 27 | Remove Element | Swift | [~~Java~~](././Java/remove-element.java) | 
 |  X  | 26 | Remove Duplicates from Sorted Array | [~~Swift~~](././Swift/remove-duplicates-from-sorted-array.swift) | [~~Java~~](././Java/remove-duplicates-from-sorted-array.java) | 
 |     | 25 | Reverse Nodes in k-Group | Swift | [~~Java~~](././Java/reverse-nodes-in-k-group.java) | 
