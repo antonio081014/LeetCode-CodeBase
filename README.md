@@ -11,8 +11,16 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-602 | Java-150 |
+| X | # | Question | Swift-603 | Java-150 |
 |---|---|---|---|---|
+|     | 2402 | Meeting Rooms III | Swift | Java | 
+|     | 2401 | Longest Nice Subarray | Swift | Java | 
+|     | 2400 | Number of Ways to Reach a Position After Exactly k Steps | Swift | Java | 
+|     | 2399 | Check Distances Between Same Letters | Swift | Java | 
+|     | 2398 | Maximum Number of Robots Within Budget | Swift | Java | 
+|     | 2397 | Maximum Rows Covered by Columns | Swift | Java | 
+|     | 2396 | Strictly Palindromic Number | Swift | Java | 
+|     | 2395 | Find Subarrays With Equal Sum | Swift | Java | 
 |     | 2393 | Count Strictly Increasing Subarrays | Swift | Java | 
 |     | 2392 | Build a Matrix With Conditions | Swift | Java | 
 |     | 2391 | Minimum Amount of Time to Collect Garbage | Swift | Java | 
@@ -1829,7 +1837,7 @@ Update README file only:
 |     | 369 | Plus One Linked List | Swift | Java | 
 |  X  | 368 | Largest Divisible Subset | [~~Swift~~](././Swift/largest-divisible-subset.swift) | Java | 
 |  X  | 367 | Valid Perfect Square | [~~Swift~~](././Swift/valid-perfect-square.swift) | Java | 
-|     | 366 | Find Leaves of Binary Tree | Swift | Java | 
+|  X  | 366 | Find Leaves of Binary Tree | [~~Swift~~](././Swift/find-leaves-of-binary-tree.swift) | Java | 
 |     | 365 | Water and Jug Problem | Swift | Java | 
 |     | 364 | Nested List Weight Sum II | Swift | Java | 
 |  X  | 363 | Max Sum of Rectangle No Larger Than K | [~~Swift~~](././Swift/max-sum-of-rectangle-no-larger-than-k.swift) | Java | 
