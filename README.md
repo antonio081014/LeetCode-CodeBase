@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-603 | Java-150 |
+| X | # | Question | Swift-604 | Java-150 |
 |---|---|---|---|---|
 |     | 2402 | Meeting Rooms III | Swift | Java | 
 |     | 2401 | Longest Nice Subarray | Swift | Java | 
@@ -1844,7 +1844,7 @@ Update README file only:
 |     | 362 | Design Hit Counter | Swift | Java | 
 |     | 361 | Bomb Enemy | Swift | Java | 
 |     | 360 | Sort Transformed Array | Swift | Java | 
-|     | 359 | Logger Rate Limiter | Swift | Java | 
+|  X  | 359 | Logger Rate Limiter | [~~Swift~~](././Swift/logger-rate-limiter.swift) | Java | 
 |     | 358 | Rearrange String k Distance Apart | Swift | Java | 
 |     | 357 | Count Numbers with Unique Digits | Swift | Java | 
 |     | 356 | Line Reflection | Swift | Java | 
