@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-606 | Java-150 |
+| X | # | Question | Swift-607 | Java-150 |
 |---|---|---|---|---|
 |     | 2402 | Meeting Rooms III | Swift | Java | 
 |     | 2401 | Longest Nice Subarray | Swift | Java | 
@@ -216,7 +216,7 @@ Update README file only:
 |     | 2181 | Merge Nodes in Between Zeros | Swift | Java | 
 |     | 2180 | Count Integers With Even Digit Sum | Swift | Java | 
 |     | 2179 | Count Good Triplets in an Array | Swift | Java | 
-|     | 2178 | Maximum Split of Positive Even Integers | Swift | Java | 
+|  X  | 2178 | Maximum Split of Positive Even Integers | [~~Swift~~](././Swift/maximum-split-of-positive-even-integers.swift) | Java | 
 |     | 2177 | Find Three Consecutive Integers That Sum to a Given Number | Swift | Java | 
 |     | 2176 | Count Equal and Divisible Pairs in an Array | Swift | Java | 
 |     | 2174 | Remove All Ones With Row and Column Flips II | Swift | Java | 
