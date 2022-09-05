@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-604 | Java-150 |
+| X | # | Question | Swift-605 | Java-150 |
 |---|---|---|---|---|
 |     | 2402 | Meeting Rooms III | Swift | Java | 
 |     | 2401 | Longest Nice Subarray | Swift | Java | 
@@ -1950,7 +1950,7 @@ Update README file only:
 |     | 255 | Verify Preorder Sequence in Binary Search Tree | Swift | Java | 
 |     | 254 | Factor Combinations | Swift | Java | 
 |     | 253 | Meeting Rooms II | Swift | Java | 
-|     | 252 | Meeting Rooms | Swift | Java | 
+|  X  | 252 | Meeting Rooms | [~~Swift~~](././Swift/meeting-rooms.swift) | Java | 
 |     | 251 | Flatten 2D Vector | Swift | Java | 
 |     | 250 | Count Univalue Subtrees | Swift | Java | 
 |     | 249 | Group Shifted Strings | Swift | Java | 
