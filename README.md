@@ -11,12 +11,12 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-608 | Java-150 |
+| X | # | Question | Swift-609 | Java-150 |
 |---|---|---|---|---|
 |     | 2577 | Minimum Time to Visit a Cell In a Grid | Swift | Java | 
 |     | 2576 | Find the Maximum Number of Marked Indices | Swift | Java | 
 |  X  | 2575 | Find the Divisibility Array of a String | [~~Swift~~](././Swift/find-the-divisibility-array-of-a-string.swift) | Java | 
-|     | 2574 | Left and Right Sum Differences | Swift | Java | 
+|  X  | 2574 | Left and Right Sum Differences | [~~Swift~~](././Swift/left-and-right-sum-differences.swift) | Java | 
 |     | 2573 | Find the String with LCP | Swift | Java | 
 |     | 2572 | Count the Number of Square-Free Subsets | Swift | Java | 
 |     | 2571 | Minimum Operations to Reduce an Integer to 0 | Swift | Java | 
