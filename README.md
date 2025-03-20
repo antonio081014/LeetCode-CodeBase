@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-610 | Java-150 |
+| X | # | Question | Swift-611 | Java-150 |
 |---|---|---|---|---|
 |     | 3491 | Phone Number Prefix | Swift | Java | 
 |     | 3490 | Count Beautiful Numbers | Swift | Java | 
@@ -473,7 +473,7 @@ Update README file only:
 |     | 2968 | Apply Operations to Maximize Frequency Score | Swift | Java | 
 |     | 2967 | Minimum Cost to Make Array Equalindromic | Swift | Java | 
 |     | 2966 | Divide Array Into Arrays With Max Difference | Swift | Java | 
-|     | 2965 | Find Missing and Repeated Values | Swift | Java | 
+|  X  | 2965 | Find Missing and Repeated Values | [~~Swift~~](././Swift/find-missing-and-repeated-values.swift) | Java | 
 |     | 2964 | Number of Divisible Triplet Sums | Swift | Java | 
 |     | 2963 | Count the Number of Good Partitions | Swift | Java | 
 |     | 2962 | Count Subarrays Where Max Element Appears at Least K Times | Swift | Java | 
