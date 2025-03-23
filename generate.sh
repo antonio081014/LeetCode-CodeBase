@@ -1,9 +1,9 @@
 #!/bin/bash
 
-errorMessage="generate.sh swift "
+errorMessage="Please follow command style like > generate.sh swift two-sum"
 
 if [ $# -ne 2 ]; then
-    echo "Needs File Name as Argument."
+    echo $errorMessage
     exit 0
 fi
 
@@ -38,7 +38,7 @@ elif [ $1 = "java" ]; then
         exit 0
     fi
 else
-    echo ""
+    echo $errorMessage
     exit0
 fi
 
@@ -53,7 +53,7 @@ echo " * https://leetcode.com/problems/$2/" >> ./$folderName/$fileName
 echo " * " >> ./$folderName/$fileName
 echo " * " >> ./$folderName/$fileName
 echo " */ " >> ./$folderName/$fileName
-echo "// Date: $(date)" >> ./$folderName/$2fileName
+echo "// Date: $(date)" >> ./$folderName/$fileName
 echo "- Copy Source Code to $fileName tail."
 cat ./code$fileExtension >> ./$folderName/$fileName
 
