@@ -65,19 +65,19 @@ func importDataFromURL(_ url: String, with completionHandler: @escaping ([String
 }
 
 func printout(for problemList: [Problem]) {
-    print("| X | # | Question | Swift-\(countFiles(in: .Swift)) | Java-\(countFiles(in: .Java)) |")
-    print("|---|---|---|---|---|")
+    print("| X | # | Question | \(Language.Swift)-\(countFiles(in: .Swift)) | \(Language.Java)-\(countFiles(in: .Java)) | \(Language.Python)-\(countFiles(in: .Python)) |")
+    print("|---|---|---|---|---|---|")
     
     for problem in problemList {
-        let swift = ifFileExists(problem.qSlug, in: .Swift) ? "[~~Swift~~](\(absolutePath)\(filesPath(in: .Swift))\(problem.qSlug).swift)" : "Swift"
-        let java = ifFileExists(problem.qSlug, in: .Java) ? "[~~Java~~](\(absolutePath)\(filesPath(in: .Java))\(problem.qSlug).java)" : "Java"
-        let x = swift.count > 5 
-        //&& java.count > 4 
-        ? 
+        let swift = ifFileExists(problem.qSlug, in: .Swift) ? "[~~\(Language.Swift)~~](\(absolutePath)\(filesPath(in: .Swift))\(problem.qSlug).\(Language.Swift.extensionString))" : "\(Language.Swift)"
+        let java = ifFileExists(problem.qSlug, in: .Java) ? "[~~\(Language.Java)~~](\(absolutePath)\(filesPath(in: .Java))\(problem.qSlug).\(Language.Java.extensionString)" : "\(Language.Java)"
+        let python = ifFileExists(problem.qSlug, in: .Python) ? "[~~\(Language.Python)~~](\(absolutePath)\(filesPath(in: .Python))\(problem.qSlug).\(Language.Python.extensionString)" : "\(Language.Python)"
+        let x = swift.count > 5 && java.count > 4 && python.count > 6
+        ?
         " X " 
         : 
         "   "
-        print("| \(x) | \(problem.seq) | \(problem.qTitle) | \(swift) | \(java) | ")
+        print("| \(x) | \(problem.seq) | \(problem.qTitle) | \(swift) | \(java) | \(python) ")
     }
 }
 
@@ -127,18 +127,35 @@ func normalizeJSON(_ json: [String: Any]) {
 enum Language {
     case Swift
     case Java
+    case Python
+    
+    var extensionString: String {
+        switch self {
+        case .Swift:
+            return "swift"
+        case .Java:
+            return "java"
+        case .Python:
+            return "py"
+        }
+    }
+    
+    var description: String {
+        switch self {
+        case .Swift:
+            "Swift"
+        case .Java:
+            "Java"
+        case .Python:
+            "Python"
+        }
+    }
 }
 
 func countFiles(in lang: Language) -> Int {
-    let fileManager = FileManager.default
     do {
-        switch lang {
-        case .Swift:
-            return try fileManager.contentsOfDirectory(atPath: filesPath(in: .Swift)).count
-        case .Java:
-            return try fileManager.contentsOfDirectory(atPath: filesPath(in: .Java)).count
-        }
-        
+        let fileManager = FileManager.default
+        return try fileManager.contentsOfDirectory(atPath: filesPath(in: lang)).count
     } catch  {
         return 0
     }
@@ -150,6 +167,8 @@ func filesPath(in lang: Language) -> String {
         return "./Swift/"
     case .Java:
         return "./Java/"
+    case .Python:
+        return "./Python/"
     }
 }
 
@@ -157,12 +176,7 @@ func ifFileExists(_ name: String, in lang: Language) -> Bool {
     let fileManager = FileManager.default
     
     // Check if file exists, given its path
-    switch lang {
-    case .Swift:
-        return fileManager.fileExists(atPath: filesPath(in: .Swift) + name + ".swift")
-    case .Java:
-        return fileManager.fileExists(atPath: filesPath(in: .Java) + name + ".java")
-    }
+    return fileManager.fileExists(atPath: filesPath(in: lang) + name + "." + lang.extensionString)
 }
 
 // MARK: - Generate README.md
