@@ -70,8 +70,8 @@ func printout(for problemList: [Problem]) {
     
     for problem in problemList {
         let swift = ifFileExists(problem.qSlug, in: .Swift) ? "[~~\(Language.Swift)~~](\(absolutePath)\(filesPath(in: .Swift))\(problem.qSlug).\(Language.Swift.extensionString))" : "\(Language.Swift)"
-        let java = ifFileExists(problem.qSlug, in: .Java) ? "[~~\(Language.Java)~~](\(absolutePath)\(filesPath(in: .Java))\(problem.qSlug).\(Language.Java.extensionString)" : "\(Language.Java)"
-        let python = ifFileExists(problem.qSlug, in: .Python) ? "[~~\(Language.Python)~~](\(absolutePath)\(filesPath(in: .Python))\(problem.qSlug).\(Language.Python.extensionString)" : "\(Language.Python)"
+        let java = ifFileExists(problem.qSlug, in: .Java) ? "[~~\(Language.Java)~~](\(absolutePath)\(filesPath(in: .Java))\(problem.qSlug).\(Language.Java.extensionString))" : "\(Language.Java)"
+        let python = ifFileExists(problem.qSlug, in: .Python) ? "[~~\(Language.Python)~~](\(absolutePath)\(filesPath(in: .Python))\(problem.qSlug).\(Language.Python.extensionString))" : "\(Language.Python)"
         let x = swift.count > 5 && java.count > 4 && python.count > 6
         ?
         " X " 
@@ -184,7 +184,11 @@ print("# LeetCode-CodeBase\n")
 print("This repo presents all the solution I passed on LeetCode, should be used AS a Reference for study purpose.\n\n")
 print("Usage: ")
 print("1. Edit code in `code.swift` file")
-print("2. `> ./generate.sh problem_identifier`\n")
+print("2. `> ./generate.sh swift problem_identifier`\n")
+print("1. Edit code in `code.py` file")
+print("2. `> ./generate.sh python problem_identifier`\n")
+print("1. Edit code in `code.java` file")
+print("2. `> ./generate.sh java problem_identifier`\n")
 print("Update README file only: ")
 print("`> swift readme_gen.swift > README.md`\n\n")
 
