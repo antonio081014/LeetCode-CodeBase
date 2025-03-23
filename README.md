@@ -11,7 +11,7 @@ Update README file only:
 `> swift readme_gen.swift > README.md`
 
 
-| X | # | Question | Swift-611 | Java-150 | Python-0 |
+| X | # | Question | Swift-611 | Java-150 | Python-2 |
 |---|---|---|---|---|---|
 |     | 3495 | Minimum Operations to Make Array Elements Zero | Swift | Java | Python 
 |     | 3494 | Find the Minimum Amount of Time to Brew Potions | Swift | Java | Python 
@@ -3109,4 +3109,4 @@ Update README file only:
 |     | 4 | Median of Two Sorted Arrays | [~~Swift~~](././Swift/median-of-two-sorted-arrays.swift) | [~~Java~~](././Java/median-of-two-sorted-arrays.java | Python 
 |     | 3 | Longest Substring Without Repeating Characters | [~~Swift~~](././Swift/longest-substring-without-repeating-characters.swift) | Java | Python 
 |     | 2 | Add Two Numbers | [~~Swift~~](././Swift/add-two-numbers.swift) | [~~Java~~](././Java/add-two-numbers.java | Python 
-|     | 1 | Two Sum | [~~Swift~~](././Swift/two-sum.swift) | [~~Java~~](././Java/two-sum.java | Python 
+|  X  | 1 | Two Sum | [~~Swift~~](././Swift/two-sum.swift) | [~~Java~~](././Java/two-sum.java | [~~Python~~](././Python/two-sum.py 
