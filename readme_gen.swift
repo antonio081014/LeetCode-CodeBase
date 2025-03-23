@@ -36,6 +36,27 @@ extension Problem {
     }
 }
 
+enum GenError: Error {
+    case invalidURL
+    case networkError
+    case dataError
+}
+
+func importDataFromURL(_ url: String) async throws -> [String: Any] {
+    guard let mURL = URL(string: url) else {
+        print("Invalid URL: \(url)")
+        throw GenError.invalidURL
+    }
+    do {
+        let (data, response) = try await URLSession.shared.data(from: mURL)
+        guard let json = convert2JSON(from: data) else { throw GenError.dataError }
+        return json
+    } catch {
+        throw GenError.networkError
+    }
+}
+
+@available(*, deprecated, renamed: "importDataFromURL(url:)", message: "Please use importDataFromURL(url:) instead")
 func importDataFromURL(_ url: String, with completionHandler: @escaping ([String: Any]) -> ()) {
     guard let mURL = URL(string: url) else {
         print("Invalid URL: \(url)")
@@ -193,4 +214,5 @@ print("Update README file only: ")
 print("`> swift readme_gen.swift > README.md`\n\n")
 
 let url = "https://leetcode.com/api/problems/algorithms/"
-importDataFromURL(url, with: normalizeJSON)
+let json = try await importDataFromURL(url)
+normalizeJSON(json)
