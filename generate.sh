@@ -62,7 +62,7 @@ echo "" >  ./code$fileExtension
 
 echo "- Generate README.md"
 cd GenREADME
-swift run > README.md
+swift run > ../README.md
 cd ..
 
 ./push_with_msg.sh "Add $fileName"
