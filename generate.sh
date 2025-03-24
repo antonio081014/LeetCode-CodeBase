@@ -61,6 +61,8 @@ echo "- Clear code$fileExtension"
 echo "" >  ./code$fileExtension
 
 echo "- Generate README.md"
-swift readme_gen.swift > README.md
+cd GenREADME
+swift run > README.md
+cd ..
 
 ./push_with_msg.sh "Add $fileName"
