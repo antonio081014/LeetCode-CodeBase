@@ -5,12 +5,15 @@ This repo presents all the solution I passed on LeetCode, should be used AS a Re
 
 Usage: 
 1. Edit code in `code.swift` file
+
     2. `> ./generate.sh swift problem_identifier`
 
 1. Edit code in `code.py` file
+
     2. `> ./generate.sh python problem_identifier`
 
 1. Edit code in `code.java` file
+
     2. `> ./generate.sh java problem_identifier`
 
 Update README file only: 
