@@ -12,3 +12,19 @@ class Solution:
                 if nums[start] + nums[end] == target:
                     return [start, end]
         return []
+/**
+ * https://leetcode.com/problems/two-sum/
+ * 
+ * 
+ */ 
+// Date: Thu Mar 27 16:50:15 PDT 2025
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap = {}
+        for index in range(len(nums)):
+            left = target - nums[index]
+            if left in hashmap:
+                return [hashmap[left], index]
+            hashmap[nums[index]] = index
+        return []
+

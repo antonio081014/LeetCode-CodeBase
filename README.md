@@ -25,6 +25,7 @@ Update README file only:
 
 | X | # | Question | Swift-611 | Java-150 | Python-1 |
 |---|---|---|---|---|---|
+|     | 3496 | Maximize Score After Pair Deletions | Swift | Java | Python 
 |     | 3495 | Minimum Operations to Make Array Elements Zero | Swift | Java | Python 
 |     | 3494 | Find the Minimum Amount of Time to Brew Potions | Swift | Java | Python 
 |     | 3493 | Properties Graph | Swift | Java | Python 
