@@ -23,7 +23,7 @@ Update README file only:
     `> swift run > README.md`
 
 
-| X | # | Question | Swift-611 | Java-150 | Python-1 |
+| X | # | Question | Swift-611 | Java-150 | Python-2 |
 |---|---|---|---|---|---|
 |     | 3496 | Maximize Score After Pair Deletions | Swift | Java | Python 
 |     | 3495 | Minimum Operations to Make Array Elements Zero | Swift | Java | Python 
@@ -3114,7 +3114,7 @@ Update README file only:
 |     | 12 | Integer to Roman | [~~Swift~~](Swift/integer-to-roman.swift) | Java | Python 
 |     | 11 | Container With Most Water | [~~Swift~~](Swift/container-with-most-water.swift) | Java | Python 
 |     | 10 | Regular Expression Matching | Swift | Java | Python 
-|     | 9 | Palindrome Number | [~~Swift~~](Swift/palindrome-number.swift) | Java | Python 
+|     | 9 | Palindrome Number | [~~Swift~~](Swift/palindrome-number.swift) | Java | [~~Python~~](Python/palindrome-number.py) 
 |     | 8 | String to Integer (atoi) | [~~Swift~~](Swift/string-to-integer-atoi.swift) | Java | Python 
 |     | 7 | Reverse Integer | [~~Swift~~](Swift/reverse-integer.swift) | [~~Java~~](Java/reverse-integer.java) | Python 
 |     | 6 | Zigzag Conversion | [~~Swift~~](Swift/zigzag-conversion.swift) | Java | Python 
