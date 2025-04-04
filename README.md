@@ -23,8 +23,17 @@ Update README file only:
     `> swift run > README.md`
 
 
-| X | # | Question | Swift-611 | Java-150 | Python-2 |
+| X | # | Question | Swift-611 | Java-150 | Python-3 |
 |---|---|---|---|---|---|
+|     | 3506 | Find Time Required to Eliminate Bacterial Strains | Swift | Java | Python 
+|     | 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Swift | Java | Python 
+|     | 3504 | Longest Palindrome After Substring Concatenation II | Swift | Java | Python 
+|     | 3503 | Longest Palindrome After Substring Concatenation I | Swift | Java | Python 
+|     | 3502 | Minimum Cost to Reach Every Position | Swift | Java | Python 
+|     | 3501 | Maximize Active Section with Trade II | Swift | Java | Python 
+|     | 3500 | Minimum Cost to Divide Array Into Subarrays | Swift | Java | Python 
+|     | 3499 | Maximize Active Section with Trade I | Swift | Java | Python 
+|     | 3498 | Reverse Degree of a String | Swift | Java | Python 
 |     | 3496 | Maximize Score After Pair Deletions | Swift | Java | Python 
 |     | 3495 | Minimum Operations to Make Array Elements Zero | Swift | Java | Python 
 |     | 3494 | Find the Minimum Amount of Time to Brew Potions | Swift | Java | Python 
@@ -3110,7 +3119,7 @@ Update README file only:
 |     | 16 | 3Sum Closest | [~~Swift~~](Swift/3sum-closest.swift) | Java | Python 
 |     | 15 | 3Sum | [~~Swift~~](Swift/3sum.swift) | [~~Java~~](Java/3sum.java) | Python 
 |     | 14 | Longest Common Prefix | [~~Swift~~](Swift/longest-common-prefix.swift) | [~~Java~~](Java/longest-common-prefix.java) | Python 
-|     | 13 | Roman to Integer | [~~Swift~~](Swift/roman-to-integer.swift) | [~~Java~~](Java/roman-to-integer.java) | Python 
+|  X  | 13 | Roman to Integer | [~~Swift~~](Swift/roman-to-integer.swift) | [~~Java~~](Java/roman-to-integer.java) | [~~Python~~](Python/roman-to-integer.py) 
 |     | 12 | Integer to Roman | [~~Swift~~](Swift/integer-to-roman.swift) | Java | Python 
 |     | 11 | Container With Most Water | [~~Swift~~](Swift/container-with-most-water.swift) | Java | Python 
 |     | 10 | Regular Expression Matching | Swift | Java | Python 
