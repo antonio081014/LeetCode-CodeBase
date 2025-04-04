@@ -49,3 +49,28 @@ class Solution:
                 sum += 1
                 last = 1
         return sum
+/**
+ * https://leetcode.com/problems/roman-to-integer/
+ * 
+ * 
+ */ 
+// Date: Thu Apr  3 20:55:15 PDT 2025
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        roman_to_dec = {
+            "I": 1,
+            "V": 5,
+            "X": 10,
+            "L": 50,
+            "C": 100,
+            "D": 500,
+            "M": 1000
+        }
+        sum = 0
+        length = len(s)
+        for index in range(length):
+            if index + 1 < length and roman_to_dec[s[index]] < roman_to_dec[s[index + 1]]:
+                sum -= roman_to_dec[s[index]]
+            else:
+                sum += roman_to_dec[s[index]]
+        return sum
